@@ -1,6 +1,29 @@
-# (acho que vai mudar, não temos dados)
+# (acho que vai mudar, não temos dados oficiais sobre abordagem)
 
-> **Legenda:** `[...]` marca o que ainda precisa de alteração, verificação ou decisão.
+O que temos de dados relacionados:
+
+1. Mortes decorrentes de intervenções policiais, por raça/cor (em %) — Brasil 2025
+
+Esta é sua âncora empírica principal. Ela te dá a proporção de vítimas negras vs. brancas no elo final. Com a proporção populacional (PNAD/IBGE), você calcula a razão de risco.
+
+O que escrever:
+
+    "Os dados de letalidade policial mostram disparidade racial de [X] vezes. Essa disparidade no resultado é compatível com a hipótese de que o seletor σ opera também no nó de abordagem, mas não a isola. A demonstração em Prolog mostra que o protocolo P, sozinho, não impede σ — o que é condição necessária para explicar o padrão observado."
+
+2. Taxa de mortes decorrentes de intervenções policiais por UF (2025)
+
+Esta te dá variação entre estados. Se a disparidade racial varia entre UFs que compartilham o mesmo art. 244 CPP, isso é evidência de que σ (o seletor) varia localmente — o que é exatamente o que sua Proposição prevê (σ depende de interpretações admissíveis, que variam por contexto).
+
+O que escrever:
+
+    "O art. 244 do CPP é único para todo o Brasil, mas a taxa de letalidade policial varia [Y] vezes entre UFs. Isso é consistente com a hipótese de que o seletor σ, embora conforme ao protocolo, é localmente determinado."
+
+3. Adolescentes vítimas de MDIP (em %) — Brasil 2025
+
+Reforço etário. Jovens negros concentram a letalidade. Útil para mostrar que o padrão não é aleatório, mas estruturado por idade + raça.
+
+
+
 
 ---
 
@@ -9,6 +32,8 @@
 **Título provisório:** Sistemas especialistas e protocolos de abordagem policial: preservação de viés externo sob regras explícitas
 
 **Tese:** Um sistema especialista baseado em regras pode preservar vieses externos mesmo quando suas regras são explicitamente definidas e seguem um protocolo formal.
+
+> **Legenda:** `[...]` marca o que ainda precisa de alteração, verificação ou decisão.
 
 > `[...]` **"Preservar" é uma alegação causal.** Ela só se sustenta se **E0** (correlação zero, disparidade nula) e **E1** (disparidade cresce com a correlação) forem executados. Sem eles, trocar por **"não impede"** ou **"é compatível com"**.
 
