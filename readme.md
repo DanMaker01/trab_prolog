@@ -1,6 +1,6 @@
 # (acho que vai mudar, não temos dados oficiais sobre abordagem)
 
-O que temos de dados relacionados:
+O que temos de dados relacionados: (dados na pasta "ref")
 
 1. Mortes decorrentes de intervenções policiais, por raça/cor (em %) — Brasil 2025
 
