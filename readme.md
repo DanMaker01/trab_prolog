@@ -2,6 +2,6 @@
 
 https://dadosabertos.web.stj.jus.br/dataset/espelhos-de-acordaos-quinta-turma
 
-# Verificar processo:
+# Verificar processos:
 
 https://www.stj.jus.br/
