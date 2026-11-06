@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1079749",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "SE",
+   "relator": "Messod Azulay Neto",
+   "reu": "Ivan Nunes Guimaraes",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "duas balancas de precisao",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "quantidade de droga + duas balancas de precisao (dedicacao a atividade criminosa)",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC substitutivo de recurso proprio; agravo repete razoes da inicial",
+   "obs": "HC indeferido liminarmente pela Presidencia; STJ entendeu que quantidade associada a petrechos e fundamento idoneo para afastar o par. 4o, sem concessao de oficio."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1079749",
+   "reu": "Ivan Nunes Guimaraes",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Negativa do privilegio fundada em quantidade de droga e duas balancas de precisao, indicando dedicacao criminosa; rever exigiria reexame de provas."
+  }
+ ]
+}

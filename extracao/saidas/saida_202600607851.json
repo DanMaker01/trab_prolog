@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "RHC 232655",
+   "via": "RHC",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Messod Azulay Neto",
+   "reu": "Larissa Milena Santos",
+   "sexo": "F",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "III (estabelecimento prisional)",
+   "origem_abordagem": "revista prisional",
+   "local_conhecido": "",
+   "comportamento_reu": "tentou ingressar em visita familiar com droga oculta no orgao genital",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "visita familiar ao companheiro preso;ausencia de esclarecimento sobre destinatario da droga",
+   "parecer_mpf": "",
+   "sent_pena_m": 66.7,
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "semiaberto",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "teses de extemporaneidade e excesso de prazo nao submetidas ao TJ (supressao de instancia); agravo sem argumentos novos",
+   "obs": "RHC nao discute a condenacao, mas a cautelar de proibicao de visitas em qualquer unidade prisional, mantida na sentenca apesar da retirada da tornozeleira. STJ reputou a medida proporcional pelo modus operandi."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "RHC 232655",
+   "reu": "Larissa Milena Santos",
+   "tese": "outro:proibicao_visitas_cautelar",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Medida necessaria e proporcional diante do modus operandi (droga oculta no orgao genital durante visita prisional)."
+  },
+  {
+   "processo": "RHC 232655",
+   "reu": "Larissa Milena Santos",
+   "tese": "outro:extemporaneidade_excesso_prazo",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Teses nao apreciadas pelo TJ; exame direto configuraria supressao de instancia."
+  }
+ ]
+}

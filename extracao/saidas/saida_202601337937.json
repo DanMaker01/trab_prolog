@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3225561",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "SC",
+   "relator": "Ribeiro Dantas",
+   "reu": "Lucas Alves de Andrade",
+   "sexo": "M",
+   "drogas": "crack",
+   "qtd_g": 0.1,
+   "porcoes": "",
+   "petrechos_dinheiro": "balancas de precisao com residuos;aparelhos telefonicos;papel aluminio;foto com dinheiro",
+   "majorante_art40": "nao",
+   "origem_abordagem": "monitoramento",
+   "local_conhecido": "",
+   "comportamento_reu": "movimentacao de pessoas junto a janela da residencia",
+   "tipo_busca": "domiciliar",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "ja era conhecido da policia pela pratica de trafico;fotografia com simbolo da faccao Primeiro Grupo Catarinense;usuario de drogas",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": 26.67,
+   "stj_pena_m": 26.67,
+   "sent_regime": "",
+   "tj_regime": "aberto",
+   "stj_regime": "aberto",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Condenacao por trafico mantida com 0,1 g de crack, com base em denuncias anonimas, campanas e mandado de busca. Pena de 2a2m20d em regime aberto substituida por restritivas; Sum. 7 afastou a tese de revaloracao."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3225561",
+   "reu": "Lucas Alves de Andrade",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Reavaliar o peso das provas (depoimentos, petrechos, movimentacao) exige reexame vedado pela Sum. 7."
+  },
+  {
+   "processo": "AREsp 3225561",
+   "reu": "Lucas Alves de Andrade",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Insuficiencia probatoria demanda revolvimento fatico-probatorio, nao mera revaloracao juridica."
+  },
+  {
+   "processo": "AREsp 3225561",
+   "reu": "Lucas Alves de Andrade",
+   "tese": "outro:violacao_art42_lei_drogas",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "A quantidade foi apreciada junto as demais circunstancias, sem responsabilidade penal objetiva."
+  }
+ ]
+}

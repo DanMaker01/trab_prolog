@@ -1,0 +1,116 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1066237",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "SC",
+   "relator": "Maria Marluce Caldas",
+   "reu": "Deivid Lucas Rabello de Oliveira",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": 65.54,
+   "porcoes": "72 involucros",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "III",
+   "origem_abordagem": "outro (scanner corporal)",
+   "local_conhecido": "",
+   "comportamento_reu": "volume anormal na regiao genital no scanner corporal; dispensa do involucro registrada por camera",
+   "tipo_busca": "pessoal",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 81.67,
+   "tj_pena_m": 81.67,
+   "stj_pena_m": 81.67,
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "tese do trafico privilegiado nao apreciada no acordao do TJ",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC impetrado apos transito em vez de revisao criminal; agravo sem impugnacao especifica do fundamento (dialeticidade); teses nao levadas ao TJ (supressao de instancia)",
+   "obs": "Divergencia documental de quantidade (6,6 g vs 65,54 g em 72 involucros) e cadeia de custodia alegadas, mas STJ nao conheceu por HC substitutivo de revisao criminal. Majorante do art. 40, III tratada como objetiva (basta localizacao geografica)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1066237",
+   "reu": "Deivid Lucas Rabello de Oliveira",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "HC impetrado apos transito em julgado (14/01/2026) tem feicao de revisao criminal, que deve ser proposta no TJ de origem."
+  },
+  {
+   "processo": "HC 1066237",
+   "reu": "Deivid Lucas Rabello de Oliveira",
+   "tese": "outro:cadeia_custodia_laudo_quantidade",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "TJ afastou nulidade sem prova de adulteracao ou prejuizo (art. 563 CPP); rever exigiria revolvimento fatico-probatorio."
+  },
+  {
+   "processo": "HC 1066237",
+   "reu": "Deivid Lucas Rabello de Oliveira",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Instancias ordinarias consideraram acervo consistente (scanner, cameras, laudo, depoimentos); sem ilegalidade flagrante."
+  },
+  {
+   "processo": "HC 1066237",
+   "reu": "Deivid Lucas Rabello de Oliveira",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido (Tema 506/STF) nao apreciado pelo TJ; supressao de instancia."
+  },
+  {
+   "processo": "HC 1066237",
+   "reu": "Deivid Lucas Rabello de Oliveira",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Trafico privilegiado nao apreciado no acordao impugnado; supressao de instancia."
+  },
+  {
+   "processo": "HC 1066237",
+   "reu": "Deivid Lucas Rabello de Oliveira",
+   "tese": "outro:afastamento_majorante_art40_III",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Majorante do art. 40, III e objetiva, bastando a localizacao do delito; afasta-la exigiria reexame de fatos."
+  },
+  {
+   "processo": "HC 1066237",
+   "reu": "Deivid Lucas Rabello de Oliveira",
+   "tese": "outro:dialeticidade_agravo_regimental",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Agravo apenas reiterou nulidades sem atacar o fundamento do nao conhecimento do HC pos-transito."
+  }
+ ]
+}

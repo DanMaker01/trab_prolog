@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3150460",
+   "via": "AREsp (revisao criminal)",
+   "data_fato": "",
+   "uf": "PR",
+   "relator": "Joel Ilan Paciornik",
+   "reu": "Jefferson Chagas",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "V (interestadual)",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "1/6",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "quantidade da droga (alegado bis in idem com a pena-base)",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "nao indicou violacao ao art. 621 do CPP (Sum. 284/STF)",
+   "obs": "REsp contra acordao que julgou improcedente revisao criminal indicou apenas art. 59 CP e arts. 33 par. 4, 40 e 42 da Lei 11.343; nao conhecido por Sum. 284/STF. Alegado bis in idem no uso da quantidade de droga na pena-base e na fracao minima do par. 4 nao foi examinado."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3150460",
+   "reu": "Jefferson Chagas",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ausencia de indicacao de violacao ao art. 621 do CPP em REsp contra acordao de revisao criminal atrai a Sumula 284/STF."
+  },
+  {
+   "processo": "AREsp 3150460",
+   "reu": "Jefferson Chagas",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ausencia de indicacao de violacao ao art. 621 do CPP em REsp contra acordao de revisao criminal atrai a Sumula 284/STF."
+  },
+  {
+   "processo": "AREsp 3150460",
+   "reu": "Jefferson Chagas",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ausencia de indicacao de violacao ao art. 621 do CPP em REsp contra acordao de revisao criminal atrai a Sumula 284/STF."
+  },
+  {
+   "processo": "AREsp 3150460",
+   "reu": "Jefferson Chagas",
+   "tese": "outro:fracao_majorante_interestadual",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ausencia de indicacao de violacao ao art. 621 do CPP em REsp contra acordao de revisao criminal atrai a Sumula 284/STF."
+  }
+ ]
+}

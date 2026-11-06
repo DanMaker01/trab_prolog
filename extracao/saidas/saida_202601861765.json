@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1096961",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Ribeiro Dantas",
+   "reu": "HIGOR CESAR DIAS DE OLIVEIRA",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "denuncia anonima",
+   "local_conhecido": "",
+   "comportamento_reu": "localizado em frente a propria casa, tentou ingressar no imovel ao notar a viatura, nervosismo",
+   "tipo_busca": "pessoal",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "HC para trancar inquerito policial (fase pre-processual); denuncia anonima detalhada (prenome, veiculo Corsa com placa, caracteristicas fisicas e endereco). Gravacoes de cameras que contradiriam os policiais remetidas ao juizo de 1o grau."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1096961",
+   "reu": "HIGOR CESAR DIAS DE OLIVEIRA",
+   "tese": "nulidade_busca_pessoal",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Denuncia especifica e tentativa de ingresso na residencia ao ver a viatura indicam, em principio, fundada suspeita; reexame de provas (gravacoes) incabivel em HC para trancar inquerito."
+  }
+ ]
+}

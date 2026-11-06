@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1092922",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Joel Ilan Paciornik",
+   "reu": "Cristhofer Kaue Urias",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": 92270,
+   "porcoes": "",
+   "petrechos_dinheiro": "2 facas; 1 tesoura; 2 balancas de precisao; 1 rolo de papel filme; 3 celulares",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "domiciliar",
+   "consentimento": "",
+   "primario": "sim",
+   "antecedentes": "bons",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": 60,
+   "stj_pena_m": 60,
+   "sent_regime": "",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "grande quantidade de droga (92,270 kg de maconha) e petrechos (balancas, facas, papel filme, celulares)",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "reiteracao de pedidos (mesma causa de pedir do HC 966.617/SP e do AREsp 2.483.649/SP)",
+   "obs": "HC nao conhecido por reiteracao, ainda que contra acordao diverso (revisao criminal); quantidade de droga usada na pena-base, no afastamento do §4º e no regime fechado sem bis in idem segundo o STJ."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1092922",
+   "reu": "Cristhofer Kaue Urias",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Reiteracao de pedido ja apreciado no HC 966.617/SP."
+  },
+  {
+   "processo": "HC 1092922",
+   "reu": "Cristhofer Kaue Urias",
+   "tese": "outro:bis_in_idem_quantidade_droga",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Reiteracao de pedido; no HC anterior entendeu-se nao haver bis in idem."
+  },
+  {
+   "processo": "HC 1092922",
+   "reu": "Cristhofer Kaue Urias",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Reiteracao de pedido de regime semiaberto ja apreciado."
+  }
+ ]
+}

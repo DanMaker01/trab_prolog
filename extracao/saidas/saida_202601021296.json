@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "RHC 234443",
+   "via": "RHC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "DF",
+   "relator": "Joel Ilan Paciornik",
+   "reu": "Gabriel da Cruz Batista Ribeiro",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC na origem como substitutivo de revisao criminal, impetrado ~6 anos apos o transito",
+   "obs": "Tese de contradicao da sentenca (reconheceu ausencia de venda/pagamento e mesmo assim condenou por trafico) nao foi apreciada pelo TJDFT; STJ aplicou supressao de instancia e negou negativa de prestacao jurisdicional."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "RHC 234443",
+   "reu": "Gabriel da Cruz Batista Ribeiro",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Supressao de instancia: TJ nao examinou a tese por ser HC substitutivo de revisao criminal apos o transito em julgado."
+  },
+  {
+   "processo": "RHC 234443",
+   "reu": "Gabriel da Cruz Batista Ribeiro",
+   "tese": "outro:negativa_prestacao_jurisdicional",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "O TJ motivou o nao conhecimento (uso do HC apos esgotamento recursal e necessidade de reexame fatico), sem violacao ao art. 93, IX, CF."
+  }
+ ]
+}

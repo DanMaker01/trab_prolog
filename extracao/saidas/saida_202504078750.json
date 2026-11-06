@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3079080",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "PR",
+   "relator": "Messod Azulay Neto",
+   "reu": "Davi Cristiano Chung",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": 80600,
+   "porcoes": "",
+   "petrechos_dinheiro": "celular (mensagens sobre negociacao de armas de fogo)",
+   "majorante_art40": "nao",
+   "origem_abordagem": "outro (atendimento de acidente de transito)",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "interesse na aquisicao clandestina de armas de fogo; relacao de confianca com fornecedores; carga de valor aproximado de R$ 2.000.000,00",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 60,
+   "tj_pena_m": 60,
+   "stj_pena_m": 60,
+   "sent_regime": "semiaberto",
+   "tj_regime": "semiaberto",
+   "stj_regime": "semiaberto",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "dedicacao a atividades criminosas: grande quantidade/natureza e valor da droga (skank, ~R$ 2 mi) e mensagens sobre negociacao de armas",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "nao impugnou especificamente os fundamentos da inadmissao (Sum. 182)",
+   "obs": "Defesa alegou ser 'mula', primario e sem antecedentes; STJ manteve nao conhecimento do AREsp por Sum. 182 e, subsidiariamente, Sum. 7 e 83."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3079080",
+   "reu": "Davi Cristiano Chung",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Agravo nao impugnou especificamente os obices; subsidiariamente, revisar dedicacao criminosa exigiria reexame de provas (Sum. 7) e acordao alinhado a jurisprudencia (Sum. 83)."
+  },
+  {
+   "processo": "AREsp 3079080",
+   "reu": "Davi Cristiano Chung",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido consequencial ao p4, prejudicado pelo nao conhecimento do agravo."
+  },
+  {
+   "processo": "AREsp 3079080",
+   "reu": "Davi Cristiano Chung",
+   "tese": "substituicao_prd",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido consequencial ao p4, prejudicado pelo nao conhecimento do agravo."
+  }
+ ]
+}

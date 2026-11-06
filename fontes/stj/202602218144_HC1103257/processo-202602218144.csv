@@ -1,0 +1,151 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202602218144"
+"Numero Unico";"02218142220263000000"
+"Classe";"HC"
+"Numero Classe";"1103257"
+"Tipo Processo";"Originário"
+"Status";"Processo arquivado"
+"UF";"SP"
+"Origem";"TJSPRGL"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA"
+"Ministro Relator";"REYNALDO SOARES DA FONSECA"
+"Orgao Julgador";"QUINTA TURMA"
+"Segredo Justica";"Nao"
+"Pedido Liminar";"Sim"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Arquivado Definitivamente"
+"Data Ultima Fase";"24/09/2026 13:13:15"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"IMPETRANTE";"RAFAEL VALENTIN CORREIA";"";"DEFENSORIA PÚBLICA DA UNIÃO"
+"IMPETRADO";"TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO";"";""
+"PACIENTE";"RAFAEL VALENTIN CORREIA";"";""
+"INTERESSADO";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"01209.11703.10891.";"Habeas Corpus - Cabimento";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"03/06/2026"
+"Data Protocolo";"03/06/2026"
+"Data Classificacao";"16/06/2026"
+"Data Arquivamento";"24/09/2026"
+"Data Distribuicao 1";"16/06/2026"
+"Data Distribuicao 2";"03/06/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"00166462520248260041";"Nao";"0";"0"
+"15108242720208260071";"Nao";"0";"0"
+"166462520248260041";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"automática"
+"Motivo";"encaminhamento da ARP"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"246";"Arquivado Definitivamente";"24/09/2026"
+"848";"Transitado em Julgado em 24/09/2026";"24/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Acórdãos em 24/08/2026";"24/08/2026"
+"300104";"DEFENSORIA PÚBLICA DA UNIÃO intimado eletronicamente da(o) Acórdãos em 24/08/2026";"24/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 828827/2026";"17/08/2026"
+"118";"Protocolizada Petição 828827/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 828028/2026";"17/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 827967/2026";"17/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 827928/2026";"17/08/2026"
+"118";"Protocolizada Petição 828028/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"118";"Protocolizada Petição 827967/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 827890/2026";"17/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 827870/2026";"17/08/2026"
+"118";"Protocolizada Petição 827928/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 827757/2026";"17/08/2026"
+"118";"Protocolizada Petição 827890/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"118";"Protocolizada Petição 827870/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"118";"Protocolizada Petição 827757/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) DEFENSORIA PÚBLICA DA UNIÃO";"14/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"14/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"14/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 14/08/2026 Petição Nº 645906/2026 - AgRg";"14/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"13/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0645906 - AgRg no HC 1103257 - Publicação prevista para 14/08/2026";"07/08/2026"
+"132";"Recebidos os autos no(a) QUINTA TURMA ";"05/08/2026"
+"239";"Conhecido o recurso de RAFAEL VALENTIN CORREIA e não-provido,por unanimidade, pela QUINTA TURMA Petição Nº 645906/2026 - AgRg no HC 1103257";"04/08/2026"
+"3001";"Proclamação Final de Julgamento: ""A Turma, por unanimidade, negou provimento ao agravo regimental.""
+ Petição Nº 645906/2026 - AgRg no HC 1103257";"04/08/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 02/07/2026";"02/07/2026"
+"300104";"DEFENSORIA PÚBLICA DA UNIÃO intimado eletronicamente da(o) Decisões e Vistas em 02/07/2026";"02/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 02/07/2026";"02/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 29/06/2026";"29/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 29/06/2026";"29/06/2026"
+"300104";"DEFENSORIA PÚBLICA DA UNIÃO intimado eletronicamente da(o) Decisões e Vistas em 29/06/2026";"29/06/2026"
+"3002";"Inclusão em mesa para julgamento - QUINTA TURMA - sessão do dia 04/08/2026 14:00:00 - Petição N° 202600645906 - AgRg no HC 1103257/SP";"26/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) REYNALDO SOARES DA FONSECA (Relator)";"23/06/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 645906/2026";"23/06/2026"
+"118";"Protocolizada Petição 645906/2026 (AgRg - AGRAVO REGIMENTAL) em 23/06/2026";"23/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 637943/2026";"22/06/2026"
+"118";"Protocolizada Petição 637943/2026 (PET - PETIÇÃO) em 22/06/2026";"22/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DA UNIÃO";"22/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"22/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"22/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 22/06/2026 ";"22/06/2026"
+"300104";"DEFENSORIA PÚBLICA DA UNIÃO intimado eletronicamente da(o) Decisões e Vistas em 19/06/2026";"19/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 19/06/2026";"19/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 19/06/2026";"19/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"19/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 22/06/2026";"18/06/2026"
+"12458";"Não conhecido o Habeas Corpus de RAFAEL VALENTIN CORREIA";"18/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DA UNIÃO";"17/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"17/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"17/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 17/06/2026 ";"17/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) REYNALDO SOARES DA FONSECA (Relator) - pela SJD";"16/06/2026"
+"36";"Redistribuído por sorteio, em razão de encaminhamento à ARP, ao Ministro REYNALDO SOARES DA FONSECA - QUINTA TURMA";"16/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"16/06/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSOS ORIGINÁRIOS";"15/06/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE PROCESSOS ORIGINÁRIOS";"15/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 17/06/2026";"15/06/2026"
+"12474";"Determinada a distribuição do feito";"15/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) com encaminhamento à ARP";"13/06/2026"
+"85";"Juntada de Petição de PETIÇÃO nº 603193/2026";"13/06/2026"
+"118";"Protocolizada Petição 603193/2026 (PET - PETIÇÃO) em 13/06/2026";"13/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DA UNIÃO";"09/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"09/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"09/06/2026"
+"92";"Publicado Vista à Defensoria Publica da União (paciente preso sem defesa técnica). em 09/06/2026 ";"09/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"08/06/2026"
+"11383";"Ato ordinatório praticado (Vista à Defensoria Publica da União (paciente preso sem defesa técnica).. Publicação prevista para 09/06/2026)";"03/06/2026"
+"982";"Remetidos os Autos (outros motivos) da Distribuição ao(à) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL ";"03/06/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"03/06/2026"
+"581";"Juntada de Certidão : 
+Com fundamento no inciso IV do artigo 1º da Resolução STJ/GP n. 15 de 26 de junho de 2020, intime-se a Defensoria Pública da União para manifestar-se, no prazo de 10 dias, sobre a correspondência de cidadão preso sem defesa técnica, nos termos de sua competência prevista no item 4.2 do Acordo de Cooperação Técnica STJ/DPU nº 3/2025.";"03/06/2026"
+"118";"Protocolizada Petição (originária) em 03/06/2026";"03/06/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600828827";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600828028";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600827967";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600827928";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600827890";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600827870";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600827757";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600645906";"AGRAVO REGIMENTAL";"AgRg";"23/06/2026";"RAFAEL VALENTIN CORREIA"
+"202600637943";"CIÊNCIA PELO MPF";"CieMPF";"22/06/2026";""
+"202600603193";"PETIÇÃO";"PET";"13/06/2026";"RAFAEL VALENTIN CORREIA"
+"";"";"";"";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"HC";"2026,8,14";"";"202600645906";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

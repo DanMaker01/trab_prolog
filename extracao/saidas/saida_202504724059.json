@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "REsp 2247116",
+   "via": "REsp",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Maria Marluce Caldas",
+   "reu": "DAVID DE SOUZA BARBOSA",
+   "sexo": "M",
+   "drogas": "maconha+haxixe",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "outro (informacoes preteritas de trafico no endereco + odor de maconha sentido por policial vizinho)",
+   "local_conhecido": "",
+   "comportamento_reu": "admitiu possuir certa quantidade de haxixe no imovel",
+   "tipo_busca": "domiciliar",
+   "consentimento": "o proprio reu (morador) autorizou; defesa alega agressao policial",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 50,
+   "tj_pena_m": 50,
+   "stj_pena_m": 50,
+   "sent_regime": "semiaberto",
+   "tj_regime": "semiaberto",
+   "stj_regime": "semiaberto",
+   "sent_p4": "1/6",
+   "tj_p4": "1/6",
+   "stj_p4": "1/6",
+   "tj_fund_neg_p4": "expressiva quantidade de entorpecentes (segundo parecer do MPF)",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "nao impugnou no AgRg o fundamento sobre a fracao do p4 (Sum. 182)",
+   "obs": "Ingresso domiciliar validado por odor de maconha 'in natura' percebido da casa vizinha de um policial, informacoes preteritas e autorizacao do morador; alegacao de autorizacao viciada por agressao policial (foto da custodia e relatorio medico) barrada pela Sum. 7."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "REsp 2247116",
+   "reu": "DAVID DE SOUZA BARBOSA",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Informacoes preteritas, odor de maconha vindo da residencia, admissao de posse e autorizacao do morador configuram fundadas razoes; rever exige reexame probatorio (Sum. 7 e 83)."
+  },
+  {
+   "processo": "REsp 2247116",
+   "reu": "DAVID DE SOUZA BARBOSA",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido de fracao maior do redutor nao foi impugnado no agravo regimental."
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601790446"
+"Numero Unico";"01790441420263000000"
+"Classe";"HC"
+"Numero Classe";"1095585"
+"Tipo Processo";"Originário"
+"Status";"Processo arquivado"
+"UF";"SP"
+"Origem";"TJSPRGL"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA"
+"Ministro Relator";"REYNALDO SOARES DA FONSECA"
+"Orgao Julgador";"QUINTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Arquivado Definitivamente"
+"Data Ultima Fase";"09/09/2026 20:23:09"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"IMPETRANTE";"DEMETRIO FIRMINO ALIOTTI SANTOS";"";"DEMÉTRIO FIRMINO ALIOTTI SANTOS"
+"IMPETRADO";"TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO";"";""
+"PACIENTE";"JOAO PEDRO DA SILVA PEREIRA";"";""
+"CORRÉU";"HIGOR MAGAGNATO";"";""
+"CORRÉU";"JHEFFERSON ASBAHR DA SILVA";"";""
+"INTERESSADO";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"09/05/2026"
+"Data Protocolo";"07/05/2026"
+"Data Classificacao";"11/05/2026"
+"Data Arquivamento";"09/09/2026"
+"Data Distribuicao 1";"11/05/2026"
+"Data Distribuicao 2";"11/05/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"15018815120248260533";"Nao";"0";"7"
+"21347742024";"Nao";"0";"2"
+"23897928120258260000";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"prevenção de processo"
+"Motivo";"encaminhamento da ARP"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"246";"Arquivado Definitivamente";"09/09/2026"
+"848";"Transitado em Julgado em 09/09/2026";"09/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Acórdãos em 03/09/2026";"03/09/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 864434/2026";"24/08/2026"
+"118";"Protocolizada Petição 864434/2026 (CieMPF - CIÊNCIA PELO MPF) em 24/08/2026";"24/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"24/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"24/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 24/08/2026 Petição Nº 604485/2026 - AgRg";"24/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"21/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0604485 - AgRg no HC 1095585 - Publicação prevista para 24/08/2026";"20/08/2026"
+"239";"Conhecido o recurso de JOAO PEDRO DA SILVA PEREIRA e não-provido , por unanimidade, pela QUINTA TURMA    - Petição N° 00604485/2026 - AgRg no HC 1095585/SP";"19/08/2026"
+"3001";"Proclamação Final de Julgamento: A QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/08/2026 a 19/08/2026, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. - Petição Nº 00604485/2026 - AgRg no HC 1095585/SP/SP";"19/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Pauta de Julgamentos em 02/07/2026";"02/07/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 02/07/2026";"02/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 25/06/2026";"25/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"22/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"22/06/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 22/06/2026 ";"22/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"19/06/2026"
+"417";"Incluído em pauta para 13/08/2026 00:00:00 pela QUINTA TURMA (Sessão Virtual) - Petição Nº 00604485/2026 - AgRg no HC 1095585/SP";"18/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 619640/2026";"17/06/2026"
+"118";"Protocolizada Petição 619640/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/06/2026";"17/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) REYNALDO SOARES DA FONSECA (Relator)";"15/06/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 604485/2026";"15/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 15/06/2026 ";"15/06/2026"
+"581";"Juntada de Certidão : Certifico que, em cumprimento à decisão de e-STJ fls. 118 - 125, a Coordenadoria de Processamento de Feitos de Direito Penal procedeu ao traslado, para estes autos, cópia da decisão monocrática e acórdão proferidos no HC n. 1.007.599/SP.";"15/06/2026"
+"118";"Protocolizada Petição 604485/2026 (AgRg - AGRAVO REGIMENTAL) em 15/06/2026";"15/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"15/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"15/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"12/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 15/06/2026";"11/06/2026"
+"12458";"Não conhecido o Habeas Corpus de JOAO PEDRO DA SILVA PEREIRA (PRESO)";"11/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) REYNALDO SOARES DA FONSECA (Relator)";"10/06/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 590675/2026";"10/06/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"10/06/2026"
+"118";"Protocolizada Petição 590675/2026 (ParMPF - PARECER DO MPF) em 10/06/2026";"10/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 25/05/2026";"25/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 25/05/2026";"25/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"14/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"14/05/2026"
+"92";"Publicado DESPACHO / DECISÃO em 14/05/2026 ";"14/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"13/05/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"12/05/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"12/05/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 14/05/2026";"12/05/2026"
+"792";"Não concedida a medida liminar de JOAO PEDRO DA SILVA PEREIRA (PRESO) e determinada vista ao Ministério Público Federal";"12/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) REYNALDO SOARES DA FONSECA (Relator) - pela SJD.";"11/05/2026"
+"36";"Redistribuído por dependência, em razão de encaminhamento à ARP, ao Ministro REYNALDO SOARES DA FONSECA - QUINTA TURMA. Processo prevento: HC 931485 (2024/0271994-4)";"11/05/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"11/05/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS ";"11/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) - pela SJD";"11/05/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"11/05/2026"
+"118";"Protocolizada Petição (originária) em 07/05/2026";"07/05/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600864434";"CIÊNCIA PELO MPF";"CieMPF";"24/08/2026";"MPF"
+"202600619640";"CIÊNCIA PELO MPF";"CieMPF";"17/06/2026";"MPF"
+"202600604485";"AGRAVO REGIMENTAL";"AgRg";"15/06/2026";"JOAO PEDRO DA SILVA PEREIRA"
+"202600590675";"PARECER DO MPF";"ParMPF";"10/06/2026";"MPF"
+"";"";"";"";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"HC";"2026,8,24";"";"202600604485";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"19/08/2026";"00:00";"QUINTA TURMA";"PAUTA DE JULGAMENTOS";"22/06/2026"

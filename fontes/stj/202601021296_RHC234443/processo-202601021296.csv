@@ -1,0 +1,129 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601021296"
+"Numero Unico";"07050360520268070000"
+"Classe";"RHC"
+"Numero Classe";"234443"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"DF"
+"Origem";"TJDFT"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS"
+"Ministro Relator";"JOEL ILAN PACIORNIK"
+"Orgao Julgador";"QUINTA TURMA"
+"Segredo Justica";"Nao"
+"Pedido Liminar";"Sim"
+"Acao Coletiva";"Nao"
+"Valor Causa";"0"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS"
+"Data Ultima Fase";"26/06/2026 17:33:08"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"RECORRENTE";"GABRIEL DA CRUZ BATISTA RIBEIRO";"";"HUGO CELSO LINHARES CONDE JUNIOR"
+"RECORRIDO";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"00287.03603.03607.05897.";"Associação para a Produção e Tráfico e Condutas Afins";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"19/03/2026"
+"Data Protocolo";"18/03/2026"
+"Data Classificacao";"19/03/2026"
+"Data Baixa";"26/06/2026"
+"Data Distribuicao 1";"19/03/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"0170110443642";"Nao";"0";"0"
+"170110443642";"Nao";"0";"0"
+"7050360520268070000";"Nao";"0";"0"
+"95046520178070001";"Nao";"0";"0"
+"07050360520268070000";"Nao";"0";"0"
+"00095046520178070001";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Distribuição"
+"Tipo";"automática"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS";"26/06/2026"
+"848";"Transitado em Julgado em 26/06/2026";"26/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Acórdãos em 10/06/2026";"10/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 588448/2026";"10/06/2026"
+"118";"Protocolizada Petição 588448/2026 (CieMPF - CIÊNCIA PELO MPF) em 10/06/2026";"10/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"10/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"10/06/2026"
+"92";"Publicado EMENTA / ACORDÃO em 10/06/2026 Petição Nº 278443/2026 - AgRg";"10/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"09/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0278443 - AgRg no RHC 234443 - Publicação prevista para 10/06/2026";"08/06/2026"
+"3001";"Proclamação Final de Julgamento: A QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/05/2026 a 03/06/2026, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. - Petição Nº 00278443/2026 - AgRg no RHC 234443/DF/DF";"03/06/2026"
+"239";"Conhecido o recurso de GABRIEL DA CRUZ BATISTA RIBEIRO e não-provido , por unanimidade, pela QUINTA TURMA    - Petição N° 00278443/2026 - AgRg no RHC 234443/DF";"03/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Pauta de Julgamentos em 18/05/2026";"18/05/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 18/05/2026";"18/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"07/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"07/05/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 07/05/2026 ";"07/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"06/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"06/05/2026"
+"417";"Incluído em pauta para 28/05/2026 00:00:00 pela QUINTA TURMA (Sessão Virtual) - Petição Nº 00278443/2026 - AgRg no RHC 234443/DF";"05/05/2026"
+"85";"Juntada de Petição de IMPUGNAÇÃO nº 364891/2026";"16/04/2026"
+"30077";"Tipo de petição alterado (Petição nº 364891/2026 alterada de CRR - CONTRARRAZÕES RE/RO para IMP - IMPUGNAÇÃO)";"16/04/2026"
+"118";"Protocolizada Petição 364891/2026 (CRR - CONTRARRAZÕES RE/RO) em 16/04/2026";"16/04/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 16/04/2026";"16/04/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 16/04/2026";"16/04/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Decisões e Vistas em 16/04/2026";"16/04/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Decisões e Vistas em 16/04/2026";"16/04/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 331952/2026";"08/04/2026"
+"118";"Protocolizada Petição 331952/2026 (ParMPF - PARECER DO MPF) em 08/04/2026";"08/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator)";"07/04/2026"
+"581";"Juntada de Certidão : Certifico que, não obstante a disponibilização da cópia digital dos autos ao Ministério Público Federal, em 30.03.2026 (e-STJ fl. 93), até a presente data, não houve manifestação do Parquet em relação ao despacho de e-STJ fl. 92.";"07/04/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Decisões e Vistas em 06/04/2026";"06/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"06/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"06/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"06/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"06/04/2026"
+"92";"Publicado Vistas Diversas em 06/04/2026 ";"06/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 06/04/2026 Petição Nº 278443/2026 - AgRg";"06/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"31/03/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"31/03/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"30/03/2026"
+"11383";"Ato ordinatório praticado (vista ao Ministério Público Federal para, no prazo de cinco dias, manifestar-se sobre o recurso interposto, com fulcro na aplicação analógica do art. 258, caput, do Regimento Interno do Superior Tribunal de Justiça, e disponibilizada cópia digital dos autos ao MPF. Publicação prevista para 06/04/2026)";"30/03/2026"
+"11010";"Proferido despacho de mero expediente determinando vista ao Ministério Público Federal - Petição Nº 2026/00278443 - AgRg no RHC 234443";"30/03/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0278443 - AgRg no RHC 234443 - Publicação prevista para 06/04/2026";"30/03/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 279702/2026";"25/03/2026"
+"118";"Protocolizada Petição 279702/2026 (CieMPF - CIÊNCIA PELO MPF) em 25/03/2026";"25/03/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator)";"25/03/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 278443/2026";"25/03/2026"
+"118";"Protocolizada Petição 278443/2026 (AgRg - AGRAVO REGIMENTAL) em 25/03/2026";"25/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"25/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"25/03/2026"
+"92";"Publicado DESPACHO / DECISÃO em 25/03/2026 ";"25/03/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"24/03/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 25/03/2026";"23/03/2026"
+"235";"Não conhecido o recurso de GABRIEL DA CRUZ BATISTA RIBEIRO (PRESO)";"23/03/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator) - pela SJD.";"19/03/2026"
+"26";"Distribuído por sorteio ao Ministro JOEL ILAN PACIORNIK - QUINTA TURMA";"19/03/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS";"18/03/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600588448";"CIÊNCIA PELO MPF";"CieMPF";"10/06/2026";"MPF"
+"202600364891";"IMPUGNAÇÃO";"IMP";"16/04/2026";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS"
+"202600331952";"PARECER DO MPF";"ParMPF";"08/04/2026";"MPF"
+"202600279702";"CIÊNCIA PELO MPF";"CieMPF";"25/03/2026";"MPF"
+"202600278443";"AGRAVO REGIMENTAL";"AgRg";"25/03/2026";"GABRIEL DA CRUZ BATISTA RIBEIRO"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"RHC";"2026,6,10";"";"202600278443";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"03/06/2026";"00:00";"QUINTA TURMA";"PAUTA DE JULGAMENTOS";"07/05/2026"

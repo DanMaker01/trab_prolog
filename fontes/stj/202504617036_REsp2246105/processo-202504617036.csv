@@ -1,0 +1,152 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202504617036"
+"Numero Unico";"02034965320248060298"
+"Classe";"REsp"
+"Numero Classe";"2246105"
+"Tipo Processo";"Recursal"
+"Status";"Distribuído"
+"UF";"CE"
+"Origem";"TJCE"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ"
+"Ministro Relator";"JOEL ILAN PACIORNIK"
+"Orgao Julgador";"QUINTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator)"
+"Data Ultima Fase";"05/11/2026 17:16:11"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"RECORRENTE";"LEONARDO MELO MARTINHO";"";"OSEAS DE SOUZA RODRIGUES FILHO"
+"RECORRIDO";"MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"00287.03603.03633.";"Crimes do Sistema Nacional de Armas";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"25/11/2025"
+"Data Protocolo";"24/11/2025"
+"Data Classificacao";"10/12/2025"
+"Data Distribuicao 1";"11/12/2025"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"2034965320248060298";"Nao";"0";"3"
+"02034965320248060298";"Nao";"0";"3"
+"5537992024";"Nao";"0";"1"
+"20349653202480602985537992024";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Distribuição"
+"Tipo";"prevenção de processo"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator)";"05/11/2026"
+"85";"Juntada de Petição de EMBARGOS DE DECLARAÇÃO nº 1186784/2026";"05/11/2026"
+"118";"Protocolizada Petição 1186784/2026 (EDcl - EMBARGOS DE DECLARAÇÃO) em 05/11/2026";"05/11/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 1174255/2026";"03/11/2026"
+"118";"Protocolizada Petição 1174255/2026 (CieMPF - CIÊNCIA PELO MPF) em 03/11/2026";"03/11/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ";"03/11/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"03/11/2026"
+"92";"Publicado EMENTA / ACORDÃO em 03/11/2026 Petição Nº 953201/2026 - EDcl nos EDcl no AgRg no";"03/11/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"29/10/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0953201 - EDcl nos EDcl no AgRg no REsp 2246105 - Publicação prevista para 03/11/2026";"28/10/2026"
+"235";"Não conhecido o recurso de LEONARDO MELO MARTINHO,por unanimidade, pela QUINTA TURMA Petição Nº953201/2026 - EDcl nos EDcl no AgRg no REsp REsp 2246105";"06/10/2026"
+"3001";"Proclamação Final de Julgamento: ""A Turma, por unanimidade, não conheceu dos embargos.""
+ Petição Nº953201/2026 - EDcl nos EDcl no AgRg no REsp REsp 2246105";"06/10/2026"
+"3002";"Inclusão em mesa para julgamento - QUINTA TURMA - sessão do dia 06/10/2026 14:00:00 - Petição N° 202600953201 - EDcl nos EDcl no AgRg no REsp 2246105/CE";"25/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ intimado eletronicamente da(o) Acórdãos em 21/09/2026";"21/09/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 956309/2026";"11/09/2026"
+"118";"Protocolizada Petição 956309/2026 (CieMPF - CIÊNCIA PELO MPF) em 11/09/2026";"11/09/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator)";"11/09/2026"
+"85";"Juntada de Petição de EMBARGOS DE DECLARAÇÃO nº 953201/2026";"11/09/2026"
+"118";"Protocolizada Petição 953201/2026 (EDcl - EMBARGOS DE DECLARAÇÃO) em 11/09/2026";"11/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ";"09/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"09/09/2026"
+"92";"Publicado EMENTA / ACORDÃO em 09/09/2026 Petição Nº 682552/2026 - EDcl no AgRg no";"09/09/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"08/09/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0682552 - EDcl no AgRg no REsp 2246105 - Publicação prevista para 09/09/2026";"07/09/2026"
+"3001";"Proclamação Final de Julgamento: A QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/08/2026 a 02/09/2026, por unanimidade, decidiu rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. - Petição Nº 00682552/2026 - EDcl no AgRg no REsp 2246105/CE/CE";"02/09/2026"
+"200";"Embargos de Declaração de LEONARDO MELO MARTINHO Não-acolhidos , por unanimidade, pela QUINTA TURMA   - Petição N° 00682552/2026 - EDcl no AgRg no REsp 2246105/CE";"02/09/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 17/08/2026";"17/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ intimado eletronicamente da(o) Pauta de Julgamentos em 17/08/2026";"17/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ";"06/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"06/08/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 06/08/2026 ";"06/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"05/08/2026"
+"417";"Incluído em pauta para 27/08/2026 00:00:00 pela QUINTA TURMA (Sessão Virtual) - Petição Nº 00682552/2026 - EDcl no AgRg no REsp 2246105/CE";"04/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ intimado eletronicamente da(o) Acórdãos em 09/07/2026";"09/07/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator)";"01/07/2026"
+"85";"Juntada de Petição de EMBARGOS DE DECLARAÇÃO nº 682552/2026";"01/07/2026"
+"118";"Protocolizada Petição 682552/2026 (EDcl - EMBARGOS DE DECLARAÇÃO) em 01/07/2026";"01/07/2026"
+"581";"Juntada de Certidão Em razão da Portaria STJ/GP n. 461 de 25 de junho de 2026, que decretou ponto facultativo no Superior Tribunal de Justiça no dia 29 de junho de 2026, CERTIFICO, em RETIFICAÇÃO da Certidão de Publicação lançada nestes autos, que as matérias disponibilizadas no Diário da Justiça Eletrônico Nacional CNJ (DJEN) em 26/06/2026 consideram-se PUBLICADAS em 30/06/2026, nos termos da Lei 11.419/2006, art. 4º, §3º.";"01/07/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 679078/2026";"01/07/2026"
+"118";"Protocolizada Petição 679078/2026 (CieMPF - CIÊNCIA PELO MPF) em 01/07/2026";"01/07/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ";"29/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"29/06/2026"
+"92";"Publicado EMENTA / ACORDÃO em 29/06/2026 Petição Nº 211554/2026 - AgRg";"29/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"26/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0211554 - AgRg no REsp 2246105 - Publicação prevista para 29/06/2026";"25/06/2026"
+"3001";"Proclamação Final de Julgamento: A QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. - Petição Nº 00211554/2026 - AgRg no REsp 2246105/CE/CE";"24/06/2026"
+"239";"Conhecido o recurso de LEONARDO MELO MARTINHO e não-provido , por unanimidade, pela QUINTA TURMA    - Petição N° 00211554/2026 - AgRg no REsp 2246105/CE";"24/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 08/06/2026";"09/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ intimado eletronicamente da(o) Pauta de Julgamentos em 08/06/2026";"08/06/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 28/05/2026 ";"28/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ";"28/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"28/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"27/05/2026"
+"417";"Incluído em pauta para 18/06/2026 00:00:00 pela QUINTA TURMA (Sessão Virtual) - Petição Nº 00211554/2026 - AgRg no REsp 2246105/CE";"26/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ intimado eletronicamente da(o) Decisões e Vistas em 19/03/2026";"19/03/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 212672/2026";"11/03/2026"
+"118";"Protocolizada Petição 212672/2026 (CieMPF - CIÊNCIA PELO MPF) em 11/03/2026";"11/03/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator)";"10/03/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 211554/2026";"10/03/2026"
+"118";"Protocolizada Petição 211554/2026 (AgRg - AGRAVO REGIMENTAL) em 10/03/2026";"10/03/2026"
+"92";"Publicado DESPACHO / DECISÃO em 09/03/2026 ";"09/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ";"09/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"09/03/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"06/03/2026"
+"60";"Expedição de Ofício nº 049505/2026-CPPE ao (à)Tribunal de Justiça do Estado do Ceará Desembargador Heráclito Vieira de Sousa Neto comunicando decisão ";"05/03/2026"
+"581";"Juntada de Certidão : Em relação à(o) decisão/despacho retro, com publicação prevista para 09/03/2026, certifica-se ciência antecipada para todos os fins e efeitos legais, pelo(a) representante da parte LEONARDO MELO MARTINHO, Dr(a) OSEAS DE SOUSA RODRIGUES FILHO, OAB/CE sob nº 021600.";"05/03/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 09/03/2026";"05/03/2026"
+"241";"Conhecido em parte o recurso de LEONARDO MELO MARTINHO e provido em parte";"05/03/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator)";"12/01/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 18398/2026";"12/01/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"12/01/2026"
+"118";"Protocolizada Petição 18398/2026 (ParMPF - PARECER DO MPF) em 12/01/2026";"12/01/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"11/12/2025"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"11/12/2025"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"11/12/2025"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL para abertura de vista ao MPF.";"11/12/2025"
+"26";"Distribuído por dependência ao Ministro JOEL ILAN PACIORNIK - QUINTA TURMA. Processo prevento: HC 970243 (2024/0484778-2)";"11/12/2025"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ";"24/11/2025"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202601186784";"EMBARGOS DE DECLARAÇÃO";"EDcl";"05/11/2026";"LEONARDO MELO MARTINHO"
+"202601174255";"CIÊNCIA PELO MPF";"CieMPF";"03/11/2026";"MPF"
+"202600956309";"CIÊNCIA PELO MPF";"CieMPF";"11/09/2026";"MPF"
+"202600953201";"EMBARGOS DE DECLARAÇÃO";"EDcl";"11/09/2026";"LEONARDO MELO MARTINHO"
+"202600682552";"EMBARGOS DE DECLARAÇÃO";"EDcl";"01/07/2026";"LEONARDO MELO MARTINHO"
+"202600679078";"CIÊNCIA PELO MPF";"CieMPF";"01/07/2026";"MPF"
+"202600212672";"CIÊNCIA PELO MPF";"CieMPF";"11/03/2026";"MPF"
+"202600211554";"AGRAVO REGIMENTAL";"AgRg";"10/03/2026";"LEONARDO MELO MARTINHO"
+"202600018398";"PARECER DO MPF";"ParMPF";"12/01/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"REsp";"2026,11,3";"";"202600953201";"Nao"
+"REsp";"2026,9,9";"";"202600682552";"Nao"
+"REsp";"2026,6,29";"";"202600211554";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"24/06/2026";"00:00";"QUINTA TURMA";"PAUTA DE JULGAMENTOS";"28/05/2026"
+"02/09/2026";"00:00";"QUINTA TURMA";"PAUTA DE JULGAMENTOS";"06/08/2026"

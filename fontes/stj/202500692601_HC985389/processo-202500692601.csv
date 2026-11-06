@@ -1,0 +1,141 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202500692601"
+"Numero Unico";"00692603920253000000"
+"Classe";"HC"
+"Numero Classe";"985389"
+"Tipo Processo";"Originário"
+"Status";"Processo arquivado"
+"UF";"GO"
+"Origem";"TJGO"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS"
+"Ministro Relator";"JOEL ILAN PACIORNIK"
+"Orgao Julgador";"QUINTA TURMA"
+"Segredo Justica";"Nao"
+"Pedido Liminar";"Sim"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Arquivado Definitivamente "
+"Data Ultima Fase";"02/09/2026 09:51:08"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"IMPETRANTE";"DEFENSORIA PUBLICA DO ESTADO DE GOIAS";"";"DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS"
+"IMPETRADO";"TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS";"";""
+"PACIENTE";"DANILO DOS SANTOS MONTEIRO";"";""
+"INTERESSADO";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"00287.03603.03633.";"Crimes do Sistema Nacional de Armas";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"28/02/2025"
+"Data Protocolo";"28/02/2025"
+"Data Classificacao";"28/02/2025"
+"Data Arquivamento";"02/09/2026"
+"Data Distribuicao 1";"05/03/2025"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"1156136320198090006";"Nao";"0";"0"
+"55873144920198090000";"Nao";"0";"0"
+"01156136320198090006";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Distribuição"
+"Tipo";"automática"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"246";"Arquivado Definitivamente ";"02/09/2026"
+"848";"Transitado em Julgado em 02/09/2026 ";"02/09/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS intimado eletronicamente da(o) Acórdãos em 06/07/2026";"06/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS intimado eletronicamente da(o) Acórdãos em 06/07/2026";"06/07/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 653162/2026";"24/06/2026"
+"118";"Protocolizada Petição 653162/2026 (CieMPF - CIÊNCIA PELO MPF) em 24/06/2026";"24/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS";"24/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS";"24/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"24/06/2026"
+"92";"Publicado EMENTA / ACORDÃO em 24/06/2026 Petição Nº 398022/2025 - AgRg";"24/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"23/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2025/0398022 - AgRg no HC 985389 - Publicação prevista para 24/06/2026";"22/06/2026"
+"132";"Recebidos os autos no(a) QUINTA TURMA ";"17/06/2026"
+"3001";"Proclamação Final de Julgamento: "" Prosseguindo no julgamento, a Turma, por maioria, negou provimento ao agravo regimental.""
+ Petição Nº 398022/2025 - AgRg no HC 985389";"16/06/2026"
+"239";"Conhecido o recurso de MINISTÉRIO PÚBLICO FEDERAL e não-provido,por maioria, pela QUINTA TURMA Petição Nº 398022/2025 - AgRg no HC 985389";"16/06/2026"
+"3001";"Proclamação Parcial de Julgamento: ""A Turma, por unanimidade, acolheu requerimento de prorrogação do prazo para proferir voto-vista, nos termos do art. 162, § 1º, do RISTJ.""
+ Petição Nº 398022/2025 - AgRg no HC 985389";"12/05/2026"
+"300102";"Acolhido o requerimento de prorrogação de prazo do pedido de vista, nos termos § 1° do art. 162 do RISTJ Petição Nº 398022/2025 - AgRg no HC 985389";"12/05/2026"
+"3002";"Inclusão em mesa para julgamento - pela QUINTA TURMA - sessão do dia 12/05/2026 14:00:00 ";"11/05/2026"
+"51";"Conclusos para julgamento ao(à) Ministro(a) MESSOD AZULAY NETO (Ministro) após pedido de vista ";"11/03/2026"
+"132";"Recebidos os autos no(a) QUINTA TURMA ";"03/12/2025"
+"12204";"Deliberado em Sessão - Pedido de Vista de Messod Azulay Neto  - Petição N° 00398022/2025 - AgRg no HC 985389/GO";"03/09/2025"
+"3001";"Proclamação Parcial de Julgamento: Após o voto do Sr. Ministro Relator negando provimento ao recurso, no que foi acompanhado pelos Srs. Ministros Carlos Cini Marchionatti (Desembargador Convocado TJRS), Reynaldo Soares da Fonseca e Ribeiro Dantas, pediu vista o Sr. Ministro Messod Azulay Neto. - Petição Nº 00398022/2025 - AgRg no HC 985389/GO/GO";"03/09/2025"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 18/08/2025";"18/08/2025"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS intimado eletronicamente da(o) Pauta de Julgamentos em 18/08/2025";"18/08/2025"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS intimado eletronicamente da(o) Pauta de Julgamentos em 18/08/2025";"18/08/2025"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS";"08/08/2025"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS";"08/08/2025"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"08/08/2025"
+"92";"Publicado PAUTA DE JULGAMENTOS em 08/08/2025 ";"08/08/2025"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"07/08/2025"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"07/08/2025"
+"417";"Incluído em pauta para 28/08/2025 00:00:00 pela QUINTA TURMA (Sessão Virtual) - Petição Nº 00398022/2025 - AgRg no HC 985389/GO";"06/08/2025"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 15/05/2025";"15/05/2025"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS intimado eletronicamente da(o) Decisões e Vistas em 15/05/2025";"15/05/2025"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS intimado eletronicamente da(o) Decisões e Vistas em 15/05/2025";"15/05/2025"
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator)";"08/05/2025"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 398022/2025";"07/05/2025"
+"30077";"Tipo de petição alterado (Petição nº 398022/2025 alterada de PET - PETIÇÃO para AgRg - AGRAVO REGIMENTAL)";"07/05/2025"
+"118";"Protocolizada Petição 398022/2025 (PET - PETIÇÃO) em 07/05/2025";"07/05/2025"
+"85";"Juntada de Petição de OFÍCIO nº 389886/2025";"06/05/2025"
+"118";"Protocolizada Petição 389886/2025 (OF - OFÍCIO) em 06/05/2025";"06/05/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL ";"05/05/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL ";"05/05/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS ";"05/05/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS ";"05/05/2025"
+"92";"Publicado DESPACHO / DECISÃO em 05/05/2025 ";"05/05/2025"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"30/04/2025"
+"60";"Expedição de Ofício nº 095749/2025-CPPE ao (à)Tribunal de Justiça do Estado de Goiás comunicando decisão (via e-mail)";"29/04/2025"
+"12475";"Não conhecido o Habeas Corpus. Concedido o Habeas Corpus de ofício a DANILO DOS SANTOS MONTEIRO";"29/04/2025"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 05/05/2025";"29/04/2025"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS intimado eletronicamente da(o) Decisões e Vistas em 21/03/2025";"21/03/2025"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 21/03/2025";"21/03/2025"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS intimado eletronicamente da(o) Decisões e Vistas em 21/03/2025";"21/03/2025"
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator)";"14/03/2025"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"14/03/2025"
+"85";"Juntada de Petição de PARECER DO MPF nº 211846/2025";"14/03/2025"
+"30077";"Tipo de petição alterado (Petição nº 211846/2025 alterada de PET - PETIÇÃO para ParMPF - PARECER DO MPF)";"14/03/2025"
+"118";"Protocolizada Petição 211846/2025 (PET - PETIÇÃO) em 13/03/2025";"13/03/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS ";"11/03/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL ";"11/03/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS ";"11/03/2025"
+"92";"Publicado DESPACHO / DECISÃO em 11/03/2025 ";"11/03/2025"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"10/03/2025"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"07/03/2025"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"07/03/2025"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 11/03/2025";"07/03/2025"
+"792";"Não concedida a medida liminar de DANILO DOS SANTOS MONTEIRO e determinada vista ao Ministério Público Federal";"07/03/2025"
+"51";"Conclusos para decisão ao(à) Ministro(a) JOEL ILAN PACIORNIK (Relator) - pela SJD";"05/03/2025"
+"26";"Distribuído por sorteio ao Ministro JOEL ILAN PACIORNIK - QUINTA TURMA";"05/03/2025"
+"118";"Protocolizada Petição (originária) em 28/02/2025";"28/02/2025"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600653162";"CIÊNCIA PELO MPF";"CieMPF";"24/06/2026";"MPF"
+"202500398022";"AGRAVO REGIMENTAL";"AgRg";"07/05/2025";"MPF "
+"202500389886";"OFÍCIO";"OF";"06/05/2025";"CHAVE DE ACESSO"
+"202500211846";"PARECER DO MPF";"ParMPF";"13/03/2025";"P/ MPF "
+"";"";"";"";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"HC";"2026,6,24";"";"202500398022";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"03/09/2025";"00:00";"QUINTA TURMA";"PAUTA DE JULGAMENTOS";"08/08/2025"

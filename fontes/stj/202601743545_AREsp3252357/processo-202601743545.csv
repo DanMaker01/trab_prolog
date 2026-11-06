@@ -1,0 +1,146 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601743545"
+"Numero Unico";"50095178920244047004"
+"Classe";"AREsp"
+"Numero Classe";"3252357"
+"Tipo Processo";"Recursal"
+"Status";"Processamento de RE/RO"
+"UF";"PR"
+"Origem";"TRF4"
+"Nome Origem";"TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO"
+"Ministro Relator";"VICE-PRESIDENTE DO STJ"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Valor Causa";"0"
+"Ultima Fase";"Juntada de Certidão : Certifico que decorreu sem manifestação o prazo, que teve início em 14/10/2026 e término em 28/10/2026, para MINISTÉRIO PÚBLICO FEDERAL apresentar resposta à petição n. 944698/2026 (RECURSO EXTRAORDINÁRIO), de fls. 675."
+"Data Ultima Fase";"29/10/2026 15:40:53"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"AGRAVANTE";"MICHELE CAVALCANTE DA SILVA";"";""
+"AGRAVANTE";"PABLO FRANCISCO ANTUNES ROSSI";"";"CARLO DANIEL BASTO"
+"AGRAVADO";"MINISTÉRIO PÚBLICO FEDERAL";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.";"Crimes de Tráfico Ilícito e Uso Indevido de Drogas";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"06/05/2026"
+"Data Protocolo";"05/05/2026"
+"Data Distribuicao 1";"28/09/2026"
+"Data Distribuicao 2";"18/06/2026"
+"Data Distribuicao 3";"07/05/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"50095178920244047004";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Registro | Vice-Presidente do STJ"
+"Tipo";"automática"
+"Competencia";"Presidência"
+"Competencia Processante";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"581";"Juntada de Certidão : Certifico que decorreu sem manifestação o prazo, que teve início em 14/10/2026 e término em 28/10/2026, para MINISTÉRIO PÚBLICO FEDERAL apresentar resposta à petição n. 944698/2026 (RECURSO EXTRAORDINÁRIO), de fls. 675.";"29/10/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 1153263/2026";"28/10/2026"
+"118";"Protocolizada Petição 1153263/2026 (CieMPF - CIÊNCIA PELO MPF) em 28/10/2026";"28/10/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"27/10/2026"
+"92";"Publicado DESPACHO / DECISÃO em 27/10/2026 Petição Nº 944698/2026 - RE nos EDcl no AgRg no";"27/10/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"26/10/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0944698 - RE nos EDcl no AgRg no AREsp 3252357 - Publicação prevista para 27/10/2026";"23/10/2026"
+"432";"Recurso Extraordinário não admitido - Petição Nº 2026/00944698 - RE nos EDcl no AgRg AREsp 3252357";"23/10/2026"
+"901";"Negado seguimento ao recurso de MICHELE CAVALCANTE DA SILVA e PABLO FRANCISCO ANTUNES ROSSI - Petição Nº 2026/00944698 - RE nos EDcl no AgRg AREsp 3252357";"23/10/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 13/10/2026";"13/10/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) VICE-PRESIDENTE DO STJ (Relator)";"07/10/2026"
+"85";"Juntada de Petição de CONTRARRAZÕES RE/RO nº 1057980/2026";"05/10/2026"
+"118";"Protocolizada Petição 1057980/2026 (CRR - CONTRARRAZÕES RE/RO) em 05/10/2026";"05/10/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"30/09/2026"
+"92";"Publicado VISTA à(s) parte(s) recorrida(s) para contrarrazões de Recurso Extraordinário (RE) em 30/09/2026 Petição Nº 944698/2026 - ";"30/09/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"29/09/2026"
+"11383";"Ato ordinatório praticado (VISTA à(s) parte(s) recorrida(s) para contrarrazões de Recurso Extraordinário (RE) - PETIÇÃO Nº 944698/2026. Publicação prevista para 30/09/2026)";"28/09/2026"
+"26";"Distribuído por competência exclusiva ao Ministro VICE-PRESIDENTE DO STJ";"28/09/2026"
+"581";"Juntada de Certidão : Certifico que, nesta data, o presente feito foi registrado ao Excelentíssimo Senhor MINISTRO VICE-PRESIDENTE DO STJ.";"28/09/2026"
+"123";"Remetidos os Autos (para processamento do RE) para COORDENADORIA DE PROCESSAMENTO DE DECISÕES ESTRANGEIRAS E RECURSOS PARA O STF ";"25/09/2026"
+"85";"Juntada de Petição de RECURSO EXTRAORDINÁRIO nº 944698/2026";"10/09/2026"
+"118";"Protocolizada Petição 944698/2026 (RE - RECURSO EXTRAORDINÁRIO) em 10/09/2026";"10/09/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 942103/2026";"09/09/2026"
+"118";"Protocolizada Petição 942103/2026 (CieMPF - CIÊNCIA PELO MPF) em 09/09/2026";"09/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"09/09/2026"
+"92";"Publicado EMENTA / ACORDÃO em 09/09/2026 Petição Nº 813837/2026 - EDcl no AgRg no";"09/09/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"08/09/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0813837 - EDcl no AgRg no AREsp 3252357 - Publicação prevista para 09/09/2026";"04/09/2026"
+"132";"Recebidos os autos no(a) QUINTA TURMA ";"03/09/2026"
+"3001";"Proclamação Final de Julgamento: ""A Turma, por unanimidade, rejeitou os embargos.""
+ Petição Nº813837/2026 - EDcl no AgRg no AREsp AREsp 3252357";"01/09/2026"
+"200";"Embargos de Declaração de MICHELE CAVALCANTE DA SILVA e PABLO FRANCISCO ANTUNES ROSSI Não-acolhidos,por unanimidade, pela QUINTA TURMA Petição Nº813837/2026 - EDcl no AgRg no AREsp AREsp 3252357";"01/09/2026"
+"3002";"Inclusão em mesa para julgamento - QUINTA TURMA - sessão do dia 01/09/2026 14:00:00 - Petição N° 202600813837 - EDcl no AgRg no AREsp 3252357/PR";"27/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 815145/2026";"13/08/2026"
+"118";"Protocolizada Petição 815145/2026 (CieMPF - CIÊNCIA PELO MPF) em 13/08/2026";"13/08/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) RIBEIRO DANTAS (Relator)";"13/08/2026"
+"85";"Juntada de Petição de EMBARGOS DE DECLARAÇÃO nº 813837/2026";"13/08/2026"
+"118";"Protocolizada Petição 813837/2026 (EDcl - EMBARGOS DE DECLARAÇÃO) em 13/08/2026";"13/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"13/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 13/08/2026 Petição Nº 702233/2026 - AgRg";"13/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"12/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0702233 - AgRg no AREsp 3252357 - Publicação prevista para 13/08/2026";"07/08/2026"
+"132";"Recebidos os autos no(a) QUINTA TURMA ";"06/08/2026"
+"239";"Conhecido o recurso de MICHELE CAVALCANTE DA SILVA e PABLO FRANCISCO ANTUNES ROSSI e não-provido,por unanimidade, pela QUINTA TURMA Petição Nº 702233/2026 - AgRg no AREsp 3252357";"04/08/2026"
+"3001";"Proclamação Final de Julgamento: ""A Turma, por unanimidade, negou provimento ao agravo regimental.""
+ Petição Nº 702233/2026 - AgRg no AREsp 3252357";"04/08/2026"
+"3002";"Inclusão em mesa para julgamento - QUINTA TURMA - sessão do dia 04/08/2026 14:00:00 - Petição N° 202600702233 - AgRg no AREsp 3252357/PR";"29/07/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 708347/2026";"08/07/2026"
+"118";"Protocolizada Petição 708347/2026 (CieMPF - CIÊNCIA PELO MPF) em 08/07/2026";"08/07/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) RIBEIRO DANTAS (Relator)";"08/07/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 702233/2026";"08/07/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"08/07/2026"
+"92";"Publicado DESPACHO / DECISÃO em 08/07/2026 ";"08/07/2026"
+"118";"Protocolizada Petição 702233/2026 (AgRg - AGRAVO REGIMENTAL) em 07/07/2026";"07/07/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"07/07/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 08/07/2026";"04/07/2026"
+"12435";"Conheço do agravo de MICHELE CAVALCANTE DA SILVA e PABLO FRANCISCO ANTUNES ROSSI para negar provimento ao Recurso Especial";"04/07/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 02/07/2026";"02/07/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) RIBEIRO DANTAS (Relator)";"01/07/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 682687/2026";"01/07/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"01/07/2026"
+"118";"Protocolizada Petição 682687/2026 (ParMPF - PARECER DO MPF) em 01/07/2026";"01/07/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"22/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 22/06/2026 ";"22/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"19/06/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"18/06/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"18/06/2026"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"18/06/2026"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL para abertura de vista ao MPF.";"18/06/2026"
+"36";"Redistribuído por sorteio, em razão de encaminhamento à ARP, ao Ministro RIBEIRO DANTAS - QUINTA TURMA";"18/06/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"17/06/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"17/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 22/06/2026";"17/06/2026"
+"12474";"Determinada a distribuição do feito";"17/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) - pela SJD";"08/05/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"07/05/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO";"05/05/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202601153263";"CIÊNCIA PELO MPF";"CieMPF";"28/10/2026";"MPF"
+"202601057980";"CONTRARRAZÕES RE/RO";"CRR";"05/10/2026";""
+"202600944698";"RECURSO EXTRAORDINÁRIO";"RE";"10/09/2026";"MICHELE CAVALCANTE DA SILVA"
+"202600942103";"CIÊNCIA PELO MPF";"CieMPF";"09/09/2026";"MPF"
+"202600815145";"CIÊNCIA PELO MPF";"CieMPF";"13/08/2026";"MPF"
+"202600813837";"EMBARGOS DE DECLARAÇÃO";"EDcl";"13/08/2026";"MICHELE CAVALCANTE DA SILVA"
+"202600708347";"CIÊNCIA PELO MPF";"CieMPF";"08/07/2026";"MPF"
+"202600702233";"AGRAVO REGIMENTAL";"AgRg";"07/07/2026";"MICHELE CAVALCANTE DA SILVA"
+"202600682687";"PARECER DO MPF";"ParMPF";"01/07/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"AREsp";"2026,9,9";"";"202600813837";"Nao"
+"AREsp";"2026,8,13";"";"202600702233";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

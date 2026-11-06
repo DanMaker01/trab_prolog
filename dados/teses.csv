@@ -1,0 +1,22 @@
+id_caso,tese,decisao_mono,quem_agravou,resultado_agrg,obice,resultado_reu
+c01,nulidade_busca_pessoal,provido (absolvicao),MPF,desprovido,,favoravel
+c01,desclassificacao_art28,prejudicada,,,,
+c02,p4,negado,defesa,desprovido,Sum. 7,desfavoravel
+c03,absolvicao_participacao,negado,defesa,desprovido,Sum. 7,desfavoravel
+c04,nulidade_busca_domiciliar,negado,defesa,desprovido,,desfavoravel
+c04,p4,concedido de oficio (1/6),MP,desprovido,,favoravel
+c05,maus_antecedentes,afastados de oficio,MP,desprovido,,favoravel
+c05,p4,concedido de oficio (2/3),MP,desprovido,,favoravel
+c05,regime_aberto_prd,negado,,,,desfavoravel
+c06,p4,negado,defesa,desprovido,,desfavoravel
+c06,regime_aberto_prd,prejudicada,defesa,desprovido,,desfavoravel
+c07,insignificancia,negado,defesa,desprovido,Sum. 7,desfavoravel
+c07,p4,negado,defesa,desprovido,Sum. 7,desfavoravel
+c08,nulidade_busca_pessoal,nao conhecido,defesa,desprovido,Sum. 7,desfavoravel
+c08,desclassificacao_art28,nao conhecido,defesa,desprovido,Sum. 7,desfavoravel
+c09,revogacao_preventiva,negado,defesa,desprovido,via inadequada,desfavoravel
+c10,p4,afastado (REsp do MP provido),defesa,desprovido,nenhum (revaloracao aceita),desfavoravel
+c11,nulidade_busca_pessoal,(acordao direto),MP,provido,nenhum (Sum. 7 afastada no recurso do MP),desfavoravel
+c12,p4,negado nov/2025; concedido abr/2026 (1/6),MP,desprovido,,favoravel
+c13,nulidade_busca_pessoal_domiciliar,concedido de oficio (absolvicao),MPF,desprovido (maioria),,favoravel
+c14,desclassificacao_art28 (Tema 506),nao conhecido,defesa,desprovido,Sum. 7 + Sum. 284/STF + Sum. 13/STJ (erro tecnico da defesa),desfavoravel

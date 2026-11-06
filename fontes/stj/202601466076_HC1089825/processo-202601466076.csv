@@ -1,0 +1,104 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601466076"
+"Numero Unico";"01466071720263000000"
+"Classe";"HC"
+"Numero Classe";"1089825"
+"Tipo Processo";"Originário"
+"Status";"Processo arquivado"
+"UF";"SP"
+"Origem";"TJSPRGL"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA"
+"Ministro Relator";"RIBEIRO DANTAS"
+"Orgao Julgador";"QUINTA TURMA"
+"Segredo Justica";"Nao"
+"Pedido Liminar";"Sim"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Arquivado Definitivamente"
+"Data Ultima Fase";"18/08/2026 13:53:13"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"IMPETRANTE";"VICTOR AUGUSTO GONCALVES AZEVEDO";"";"VICTOR AUGUSTO GONÇALVES AZEVEDO"
+"IMPETRADO";"TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO";"";""
+"PACIENTE";"RODRIGO GUIRELLI DA SILVA";"";""
+"INTERESSADO";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"00287.05874.11797.";"Entrada de aparelho telefônico de comunicação móvel em estabelecimento prisional";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"16/04/2026"
+"Data Protocolo";"15/04/2026"
+"Data Classificacao";"16/04/2026"
+"Data Arquivamento";"18/08/2026"
+"Data Distribuicao 1";"16/04/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"15101929820208260071";"Nao";"0";"2"
+"2112462102020060404";"Nao";"0";"0"
+"21442831420258260000";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Distribuição"
+"Tipo";"prevenção de processo"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"246";"Arquivado Definitivamente";"18/08/2026"
+"848";"Transitado em Julgado em 18/08/2026";"18/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 724486/2026";"14/07/2026"
+"118";"Protocolizada Petição 724486/2026 (CieMPF - CIÊNCIA PELO MPF) em 14/07/2026";"14/07/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Acórdãos em 13/07/2026";"13/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Acórdãos em 13/07/2026";"13/07/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"01/07/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"01/07/2026"
+"92";"Publicado EMENTA / ACORDÃO em 01/07/2026 Petição Nº 417387/2026 - AgRg";"01/07/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"30/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0417387 - AgRg no HC 1089825 - Publicação prevista para 01/07/2026";"29/06/2026"
+"3001";"Proclamação Final de Julgamento: A QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. - Petição Nº 00417387/2026 - AgRg no HC 1089825/SP/SP";"24/06/2026"
+"239";"Conhecido o recurso de RODRIGO GUIRELLI DA SILVA e não-provido , por unanimidade, pela QUINTA TURMA    - Petição N° 00417387/2026 - AgRg no HC 1089825/SP";"24/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 09/06/2026";"09/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Pauta de Julgamentos em 08/06/2026";"09/06/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 28/05/2026 ";"28/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"28/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"28/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"27/05/2026"
+"417";"Incluído em pauta para 18/06/2026 00:00:00 pela QUINTA TURMA (Sessão Virtual) - Petição Nº 00417387/2026 - AgRg no HC 1089825/SP";"26/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 04/05/2026";"04/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) RIBEIRO DANTAS (Relator)";"30/04/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 417387/2026";"29/04/2026"
+"118";"Protocolizada Petição 417387/2026 (AgRg - AGRAVO REGIMENTAL) em 29/04/2026";"29/04/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 395535/2026";"24/04/2026"
+"118";"Protocolizada Petição 395535/2026 (CieMPF - CIÊNCIA PELO MPF) em 24/04/2026";"24/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"24/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"24/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 24/04/2026 ";"24/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"23/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"23/04/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 24/04/2026";"18/04/2026"
+"12458";"Não conhecido o Habeas Corpus de RODRIGO GUIRELLI DA SILVA";"18/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) RIBEIRO DANTAS (Relator) - pela SJD.";"17/04/2026"
+"26";"Distribuído por dependência ao Ministro RIBEIRO DANTAS - QUINTA TURMA. Processo prevento: HC 997886 (2025/0140917-4)";"16/04/2026"
+"118";"Protocolizada Petição (originária) em 15/04/2026";"15/04/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600724486";"CIÊNCIA PELO MPF";"CieMPF";"14/07/2026";"MPF"
+"202600417387";"AGRAVO REGIMENTAL";"AgRg";"29/04/2026";"VICTOR AUGUSTO GONCALVES AZEVEDO"
+"202600395535";"CIÊNCIA PELO MPF";"CieMPF";"24/04/2026";"MPF"
+"";"";"";"";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"HC";"2026,7,1";"";"202600417387";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"24/06/2026";"00:00";"QUINTA TURMA";"PAUTA DE JULGAMENTOS";"28/05/2026"

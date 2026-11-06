@@ -1,0 +1,116 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1095585",
+   "via": "HC (revisao criminal)",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Reynaldo Soares da Fonseca",
+   "reu": "JOAO PEDRO DA SILVA PEREIRA",
+   "sexo": "M",
+   "drogas": "maconha+cocaina",
+   "qtd_g": 120456.3,
+   "porcoes": "120 tijolos + 192 porcoes",
+   "petrechos_dinheiro": "balanca de precisao; anotacoes/contabilidade do trafico (apreendidas com correus)",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "sim",
+   "antecedentes": "bons",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 144,
+   "tj_pena_m": 144,
+   "stj_pena_m": "",
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "na revisao criminal: quantidade (120,32kg maconha + 136,3g cocaina), balanca e anotacoes com correus = dedicacao a atividades criminosas (antes: condenacao por art. 35)",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "pedido de reducao da pena-base reiterado (ja julgado no HC 1007599)",
+   "obs": "Pena de 12 anos (sent/TJ) somava arts. 33 e 35; apos absolvicao do art. 35 pelo STF (extensao no HC 258.257), a pena residual do trafico nao e informada. STJ admitiu que o TJ, em revisao criminal, reexaminasse originariamente o par. 4 com novos fundamentos, e afastou bis in idem quantidade/pena-base x negativa do redutor."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1095585",
+   "reu": "JOAO PEDRO DA SILVA PEREIRA",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Absolvicao do art. 35 nao impede negar o redutor: quantidade expressiva, balanca e contabilidade do trafico demonstram dedicacao a atividades criminosas."
+  },
+  {
+   "processo": "HC 1095585",
+   "reu": "JOAO PEDRO DA SILVA PEREIRA",
+   "tese": "outro:bis_in_idem_quantidade_pena_base_e_p4",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Nao ha bis in idem ao usar a quantidade na pena-base e afastar o redutor pela dedicacao evidenciada pelas circunstancias da apreensao."
+  },
+  {
+   "processo": "HC 1095585",
+   "reu": "JOAO PEDRO DA SILVA PEREIRA",
+   "tese": "outro:inovacao_fundamentacao_em_revisao_criminal",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Com o fato superveniente (absolvicao pelo STF), cabia ao TJ, em sede revisional, o exame originario e pleno dos requisitos do par. 4."
+  },
+  {
+   "processo": "HC 1095585",
+   "reu": "JOAO PEDRO DA SILVA PEREIRA",
+   "tese": "outro:pessoalidade_petrechos_com_correus",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "No trafico em concurso de pessoas, quantidade e petrechos apreendidos sao circunstancias objetivas consideraveis na dosimetria de todos os envolvidos."
+  },
+  {
+   "processo": "HC 1095585",
+   "reu": "JOAO PEDRO DA SILVA PEREIRA",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Reiteracao de pedido ja examinado no HC 1.007.599/SP (art. 210 RISTJ)."
+  },
+  {
+   "processo": "HC 1095585",
+   "reu": "JOAO PEDRO DA SILVA PEREIRA",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Prejudicado: pena mantida acima de 4 anos."
+  },
+  {
+   "processo": "HC 1095585",
+   "reu": "JOAO PEDRO DA SILVA PEREIRA",
+   "tese": "substituicao_prd",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Prejudicado: pena mantida acima de 4 anos."
+  }
+ ]
+}

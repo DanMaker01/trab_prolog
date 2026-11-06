@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1075051",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "ES",
+   "relator": "Joel Ilan Paciornik",
+   "reu": "Moises Tavares Marcal",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "fugiu (evasao no momento da abordagem)",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "sim",
+   "antecedentes": "tecnicamente primario, sem condenacoes transitadas",
+   "atos_infracionais": "sim (analogos a trafico, associacao para o trafico e homicidio qualificado)",
+   "ultimo_ato_infracional_ano": "2014",
+   "marcadores_subjetivos": "envolvimento continuo com a criminalidade; continuidade na pratica delitiva; nao se trata de simples episodio isolado",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": 62,
+   "stj_pena_m": 62,
+   "sent_regime": "",
+   "tj_regime": "semiaberto",
+   "stj_regime": "semiaberto",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "atos infracionais preteritos analogos ao trafico e homicidio, proximos temporalmente (dedicacao a atividade criminosa); evasao na abordagem",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "HC impetrado contra acordao do TJ-ES em revisao criminal; STJ admite afastar o §4º por atos infracionais graves, pertinentes e contemporaneos (ultimo 2 anos antes do fato, reu com 19 anos)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1075051",
+   "reu": "Moises Tavares Marcal",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Atos infracionais graves, analogos ao trafico e proximos temporalmente justificam afastar o trafico privilegiado; rever exigiria reexame de provas."
+  },
+  {
+   "processo": "HC 1075051",
+   "reu": "Moises Tavares Marcal",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido de readequacao do regime dependia da aplicacao da minorante, mantida afastada."
+  }
+ ]
+}

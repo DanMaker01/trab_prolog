@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1069777",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "MS",
+   "relator": "Messod Azulay Neto",
+   "reu": "Rodrigo Ortiz dos Santos",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "III (escola)",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "pratica reiterada de comercializacao de entorpecentes",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": 70,
+   "stj_pena_m": 70,
+   "sent_regime": "",
+   "tj_regime": "semiaberto",
+   "stj_regime": "semiaberto",
+   "sent_p4": "sim",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "dedicacao a atividade criminosa: pratica reiterada de comercializacao de entorpecentes (provido recurso do MP)",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC substitutivo de recurso proprio",
+   "obs": "TJ afastou em apelacao do MP o trafico privilegiado reconhecido na origem. STJ considerou que a alegacao de fato em periodo nao letivo (art. 40, III) exige reexame de provas."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1069777",
+   "reu": "Rodrigo Ortiz dos Santos",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Insuficiencia probatoria exige reexame do conjunto fatico-probatorio."
+  },
+  {
+   "processo": "HC 1069777",
+   "reu": "Rodrigo Ortiz dos Santos",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "TJ apontou pratica reiterada de comercializacao; revisao exige reexame de provas."
+  },
+  {
+   "processo": "HC 1069777",
+   "reu": "Rodrigo Ortiz dos Santos",
+   "tese": "outro:majorante_art40_III",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Alegacao de periodo nao letivo pressupoe analise das circunstancias concretas, vedada em HC."
+  }
+ ]
+}

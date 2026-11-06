@@ -1,0 +1,106 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1086171",
+   "via": "HC (revisao criminal)",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Reynaldo Soares da Fonseca",
+   "reu": "Celio Roberto Soares de Oliveira",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "celular com midias de maconha;comprovantes de pagamento via pix",
+   "majorante_art40": "nao",
+   "origem_abordagem": "mandado",
+   "local_conhecido": "sim",
+   "comportamento_reu": "",
+   "tipo_busca": "domiciliar",
+   "consentimento": "",
+   "primario": "nao",
+   "antecedentes": "reincidente especifico",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "informacoes acerca da pratica do trafico naquele endereco",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "reiteracao de teses ja examinadas no HC 1.001.678/SP",
+   "obs": "HC contra acordao de revisao criminal; teses ja apreciadas no HC 1.001.678 (transito 20/5/2025), por isso nao reexaminadas. Dosimetria ja redimensionada no AREsp 2.835.757/SP, sem pena informada."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1086171",
+   "reu": "Celio Roberto Soares de Oliveira",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Materia ja examinada pelo STJ no HC 1.001.678 (mandado regularmente cumprido), inviavel nova analise."
+  },
+  {
+   "processo": "HC 1086171",
+   "reu": "Celio Roberto Soares de Oliveira",
+   "tese": "outro:violacao_art212_cpp",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Materia ja examinada no HC 1.001.678; nulidade relativa sem prejuizo demonstrado."
+  },
+  {
+   "processo": "HC 1086171",
+   "reu": "Celio Roberto Soares de Oliveira",
+   "tese": "outro:cerceamento_defesa_indeferimento_pericia",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Materia ja examinada no HC 1.001.678; exame papiloscopico indeferido de forma fundamentada."
+  },
+  {
+   "processo": "HC 1086171",
+   "reu": "Celio Roberto Soares de Oliveira",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Materia ja examinada no HC 1.001.678; revolvimento probatorio inviavel em HC."
+  },
+  {
+   "processo": "HC 1086171",
+   "reu": "Celio Roberto Soares de Oliveira",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Materia ja examinada; regime fechado justificado pela pena e reincidencia especifica."
+  },
+  {
+   "processo": "HC 1086171",
+   "reu": "Celio Roberto Soares de Oliveira",
+   "tese": "outro:negativa_prestacao_jurisdicional",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Nao enfrentada autonomamente; agravo desprovido por reiteracao de materia ja decidida."
+  }
+ ]
+}

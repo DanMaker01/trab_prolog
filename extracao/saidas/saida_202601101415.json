@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1083638",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "ES",
+   "relator": "Maria Marluce Caldas",
+   "reu": "Iara Barbosa Cardoso",
+   "sexo": "F",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "nao",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "pessoal",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": 79.73,
+   "tj_pena_m": 79.73,
+   "stj_pena_m": 79.73,
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC impetrado apos transito (27/11/2025) em vez de revisao criminal; nao indicou hipotese do art. 621 CPP",
+   "obs": "Defesa alegou busca pessoal sem fundada suspeita, baseada em impressoes subjetivas dos agentes, mas o merito nao foi examinado por ser HC substitutivo de revisao criminal."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1083638",
+   "reu": "Iara Barbosa Cardoso",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "HC impetrado em 24/3/2026 contra acordao transitado em 27/11/2025 e sucedaneo de revisao criminal, a ser proposta no TJ."
+  },
+  {
+   "processo": "HC 1083638",
+   "reu": "Iara Barbosa Cardoso",
+   "tese": "nulidade_busca_pessoal",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Sem ilegalidade flagrante a sanar de oficio; defesa nao indicou hipotese do art. 621 CPP."
+  },
+  {
+   "processo": "HC 1083638",
+   "reu": "Iara Barbosa Cardoso",
+   "tese": "outro:negativa_prestacao_jurisdicional",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Indeferimento liminar por inadequacao da via, com afirmacao de ausencia de ilegalidade flagrante, foi mantido."
+  }
+ ]
+}

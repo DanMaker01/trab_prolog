@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3175339",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Ribeiro Dantas",
+   "reu": "ALAN DANIEL FERREIRA DE OLIVEIRA",
+   "sexo": "M",
+   "drogas": "crack+cocaina",
+   "qtd_g": 3.71,
+   "porcoes": "23 pedras + 6 papelotes",
+   "petrechos_dinheiro": "R$ 124,00 em dinheiro trocado (nao consta do auto de apreensao); balanca de precisao e mais drogas achadas por caes em imovel abandonado proximo",
+   "majorante_art40": "nao",
+   "origem_abordagem": "patrulhamento",
+   "local_conhecido": "sim",
+   "comportamento_reu": "tentou empreender fuga ao perceber a aproximacao da equipe policial",
+   "tipo_busca": "pessoal",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "sem condenacao definitiva por trafico; cumpriu transacao penal por art. 28",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "vulgo Caju; comunidade Conferencia Cristo Rei; revelia (nao compareceu em juizo)",
+   "parecer_mpf": "",
+   "sent_pena_m": "absolvido",
+   "tj_pena_m": 20,
+   "stj_pena_m": 20,
+   "sent_regime": "",
+   "tj_regime": "aberto",
+   "stj_regime": "aberto",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Sentenca desclassificou para art. 28; TJMG, em apelacao do MP, condenou por trafico a 1a8m em aberto com 2 PRDs. STJ manteve via Sum. 7, destacando drogas fracionadas, diversidade e dinheiro trocado."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3175339",
+   "reu": "ALAN DANIEL FERREIRA DE OLIVEIRA",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Diversidade de drogas fracionadas e embaladas com dinheiro trocado afasta uso proprio; rever demandaria reexame de provas."
+  }
+ ]
+}

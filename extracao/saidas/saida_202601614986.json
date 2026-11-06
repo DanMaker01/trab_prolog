@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "REsp 2269392",
+   "via": "REsp",
+   "data_fato": "",
+   "uf": "PA",
+   "relator": "Joel Ilan Paciornik",
+   "reu": "Igor Jose Maues Ponte",
+   "sexo": "M",
+   "drogas": "oxi",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "dinheiro; linha verde para confeccao de petecas",
+   "majorante_art40": "nao",
+   "origem_abordagem": "denuncia anonima",
+   "local_conhecido": "sim",
+   "comportamento_reu": "fugiu (correndo pela lateral e pulando cercas ao avistar a viatura)",
+   "tipo_busca": "pessoal+domiciliar",
+   "consentimento": "reu (levou os policiais ate sua casa)",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "amigo foragido da justica (Pedrinho)",
+   "parecer_mpf": "",
+   "sent_pena_m": "absolvido",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Juiz absolveu sumariamente por nulidade da busca pessoal; TJ-PA deu provimento a apelacao do MP e determinou prosseguimento da acao. STJ validou a busca por fuga + denuncia anonima especifica (cita Tema 280/STF)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "REsp 2269392",
+   "reu": "Igor Jose Maues Ponte",
+   "tese": "nulidade_busca_pessoal",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Fuga ao avistar policiais, corroborada por denuncia anonima especifica sobre o local, configura fundada suspeita (arts. 240, §2º, e 244 CPP)."
+  },
+  {
+   "processo": "REsp 2269392",
+   "reu": "Igor Jose Maues Ponte",
+   "tese": "outro:absolvicao_sumaria",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Absolvicao sumaria do art. 397 CPP exige manifesta exclusao de tipicidade, ilicitude ou culpabilidade, nao verificada."
+  }
+ ]
+}

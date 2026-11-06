@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1089825",
+   "via": "HC (revisao criminal)",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Ribeiro Dantas",
+   "reu": "Rodrigo Guirelli da Silva",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "64 porcoes",
+   "petrechos_dinheiro": "aparelho celular",
+   "majorante_art40": "III (estabelecimento prisional)",
+   "origem_abordagem": "revista prisional",
+   "local_conhecido": "",
+   "comportamento_reu": "ingressou no estabelecimento prisional com celular e drogas introduzidos no corpo",
+   "tipo_busca": "pessoal",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "revisao criminal usada como segunda apelacao, sem hipotese do art. 621 CPP",
+   "obs": "Condenado por trafico majorado (art. 40, III) e art. 349-A CP por ingressar em presidio com drogas e celular no corpo. Tese de crime impossivel pela vigilancia rejeitada na origem, e o STJ manteve o nao cabimento da revisao."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1089825",
+   "reu": "Rodrigo Guirelli da Silva",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "revisao criminal incabivel",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Revisao criminal nao serve como sucedaneo de apelacao para reexame de provas fora do art. 621 CPP."
+  },
+  {
+   "processo": "HC 1089825",
+   "reu": "Rodrigo Guirelli da Silva",
+   "tese": "outro:crime_impossivel_art17",
+   "quem_alegou": "defesa",
+   "obice": "revisao criminal incabivel",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Tese apenas reiterada, sem hipotese do art. 621 CPP; a origem registrou o ingresso efetivo com apreensao na revista."
+  }
+ ]
+}

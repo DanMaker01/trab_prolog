@@ -1,0 +1,108 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601101415"
+"Numero Unico";"01101412420263000000"
+"Classe";"HC"
+"Numero Classe";"1083638"
+"Tipo Processo";"Originário"
+"Status";"Processo arquivado"
+"UF";"ES"
+"Origem";"TJES"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO"
+"Ministro Relator";"MARIA MARLUCE CALDAS"
+"Orgao Julgador";"QUINTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Arquivado Definitivamente"
+"Data Ultima Fase";"02/07/2026 17:03:10"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"IMPETRANTE";"PATRICK GIORDANO GAIA DE BARROS";"";"PATRICK GIORDANO GAIA DE BARROS | RAYANNA BEZERRA"
+"IMPETRADO";"TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO";"";""
+"PACIENTE";"IARA BARBOSA CARDOSO";"";""
+"INTERESSADO";"MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"25/03/2026"
+"Data Protocolo";"24/03/2026"
+"Data Classificacao";"27/03/2026"
+"Data Arquivamento";"02/07/2026"
+"Data Distribuicao 1";"10/04/2026"
+"Data Distribuicao 2";"27/03/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"00155209420218080024";"Nao";"0";"2"
+"155209420218080024";"Nao";"0";"2"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"prevenção de processo"
+"Motivo";"encaminhamento da ARP"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"246";"Arquivado Definitivamente";"02/07/2026"
+"848";"Transitado em Julgado em 02/07/2026";"02/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO intimado eletronicamente da(o) Acórdãos em 26/06/2026";"26/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 623762/2026";"18/06/2026"
+"118";"Protocolizada Petição 623762/2026 (CieMPF - CIÊNCIA PELO MPF) em 18/06/2026";"18/06/2026"
+"92";"Publicado EMENTA / ACORDÃO em 16/06/2026 Petição Nº 331356/2026 - AgRg";"16/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO";"16/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"16/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"15/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0331356 - AgRg no HC 1083638 - Publicação prevista para 16/06/2026";"12/06/2026"
+"132";"Recebidos os autos no(a) QUINTA TURMA ";"10/06/2026"
+"239";"Conhecido o recurso de IARA BARBOSA CARDOSO e não-provido,por unanimidade, pela QUINTA TURMA Petição Nº 331356/2026 - AgRg no HC 1083638";"09/06/2026"
+"3001";"Proclamação Final de Julgamento: ""A Turma, por unanimidade, negou provimento ao agravo regimental.""
+ Petição Nº 331356/2026 - AgRg no HC 1083638";"09/06/2026"
+"3002";"Inclusão em mesa para julgamento - QUINTA TURMA - sessão do dia 09/06/2026 14:00:00 - Petição N° 202600331356 - AgRg no HC 1083638/ES";"08/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO intimado eletronicamente da(o) Decisões e Vistas em 23/04/2026";"23/04/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 23/04/2026";"23/04/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO intimado eletronicamente da(o) Decisões e Vistas em 22/04/2026";"22/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO";"13/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"13/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 13/04/2026 Petição Nº 331356/2026 - AgRg";"13/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) MARIA MARLUCE CALDAS (Relator) - pela SJD.";"10/04/2026"
+"36";"Redistribuído por dependência, em razão de encaminhamento à ARP, à Ministra MARIA MARLUCE CALDAS - QUINTA TURMA. Processo prevento: AREsp 2808198 (2024/0446994-2)";"10/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"10/04/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSOS ORIGINÁRIOS";"09/04/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE PROCESSOS ORIGINÁRIOS";"09/04/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0331356 - AgRg no HC 1083638 - Publicação prevista para 13/04/2026";"09/04/2026"
+"12474";"Determinada a distribuição do feito";"09/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) com encaminhamento à ARP";"08/04/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 331356/2026";"08/04/2026"
+"118";"Protocolizada Petição 331356/2026 (AgRg - AGRAVO REGIMENTAL) em 08/04/2026";"08/04/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 328370/2026";"08/04/2026"
+"118";"Protocolizada Petição 328370/2026 (CieMPF - CIÊNCIA PELO MPF) em 08/04/2026";"08/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO";"08/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"08/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 08/04/2026 ";"08/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"07/04/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 08/04/2026";"06/04/2026"
+"447";"Denegado o Habeas Corpus a IARA BARBOSA CARDOSO (PRESO)";"06/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) HERMAN BENJAMIN (Presidente) - pela SJD.";"27/03/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"27/03/2026"
+"118";"Protocolizada Petição (originária) em 24/03/2026";"24/03/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600623762";"CIÊNCIA PELO MPF";"CieMPF";"18/06/2026";"MPF"
+"202600331356";"AGRAVO REGIMENTAL";"AgRg";"08/04/2026";"IARA BARBOSA CARDOSO"
+"202600328370";"CIÊNCIA PELO MPF";"CieMPF";"08/04/2026";"MPF"
+"";"";"";"";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"HC";"2026,6,16";"";"202600331356";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

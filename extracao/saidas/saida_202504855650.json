@@ -1,0 +1,96 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1059061",
+   "via": "HC (revisao criminal)",
+   "data_fato": "",
+   "uf": "ES",
+   "relator": "Messod Azulay Neto",
+   "reu": "Hugo Augusto Dias Ferreira",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": 31.6,
+   "porcoes": "",
+   "petrechos_dinheiro": "sacoles plasticos; revolver calibre .32 municiado (3 municoes); 3 municoes calibre .12",
+   "majorante_art40": "IV (arma de fogo)",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "sim (registros de atos infracionais analogos)",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "registros de atos infracionais analogos; confissao extrajudicial; dedicacao a atividades criminosas",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 80.5,
+   "tj_pena_m": 70,
+   "stj_pena_m": 70,
+   "sent_regime": "semiaberto",
+   "tj_regime": "semiaberto",
+   "stj_regime": "semiaberto",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "dedicacao a atividades criminosas: registros de atos infracionais, confissao extrajudicial, depoimentos policiais e apreensao de arma e municoes",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC substitutivo contra acordao de revisao criminal",
+   "obs": "Transito em julgado em 2019; STJ entendeu que mudanca jurisprudencial posterior sobre uso de atos infracionais para negar o p4 nao autoriza revisao criminal (art. 621 CPP). Absolvido dos arts. 35 da LD e 16 da Lei 10.826/03."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1059061",
+   "reu": "Hugo Augusto Dias Ferreira",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Afastamento fundado em atos infracionais, confissao e circunstancias da apreensao; revisao exigiria reexame fatico-probatorio."
+  },
+  {
+   "processo": "HC 1059061",
+   "reu": "Hugo Augusto Dias Ferreira",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "revisao criminal incabivel",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Alteracao jurisprudencial posterior sobre atos infracionais nao se enquadra no art. 621 do CPP nem desconstitui a coisa julgada."
+  },
+  {
+   "processo": "HC 1059061",
+   "reu": "Hugo Augusto Dias Ferreira",
+   "tese": "outro:bis_in_idem",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pena-base foi reconduzida ao minimo e quantidade/natureza da droga nao foram usadas para negar o p4, inexistindo bis in idem."
+  },
+  {
+   "processo": "HC 1059061",
+   "reu": "Hugo Augusto Dias Ferreira",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ausente ilegalidade patente na manutencao do semiaberto, consideradas arma de fogo e municoes."
+  },
+  {
+   "processo": "HC 1059061",
+   "reu": "Hugo Augusto Dias Ferreira",
+   "tese": "substituicao_prd",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido consequencial ao p4, sem flagrante ilegalidade."
+  }
+ ]
+}

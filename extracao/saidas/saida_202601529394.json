@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1090524",
+   "via": "HC",
+   "data_fato": "2022-01-11",
+   "uf": "RJ",
+   "relator": "Reynaldo Soares da Fonseca",
+   "reu": "FELIPE DE SOUZA LIMA",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": "",
+   "porcoes": "tabletes de maconha (quantidade nao informada)",
+   "petrechos_dinheiro": "balanca de precisao",
+   "majorante_art40": "",
+   "origem_abordagem": "outro (correu abordado por policiais civis conduziu-os a residencia do reu)",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "domiciliar",
+   "consentimento": "o proprio reu (franqueou a entrada, segundo policiais; contestado pela defesa)",
+   "primario": "",
+   "antecedentes": "maus antecedentes (condenacao por receptacao, art. 180 CP, transitada em 23/11/2015)",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": 72,
+   "tj_pena_m": 72,
+   "stj_pena_m": 72,
+   "sent_regime": "semiaberto",
+   "tj_regime": "semiaberto",
+   "stj_regime": "semiaberto",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "maus antecedentes (condenacao anterior transitada em julgado); quantidade tambem mencionada",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "nulidade da busca domiciliar nao suscitada na apelacao (supressao de instancia)",
+   "obs": "Ingresso domiciliar baseado apenas na indicacao do correu abordado em via publica, com consentimento nao documentado, mas a tese nao foi conhecida por supressao de instancia. Correu Vitor (primario) recebeu o redutor de 2/3; pena-base exasperada pela quantidade."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1090524",
+   "reu": "FELIPE DE SOUZA LIMA",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Materia nao suscitada na apelacao nem apreciada pelo TJ; exame direto configuraria supressao de instancia, sem teratologia para concessao de oficio."
+  },
+  {
+   "processo": "HC 1090524",
+   "reu": "FELIPE DE SOUZA LIMA",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Maus antecedentes por condenacao anterior transitada em julgado constituem fundamento autonomo que impede o redutor."
+  }
+ ]
+}

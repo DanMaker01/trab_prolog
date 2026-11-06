@@ -1,0 +1,106 @@
+{
+ "casos": [
+  {
+   "processo": "REsp 2246105",
+   "via": "REsp",
+   "data_fato": "",
+   "uf": "CE",
+   "relator": "Joel Ilan Paciornik",
+   "reu": "LEONARDO MELO MARTINHO",
+   "sexo": "M",
+   "drogas": "cocaina+crack",
+   "qtd_g": 28,
+   "porcoes": "",
+   "petrechos_dinheiro": "arma de fogo",
+   "majorante_art40": "",
+   "origem_abordagem": "outro (policiais militares o avistaram tentando pular muro)",
+   "local_conhecido": "",
+   "comportamento_reu": "tentou pular um muro apos avistar os policiais",
+   "tipo_busca": "pessoal+domiciliar",
+   "consentimento": "",
+   "primario": "nao",
+   "antecedentes": "reincidente em crime doloso",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "parcial",
+   "erro_tecnico_defesa": "nao interpos recurso extraordinario contra fundamento constitucional (Sum. 126)",
+   "obs": "Decisao monocratica deu parcial provimento ao REsp para reduzir a pena (valores nao constam); agravo regimental desprovido. Defesa alegou reconducao ao domicilio de terceiro (Danilo) e tortura psicologica; GPS das viaturas indisponivel por impossibilidade tecnica."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "REsp 2246105",
+   "reu": "LEONARDO MELO MARTINHO",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Acordao afastou a nulidade com base no art. 5o, XI, da CF e no CPP, sem RE simultaneo, incidindo a Sumula 126/STJ."
+  },
+  {
+   "processo": "REsp 2246105",
+   "reu": "LEONARDO MELO MARTINHO",
+   "tese": "outro:cerceamento_defesa_oitiva_testemunhas",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Indeferimento motivado de nova oitiva (art. 400, par. 1o, CPP) sem prejuizo concreto nao e cerceamento."
+  },
+  {
+   "processo": "REsp 2246105",
+   "reu": "LEONARDO MELO MARTINHO",
+   "tese": "outro:perda_chance_probatoria_gps",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ausencia do relatorio de GPS decorreu de impossibilidade tecnica e o acervo probatorio e suficiente para a condenacao."
+  },
+  {
+   "processo": "REsp 2246105",
+   "reu": "LEONARDO MELO MARTINHO",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Rever a suficiencia dos depoimentos policiais para a condenacao exige reexame de provas."
+  },
+  {
+   "processo": "REsp 2246105",
+   "reu": "LEONARDO MELO MARTINHO",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Reincidencia justifica regime fechado mesmo com pena inferior a 8 anos (art. 33, par. 2o, CP)."
+  },
+  {
+   "processo": "REsp 2246105",
+   "reu": "LEONARDO MELO MARTINHO",
+   "tese": "outro:hc_de_oficio",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Concessao de oficio e iniciativa do julgador e pressupoe flagrante ilegalidade, inexistente."
+  }
+ ]
+}

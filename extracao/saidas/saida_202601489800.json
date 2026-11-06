@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1090067",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Ribeiro Dantas",
+   "reu": "RAFAEL SALADIN ADAM HAFNI",
+   "sexo": "M",
+   "drogas": "cocaina",
+   "qtd_g": 2893.8,
+   "porcoes": "",
+   "petrechos_dinheiro": "mala com fundo falso",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "sim",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "dedicacao a atividade criminosa: quantidade/natureza, droga em fundo falso de mala, hospedagem de cerca de uma semana com pagamentos diarios em especie, recebimento previo de mala de terceiro, respostas desconexas sobre a estadia",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Pena-base fixada em 6a3m (75 meses) pela quantidade/natureza; pena final nao informada (apenas 'superior a 4 e nao excedente a 8 anos'). Regime fechado mantido para reu primario com base so na circunstancia judicial da quantidade; bis in idem afastado por haver elementos alem da quantidade."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1090067",
+   "reu": "RAFAEL SALADIN ADAM HAFNI",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Natureza e quantidade (2.893,8 g de cocaina) sao preponderantes (art. 42) e o aumento foi proporcional ao intervalo de 5 a 15 anos."
+  },
+  {
+   "processo": "HC 1090067",
+   "reu": "RAFAEL SALADIN ADAM HAFNI",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Afastamento baseado em elementos concretos de habitualidade alem da quantidade, sem bis in idem; revisao exigiria reexame fatico-probatorio inviavel em HC."
+  },
+  {
+   "processo": "HC 1090067",
+   "reu": "RAFAEL SALADIN ADAM HAFNI",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Valoracao negativa da quantidade/natureza da droga justifica regime fechado mesmo com pena entre 4 e 8 anos (art. 33 CP c/c art. 42)."
+  },
+  {
+   "processo": "HC 1090067",
+   "reu": "RAFAEL SALADIN ADAM HAFNI",
+   "tese": "substituicao_prd",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pena superior a 4 anos nao atende ao requisito objetivo do art. 44, I, do CP."
+  }
+ ]
+}

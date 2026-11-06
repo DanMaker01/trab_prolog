@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1084012",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "SC",
+   "relator": "Messod Azulay Neto",
+   "reu": "Guilherme Henrique Bettiato",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "celular (quebrado pelo reu na abordagem); R$ 500,00 recebidos pelo transporte",
+   "majorante_art40": "VI (adolescente)",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "quebrou deliberadamente o celular durante a abordagem",
+   "tipo_busca": "veicular",
+   "consentimento": "",
+   "primario": "nao",
+   "antecedentes": "maus antecedentes e reincidente (art. 61, I, CP)",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": 153.7,
+   "tj_pena_m": 153.7,
+   "stj_pena_m": 153.7,
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC substitutivo de apelacao/REsp buscando reexame de provas",
+   "obs": "Majorante do art. 40, VI mantida sem certidao de nascimento, com base no Tema 1.052 (CPF e RG da menor em documentos publicos). Absolvido de associacao (art. 35) e de arma (art. 16 Lei 10.826) na sentenca."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1084012",
+   "reu": "Guilherme Henrique Bettiato",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Insuficiencia probatoria demanda revolvimento de fatos e provas, inviavel em HC."
+  },
+  {
+   "processo": "HC 1084012",
+   "reu": "Guilherme Henrique Bettiato",
+   "tese": "outro:majorante_art40_VI",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Menoridade comprovada por documentos publicos com CPF e RG da menor, conforme Tema Repetitivo 1.052."
+  },
+  {
+   "processo": "HC 1084012",
+   "reu": "Guilherme Henrique Bettiato",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Dosimetria fundada em elementos concretos insere-se na discricionariedade do julgador; sem flagrante ilegalidade."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1049019",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Maria Marluce Caldas",
+   "reu": "IRAN TAYSSON HERNEQUES RODRIGUES",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": 79.17,
+   "tj_pena_m": 79.17,
+   "stj_pena_m": 79.17,
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC impetrado apos transito em julgado (23/07/2025) como sucedaneo de revisao criminal",
+   "obs": "Pena-base exasperada pela natureza e diversidade das drogas (art. 42); houve voto vencido na apelacao no TJMG e reconhecimento da atenuante da menoridade relativa. STJ nao conheceu do HC e afastou concessao de oficio."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1049019",
+   "reu": "IRAN TAYSSON HERNEQUES RODRIGUES",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "HC contra acordao transitado em julgado e sucedaneo de revisao criminal; competencia revisional e do tribunal de origem (art. 621 CPP)."
+  },
+  {
+   "processo": "HC 1049019",
+   "reu": "IRAN TAYSSON HERNEQUES RODRIGUES",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Exasperacao pela natureza e diversidade das drogas tem amparo no art. 42 da Lei 11.343/06, sem desproporcionalidade manifesta; reexame exigiria revolvimento probatorio."
+  },
+  {
+   "processo": "HC 1049019",
+   "reu": "IRAN TAYSSON HERNEQUES RODRIGUES",
+   "tese": "outro:atenuante_menoridade_e_voto_vencido",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Atenuante da menoridade relativa foi reconhecida e aplicada; voto vencido nao tem forca para infirmar decisao colegiada."
+  }
+ ]
+}

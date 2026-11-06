@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1106011",
+   "via": "HC",
+   "data_fato": "2022-08-24",
+   "uf": "DF",
+   "relator": "Reynaldo Soares da Fonseca",
+   "reu": "WESLEY DE ANDRADE SANTOS",
+   "sexo": "M",
+   "drogas": "cocaina+maconha",
+   "qtd_g": 49.35,
+   "porcoes": "porcoes de cocaina (parte fracionada) + 1 porcao de maconha",
+   "petrechos_dinheiro": "balanca de precisao; extensor de carregador de pistola; dinheiro em especie; celular; veiculo Hyundai Azera e motocicleta",
+   "majorante_art40": "",
+   "origem_abordagem": "denuncia anonima",
+   "local_conhecido": "",
+   "comportamento_reu": "ao perceber a guarnicao, trancou o portao, correu para o interior do imovel e se desfez de objeto (cocaina)",
+   "tipo_busca": "domiciliar",
+   "consentimento": "nao",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Denuncia anonima indicava a residencia e veiculo supostamente envolvido em homicidio (nao trafico); STJ validou o ingresso pela denuncia + fuga para o imovel, citando campanas e investigacao previa. HC substitutivo de recurso especial nao conhecido; penas nao informadas."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1106011",
+   "reu": "WESLEY DE ANDRADE SANTOS",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Denuncia anonima corroborada por fuga para o interior do imovel e investigacao previa configuram fundadas razoes para o ingresso em crime permanente."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3196470",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Maria Marluce Caldas",
+   "reu": "Andre Vieira da Silva",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "dinheiro fracionado escondido em objeto inusitado",
+   "majorante_art40": "nao",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "envolvido com organizacao que realiza o trafico de drogas;atividade habitual;local onde foi surpreendido",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 20,
+   "tj_pena_m": 70,
+   "stj_pena_m": 70,
+   "sent_regime": "aberto",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "sim",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "consideravel quantidade de droga de alto poder viciante, acondicionamento para mercancia, diversidade de substancias, dinheiro fracionado escondido e local da apreensao indicando habitualidade",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "sem indicacao firme e precisa dos dispositivos violados quanto a desclassificacao, regime e substituicao (Sum. 284/STF)",
+   "obs": "Sentenca aplicou o redutor (1a8m, aberto, PRD); TJ, em apelacao do MP, afastou o privilegio e elevou a pena para 5a10m em regime fechado. STJ manteve com base em circunstancias do caso e Sum. 7."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3196470",
+   "reu": "Andre Vieira da Silva",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Quantidade/natureza das drogas, acondicionamento, diversidade, dinheiro fracionado e local evidenciam habitualidade; rever exigiria reexame de provas."
+  },
+  {
+   "processo": "AREsp 3196470",
+   "reu": "Andre Vieira da Silva",
+   "tese": "outro:desclassificacao",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Nao houve indicacao firme e precisa dos dispositivos legais violados."
+  },
+  {
+   "processo": "AREsp 3196470",
+   "reu": "Andre Vieira da Silva",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Deficiencia de fundamentacao por falta de indicacao precisa do dispositivo violado."
+  },
+  {
+   "processo": "AREsp 3196470",
+   "reu": "Andre Vieira da Silva",
+   "tese": "substituicao_prd",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Deficiencia de fundamentacao por falta de indicacao precisa do dispositivo violado."
+  }
+ ]
+}

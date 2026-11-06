@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "REsp 2239210",
+   "via": "REsp",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Maria Marluce Caldas",
+   "reu": "VANESSA CATARINE GUSSON VALIENTE BRONTE",
+   "sexo": "F",
+   "drogas": "medicamentos controlados (portaria svs/ms 344/1998)",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "outro (falsa medica que prescreveu medicamentos controlados)",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "nao",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 104,
+   "tj_pena_m": 47.33,
+   "stj_pena_m": 47.33,
+   "sent_regime": "fechado",
+   "tj_regime": "aberto",
+   "stj_regime": "aberto",
+   "sent_p4": "sim",
+   "tj_p4": "sim",
+   "stj_p4": "sim",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Trafico na modalidade 'prescrever' por falsa medica (diploma obtido com documentos falsos), em concurso formal com exercicio ilegal da medicina (art. 282 CP) e uso de documento falso; TJ reconheceu concurso formal, reduziu pena e substituiu por PRD. Sentenca tambem impos 1 ano de detencao (nao somado em sent_pena_m)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "REsp 2239210",
+   "reu": "VANESSA CATARINE GUSSON VALIENTE BRONTE",
+   "tese": "outro:consuncao_282CP_x_art33_crime_proprio",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Exercicio ilegal da medicina e trafico na modalidade prescrever nao guardam relacao meio-fim (sem consuncao), sendo possivel ao falso medico praticar o art. 33; rever a concomitancia exigiria reexame de provas."
+  },
+  {
+   "processo": "REsp 2239210",
+   "reu": "VANESSA CATARINE GUSSON VALIENTE BRONTE",
+   "tese": "outro:desclassificacao_art38",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "O art. 38 pressupoe culpa de profissional habilitado; instancias reconheceram dolo de quem nao tinha habilitacao, e rever isso exige reexame probatorio."
+  }
+ ]
+}

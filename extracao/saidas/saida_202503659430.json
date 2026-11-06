@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1037460",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Joel Ilan Paciornik",
+   "reu": "Jose Maria Versiani Campos",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "mandado",
+   "local_conhecido": "sim",
+   "comportamento_reu": "",
+   "tipo_busca": "domiciliar",
+   "consentimento": "nao (mandado judicial)",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 72,
+   "tj_pena_m": 84,
+   "stj_pena_m": 84,
+   "sent_regime": "semiaberto",
+   "tj_regime": "semiaberto",
+   "stj_regime": "semiaberto",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Busca domiciliar em estabelecimento comercial ('2a Venda') e residencia, por mandado expedido apos denuncias anonimas especificadas corroboradas por diligencias previas; condenacao tambem por posse de arma (art. 12 Lei 10.826). TJ deu parcial provimento a apelacao do MP para elevar a pena-base pela quantidade de droga; apelacao da nova defesa nao conhecida por preclusao consumativa."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1037460",
+   "reu": "Jose Maria Versiani Campos",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Mandado de busca expedido a partir de denuncia anonima especificada e corroborada por diligencias previas demonstra fundadas razoes (art. 240 CPP; RE 603.616)."
+  }
+ ]
+}

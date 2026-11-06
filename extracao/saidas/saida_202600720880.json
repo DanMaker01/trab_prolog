@@ -1,0 +1,96 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3189948",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Reynaldo Soares da Fonseca",
+   "reu": "INGUERSON MARCAL",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": "",
+   "porcoes": "porcoes espalhadas no chao",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "nao",
+   "origem_abordagem": "denuncia anonima",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "domiciliar",
+   "consentimento": "nao",
+   "primario": "nao",
+   "antecedentes": "reincidente",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "reincidencia",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Ingresso validado por denuncia especificada, odor intenso de maconha e drogas visiveis pela janela; subsidiariamente, imovel desocupado usado so para trafico nao goza de protecao domiciliar. EDcl rejeitados: contradicao entre vinculo ao imovel (autoria) e negativa de domicilio afastada."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3189948",
+   "reu": "INGUERSON MARCAL",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Fundadas razoes (denuncia especificada, odor e droga visivel) e imovel desocupado sem protecao de domicilio."
+  },
+  {
+   "processo": "AREsp 3189948",
+   "reu": "INGUERSON MARCAL",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Rever a suficiencia das provas para absolver exige reexame fatico-probatorio."
+  },
+  {
+   "processo": "AREsp 3189948",
+   "reu": "INGUERSON MARCAL",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Reincidencia impede o trafico privilegiado; maus antecedentes nao foram fundamento."
+  },
+  {
+   "processo": "AREsp 3189948",
+   "reu": "INGUERSON MARCAL",
+   "tese": "outro:violacao_dispositivos_constitucionais",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Analise de ofensa a dispositivos constitucionais compete ao STF, ainda que para prequestionamento."
+  },
+  {
+   "processo": "AREsp 3189948",
+   "reu": "INGUERSON MARCAL",
+   "tese": "outro:embargos_contradicao_omissao",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Inexistem vicios do art. 619 do CPP; fundamento do imovel desocupado era subsidiario e nao contraditorio."
+  }
+ ]
+}

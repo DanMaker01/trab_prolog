@@ -1,0 +1,96 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1103257",
+   "via": "HC",
+   "data_fato": "2019-10-11",
+   "uf": "SP",
+   "relator": "Reynaldo Soares da Fonseca",
+   "reu": "RAFAEL VALENTIN CORREIA",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": 162.25,
+   "porcoes": "14 porcoes",
+   "petrechos_dinheiro": "2 pacotes de embalagens plasticas; anotacoes de conta bancaria e telefones",
+   "majorante_art40": "III (estabelecimento prisional)",
+   "origem_abordagem": "revista prisional",
+   "local_conhecido": "",
+   "comportamento_reu": "jogou mochila na mata e saiu em desabalada carreira (fuga) ao visualizar a viatura",
+   "tipo_busca": "pessoal",
+   "consentimento": "",
+   "primario": "nao",
+   "antecedentes": "multirreincidente especifico (2 condenacoes por trafico, execucoes nao extintas)",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": 93.3,
+   "tj_pena_m": 93.3,
+   "stj_pena_m": 93.3,
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "fundamento nao transcrito (reu multirreincidente especifico)",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Reeducando em servico externo (Fazenda Mirante, CPP I Bauru) flagrado em operacao com drone; acordao do TJ trazia nome de terceiro na identificacao, tido como mero erro material. Reincidencia elevada em 1/3 por multirreincidencia especifica (Tema 1.172) e art. 40, III aplicado por natureza objetiva."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1103257",
+   "reu": "RAFAEL VALENTIN CORREIA",
+   "tese": "outro:nulidade_acordao_erro_identificacao_parte",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Nome de terceiro no campo de identificacao e erro material sem prejuizo, pois o acordao examinou fatos, provas e dosimetria do paciente."
+  },
+  {
+   "processo": "HC 1103257",
+   "reu": "RAFAEL VALENTIN CORREIA",
+   "tese": "outro:perda_de_uma_chance_probatoria_imagens_drone",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Tese nao apreciada pelo TJ (supressao de instancia) e dependente de revolvimento fatico-probatorio."
+  },
+  {
+   "processo": "HC 1103257",
+   "reu": "RAFAEL VALENTIN CORREIA",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Suficiencia das provas (depoimentos dos agentes em juizo, apreensao, laudo) exige reexame fatico-probatorio, inviavel em HC."
+  },
+  {
+   "processo": "HC 1103257",
+   "reu": "RAFAEL VALENTIN CORREIA",
+   "tese": "outro:fracao_reincidencia_1_3_tema_1172",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Fracao de 1/3 justificada concretamente pela multirreincidencia especifica (duas condenacoes anteriores por trafico)."
+  },
+  {
+   "processo": "HC 1103257",
+   "reu": "RAFAEL VALENTIN CORREIA",
+   "tese": "outro:afastamento_majorante_art40_III",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Majorante tem natureza objetiva; basta o trafico nas dependencias/imediacoes de estabelecimento prisional, irrelevante a condicao de reeducando."
+  }
+ ]
+}

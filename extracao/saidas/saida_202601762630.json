@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3252786",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "RS",
+   "relator": "Ribeiro Dantas",
+   "reu": "CARLOS MIGUEL MARCHESINI",
+   "sexo": "M",
+   "drogas": "cocaina",
+   "qtd_g": "",
+   "porcoes": "6 porcoes",
+   "petrechos_dinheiro": "R$ 7.600,00 em especie, balanca de precisao, aparelho telefonico, cameras de video",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "domiciliar",
+   "consentimento": "",
+   "primario": "sim",
+   "antecedentes": "tecnicamente primario; condenacoes provisorias (trafico privilegiado; trafico e resistencia por fato posterior) e acao penal em curso por trafico",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "suposto envolvimento com faccao criminosa;informacoes preteritas da policia",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "2/3",
+   "tj_fund_neg_p4": "acoes penais em curso/condenacoes provisorias, suposto envolvimento com faccao e objetos apreendidos com a droga",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "parcial",
+   "erro_tecnico_defesa": "",
+   "obs": "REsp da defesa desprovido, mas redutor de 2/3 concedido de oficio (Tema 1139: acoes em curso nao afastam o §4º) e mantido no AgRg do MP. Autos remetidos ao juizo de origem para o MP local avaliar ANPP em 15 dias (Tema 1098)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3252786",
+   "reu": "CARLOS MIGUEL MARCHESINI",
+   "tese": "p4",
+   "quem_alegou": "mp",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "favoravel",
+   "fundamento": "Acoes penais em curso, condenacoes nao definitivas e informacoes policiais/suposta faccao nao demonstram dedicacao criminosa (Tema 1139), e a quantidade isolada nao basta."
+  },
+  {
+   "processo": "AREsp 3252786",
+   "reu": "CARLOS MIGUEL MARCHESINI",
+   "tese": "outro:anpp_instancia",
+   "quem_alegou": "mp",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "favoravel",
+   "fundamento": "Tema 1098 nao impoe analise do ANPP no STJ; remessa ao juizo de origem para o MP oficiante avaliar o acordo, por economia processual e art. 28-A, §14, CPP."
+  }
+ ]
+}

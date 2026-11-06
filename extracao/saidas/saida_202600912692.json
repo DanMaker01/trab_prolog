@@ -1,0 +1,96 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1080193",
+   "via": "HC",
+   "data_fato": "2025-07-21",
+   "uf": "MG",
+   "relator": "Reynaldo Soares da Fonseca",
+   "reu": "Marcelo Miranda",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "investigacao",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "chefe do grupo criminoso;posicao de comando e coordenacao;organizacao criminosa;periculosidade do agente",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "inovacao recursal (isonomia/parecer do MP em autos conexos e pedido liminar no agravo)",
+   "obs": "HC contra prisao preventiva (trafico, orcrim e lavagem), sem condenacao; preventiva decretada em 14/5/2025 e cumprida em 21/7/2025. Excesso de prazo afastado pela complexidade (19 denunciados); 14 de 16 corréus respondem soltos, mas tese de isonomia nao conhecida por inovacao."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1080193",
+   "reu": "Marcelo Miranda",
+   "tese": "outro:excesso_prazo",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Feito complexo com muitos reus e diligencias, tramitacao regular sem desidia do Judiciario."
+  },
+  {
+   "processo": "HC 1080193",
+   "reu": "Marcelo Miranda",
+   "tese": "outro:reavaliacao_nonagesimal_art316",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "A prisao foi reavaliada sucessivamente e o prazo de 90 dias nao e peremptorio (SL 1.395/STF)."
+  },
+  {
+   "processo": "HC 1080193",
+   "reu": "Marcelo Miranda",
+   "tese": "outro:medidas_cautelares_diversas",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Gravidade concreta e periculosidade (chefe do grupo) tornam insuficientes as cautelares do art. 319 CPP."
+  },
+  {
+   "processo": "HC 1080193",
+   "reu": "Marcelo Miranda",
+   "tese": "outro:isonomia_desnecessidade_prisao_parecer_mp",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Fato novo nao examinado pelas instancias ordinarias, vedada inovacao recursal no agravo."
+  },
+  {
+   "processo": "HC 1080193",
+   "reu": "Marcelo Miranda",
+   "tese": "outro:liminar_suspensao_audiencia_em_agravo",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido liminar em agravo regimental e incabivel por falta de previsao legal e configura inovacao recursal."
+  }
+ ]
+}

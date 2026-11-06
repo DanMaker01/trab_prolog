@@ -1,0 +1,120 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202502910670"
+"Numero Unico";"00047966420208070001"
+"Classe";"AREsp"
+"Numero Classe";"3013966"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"DF"
+"Origem";"TJDFT"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS"
+"Ministro Relator";"MESSOD AZULAY NETO"
+"Orgao Julgador";"QUINTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Valor Causa";"0"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS"
+"Data Ultima Fase";"24/09/2026 15:13:18"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"AGRAVANTE";"GEOVANE OLIVEIRA DA SILVA";"";"DEFENSORIA PÚBLICA DO DISTRITO FEDERAL"
+"AGRAVADO";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.";"Crimes de Tráfico Ilícito e Uso Indevido de Drogas";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"13/08/2025"
+"Data Protocolo";"04/08/2025"
+"Data Baixa";"24/09/2026"
+"Data Distribuicao 1";"29/08/2025"
+"Data Distribuicao 2";"14/08/2025"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"00047966420208070001";"Nao";"0";"0"
+"47966420208070001";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"automática"
+"Motivo";"despacho/decisão"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS";"24/09/2026"
+"848";"Transitado em Julgado em 24/09/2026";"24/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Acórdãos em 24/08/2026";"24/08/2026"
+"300104";"DEFENSORIA PÚBLICA DO DISTRITO FEDERAL intimado eletronicamente da(o) Acórdãos em 24/08/2026";"24/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 819897/2026";"14/08/2026"
+"118";"Protocolizada Petição 819897/2026 (CieMPF - CIÊNCIA PELO MPF) em 14/08/2026";"14/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"13/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"13/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) DEFENSORIA PÚBLICA DO DISTRITO FEDERAL";"13/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 13/08/2026 Petição Nº 1101095/2025 - AgRg";"13/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"12/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2025/1101095 - AgRg no AREsp 3013966 - Publicação prevista para 13/08/2026";"07/08/2026"
+"132";"Recebidos os autos no(a) QUINTA TURMA ";"05/08/2026"
+"239";"Conhecido o recurso de GEOVANE OLIVEIRA DA SILVA e não-provido,por unanimidade, pela QUINTA TURMA Petição Nº 1101095/2025 - AgRg no AREsp 3013966";"04/08/2026"
+"3001";"Proclamação Final de Julgamento: ""A Turma, por unanimidade, negou provimento ao agravo regimental.""
+ Petição Nº 1101095/2025 - AgRg no AREsp 3013966";"04/08/2026"
+"3002";"Inclusão em mesa para julgamento - pela QUINTA TURMA - sessão do dia 04/08/2026 14:00:00 ";"31/07/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) MESSOD AZULAY NETO (Relator)";"11/11/2025"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 1101095/2025";"11/11/2025"
+"118";"Protocolizada Petição 1101095/2025 (AgRg - AGRAVO REGIMENTAL) em 11/11/2025";"11/11/2025"
+"300104";"DEFENSORIA PÚBLICA DO DISTRITO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 03/11/2025";"03/11/2025"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Decisões e Vistas em 03/11/2025";"03/11/2025"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 1028778/2025";"24/10/2025"
+"118";"Protocolizada Petição 1028778/2025 (CieMPF - CIÊNCIA PELO MPF) em 24/10/2025";"24/10/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"24/10/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"24/10/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO DISTRITO FEDERAL";"24/10/2025"
+"92";"Publicado DESPACHO / DECISÃO em 24/10/2025 ";"24/10/2025"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"23/10/2025"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"23/10/2025"
+"12436";"Conheço do agravo de GEOVANE OLIVEIRA DA SILVA para não conhecer do Recurso Especial";"21/10/2025"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 24/10/2025";"21/10/2025"
+"51";"Conclusos para decisão ao(à) Ministro(a) MESSOD AZULAY NETO (Relator)";"26/09/2025"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"26/09/2025"
+"85";"Juntada de Petição de PARECER DO MPF nº 916052/2025";"26/09/2025"
+"118";"Protocolizada Petição 916052/2025 (PET - PETIÇÃO) em 26/09/2025";"26/09/2025"
+"300104";"DEFENSORIA PÚBLICA DO DISTRITO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 12/09/2025";"12/09/2025"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Decisões e Vistas em 12/09/2025";"12/09/2025"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 12/09/2025";"12/09/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"02/09/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"02/09/2025"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO DISTRITO FEDERAL";"02/09/2025"
+"92";"Publicado DESPACHO / DECISÃO em 02/09/2025 ";"02/09/2025"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"01/09/2025"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"29/08/2025"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"29/08/2025"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL ";"29/08/2025"
+"581";"Juntada de Certidão Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à Coordenadoria de Processamento de Feitos de Direito Penal para abertura de vista ao MPF.";"29/08/2025"
+"36";"Redistribuído por sorteio, em razão de despacho/decisão, ao Ministro MESSOD AZULAY NETO - QUINTA TURMA";"29/08/2025"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"28/08/2025"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"28/08/2025"
+"12474";"Determinada a distribuição do feito";"28/08/2025"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 02/09/2025";"28/08/2025"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) - pela SJD";"14/08/2025"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"14/08/2025"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS";"04/08/2025"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600819897";"CIÊNCIA PELO MPF";"CieMPF";"14/08/2026";"MPF"
+"202501101095";"AGRAVO REGIMENTAL";"AgRg";"11/11/2025";"GEOVANE OLIVEIRA DA SILVA"
+"202501028778";"CIÊNCIA PELO MPF";"CieMPF";"24/10/2025";"MPF"
+"202500916052";"PARECER DO MPF";"ParMPF";"26/09/2025";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"AREsp";"2026,8,13";"";"202501101095";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3104793",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "BA",
+   "relator": "Maria Marluce Caldas",
+   "reu": "YASMIN VITORIA ALVES FONSECA",
+   "sexo": "F",
+   "drogas": "cocaina",
+   "qtd_g": 40.34,
+   "porcoes": "51 eppendorfs + 54 trouxinhas",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Desclassificacao para art. 28 negada pela quantidade, forma de acondicionamento e circunstancias do flagrante; STJ lembrou que o Tema 506/STF so alcanca maconha ate 40 g. Defesa (DPE) alegou ser re primaria e de bons antecedentes, sem confirmacao no acordao."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3104793",
+   "reu": "YASMIN VITORIA ALVES FONSECA",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Quantidade, acondicionamento em multiplas porcoes e circunstancias do flagrante afastam uso exclusivo; rever exige reexame de provas."
+  }
+ ]
+}

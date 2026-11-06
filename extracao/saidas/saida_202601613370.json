@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1092168",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Messod Azulay Neto",
+   "reu": "Luis Fernando Bercari",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "nao",
+   "antecedentes": "reincidente",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": 90,
+   "tj_pena_m": 70,
+   "stj_pena_m": 70,
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC impetrado apos transito em julgado como sucedaneo de revisao criminal",
+   "obs": "Transito em julgado em 17/09/2025; STJ nao examinou a compensacao integral confissao x reincidencia por incompetencia para pleito revisional. Concessao de oficio tratada como prerrogativa do julgador, nao direito da parte."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1092168",
+   "reu": "Luis Fernando Bercari",
+   "tese": "outro:compensacao_confissao_reincidencia",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "HC apos o transito em julgado nao substitui revisao criminal e nao ha ilegalidade flagrante para concessao de oficio."
+  },
+  {
+   "processo": "HC 1092168",
+   "reu": "Luis Fernando Bercari",
+   "tese": "outro:deficiencia_fundamentacao_decisao_agravada",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Decisao agravada em consonancia com a jurisprudencia consolidada, mantida por seus proprios fundamentos."
+  }
+ ]
+}

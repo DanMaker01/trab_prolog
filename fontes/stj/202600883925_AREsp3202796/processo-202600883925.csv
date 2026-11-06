@@ -1,0 +1,124 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202600883925"
+"Numero Unico";"00100903620248272706"
+"Classe";"AREsp"
+"Numero Classe";"3202796"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"TO"
+"Origem";"TJTO"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS"
+"Ministro Relator";"RIBEIRO DANTAS"
+"Orgao Julgador";"QUINTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Valor Causa";"0"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS"
+"Data Ultima Fase";"17/08/2026 13:53:07"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"AGRAVANTE";"CARLOS HENRIQUE PIRES DE SOUSA";"";""
+"AGRAVANTE";"JUNIOR ALMEIDA DE OLIVEIRA";"";"DEFENSORIA PÚBLICA DO ESTADO DO TOCANTINS"
+"AGRAVADO";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"17/03/2026"
+"Data Protocolo";"11/03/2026"
+"Data Baixa";"17/08/2026"
+"Data Distribuicao 1";"27/03/2026"
+"Data Distribuicao 2";"17/03/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"00050429620248272706";"Nao";"0";"0"
+"00100903620248272706";"Nao";"0";"0"
+"100903620248272706";"Nao";"0";"0"
+"50429620248272706";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"automática"
+"Motivo";"encaminhamento da ARP"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS";"17/08/2026"
+"848";"Transitado em Julgado em 17/08/2026";"17/08/2026"
+"581";"Juntada de Certidão : Certifico que, nesta data, procedi ao restabelecimento da tramitação dos presentes para regular processamento em razão de equívoco na certificação do trânsito em julgado, tornando sem efeito a certidão com remessa ao Tribunal de origem, aposta à e-STJ fls. retro, bem como a respectiva fase processual lançada no Sistema Integrado da Atividade Judiciária – SIAJ desta Corte.";"13/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS intimado eletronicamente da(o) Acórdãos em 25/06/2026";"25/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 619657/2026";"17/06/2026"
+"118";"Protocolizada Petição 619657/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/06/2026";"17/06/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE TOCANTINS intimado eletronicamente da(o) Acórdãos em 15/06/2026";"15/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS";"15/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE TOCANTINS";"15/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"15/06/2026"
+"92";"Publicado EMENTA / ACORDÃO em 15/06/2026 Petição Nº 427928/2026 - AgRg";"15/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"12/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0427928 - AgRg no AREsp 3202796 - Publicação prevista para 15/06/2026";"11/06/2026"
+"132";"Recebidos os autos no(a) QUINTA TURMA ";"11/06/2026"
+"3001";"Proclamação Final de Julgamento: ""A Turma, por unanimidade, negou provimento ao agravo regimental.""
+ Petição Nº 427928/2026 - AgRg no AREsp 3202796";"09/06/2026"
+"239";"Conhecido o recurso de CARLOS HENRIQUE PIRES DE SOUSA e JUNIOR ALMEIDA DE OLIVEIRA e não-provido,por unanimidade, pela QUINTA TURMA Petição Nº 427928/2026 - AgRg no AREsp 3202796";"09/06/2026"
+"3002";"Inclusão em mesa para julgamento - QUINTA TURMA - sessão do dia 09/06/2026 14:00:00 - Petição N° 202600427928 - AgRg no AREsp 3202796/TO";"03/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS intimado eletronicamente da(o) Decisões e Vistas em 08/05/2026";"08/05/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE TOCANTINS intimado eletronicamente da(o) Decisões e Vistas em 08/05/2026";"08/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) RIBEIRO DANTAS (Relator)";"04/05/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 427928/2026";"04/05/2026"
+"118";"Protocolizada Petição 427928/2026 (AgRg - AGRAVO REGIMENTAL) em 04/05/2026";"04/05/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 409106/2026";"28/04/2026"
+"118";"Protocolizada Petição 409106/2026 (CieMPF - CIÊNCIA PELO MPF) em 28/04/2026";"28/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS";"28/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE TOCANTINS";"28/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"28/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 28/04/2026 ";"28/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"27/04/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 28/04/2026";"24/04/2026"
+"12436";"Conheço do agravo de CARLOS HENRIQUE PIRES DE SOUSA e JUNIOR ALMEIDA DE OLIVEIRA para não conhecer do Recurso Especial";"24/04/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS intimado eletronicamente da(o) Decisões e Vistas em 09/04/2026";"09/04/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 09/04/2026";"09/04/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE TOCANTINS intimado eletronicamente da(o) Decisões e Vistas em 09/04/2026";"09/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) RIBEIRO DANTAS (Relator)";"07/04/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 323681/2026";"07/04/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"07/04/2026"
+"118";"Protocolizada Petição 323681/2026 (ParMPF - PARECER DO MPF) em 07/04/2026";"07/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS";"30/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE TOCANTINS";"30/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"30/03/2026"
+"92";"Publicado DESPACHO / DECISÃO em 30/03/2026 ";"30/03/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"27/03/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"27/03/2026"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"27/03/2026"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à Coordenadoria de Recursos Especiais para abertura de vista ao MPF.";"27/03/2026"
+"36";"Redistribuído por sorteio, em razão de encaminhamento à ARP, ao Ministro RIBEIRO DANTAS - QUINTA TURMA";"27/03/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"27/03/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"27/03/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"26/03/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"26/03/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 30/03/2026";"26/03/2026"
+"12474";"Determinada a distribuição do feito";"26/03/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) HERMAN BENJAMIN (Presidente) - pela SJD.";"17/03/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"17/03/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS";"11/03/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600619657";"CIÊNCIA PELO MPF";"CieMPF";"17/06/2026";"MPF"
+"202600427928";"AGRAVO REGIMENTAL";"AgRg";"04/05/2026";"CARLOS HENRIQUE PIRES DE SOUSA"
+"202600409106";"CIÊNCIA PELO MPF";"CieMPF";"28/04/2026";"MPF"
+"202600323681";"PARECER DO MPF";"ParMPF";"07/04/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"AREsp";"2026,6,15";"";"202600427928";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "RHC 237197",
+   "via": "RHC",
+   "data_fato": "2026-02-04",
+   "uf": "SP",
+   "relator": "Reynaldo Soares da Fonseca",
+   "reu": "ROSANA GONCALVES DA SILVA",
+   "sexo": "F",
+   "drogas": "cocaina+crack+maconha",
+   "qtd_g": 2725,
+   "porcoes": "1 tijolo cocaina + 1 tijolo crack + pedacos de crack + 2 tijolos maconha + 5 porcoes maconha",
+   "petrechos_dinheiro": "2 revolveres .38, coldres, 20 projeteis, 2 celulares, caderneta com anotacoes, sacos e rolos plasticos, balancas de precisao, milhares de involucros, motocicleta",
+   "majorante_art40": "",
+   "origem_abordagem": "investigacao",
+   "local_conhecido": "sim",
+   "comportamento_reu": "apos breve permanencia no imovel monitorado, tentou evadir-se entrando em ruas paralelas durante acompanhamento por viatura descaracterizada",
+   "tipo_busca": "pessoal+veicular+domiciliar",
+   "consentimento": "nao (imovel de terceiro aberto com chaves em poder da re; filho do locador acompanhou as buscas)",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "familia de traficantes;Vila Aparecida;Casa Bomba;correu faccionado ao PCC;bar montado para distribuir drogas",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Feito ainda sem condenacao (tambem imputados arts. 35 da LD, 244-B ECA e 12 da Lei 10.826); re em liberdade provisoria. STJ considerou prematuro declarar ilicitude das buscas em HC, remetendo a analise a instrucao; defesa alegou fishing expedition e invasao infrutifera previa de outro domicilio."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "RHC 237197",
+   "reu": "ROSANA GONCALVES DA SILVA",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Investigacao previa de anos, monitoramento do imovel e comportamento evasivo indicam fundadas razoes (Tema 280), sendo prematura a declaracao de ilicitude na via estreita."
+  },
+  {
+   "processo": "RHC 237197",
+   "reu": "ROSANA GONCALVES DA SILVA",
+   "tese": "nulidade_busca_pessoal",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Busca pessoal/veicular apoiada no somatorio de investigacao, monitoramento e tentativa de evasao, nao apenas em nervosismo; analise definitiva cabe a instrucao."
+  },
+  {
+   "processo": "RHC 237197",
+   "reu": "ROSANA GONCALVES DA SILVA",
+   "tese": "outro:trancamento_acao_penal",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Trancamento e excepcional e exige ilegalidade manifesta de plano, sem revolvimento probatorio, o que nao ocorre."
+  }
+ ]
+}
