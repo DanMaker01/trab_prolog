@@ -61,7 +61,8 @@ scripts/               rodar sempre a partir da raiz do projeto
   pdf_para_txt.py       PDFs de cada processo        ->  um .txt por registro, sem duplicatas
   protocolo_extracao.md cópia do protocolo de extração
 
-_/                     pasta de entrada para downloads novos; depois de organizados em fontes/, esvaziar
+_/                     (criar quando precisar) pasta de entrada para downloads novos;
+                       depois de organizados em fontes/, esvaziar
 ```
 
 ### Comandos
@@ -154,9 +155,7 @@ Estes casos foram **escolhidos por contraste** e não são representativos. Serv
 
 - Contraste: PDFs não lidos de 994055, 2254195, 1062417 e 3164469 (registro 2026/0032892-0). O 1093945 (cautelar, fora do recorte) não tem CSV.
 - 3189948 (amostra da 5ª Turma): só vieram os EDcl; falta o AgRg.
-- `_/` ainda tem uma cópia dos 3 JSONs da 6ª Turma, que já estão em `fontes/json/sexta_turma/`. Pode apagar.
 - `scripts/protocolo_extracao.md` e `extracao/protocolo_extracao.md` são iguais; o oficial é o de `extracao/`.
-- `STATUS.md` foi incorporado a este README e pode ser apagado.
 
 ## 8. Próximos passos
 
