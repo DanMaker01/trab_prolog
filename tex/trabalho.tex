@@ -1,0 +1,209 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{lmodern}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{booktabs}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\lstdefinelanguage{Prolog}{
+  morekeywords={is},
+  sensitive=true,
+  morecomment=[l]\%,
+  morecomment=[s]{/*}{*/},
+  morestring=[b]",
+  morestring=[b]'
+}
+\lstset{
+  language=Prolog, basicstyle=\ttfamily\small, columns=fullflexible,
+  keepspaces=true, breaklines=true, frame=single,
+  commentstyle=\color{gray}, inputencoding=utf8, extendedchars=true,
+  literate={á}{{\'a}}1 {ã}{{\~a}}1 {â}{{\^a}}1 {é}{{\'e}}1 {ê}{{\^e}}1 {í}{{\'i}}1
+           {ó}{{\'o}}1 {õ}{{\~o}}1 {ô}{{\^o}}1 {ú}{{\'u}}1 {ç}{{\c c}}1 {º}{{\textordmasculine}}1 {§}{{\S}}1
+}
+
+\newcommand{\todo}[1]{\textcolor{red}{[\textbf{A FAZER:} #1]}}
+
+\title{Justiça e IA: um protocolo formal pode decidir de forma enviesada?}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+% =====================================================================
+\subsection{Metodologia}
+% =====================================================================
+
+\paragraph{Pergunta.} O trabalho testa a tese de que mesmo uma IA que segue um protocolo
+formal pode produzir decisões enviesadas. O objeto é o tráfico de drogas
+(art.~33 da Lei 11.343/2006) e, em particular, a causa de diminuição do \S4º
+(``tráfico privilegiado''), que é o pedido mais frequente nos recursos e depende de
+critérios que a lei não define com precisão.
+
+\paragraph{Fontes.} Foram usados três tipos de dado, todos públicos:
+\begin{enumerate}
+  \item \textbf{Espelhos de acórdãos do STJ} (dados abertos, JSON mensal), da 5ª e da 6ª Turma,
+        que são as turmas criminais do tribunal. Período: junho a agosto de 2026.
+        Os meses de março a maio foram descartados porque têm poucas decisões por mês e uma
+        taxa de vitória da defesa muito acima dos demais, o que indica uma seleção, e não o
+        conjunto completo.
+  \item \textbf{Processos individuais} obtidos na consulta processual do STJ: um CSV com as
+        partes, fases e petições e os PDFs das decisões (acórdãos e monocráticas).
+  \item \textbf{Texto legal} vigente da Lei 11.343/2006 e do Código Penal.
+\end{enumerate}
+
+\paragraph{Recorte e unidade de análise.} Entram os processos de tráfico (art.~33 e \S4º),
+com condenação já proferida. Ficam fora: associação (art.~35) sem art.~33, medidas cautelares,
+execução penal, atos infracionais (ECA) e o art.~37. A unidade é o réu. O alvo é o resultado
+\emph{para o réu}: um recurso do Ministério Público que é negado conta como resultado favorável.
+
+\paragraph{Classificação das ementas.} Um script (\texttt{scripts/analisar\_ementas.py})
+classifica cada acórdão só pelo texto da ementa e do dispositivo: quem recorreu, o que foi
+decidido, o resultado para o réu, as barreiras processuais citadas (Súmulas 7, 182, 83, 284/STF,
+habeas corpus substitutivo) e expressões sobre a pessoa ou o lugar (``vulgo'', facção,
+``local conhecido'' etc.). São regras fixas (expressões regulares), sem aprendizado.
+A classificação foi conferida contra os casos lidos por inteiro:
+\todo{tabela de validação: 5ª Turma 32/33; 6ª Turma 29/30; base do \S4º 16/19}.
+
+\paragraph{Amostras lidas por inteiro.} Foram sorteadas 40 decisões por turma, estratificadas
+por relator (semente 2026), e lidas por inteiro. A extração dos fatos (droga, quantidade,
+antecedentes, fundamentos de cada instância) foi feita com apoio de um modelo de linguagem
+seguindo um protocolo escrito (\texttt{extracao/protocolo\_extracao.md}), com conferência manual
+de uma parte dos casos. \todo{número de casos conferidos e concordância}.
+
+\paragraph{Base do \S4º.} Para ter os fatos que a lei exige, montou-se uma base focada só nos
+pedidos de \S4º feitos pela defesa (\texttt{scripts/sortear\_p4.py}). O desenho é de
+caso-controle: entram todas as vitórias da defesa, que são raras, e oito derrotas sorteadas por
+relator; cada derrota recebe um peso para corrigir o sorteio. A extração segue um protocolo
+próprio (\texttt{extracao/protocolo\_p4.md}).
+
+\subsubsection*{Árvore A: o ``juiz virtual'' (protocolo formal)}
+
+A árvore A é a lei escrita como regras em Prolog (\texttt{prolog/arvore\_a.pl}).
+O \S4º exige quatro requisitos cumulativos:
+\begin{quote}
+  ``as penas poderão ser reduzidas de um sexto a dois terços [\ldots] desde que o agente seja
+  primário, de bons antecedentes, não se dedique às atividades criminosas nem integre
+  organização criminosa.''
+\end{quote}
+Dois pontos do texto não dizem \emph{como} decidir: o que conta como ``dedicar-se às atividades
+criminosas'' e onde, entre 1/6 e 2/3, fica a fração (o art.~42 manda considerar a natureza e a
+quantidade da droga, sem dizer quanto). Para transformar a lei em programa é preciso
+escolher. Na árvore A, cada escolha é um \textbf{parâmetro} explícito, e um conjunto de escolhas
+forma um \textbf{perfil}. A estrutura da árvore é a mesma para todos os perfis.
+
+\begin{lstlisting}
+requisito(primario, C, _, nao_atende) :- status(reincidente, C, sim), !.
+requisito(nao_dedica, C, P, R) :-
+    dedica(C, P, D, _), ( D == sim -> R = nao_atende ; R = atende ).
+
+dedica(C, P, D, Indicadores) :-
+    findall(I, indicador(C, P, I), L0), sort(L0, Indicadores),
+    length(Indicadores, N), param(P, minimo_indicadores(M)),
+    (   N >= M -> D = sim
+    ;   param(P, quantidade_isolada_basta(sim)),
+        memberchk(quantidade(_), Indicadores) -> D = sim
+    ;   D = nao ).
+\end{lstlisting}
+
+Os parâmetros, e os três perfis usados como referência, estão na Tabela~\ref{tab:perfis}.
+Os perfis são parametrizações ilustrativas, ancoradas em leituras que aparecem nas
+decisões estudadas (por exemplo, a decisão monocrática que concedeu o \S4º para 432\,kg de
+maconha e o acórdão da Turma que a reformou); não pretendem retratar ministros.
+
+\begin{table}[h]
+\centering\small
+\caption{Parâmetros da árvore A e os três perfis de referência.}
+\label{tab:perfis}
+\begin{tabular}{lccc}
+\toprule
+Parâmetro & garantista & intermediário & restritivo \\
+\midrule
+Quantidade indica dedicação? & não & sim & sim \\
+Quantidade sozinha basta? & não & não & sim \\
+Limite (maconha / cocaína, g) & --- & 10.000 / 1.000 & 1.000 / 100 \\
+Atos infracionais contam (janela) & não & 3 anos & 5 anos \\
+Ações penais em curso contam? & não & não (Tema 1.139) & sim \\
+``Esquecimento'' de antecedentes & 5 anos & não & não \\
+Indícios aceitos & arma, facção & + petrechos, celular, & + denúncias, local, \\
+                 &              & investigação, logística & dinheiro, variedade \\
+Mínimo de indicadores & 2 & 2 & 1 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Três decisões de projeto merecem registro:
+\begin{itemize}
+  \item \textbf{Dado faltante.} Cada fato tem três valores: sim, não ou desconhecido. O que fazer
+        com o desconhecido (``na dúvida, a favor do réu'' ou ``cabe à defesa provar'') é um eixo
+        separado do perfil e é testado à parte.
+  \item \textbf{Lei no tempo.} A data do fato define a lei aplicável: antes de 8/10/2006 valia a
+        Lei 6.368/1976, sem tráfico privilegiado.
+  \item \textbf{Pena.} Para isolar o efeito do \S4º, a pena-base é fixada no mínimo (5 anos), a
+        majorante do art.~40 em 1/6, e o regime e a substituição seguem os arts.~33, \S2º,
+        e~44 do Código Penal.
+\end{itemize}
+A árvore também explica a decisão (\texttt{explica/2}): quais requisitos falharam e quais
+indicadores de dedicação foram usados.
+
+\subsubsection*{Árvore B: a árvore aprendida das decisões}
+
+A árvore B é uma árvore de decisão (CART, \texttt{scikit-learn}) treinada nas decisões reais e
+convertida em regras Prolog (\texttt{scripts/arvore\_b.py} gera \texttt{prolog/arvore\_b.pl}).
+\begin{itemize}
+  \item \textbf{Dados:} acórdãos de tráfico da 5ª e da 6ª Turma, só recursos da defesa
+        (no recurso do MP o réu quase sempre ganha, o que seria uma regra trivial).
+  \item \textbf{Alvo:} a defesa vence (resultado favorável ou parcial) ou perde.
+  \item \textbf{Entradas:} o que se sabe antes do julgamento: turma, relator, classe do processo,
+        assunto e marcadores da ementa.
+  \item \textbf{Excluídas, por vazamento:} as barreiras processuais, o dispositivo, a votação e
+        se o relator ficou vencido, porque fazem parte da própria decisão.
+  \item \textbf{Modelo:} profundidade máxima 4, ao menos 10 casos por folha, classes
+        balanceadas.
+  \item \textbf{Dois modelos:} \emph{com relator} (todas as entradas) e \emph{sem relator}
+        (sem turma e sem relator).
+\end{itemize}
+O objetivo não é prever bem. Com cerca de 97\% de derrotas, um modelo que sempre responde
+``perde'' já acerta 97\%. O que interessa é \emph{o que} a árvore aprende a perguntar.
+
+\subsubsection*{Testes}
+
+As duas árvores têm testes automáticos (\texttt{plunit}):
+\begin{itemize}
+  \item \textbf{Árvore A} (\texttt{prolog/testes\_arvore\_a.pl}, 26 testes com casos sintéticos):
+        cobrem a lei no tempo, cada requisito, cada critério vago (Tema 1.139, quantidade,
+        atos infracionais, esquecimento), o dado faltante e a pena.
+  \item \textbf{Árvore B} (\texttt{prolog/testes\_arvore\_b.pl}): confirmam que as regras em
+        Prolog dão exatamente a mesma resposta que o modelo treinado em todos os processos.
+\end{itemize}
+
+% =====================================================================
+\subsection{Experimentos Computacionais}
+% =====================================================================
+
+\todo{Esta seção será escrita depois. Abaixo, os experimentos planejados.}
+
+\paragraph{E1. Sensibilidade da árvore A.} Os mesmos réus reais (base do \S4º e amostras) são
+julgados pelos três perfis, com dado faltante tratado a favor do réu e contra ele.
+Medida: em quantos casos a decisão (concede/nega) ou a fração muda só pela escolha dos
+parâmetros. \todo{tabela}
+
+\paragraph{E2. Casos com relator vencido.} Nos processos em que o relator concedeu o \S4º e a
+Turma reformou, verificar qual perfil reproduz cada uma das duas decisões. \todo{tabela}
+
+\paragraph{E3. O que a árvore B aprende.} Comparar as regras e as variáveis usadas pelos modelos
+com e sem relator; validação cruzada estratificada e ``deixa um relator fora''.
+Métricas para a classe rara (recall e precisão das vitórias), e não acurácia. \todo{regras e
+métricas}
+
+\paragraph{E4. Árvore A $\times$ árvore B $\times$ decisão real.} Onde o protocolo formal e o
+modelo aprendido concordam e discordam entre si e com o que o STJ decidiu. \todo{tabela}
+
+\paragraph{Limitações.} \todo{só acórdãos (as monocráticas favoráveis sem recurso não aparecem);
+extração com apoio de IA; amostras pequenas por relator; perfis ilustrativos.}
+
+\end{document}

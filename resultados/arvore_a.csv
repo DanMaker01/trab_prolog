@@ -1,0 +1,64 @@
+caso,fonte,relator,garantista,intermediario,restritivo,motivos_restritivo,tj_p4,stj_p4,resultado
+t5_202504078750_2,t5,"Messod Azulay Neto",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+t5_202504724059_6,t5,"Maria Marluce Caldas",concede 2/3,concede 2/3,concede 1/6,"[]",concedido(1/6),concedido(1/6),desfavoravel
+t5_202504855650_7,t5,"Messod Azulay Neto",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+t5_202600032704_9,t5,"Maria Marluce Caldas",concede 2/3,concede 2/3,concede 1/2,"[]",negado,negado,desfavoravel
+t5_202600121690_10,t5,"Joel Ilan Paciornik",concede 2/3,concede 2/3,concede 1/6,"[]",concedido(1/6),,desfavoravel
+t5_202600286910_11,t5,"Messod Azulay Neto",concede 2/3,concede 2/3,concede 1/6,"[]",negado,negado,desfavoravel
+t5_202600362855_12,t5,"Messod Azulay Neto",concede 2/3,concede 2/3,nega,"[nao_dedica]",negado,negado,desfavoravel
+t5_202600586060_17,t5,"Joel Ilan Paciornik",concede 2/3,concede 2/3,nega,"[nao_dedica]",negado,negado,desfavoravel
+t5_202600720880_19,t5,"Reynaldo Soares da Fonseca",nega,nega,nega,"[primario,bons_antecedentes,nao_dedica]",negado,negado,desfavoravel
+t5_202600826117_20,t5,"Maria Marluce Caldas",concede 2/3,concede 2/3,nega,"[nao_dedica]",negado,negado,desfavoravel
+t5_202600883848_21,t5,"Messod Azulay Neto",concede 2/3,concede 2/3,nega,"[nao_dedica]",negado,,desfavoravel
+t5_202601489800_31,t5,"Ribeiro Dantas",concede 1/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+t5_202601529394_32,t5,"Reynaldo Soares da Fonseca",concede 2/3,nega,nega,"[bons_antecedentes,nao_dedica]",negado,negado,desfavoravel
+t5_202601658547_36,t5,"Joel Ilan Paciornik",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+t5_202601762630_37,t5,"Ribeiro Dantas",concede 2/3,nega,nega,"[nao_dedica]",negado,concedido(2/3),parcial
+t5_202601790446_38,t5,"Reynaldo Soares da Fonseca",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+t5_202602218144_40,t5,"Reynaldo Soares da Fonseca",nega,nega,nega,"[primario,bons_antecedentes,nao_dedica]",negado,negado,desfavoravel
+t6_202504226684_5,t6,"Og Fernandes",concede 1/2,concede 1/2,nega,"[nao_dedica]",negado,negado,desfavoravel
+t6_202600230571_8,t6,"Carlos Pires Brandao",concede 2/3,concede 2/3,concede 1/6,"[]",,,favoravel
+t6_202600615698_11,t6,"Carlos Pires Brandao",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+t6_202600641838_12,t6,"Og Fernandes",concede 1/2,concede 1/2,nega,"[nao_dedica]",negado,negado,desfavoravel
+t6_202600650874_14,t6,"Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",concede 1/2,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+t6_202601318070_17,t6,"Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",concede 1/3,concede 1/6,nega,"[nao_dedica]",negado,negado,desfavoravel
+t6_202601748090_22,t6,"Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",concede 1/6,concede 1/6,nega,"[nao_dedica]",negado,,desfavoravel
+t6_202404079440_24,t6,"Sebastiao Reis Junior",concede 2/3,concede 2/3,nega,"[nao_dedica]",negado,,desfavoravel
+t6_202500655520_25,t6,"Rogerio Schietti Cruz",concede 1/2,concede 1/2,nega,"[nao_dedica]",negado,,desfavoravel
+t6_202600596763_31,t6,"SEBASTIAO REIS JUNIOR",concede 2/3,concede 2/3,nega,"[nao_dedica]",negado,negado,desfavoravel
+t6_202601135381_33,t6,"SEBASTIAO REIS JUNIOR",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+t6_202601443356_37,t6,"Rogerio Schietti Cruz",concede 2/3,concede 2/3,nega,"[nao_dedica]",negado,negado,desfavoravel
+t6_202602279716_42,t6,"Sebastiao Reis Junior",concede 1/3,nega,nega,"[nao_dedica]",concedido(1/6),concedido(1/6),parcial
+contraste_c01_0,contraste,"Joel Ilan Paciornik",concede 2/3,concede 2/3,nega,"[nao_dedica]",negado,,favoravel
+contraste_c02_1,contraste,"Ribeiro Dantas",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+contraste_c04_3,contraste,"Reynaldo Soares da Fonseca",concede 1/3,nega,nega,"[nao_dedica]",negado,concedido(1/6),parcial
+contraste_c05_4,contraste,"Reynaldo Soares da Fonseca",concede 2/3,nega,nega,"[bons_antecedentes,nao_dedica]",negado,concedido(2/3),parcial
+contraste_c06_5,contraste,"Ribeiro Dantas",concede 2/3,concede 2/3,nega,"[nao_dedica]",negado,negado,desfavoravel
+contraste_c07_6,contraste,"Messod Azulay Neto",concede 2/3,nega,nega,"[nao_dedica]",negado,,desfavoravel
+contraste_c10_9,contraste,"Ribeiro Dantas",concede 1/6,nega,nega,"[nao_dedica]",concedido(1/2),negado,desfavoravel
+contraste_c11_10,contraste,"Maria Marluce Caldas",concede 1/2,concede 1/2,nega,"[nao_dedica]",,,desfavoravel
+contraste_c12_11,contraste,"Joel Ilan Paciornik",concede 1/3,concede 1/6,nega,"[nao_dedica]",negado,concedido(1/6),parcial
+contraste_c13_12,contraste,"Joel Ilan Paciornik",concede 1/2,nega,nega,"[nao_dedica]",concedido(1/6),,favoravel
+contraste_c14_13,contraste,"Maria Marluce Caldas",concede 2/3,concede 2/3,concede 1/2,"[]",negado,negado,desfavoravel
+p4_202400047349_0,p4,"SEBASTIAO REIS",concede 1/3,nega,nega,"[nao_dedica]",negado,negado,parcial
+p4_202402568600_1,p4,"SEBASTIAO REIS",concede 2/3,concede 2/3,concede 1/2,"[]",concedido(1/6),concedido(2/3),parcial
+p4_202402816428_2,p4,"SEBASTIAO REIS",nega,nega,nega,"[primario,bons_antecedentes,nao_dedica]",negado,negado,parcial
+p4_202402816428_3,p4,"SEBASTIAO REIS",concede 1/2,nega,nega,"[nao_dedica]",concedido(1/3),,parcial
+p4_202403049693_4,p4,"SEBASTIAO REIS",nega,nega,nega,"[nao_dedica,nao_integra_orcrim]",negado,negado,parcial
+p4_202403049693_5,p4,"SEBASTIAO REIS",nega,nega,nega,"[nao_dedica,nao_integra_orcrim]",negado,negado,desfavoravel
+p4_202404276133_6,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,parcial
+p4_202404432728_7,p4,"SEBASTIAO REIS",concede 1/2,nega,nega,"[nao_dedica]",negado,negado,parcial
+p4_202404432728_8,p4,"SEBASTIAO REIS",concede 1/2,nega,nega,"[nao_dedica]",negado,negado,parcial
+p4_202501700751_9,p4,"SEBASTIAO REIS",nega,nega,nega,"[bons_antecedentes]",negado,negado,desfavoravel
+p4_202501891953_10,p4,"SEBASTIAO REIS",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202502468442_11,p4,"SEBASTIAO REIS",concede 1/3,nega,nega,"[nao_dedica]",concedido(1/6),concedido(1/6),desfavoravel
+p4_202502487449_12,p4,"SEBASTIAO REIS",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202503172686_13,p4,"SEBASTIAO REIS",concede 2/3,concede 2/3,nega,"[nao_dedica]",concedido(1/2),concedido(2/3),parcial
+p4_202504574280_14,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,parcial
+p4_202504610772_15,p4,"SEBASTIAO REIS",concede 1/2,concede 1/2,nega,"[nao_dedica]",concedido(1/6),negado,desfavoravel
+p4_202504939960_16,p4,"SEBASTIAO REIS",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202600439821_17,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",concedido(1/6),negado,desfavoravel
+p4_202601211861_18,p4,"SEBASTIAO REIS",concede 1/3,concede 1/6,nega,"[nao_dedica]",negado,concedido(1/2),parcial
+p4_202601353207_19,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202601412926_20,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202601674889_21,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel

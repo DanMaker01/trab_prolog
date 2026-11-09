@@ -209,3 +209,45 @@ Estes casos foram **escolhidos por contraste** e não são representativos. Serv
 5. Conferir à mão 5 casos da extração por IA.
 6. Fechar o dicionário de colunas (base: `extracao/protocolo_extracao.md`).
 7. Montar a árvore A em Prolog a partir de `leis/`, já pensando no teste de sensibilidade.
+
+## 9. Árvores em Prolog (09/11)
+
+```
+prolog/
+  arvore_a.pl          árvore A: o § 4º como regras; critérios vagos = parâmetros de 3 perfis
+  testes_arvore_a.pl   26 testes com casos sintéticos (plunit)
+  experimento_a.pl     roda os 3 perfis sobre os réus reais -> resultados/arvore_a*.csv
+  fatos_casos.pl       GERADO por scripts/gerar_fatos.py (63 réus em que o § 4º foi discutido)
+  arvore_b.pl          GERADO por scripts/arvore_b.py: árvores aprendidas (com e sem relator)
+  fatos_ementas.pl     GERADO: entradas dos 1.494 recursos da defesa
+  pred_sklearn.pl      GERADO: previsões do scikit-learn, para o teste de equivalência
+  testes_arvore_b.pl   confere que as regras em Prolog decidem igual ao modelo treinado
+tex/trabalho.tex       subseções Metodologia e Experimentos Computacionais (esta ainda por escrever)
+resultados/            saídas dos experimentos
+```
+
+Comandos (na raiz; requer SWI-Prolog e Python com pandas e scikit-learn):
+```
+python scripts/gerar_fatos.py
+python scripts/arvore_b.py
+swipl -g run_tests -t halt prolog/testes_arvore_a.pl
+swipl -g run_tests -t halt prolog/testes_arvore_b.pl
+swipl -g main -t halt prolog/experimento_a.pl
+```
+Consultas úteis: `swipl prolog/arvore_a.pl prolog/fatos_casos.pl` e depois
+`explica(restritivo, 'p4_202501891953_10').`
+
+- **Perfis da árvore A** (parametrizações ilustrativas, não retratos de ministros): `garantista`
+  (quantidade só modula a fração), `intermediario` (quantidade grande + outro indício; atos
+  infracionais até 3 anos; Tema 1.139), `restritivo` (quantidade sozinha basta; qualquer indício).
+  O dado faltante (primariedade não informada etc.) é um eixo separado: a favor do réu ou contra.
+- **Primeira rodada (sem análise ainda):** com dado faltante a favor do réu, concedem o § 4º
+  57/63 (garantista), 26/63 (intermediário) e 7/63 (restritivo); os perfis discordam em 50 dos 63.
+  Com o dado faltante contra o réu: 13, 4 e 0.
+- **Árvore B:** a raiz é "classe = REsp"; no modelo com relator, os nós seguintes são relatores
+  (Sebastião Reis, Maria Marluce, Og Fernandes). Sem relator, ela passa a usar marcadores da
+  ementa (fuga, denúncia anônima, local conhecido).
+- **Opinião externa sobre o modelo preditivo (registro):** adotados a lista de variáveis com
+  vazamento, a validação "deixa um relator fora" e a prioridade à interpretabilidade. Não
+  adotados, por ora: prever o § 4º com ~60 casos (poucas vitórias) e a comparação com regressão
+  logística/McNemar. Podem entrar quando a base do § 4º estiver completa.

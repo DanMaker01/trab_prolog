@@ -1,0 +1,79 @@
+{
+ "n": 1494,
+ "vitorias": 40,
+ "com_relator": {
+  "validacao_cruzada_5": {
+   "acuracia_balanceada": 0.779,
+   "recall_vitorias": 0.675,
+   "precisao_vitorias": 0.136,
+   "vp": 27,
+   "fp": 171,
+   "fn": 13,
+   "vn": 1283
+  },
+  "variaveis_usadas": [
+   "classe=HC",
+   "classe=REsp",
+   "objeto=nulidade_busca",
+   "objeto=p4",
+   "relator=MARIA MARLUCE",
+   "relator=MESSOD AZULAY",
+   "relator=OG FERNANDES",
+   "relator=SEBASTIAO REIS"
+  ],
+  "importancia": {
+   "classe=REsp": 0.458,
+   "relator=OG FERNANDES": 0.157,
+   "relator=SEBASTIAO REIS": 0.141,
+   "objeto=p4": 0.098,
+   "objeto=nulidade_busca": 0.076,
+   "relator=MESSOD AZULAY": 0.042,
+   "relator=MARIA MARLUCE": 0.027,
+   "classe=HC": 0.001
+  },
+  "raiz": "classe=REsp"
+ },
+ "sem_relator": {
+  "validacao_cruzada_5": {
+   "acuracia_balanceada": 0.749,
+   "recall_vitorias": 0.65,
+   "precisao_vitorias": 0.105,
+   "vp": 26,
+   "fp": 222,
+   "fn": 14,
+   "vn": 1232
+  },
+  "variaveis_usadas": [
+   "classe=AREsp",
+   "classe=REsp",
+   "marcador=denuncia_anonima",
+   "marcador=fuga_mudanca_direcao",
+   "marcador=local_conhecido",
+   "objeto=dosimetria",
+   "objeto=outro"
+  ],
+  "importancia": {
+   "classe=REsp": 0.652,
+   "objeto=outro": 0.119,
+   "marcador=local_conhecido": 0.086,
+   "marcador=denuncia_anonima": 0.08,
+   "marcador=fuga_mudanca_direcao": 0.052,
+   "classe=AREsp": 0.006,
+   "objeto=dosimetria": 0.004
+  },
+  "raiz": "classe=REsp",
+  "deixa_um_relator_fora": {
+   "acuracia_balanceada": 0.676,
+   "recall_vitorias": 0.55,
+   "precisao_vitorias": 0.071,
+   "vp": 22,
+   "fp": 287,
+   "fn": 18,
+   "vn": 1167
+  }
+ },
+ "regras_texto": [
+  "## com_relator\n|--- classe=REsp <= 0.50\n|   |--- relator=OG FERNANDES <= 0.50\n|   |   |--- objeto=p4 <= 0.50\n|   |   |   |--- relator=SEBASTIAO REIS <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- relator=SEBASTIAO REIS >  0.50\n|   |   |   |   |--- class: 0\n|   |   |--- objeto=p4 >  0.50\n|   |   |   |--- relator=MESSOD AZULAY <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- relator=MESSOD AZULAY >  0.50\n|   |   |   |   |--- class: 0\n|   |--- relator=OG FERNANDES >  0.50\n|   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |--- objeto=p4 <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- objeto=p4 >  0.50\n|   |   |   |   |--- class: 0\n|   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |--- classe=HC <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- classe=HC >  0.50\n|   |   |   |   |--- class: 1\n|--- classe=REsp >  0.50\n|   |--- relator=SEBASTIAO REIS <= 0.50\n|   |   |--- relator=MARIA MARLUCE <= 0.50\n|   |   |   |--- relator=OG FERNANDES <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- relator=OG FERNANDES >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- relator=MARIA MARLUCE >  0.50\n|   |   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |   |--- class: 1\n|   |--- relator=SEBASTIAO REIS >  0.50\n|   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |--- objeto=p4 <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=p4 >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |--- class: 1\n",
+  "## sem_relator\n|--- classe=REsp <= 0.50\n|   |--- objeto=outro <= 0.50\n|   |   |--- marcador=denuncia_anonima <= 0.50\n|   |   |   |--- marcador=local_conhecido <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- marcador=local_conhecido >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- marcador=denuncia_anonima >  0.50\n|   |   |   |--- classe=AREsp <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- classe=AREsp >  0.50\n|   |   |   |   |--- class: 1\n|   |--- objeto=outro >  0.50\n|   |   |--- class: 0\n|--- classe=REsp >  0.50\n|   |--- marcador=fuga_mudanca_direcao <= 0.50\n|   |   |--- objeto=dosimetria <= 0.50\n|   |   |   |--- objeto=outro <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=outro >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- objeto=dosimetria >  0.50\n|   |   |   |--- class: 1\n|   |--- marcador=fuga_mudanca_direcao >  0.50\n|   |   |--- class: 0\n"
+ ]
+}
