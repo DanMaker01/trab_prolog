@@ -1,0 +1,341 @@
+{
+ "E1": {
+  "n": 63,
+  "discordam": 50,
+  "amplitude_pena_media_meses": 26.1,
+  "amplitude_pena_max_meses": 46.7,
+  "concede": {
+   "garantista|pro_reo": 57,
+   "garantista|onus_defesa": 13,
+   "intermediario|pro_reo": 26,
+   "intermediario|onus_defesa": 4,
+   "restritivo|pro_reo": 7,
+   "restritivo|onus_defesa": 0
+  },
+  "onus_so_por_faltante": 44,
+  "ablacao": [
+   {
+    "variante": "indicios_restritos",
+    "origem": "garantista",
+    "parametro": "indicios_aceitos",
+    "mudam_decisao": 24,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 50,
+    "n": 63
+   },
+   {
+    "variante": "minimo_1_indicador",
+    "origem": "restritivo",
+    "parametro": "minimo_indicadores",
+    "mudam_decisao": 13,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 13,
+    "n": 63
+   },
+   {
+    "variante": "indicios_amplos",
+    "origem": "restritivo",
+    "parametro": "indicios_aceitos",
+    "mudam_decisao": 10,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 16,
+    "n": 63
+   },
+   {
+    "variante": "quantidade_nao_indica",
+    "origem": "garantista",
+    "parametro": "quantidade_indica_dedicacao",
+    "mudam_decisao": 9,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 35,
+    "n": 63
+   },
+   {
+    "variante": "limites_menores",
+    "origem": "restritivo",
+    "parametro": "limite_qtd",
+    "mudam_decisao": 3,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 23,
+    "n": 63
+   },
+   {
+    "variante": "quantidade_isolada_basta",
+    "origem": "restritivo",
+    "parametro": "quantidade_isolada_basta",
+    "mudam_decisao": 2,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 24,
+    "n": 63
+   },
+   {
+    "variante": "esquecimento_5_anos",
+    "origem": "garantista",
+    "parametro": "esquecimento_anos",
+    "mudam_decisao": 2,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 28,
+    "n": 63
+   },
+   {
+    "variante": "janela_atos_5_anos",
+    "origem": "restritivo",
+    "parametro": "janela_ato_infracional",
+    "mudam_decisao": 1,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 25,
+    "n": 63
+   },
+   {
+    "variante": "ato_sem_data_conta",
+    "origem": "restritivo",
+    "parametro": "ato_sem_data_conta",
+    "mudam_decisao": 1,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 25,
+    "n": 63
+   },
+   {
+    "variante": "acoes_em_curso_contam",
+    "origem": "restritivo",
+    "parametro": "acoes_em_curso_contam",
+    "mudam_decisao": 1,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 25,
+    "n": 63
+   },
+   {
+    "variante": "fracao_restritiva",
+    "origem": "restritivo",
+    "parametro": "fracao_por_qtd",
+    "mudam_decisao": 0,
+    "mudam_fracao": 10,
+    "concede_base": 26,
+    "concede_variante": 26,
+    "n": 63
+   },
+   {
+    "variante": "fracao_garantista",
+    "origem": "garantista",
+    "parametro": "fracao_por_qtd",
+    "mudam_decisao": 0,
+    "mudam_fracao": 3,
+    "concede_base": 26,
+    "concede_variante": 26,
+    "n": 63
+   },
+   {
+    "variante": "atos_nao_contam",
+    "origem": "garantista",
+    "parametro": "janela_ato_infracional",
+    "mudam_decisao": 0,
+    "mudam_fracao": 0,
+    "concede_base": 26,
+    "concede_variante": 26,
+    "n": 63
+   }
+  ]
+ },
+ "E2": [
+  {
+   "processo": "AREsp 2946226",
+   "droga": "maconha+skunk",
+   "qtd": "432 kg",
+   "monocratica": "concedeu 1/6",
+   "acordao": "negado",
+   "votacao": "maioria",
+   "garantista": "concede 1/6",
+   "intermediario": "nega",
+   "restritivo": "nega"
+  },
+  {
+   "processo": "HC 1017077",
+   "droga": "cocaina",
+   "qtd": "2 kg",
+   "monocratica": "concedeu_oficio 2/3",
+   "acordao": "redimensionado_fracao 1/6",
+   "votacao": "maioria",
+   "garantista": "concede 1/3",
+   "intermediario": "nega",
+   "restritivo": "nega"
+  },
+  {
+   "processo": "HC 1017446",
+   "droga": "cocaina+crack+maconha+skunk",
+   "qtd": "17 kg",
+   "monocratica": "concedeu 2/3",
+   "acordao": "negado",
+   "votacao": "unânime",
+   "garantista": "concede 1/6",
+   "intermediario": "nega",
+   "restritivo": "nega"
+  },
+  {
+   "processo": "HC 1060758",
+   "droga": "maconha",
+   "qtd": "308 kg",
+   "monocratica": "concedeu_oficio 1/6",
+   "acordao": "negado",
+   "votacao": "maioria",
+   "garantista": "concede 1/6",
+   "intermediario": "nega",
+   "restritivo": "nega"
+  }
+ ],
+ "E3": {
+  "metricas": {
+   "com_relator": {
+    "validacao_cruzada_5": {
+     "acuracia_balanceada": 0.779,
+     "recall_vitorias": 0.675,
+     "precisao_vitorias": 0.136,
+     "vp": 27,
+     "fp": 171,
+     "fn": 13,
+     "vn": 1283
+    },
+    "variaveis_usadas": [
+     "classe=HC",
+     "classe=REsp",
+     "objeto=nulidade_busca",
+     "objeto=p4",
+     "relator=MARIA MARLUCE",
+     "relator=MESSOD AZULAY",
+     "relator=OG FERNANDES",
+     "relator=SEBASTIAO REIS"
+    ],
+    "importancia": {
+     "classe=REsp": 0.458,
+     "relator=OG FERNANDES": 0.157,
+     "relator=SEBASTIAO REIS": 0.141,
+     "objeto=p4": 0.098,
+     "objeto=nulidade_busca": 0.076,
+     "relator=MESSOD AZULAY": 0.042,
+     "relator=MARIA MARLUCE": 0.027,
+     "classe=HC": 0.001
+    },
+    "raiz": "classe=REsp"
+   },
+   "sem_relator": {
+    "validacao_cruzada_5": {
+     "acuracia_balanceada": 0.749,
+     "recall_vitorias": 0.65,
+     "precisao_vitorias": 0.105,
+     "vp": 26,
+     "fp": 222,
+     "fn": 14,
+     "vn": 1232
+    },
+    "variaveis_usadas": [
+     "classe=AREsp",
+     "classe=REsp",
+     "marcador=denuncia_anonima",
+     "marcador=fuga_mudanca_direcao",
+     "marcador=local_conhecido",
+     "objeto=dosimetria",
+     "objeto=outro"
+    ],
+    "importancia": {
+     "classe=REsp": 0.652,
+     "objeto=outro": 0.119,
+     "marcador=local_conhecido": 0.086,
+     "marcador=denuncia_anonima": 0.08,
+     "marcador=fuga_mudanca_direcao": 0.052,
+     "classe=AREsp": 0.006,
+     "objeto=dosimetria": 0.004
+    },
+    "raiz": "classe=REsp",
+    "deixa_um_relator_fora": {
+     "acuracia_balanceada": 0.676,
+     "recall_vitorias": 0.55,
+     "precisao_vitorias": 0.071,
+     "vp": 22,
+     "fp": 287,
+     "fn": 18,
+     "vn": 1167
+    }
+   }
+  },
+  "n": 1494,
+  "vitorias": 40,
+  "contrafactual_mudam": 292,
+  "contrafactual_por_turma": {
+   "QUINTA TURMA": 88,
+   "SEXTA TURMA": 204
+  },
+  "regras": [
+   "## com_relator\n|--- classe=REsp <= 0.50\n|   |--- relator=OG FERNANDES <= 0.50\n|   |   |--- objeto=p4 <= 0.50\n|   |   |   |--- relator=SEBASTIAO REIS <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- relator=SEBASTIAO REIS >  0.50\n|   |   |   |   |--- class: 0\n|   |   |--- objeto=p4 >  0.50\n|   |   |   |--- relator=MESSOD AZULAY <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- relator=MESSOD AZULAY >  0.50\n|   |   |   |   |--- class: 0\n|   |--- relator=OG FERNANDES >  0.50\n|   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |--- objeto=p4 <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- objeto=p4 >  0.50\n|   |   |   |   |--- class: 0\n|   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |--- classe=HC <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- classe=HC >  0.50\n|   |   |   |   |--- class: 1\n|--- classe=REsp >  0.50\n|   |--- relator=SEBASTIAO REIS <= 0.50\n|   |   |--- relator=MARIA MARLUCE <= 0.50\n|   |   |   |--- relator=OG FERNANDES <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- relator=OG FERNANDES >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- relator=MARIA MARLUCE >  0.50\n|   |   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |   |--- class: 1\n|   |--- relator=SEBASTIAO REIS >  0.50\n|   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |--- objeto=p4 <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=p4 >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |--- class: 1\n",
+   "## sem_relator\n|--- classe=REsp <= 0.50\n|   |--- objeto=outro <= 0.50\n|   |   |--- marcador=denuncia_anonima <= 0.50\n|   |   |   |--- marcador=local_conhecido <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- marcador=local_conhecido >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- marcador=denuncia_anonima >  0.50\n|   |   |   |--- classe=AREsp <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- classe=AREsp >  0.50\n|   |   |   |   |--- class: 1\n|   |--- objeto=outro >  0.50\n|   |   |--- class: 0\n|--- classe=REsp >  0.50\n|   |--- marcador=fuga_mudanca_direcao <= 0.50\n|   |   |--- objeto=dosimetria <= 0.50\n|   |   |   |--- objeto=outro <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=outro >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- objeto=dosimetria >  0.50\n|   |   |   |--- class: 1\n|   |--- marcador=fuga_mudanca_direcao >  0.50\n|   |   |--- class: 0\n"
+  ]
+ },
+ "E4": {
+  "concordancia": {
+   "garantista|pro_reo|tj_p4": [
+    17,
+    61
+   ],
+   "garantista|pro_reo|stj_p4": [
+    16,
+    52
+   ],
+   "intermediario|pro_reo|tj_p4": [
+    36,
+    61
+   ],
+   "intermediario|pro_reo|stj_p4": [
+    34,
+    52
+   ],
+   "restritivo|pro_reo|tj_p4": [
+    50,
+    61
+   ],
+   "restritivo|pro_reo|stj_p4": [
+    41,
+    52
+   ],
+   "garantista|onus_defesa|tj_p4": [
+    41,
+    61
+   ],
+   "garantista|onus_defesa|stj_p4": [
+    38,
+    52
+   ],
+   "intermediario|onus_defesa|tj_p4": [
+    46,
+    61
+   ],
+   "intermediario|onus_defesa|stj_p4": [
+    43,
+    52
+   ],
+   "restritivo|onus_defesa|tj_p4": [
+    50,
+    61
+   ],
+   "restritivo|onus_defesa|stj_p4": [
+    42,
+    52
+   ]
+  },
+  "stj_concede": [
+   10,
+   52
+  ],
+  "tj_concede": [
+   11,
+   61
+  ]
+ }
+}

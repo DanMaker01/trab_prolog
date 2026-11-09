@@ -251,3 +251,20 @@ Consultas úteis: `swipl prolog/arvore_a.pl prolog/fatos_casos.pl` e depois
   vazamento, a validação "deixa um relator fora" e a prioridade à interpretabilidade. Não
   adotados, por ora: prever o § 4º com ~60 casos (poucas vitórias) e a comparação com regressão
   logística/McNemar. Podem entrar quando a base do § 4º estiver completa.
+
+## 10. Experimentos (09/11)
+
+Rodar, na raiz: `swipl -g main -t halt prolog/experimentos.pl` e depois `python scripts/experimentos.py`.
+Saídas em `resultados/` (CSVs, `experimentos.json` e as tabelas `tab_*.tex`, incluídas no `tex/trabalho.tex`).
+
+- **E1 (mesma lei, leituras diferentes):** 63 réus; com fato faltante a favor do réu, a redução sai para
+  57 (garantista), 26 (intermediária) e 7 (restritiva); as leituras discordam em 50; a pena do mesmo réu
+  varia em média 26 meses (até 47). Com o fato faltante contra o réu: 13, 4 e 0. A escolha que mais pesa
+  é QUAIS indícios contam (muda até 24 réus), depois QUANTOS bastam (13).
+- **E2 (mesmo processo, dois julgamentos):** nos 4 casos em que Sebastião Reis deu a redução sozinho e a
+  Turma tirou, o relator coincide com a leitura garantista e a Turma com a intermediária/restritiva.
+- **E3 (o que a árvore aprendida aprende):** depois de "é REsp?", todas as perguntas são sobre o relator.
+  Trocando só o relator, a resposta muda em 292 de 1.494 processos. Acha 27/40 vitórias com 171 alarmes falsos.
+- **E4 (juiz virtual x tribunais):** a leitura restritiva é a que mais coincide com o STJ (41/52), mas o STJ
+  negou em 42/52: concordar com ele é, sobretudo, negar.
+- `tex/trabalho.tex` reescrito em linguagem comum, com "fichas" de cada tabela (o que é a linha, quantas, colunas).

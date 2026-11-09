@@ -28,6 +28,7 @@
              ultimo_ato_infracional/2, acoes_em_curso/2, associacao/2, indicio/2,
              majorante/2, referencia/3.
 :- discontiguous param/2, requisito/4.
+:- dynamic param/2, perfil/1.   % dinâmicos: os experimentos criam perfis variantes
 
 /* ------------------------------------------------------------------
    1. Lei aplicável (data do fato)

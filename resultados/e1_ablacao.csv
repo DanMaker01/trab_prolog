@@ -1,0 +1,14 @@
+variante,origem,parametro,mudam_decisao,mudam_fracao,concede_base,concede_variante,n
+quantidade_isolada_basta,restritivo,quantidade_isolada_basta,2,0,26,24,63
+limites_menores,restritivo,limite_qtd,3,0,26,23,63
+janela_atos_5_anos,restritivo,janela_ato_infracional,1,0,26,25,63
+ato_sem_data_conta,restritivo,ato_sem_data_conta,1,0,26,25,63
+acoes_em_curso_contam,restritivo,acoes_em_curso_contam,1,0,26,25,63
+indicios_amplos,restritivo,indicios_aceitos,10,0,26,16,63
+minimo_1_indicador,restritivo,minimo_indicadores,13,0,26,13,63
+fracao_restritiva,restritivo,fracao_por_qtd,0,10,26,26,63
+quantidade_nao_indica,garantista,quantidade_indica_dedicacao,9,0,26,35,63
+atos_nao_contam,garantista,janela_ato_infracional,0,0,26,26,63
+esquecimento_5_anos,garantista,esquecimento_anos,2,0,26,28,63
+indicios_restritos,garantista,indicios_aceitos,24,0,26,50,63
+fracao_garantista,garantista,fracao_por_qtd,0,3,26,26,63
