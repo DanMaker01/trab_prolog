@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 2718305",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",
+   "reu": "Eduardo dos Santos",
+   "sexo": "M",
+   "drogas": "cocaina",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "nao",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "pretensao de desclassificacao exigia reexame de provas (Sum. 7)",
+   "obs": "Condenado pelo art. 33, par. 3o (oferecimento para consumo compartilhado), com confissao em juizo; STJ nao conheceu do REsp (Sum. 7), desprovido AgRg, rejeitados EDcl e negado seguimento ao RE (Temas 339, 660 e 181/STF)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 2718305",
+   "reu": "Eduardo dos Santos",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Afastar o uso compartilhado e a tipicidade do art. 33, par. 3o, fixados pelo TJ com base em provas e confissao exigiria reexame fatico-probatorio."
+  },
+  {
+   "processo": "AREsp 2718305",
+   "reu": "Eduardo dos Santos",
+   "tese": "outro:omissao_negativa_prestacao_jurisdicional",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "EDcl rejeitados por ausencia de vicio do art. 619 do CPP; mero inconformismo."
+  },
+  {
+   "processo": "AREsp 2718305",
+   "reu": "Eduardo dos Santos",
+   "tese": "outro:recurso_extraordinario_legalidade_tipicidade",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Vice-Presidencia negou seguimento ao RE com base nos Temas 339, 660 e 181 do STF."
+  }
+ ]
+}

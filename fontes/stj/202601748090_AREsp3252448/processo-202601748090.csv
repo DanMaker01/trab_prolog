@@ -1,0 +1,125 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601748090"
+"Numero Unico";"09025906920248120002"
+"Classe";"AREsp"
+"Numero Classe";"3252448"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"MS"
+"Origem";"TJMS"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL"
+"Ministro Relator";"NILSONI DE FREITAS (DESEMBARGADORA CONVOCADA DO TJDFT)"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Valor Causa";"0"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL"
+"Data Ultima Fase";"01/09/2026 16:23:14"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"AGRAVANTE";"GABRIEL JOSE DA SILVA AMORIM";"";"PAULO HENRIQUE PESCE"
+"AGRAVADO";"MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL";"";""
+"CORRÉU";"MARCELLO RAFAEL BENEVIDES SILVA";"";"MATEUS SILVA DO AMARAL"
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"06/05/2026"
+"Data Protocolo";"05/05/2026"
+"Data Baixa";"01/09/2026"
+"Data Distribuicao 1";"12/06/2026"
+"Data Distribuicao 2";"07/05/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"9025906920248120002";"Nao";"0";"2"
+"09025906920248120002";"Nao";"0";"2"
+"902590692024812000250002";"Nao";"0";"0"
+"0902590692024812000250002";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"prevenção de Turma"
+"Motivo";"despacho/decisão"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL";"01/09/2026"
+"848";"Transitado em Julgado em 01/09/2026";"01/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL intimado eletronicamente da(o) Acórdãos em 17/08/2026";"17/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 830141/2026";"17/08/2026"
+"118";"Protocolizada Petição 830141/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"14/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL";"14/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 14/08/2026 Petição Nº 517374/2026 - AgRg";"14/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"13/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0517374 - AgRg no AREsp 3252448 - Publicação prevista para 14/08/2026";"12/08/2026"
+"132";"Recebidos os autos no(a) SEXTA TURMA ";"05/08/2026"
+"3001";"Proclamação Final de Julgamento: A Sexta Turma, por unanimidade, negou provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora.
+ Petição Nº 517374/2026 - AgRg no AREsp 3252448";"04/08/2026"
+"239";"Conhecido o recurso de GABRIEL JOSE DA SILVA AMORIM e não-provido,por unanimidade, pela SEXTA TURMA Petição Nº 517374/2026 - AgRg no AREsp 3252448";"04/08/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 26/06/2026";"26/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 26/06/2026";"26/06/2026"
+"85";"Juntada de Petição de PETIÇÃO MANIFESTANDO CIÊNCIA DE DECISÃO nº 622339/2026";"18/06/2026"
+"30077";"Tipo de petição alterado (Petição nº 622339/2026 alterada de PET - PETIÇÃO para Cienc - PETIÇÃO MANIFESTANDO CIÊNCIA DE DECISÃO)";"18/06/2026"
+"118";"Protocolizada Petição 622339/2026 (PET - PETIÇÃO) em 17/06/2026";"17/06/2026"
+"3002";"Inclusão em mesa para julgamento - SEXTA TURMA - sessão do dia 04/08/2026 14:00:00 - Petição N° 202600517374 - AgRg no AREsp 3252448/MS";"17/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL intimado eletronicamente da(o) Decisões e Vistas em 16/06/2026";"16/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 16/06/2026 Petição Nº 517374/2026 - AgRg";"16/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"16/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL";"16/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"15/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) NILSONI DE FREITAS (DESEMBARGADORA CONVOCADA DO TJDFT) (Relatora) - pela SJD";"12/06/2026"
+"36";"Redistribuído por prevenção de Órgão Julgador, em razão de despacho/decisão, à Ministra NILSONI DE FREITAS (DESEMBARGADORA CONVOCADA DO TJDFT) - SEXTA TURMA";"12/06/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"11/06/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"11/06/2026"
+"12474";"Determinada a distribuição do feito";"11/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0517374 - AgRg no AREsp 3252448 - Publicação prevista para 16/06/2026";"11/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) com encaminhamento à ARP";"02/06/2026"
+"85";"Juntada de Petição de IMPUGNAÇÃO nº 556809/2026";"01/06/2026"
+"118";"Protocolizada Petição 556809/2026 (PET - PETIÇÃO) em 01/06/2026";"01/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL intimado eletronicamente da(o) Decisões e Vistas em 27/05/2026";"27/05/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 532330/2026";"27/05/2026"
+"118";"Protocolizada Petição 532330/2026 (CieMPF - CIÊNCIA PELO MPF) em 27/05/2026";"27/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"26/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL";"26/05/2026"
+"92";"Publicado VISTA à(s) parte(s) agravada(s) para impugnação do Agravo Regimental (AgRg) em 26/05/2026 Petição Nº 517374/2026 - ";"26/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL intimado eletronicamente da(o) Decisões e Vistas em 25/05/2026";"25/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"25/05/2026"
+"11383";"Ato ordinatório praticado (VISTA à(s) parte(s) agravada(s) para impugnação do Agravo Regimental (AgRg) - PETIÇÃO Nº 517374/2026. Publicação prevista para 26/05/2026)";"22/05/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 517374/2026";"22/05/2026"
+"118";"Protocolizada Petição 517374/2026 (AgRg - AGRAVO REGIMENTAL) em 22/05/2026";"22/05/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 508407/2026";"21/05/2026"
+"118";"Protocolizada Petição 508407/2026 (CieMPF - CIÊNCIA PELO MPF) em 21/05/2026";"21/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"21/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL";"21/05/2026"
+"92";"Publicado DESPACHO / DECISÃO em 21/05/2026 ";"21/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"20/05/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 21/05/2026";"19/05/2026"
+"235";"Não conhecido o recurso de GABRIEL JOSE DA SILVA AMORIM";"19/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) - pela SJD";"08/05/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"07/05/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL";"05/05/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600830141";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600622339";"PETIÇÃO MANIFESTANDO CIÊNCIA DE DECISÃO";"Cienc";"17/06/2026";"O MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO DO SUL  "
+"202600556809";"IMPUGNAÇÃO";"IMP";"01/06/2026";"MINISTERIO PUBLICO ESTADUAL"
+"202600532330";"CIÊNCIA PELO MPF";"CieMPF";"27/05/2026";"MPF"
+"202600517374";"AGRAVO REGIMENTAL";"AgRg";"22/05/2026";"GABRIEL JOSE DA SILVA AMORIM"
+"202600508407";"CIÊNCIA PELO MPF";"CieMPF";"21/05/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"AREsp";"2026,8,14";"";"202600517374";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

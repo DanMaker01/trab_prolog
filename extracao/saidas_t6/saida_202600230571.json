@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "REsp 2255646",
+   "via": "REsp",
+   "data_fato": "",
+   "uf": "BA",
+   "relator": "Carlos Pires Brandao",
+   "reu": "Leandro de Oliveira Costa",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "sim",
+   "antecedentes": "tecnicamente primario na sentenca; condenacao por fato anterior transitou em julgado em 01/07/2025, apos a sentenca (05/06/2025)",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "favoravel",
+   "sent_pena_m": 49,
+   "tj_pena_m": 49,
+   "stj_pena_m": 49,
+   "sent_regime": "aberto",
+   "tj_regime": "aberto",
+   "stj_regime": "aberto",
+   "sent_p4": "sim",
+   "tj_p4": "sim",
+   "stj_p4": "sim",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "favoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Recurso do MP (trafico + porte de arma art. 14 da Lei 10.826/2003): STJ manteve o §4º porque os requisitos sao aferidos na data da sentenca e o transito em julgado superveniente de condenacao por fato anterior nao retroage (tempus regit actum; Tema 1.139). Pena de 4a1m e a soma dos dois crimes; fracao do §4º nao informada."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "REsp 2255646",
+   "reu": "Leandro de Oliveira Costa",
+   "tese": "p4",
+   "quem_alegou": "mp",
+   "obice": "Sum. 7",
+   "analisou_merito": "sim",
+   "resultado_reu": "favoravel",
+   "fundamento": "Requisitos do trafico privilegiado sao aferidos na sentenca; transito em julgado posterior nao afasta a minorante e acao penal em curso nao a impede (Tema 1.139); rever exigiria reexame (Sum. 7)."
+  },
+  {
+   "processo": "REsp 2255646",
+   "reu": "Leandro de Oliveira Costa",
+   "tese": "outro:dissidio_jurisprudencial_omissao",
+   "quem_alegou": "mp",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "favoravel",
+   "fundamento": "Decisao em consonancia com a jurisprudencia da Corte, nao havendo falar em divergencia jurisprudencial."
+  }
+ ]
+}

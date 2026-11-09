@@ -1,0 +1,117 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202600439821"
+"Numero Unico";"07003758720258020054"
+"Classe";"REsp"
+"Numero Classe";"2258005"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"AL"
+"Origem";"TJAL"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS"
+"Ministro Relator";"SEBASTIÃO REIS JÚNIOR"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS"
+"Data Ultima Fase";"24/08/2026 16:13:18"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"RECORRENTE";"JAILSON SILVA DE OLIVEIRA";"";"DEFENSORIA PÚBLICA DO ESTADO DE ALAGOAS"
+"RECORRIDO";"MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"00287.03603.03633.";"Crimes do Sistema Nacional de Armas";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"12/02/2026"
+"Data Protocolo";"10/02/2026"
+"Data Classificacao";"25/02/2026"
+"Data Baixa";"24/08/2026"
+"Data Distribuicao 1";"03/03/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"7276155020248020001";"Nao";"0";"2"
+"07276155020248020001";"Nao";"0";"2"
+"7003758720258020054";"Nao";"0";"0"
+"82025000507539";"Nao";"0";"0"
+"07003758720258020054";"Nao";"0";"0"
+"082025000507539";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Distribuição"
+"Tipo";"prevenção de processo"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS";"24/08/2026"
+"848";"Transitado em Julgado em 24/08/2026";"24/08/2026"
+"581";"Juntada de Certidão : Certifico que, nesta data, procedi ao restabelecimento da tramitação dos presentes para regular processamento em razão de equívoco na certificação do trânsito em julgado, tornando sem efeito a certidão com remessa ao Tribunal de origem, aposta à e-STJ fls. retro, bem como a respectiva fase processual lançada no Sistema Integrado da Atividade Judiciária – SIAJ desta Corte.";"13/08/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE ALAGOAS intimado eletronicamente da(o) Acórdãos em 22/06/2026";"22/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS intimado eletronicamente da(o) Acórdãos em 22/06/2026";"22/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 590567/2026";"10/06/2026"
+"118";"Protocolizada Petição 590567/2026 (CieMPF - CIÊNCIA PELO MPF) em 10/06/2026";"10/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE ALAGOAS";"10/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS";"10/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"10/06/2026"
+"92";"Publicado EMENTA / ACORDÃO em 10/06/2026 Petição Nº 398340/2026 - AgRg";"10/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"09/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0398340 - AgRg no REsp 2258005 - Publicação prevista para 10/06/2026";"04/06/2026"
+"239";"Conhecido o recurso de JAILSON SILVA DE OLIVEIRA e não-provido , por unanimidade, pela SEXTA TURMA    - Petição N° 00398340/2026 - AgRg no REsp 2258005/AL";"03/06/2026"
+"3001";"Proclamação Final de Julgamento: A SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/05/2026 a 03/06/2026, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. - Petição Nº 00398340/2026 - AgRg no REsp 2258005/AL/AL";"03/06/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE ALAGOAS intimado eletronicamente da(o) Pauta de Julgamentos em 18/05/2026";"18/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS intimado eletronicamente da(o) Pauta de Julgamentos em 18/05/2026";"18/05/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 18/05/2026";"18/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE ALAGOAS";"07/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS";"07/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"07/05/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 07/05/2026 ";"07/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"06/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"06/05/2026"
+"417";"Incluído em pauta para 28/05/2026 00:00:00 pela SEXTA TURMA (Sessão Virtual) - Petição Nº 00398340/2026 - AgRg no REsp 2258005/AL";"05/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"27/04/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 398340/2026";"27/04/2026"
+"118";"Protocolizada Petição 398340/2026 (AgRg - AGRAVO REGIMENTAL) em 27/04/2026";"27/04/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE ALAGOAS intimado eletronicamente da(o) Decisões e Vistas em 23/04/2026";"23/04/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS intimado eletronicamente da(o) Decisões e Vistas em 23/04/2026";"23/04/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 363040/2026";"15/04/2026"
+"118";"Protocolizada Petição 363040/2026 (CieMPF - CIÊNCIA PELO MPF) em 15/04/2026";"15/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE ALAGOAS";"13/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS";"13/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"13/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 13/04/2026 ";"13/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"10/04/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 13/04/2026";"08/04/2026"
+"239";"Conhecido o recurso de JAILSON SILVA DE OLIVEIRA e não-provido";"08/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"12/03/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"12/03/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 223710/2026";"12/03/2026"
+"118";"Protocolizada Petição 223710/2026 (ParMPF - PARECER DO MPF) em 12/03/2026";"12/03/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"03/03/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"03/03/2026"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"03/03/2026"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à Coordenadoria de Recursos Especiais para abertura de vista ao MPF.";"03/03/2026"
+"26";"Distribuído por dependência ao Ministro SEBASTIÃO REIS JÚNIOR - SEXTA TURMA. Processo prevento: HC 1050193 (2025/0435381-7)";"03/03/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS";"10/02/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600590567";"CIÊNCIA PELO MPF";"CieMPF";"10/06/2026";"MPF"
+"202600398340";"AGRAVO REGIMENTAL";"AgRg";"27/04/2026";"JAILSON SILVA DE OLIVEIRA"
+"202600363040";"CIÊNCIA PELO MPF";"CieMPF";"15/04/2026";"MPF"
+"202600223710";"PARECER DO MPF";"ParMPF";"12/03/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"REsp";"2026,6,10";"";"202600398340";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"03/06/2026";"00:00";"SEXTA TURMA";"PAUTA DE JULGAMENTOS";"07/05/2026"

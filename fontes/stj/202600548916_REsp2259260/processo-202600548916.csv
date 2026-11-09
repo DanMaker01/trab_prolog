@@ -1,0 +1,149 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202600548916"
+"Numero Unico";"00462223920238130145"
+"Classe";"REsp"
+"Numero Classe";"2259260"
+"Tipo Processo";"Recursal"
+"Status";"Processamento de RE/RO"
+"UF";"MG"
+"Origem";"TJMG"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS"
+"Ministro Relator";"VICE-PRESIDENTE DO STJ"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 05/11/2026"
+"Data Ultima Fase";"05/11/2026 01:35:28"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"RECORRENTE";"CARLOS EDUARDO GERMANO DE OLIVEIRA";"";"WILKER MORONI DE OLIVEIRA SOARES"
+"RECORRIDO";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"";""
+"CORRÉU";"HELOISIO FRANCISCO DE OLIVEIRA";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"00287.03603.03633.";"Crimes do Sistema Nacional de Armas";"Nao";"Terceira Seção"
+"00287.10620.10621.";"Aplicação da Pena";"Nao";"Terceira Seção"
+"08826.08960.08990.";"Provas";"Nao";""
+"00287.03603.03607.05897.";"Associação para a Produção e Tráfico e Condutas Afins";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"19/02/2026"
+"Data Protocolo";"19/02/2026"
+"Data Classificacao";"24/02/2026"
+"Data Distribuicao 1";"03/09/2026"
+"Data Distribuicao 2";"18/05/2026"
+"Data Distribuicao 3";"25/02/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"50454222320238130145";"Nao";"0";"1"
+"10000250703600001";"Nao";"0";"0"
+"145230046222";"Nao";"0";"0"
+"00462223920238130145";"Nao";"0";"0"
+"10000245049630000";"Nao";"0";"0"
+"10000250703600002";"Nao";"0";"0"
+"0145230046222";"Nao";"0";"0"
+"10000232795575000";"Nao";"0";"0"
+"462223920238130145";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Registro | Vice-Presidente do STJ"
+"Tipo";"automática"
+"Competencia";"Presidência"
+"Competencia Processante";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 05/11/2026";"05/11/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 1145883/2026";"27/10/2026"
+"118";"Protocolizada Petição 1145883/2026 (CieMPF - CIÊNCIA PELO MPF) em 27/10/2026";"27/10/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"26/10/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"26/10/2026"
+"92";"Publicado DESPACHO / DECISÃO em 26/10/2026 Petição Nº 906785/2026 - RE no AgRg no";"26/10/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"23/10/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0906785 - RE no AgRg no REsp 2259260 - Publicação prevista para 26/10/2026";"22/10/2026"
+"265";"Processo Suspenso por Recurso Extraordinário com repercussão geral (TEMA 1185) - Petição Nº 2026/00906785 - RE no AgRg REsp 2259260";"22/10/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) VICE-PRESIDENTE DO STJ (Relator)";"30/09/2026"
+"85";"Juntada de Petição de CONTRARRAZÕES RE/RO nº 1030456/2026";"29/09/2026"
+"118";"Protocolizada Petição 1030456/2026 (CRR - CONTRARRAZÕES RE/RO) em 29/09/2026";"29/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 18/09/2026";"18/09/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 931635/2026";"08/09/2026"
+"118";"Protocolizada Petição 931635/2026 (CieMPF - CIÊNCIA PELO MPF) em 08/09/2026";"08/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"08/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"08/09/2026"
+"92";"Publicado VISTA à(s) parte(s) recorrida(s) para contrarrazões de Recurso Extraordinário (RE) em 08/09/2026 Petição Nº 906785/2026 - ";"08/09/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"04/09/2026"
+"11383";"Ato ordinatório praticado (VISTA à(s) parte(s) recorrida(s) para contrarrazões de Recurso Extraordinário (RE) - PETIÇÃO Nº 906785/2026. Publicação prevista para 08/09/2026)";"03/09/2026"
+"26";"Distribuído por competência exclusiva ao Ministro VICE-PRESIDENTE DO STJ";"03/09/2026"
+"581";"Juntada de Certidão : Certifico que, nesta data, o presente feito foi registrado ao Excelentíssimo Senhor MINISTRO VICE-PRESIDENTE DO STJ.";"03/09/2026"
+"123";"Remetidos os Autos (para processamento do RE) para COORDENADORIA DE PROCESSAMENTO DE DECISÕES ESTRANGEIRAS E RECURSOS PARA O STF ";"02/09/2026"
+"85";"Juntada de Petição de RECURSO EXTRAORDINÁRIO nº 906785/2026";"01/09/2026"
+"118";"Protocolizada Petição 906785/2026 (RE - RECURSO EXTRAORDINÁRIO) em 01/09/2026";"01/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Acórdãos em 27/08/2026";"27/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 833784/2026";"17/08/2026"
+"118";"Protocolizada Petição 833784/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"17/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"17/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 17/08/2026 Petição Nº 351391/2026 - AgRg";"17/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"14/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0351391 - AgRg no REsp 2259260 - Publicação prevista para 17/08/2026";"13/08/2026"
+"239";"Conhecido o recurso de CARLOS EDUARDO GERMANO DE OLIVEIRA e não-provido , por unanimidade, pela SEXTA TURMA    - Petição N° 00351391/2026 - AgRg no REsp 2259260/MG";"12/08/2026"
+"3001";"Proclamação Final de Julgamento: A SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2026 a 12/08/2026, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora. - Petição Nº 00351391/2026 - AgRg no REsp 2259260/MG/MG";"12/08/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 25/06/2026";"25/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Pauta de Julgamentos em 25/06/2026";"25/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"15/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"15/06/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 15/06/2026 ";"15/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"12/06/2026"
+"417";"Incluído em pauta para 06/08/2026 00:00:00 pela SEXTA TURMA (Sessão Virtual) - Petição Nº 00351391/2026 - AgRg no REsp 2259260/MG";"11/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) NILSONI DE FREITAS CUSTÓDIO (DESEMBARGADORA CONVOCADA DO TJDFT) (Relatora) - pela SJD";"18/05/2026"
+"36";"Redistribuído por prevenção, em razão de sucessão, à Ministra NILSONI DE FREITAS CUSTÓDIO (DESEMBARGADORA CONVOCADA DO TJDFT) - SEXTA TURMA";"18/05/2026"
+"30075";"Processo recebido para redistribuição por sucessão";"18/05/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"15/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 17/04/2026";"17/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) ANTONIO SALDANHA PALHEIRO (Relator)";"14/04/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 351391/2026";"13/04/2026"
+"118";"Protocolizada Petição 351391/2026 (AgRg - AGRAVO REGIMENTAL) em 13/04/2026";"13/04/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 323315/2026";"07/04/2026"
+"118";"Protocolizada Petição 323315/2026 (CieMPF - CIÊNCIA PELO MPF) em 07/04/2026";"07/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"07/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"07/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 07/04/2026 ";"07/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"06/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"06/04/2026"
+"239";"Conhecido o recurso de CARLOS EDUARDO GERMANO DE OLIVEIRA e não-provido";"30/03/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 07/04/2026";"30/03/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) ANTONIO SALDANHA PALHEIRO (Relator)";"25/03/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"25/03/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 278185/2026";"25/03/2026"
+"118";"Protocolizada Petição 278185/2026 (ParMPF - PARECER DO MPF) em 25/03/2026";"25/03/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"25/02/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"25/02/2026"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"25/02/2026"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à Coordenadoria de Recursos Especiais para abertura de vista ao MPF.";"25/02/2026"
+"26";"Distribuído por dependência ao Ministro ANTONIO SALDANHA PALHEIRO - SEXTA TURMA. Processo prevento: RHC 192192 (2024/0002579-0)";"25/02/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS";"19/02/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202601145883";"CIÊNCIA PELO MPF";"CieMPF";"27/10/2026";"MPF"
+"202601030456";"CONTRARRAZÕES RE/RO";"CRR";"29/09/2026";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS"
+"202600931635";"CIÊNCIA PELO MPF";"CieMPF";"08/09/2026";"MPF"
+"202600906785";"RECURSO EXTRAORDINÁRIO";"RE";"01/09/2026";"CARLOS EDUARDO GERMANO DE OLIVEIRA"
+"202600833784";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600351391";"AGRAVO REGIMENTAL";"AgRg";"13/04/2026";"CARLOS EDUARDO GERMANO DE OLIVEIRA"
+"202600323315";"CIÊNCIA PELO MPF";"CieMPF";"07/04/2026";"MPF"
+"202600278185";"PARECER DO MPF";"ParMPF";"25/03/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"REsp";"2026,8,17";"";"202600351391";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"12/08/2026";"00:00";"SEXTA TURMA";"PAUTA DE JULGAMENTOS";"15/06/2026"

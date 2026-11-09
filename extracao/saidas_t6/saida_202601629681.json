@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3244452",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Carlos Pires Brandao",
+   "reu": "SAULON HENRIQUE GOMES D ANUNCIACAO",
+   "sexo": "M",
+   "drogas": "cocaina",
+   "qtd_g": "",
+   "porcoes": "14 porcoes",
+   "petrechos_dinheiro": "dinheiro",
+   "majorante_art40": "nao",
+   "origem_abordagem": "outro (abordagem em praca publica ao avistar viatura)",
+   "local_conhecido": "sim",
+   "comportamento_reu": "mudanca de direcao ao avistar viatura; resistencia inicial a ordem de abordagem",
+   "tipo_busca": "pessoal",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": 81.7,
+   "stj_pena_m": 81.7,
+   "sent_regime": "",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "nao impugnou especificamente a Sum. 7 (Sum. 182), sem cotejo analitico; EDcl na origem nao conhecidos por intempestividade",
+   "obs": "Sentenca desclassificou para art. 28 e absolveu da desobediencia; TJSP proveu apelacao do MP e condenou por trafico (6a9m20d, fechado) e art. 330 (19 dias, semiaberto). Tese de nulidade da busca por mera mudanca de direcao ao ver viatura nao foi examinada por falha de dialeticidade."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3244452",
+   "reu": "SAULON HENRIQUE GOMES D ANUNCIACAO",
+   "tese": "nulidade_busca_pessoal",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "AREsp nao impugnou de forma concreta e pormenorizada o obice da Sum. 7, limitando-se a afirmar que a controversia e juridica."
+  }
+ ]
+}

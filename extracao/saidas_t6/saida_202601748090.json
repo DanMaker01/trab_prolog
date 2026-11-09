@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3252448",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "MS",
+   "relator": "Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",
+   "reu": "GABRIEL JOSE DA SILVA AMORIM",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": 416600,
+   "porcoes": "",
+   "petrechos_dinheiro": "veiculo (perdimento decretado)",
+   "majorante_art40": "V (interestadual)",
+   "origem_abordagem": "outro (ordem de parada da Policia Rodoviaria Federal)",
+   "local_conhecido": "",
+   "comportamento_reu": "desobedeceu ordem de parada da PRF, fuga em alta velocidade",
+   "tipo_busca": "veicular",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "agentes sao elos indispensaveis na cadeia produtiva do crime",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "nao indicou precisamente os dispositivos de lei federal violados (Sum. 284/STF); invocou materia constitucional em REsp",
+   "obs": "Condenado por trafico interestadual e desobediencia (art. 330 CP); TJMS proveu em parte apelo do MP para exasperar penas-base (culpabilidade por concurso de agentes + quantidade de droga). Penas nao informadas no acordao."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3252448",
+   "reu": "GABRIEL JOSE DA SILVA AMORIM",
+   "tese": "outro:admissibilidade_resp_fundamentacao_deficiente",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Falta de indicacao precisa e analitica dos dispositivos de lei federal violados impede o conhecimento do REsp."
+  },
+  {
+   "processo": "AREsp 3252448",
+   "reu": "GABRIEL JOSE DA SILVA AMORIM",
+   "tese": "outro:violacao_constitucional",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Materia constitucional e de competencia do STF (art. 102, III, CF), incabivel em REsp."
+  }
+ ]
+}

@@ -46,19 +46,23 @@ extracao/              passo intermediário
   protocolo_extracao.md   regras da extração por IA (campos e valores permitidos)
   textos/                 texto dos PDFs dos 40 sorteados da 5ª Turma, um .txt por registro
   saidas/                 JSON da extração (casos e teses) de cada um dos 40
+  textos_t6/, saidas_t6/  o mesmo para a amostra da 6ª Turma
   textos_contraste/       texto dos PDFs dos 14 casos de contraste (lidos à mão)
 
 dados/                 tabelas finais
   casos.csv, teses.csv          14 casos de contraste, escolhidos à mão (qualitativos)
   amostra.csv                   40 sorteados da 5ª Turma
   amostra_t6.csv                40 sorteados da 6ª Turma
-  metadados.csv                 metadados de todos os processos em fontes/stj (gerado por script)
+  amostra_t6_casos.csv, amostra_t6_teses.csv   extração da amostra da 6ª Turma (coluna `incluir`)
+  metadados.csv                 metadados de todos os processos em fontes/stj (92 até agora; gerado por script)
   amostra_casos.csv, amostra_teses.csv   extração dos 40 da 5ª Turma (coluna `incluir`)
+  ementas_t5.csv, ementas_t6.csv         todos os acórdãos de tráfico classificados pela ementa (gerado por script)
 
 scripts/               rodar sempre a partir da raiz do projeto
   ler_processos.py      fontes/stj/*/processo-*.csv  ->  dados/metadados.csv
   sortear_amostra.py    JSONs de uma turma           ->  amostra sorteada
   pdf_para_txt.py       PDFs de cada processo        ->  um .txt por registro, sem duplicatas
+  analisar_ementas.py   JSONs de uma turma           ->  dados/ementas_t*.csv (resultado, barreiras, marcadores)
   protocolo_extracao.md cópia do protocolo de extração
 
 _/                     (criar quando precisar) pasta de entrada para downloads novos;
@@ -72,6 +76,8 @@ python scripts\ler_processos.py
 python scripts\sortear_amostra.py fontes\json\*.json --n 40 --seed 2026 --manter-pre-condenacao --saida dados\amostra.csv
 python scripts\sortear_amostra.py fontes\json\sexta_turma\*.json --n 40 --seed 2026 --saida dados\amostra_t6.csv
 python scripts\pdf_para_txt.py fontes\stj extracao\textos
+python scripts\analisar_ementas.py fontes\json\*.json --saida dados\ementas_t5.csv
+python scripts\analisar_ementas.py fontes\json\sexta_turma\*.json --saida dados\ementas_t6.csv
 ```
 
 Os dois sorteios são reproduzíveis: os comandos acima geram exatamente as amostras salvas. A opção `--manter-pre-condenacao` existe porque o sorteio da 5ª Turma foi feito antes do filtro de casos anteriores à condenação; ali, esses casos foram excluídos à mão (coluna `incluir`). O `pdf_para_txt.py` precisa do `pdftotext` (Poppler) instalado.
@@ -117,18 +123,51 @@ Estes casos foram **escolhidos por contraste** e não são representativos. Serv
 
 **Cuidado:** a amostra só tem acórdãos. Quando a defesa ganha na monocrática e o MP não agrava, o caso nunca vira acórdão. Por isso, a taxa desfavorável está inflada por construção (ver item 1 das ideias).
 
-## 5. Amostra aleatória da 6ª Turma (40 sorteados)
+## 4b. Ementas em escala: 5ª × 6ª Turma (todos os acórdãos de tráfico, jun–ago/2026)
+
+`scripts/analisar_ementas.py` classifica cada processo só pelo texto do JSON: quem recorreu, o dispositivo, o resultado para o réu, as barreiras e os marcadores. **Validação:** acertou o resultado para o réu em 32 de 33 casos da amostra extraída e em 11 de 12 casos de contraste. O erro conhecido é quando a ementa não diz que quem recorreu foi o MP (1082334). Na amostra da 6ª Turma, acertou 29 de 30; na base do §4º (Sebastião Reis), 16 de 19 depois da correção de 08/11 (antes, 13 de 19). O erro (AREsp 3285685) é uma vitória parcial na monocrática seguida de AgRg da defesa desprovido: a ementa só mostra o AgRg.
+
+| | 5ª Turma | 6ª Turma |
+|---|---|---|
+| Processos | 879 | 678 |
+| Resultado favorável ou parcial ao réu | 5,3% | 7,5% |
+| **Defesa vence quando é ela que recorre** | **0,8% (7/836)** | **5,4% (36/661)** |
+| Recurso do MP | 4,9% | 2,5% |
+| Decisão por maioria | 0,2% | 2,2% |
+| Súmula 7 citada | 54% | 52% |
+| HC substitutivo citado | 32% | 24% |
+| Súmula 182 citada | 17% | 23% |
+
+**Por relator (defesa vence quando recorre):**
+- 5ª Turma: Maria Marluce 2,1%, Ribeiro 2,1%, Messod 0%, Reynaldo 0%, Joel 0%.
+- 6ª Turma: **Sebastião Reis 12,0%**, Og Fernandes 6,7%, Schietti 3,0%, Carlos Pires 0%, Nilsoni 0%.
+
+**Leitura:** a mesma lei, no mesmo tribunal e no mesmo período, dá taxas diferentes conforme a turma e, dentro dela, conforme o relator sorteado. Na 5ª Turma, quase todo resultado favorável ao réu vem de recurso do MP que perdeu; a defesa quase nunca ganha. Na 6ª, a chance da defesa varia de 0% a 12% conforme o relator.
+
+**Cuidados:**
+- Só há acórdãos: monocráticas favoráveis sem agravo do MP não aparecem.
+- A classificação é heurística.
+- Os relatores recebem casos de tipos diferentes.
+
+**Marcadores na ementa** (5ª / 6ª): facção 13% / 9%; fuga ou mudança de direção 9% / 8%; denúncia anônima 7% / 7%; local conhecido 5% / 5%; nervosismo 4% / 2%; atos infracionais 3% / 2%.
+
+## 5. Amostra aleatória da 6ª Turma (40 sorteados, todos extraídos)
 
 - `dados/amostra_t6.csv`: 8 por relator (Carlos Pires Brandão, Nilsoni de Freitas, Og Fernandes, Rogerio Schietti, Sebastião Reis). Antonio Saldanha ficou fora da cota porque só tem 4 casos. O nome dos relatores é normalizado ("ROGERIO SCHIETTI CRUZ" = "ROGERIO SCHIETTI").
 - **População:** 631 processos de tráfico. Os JSONs têm 2.538 (jun), 232 (jul) e 2.289 (ago) acórdãos.
-- **Status:** esperando os CSVs e os PDFs. Strings de busca:
-  - Carlos Pires: ARESP2981531 · ARESP3129963 · ARESP3165049 · ARESP3182130 · ARESP3243065 · ARESP3244452 · HC1065723 · RESP2255646
-  - Nilsoni: ARESP2718305 · ARESP3185153 · ARESP3191865 · ARESP3224072 · ARESP3240954 · ARESP3252448 · HC1094990 · RESP2259260
-  - Og Fernandes: ARESP3103548 · HC1075836 · HC1080301 · HC1090661 · HC936798 · RESP2178527 · RHC204466 · RHC235243
-  - Schietti: ARESP2869502 · ARESP3139305 · ARESP3238765 · HC1057736 · HC1076501 · HC1086770 · HC1088909 · HC1089400
-  - Sebastião Reis: ARESP3181652 · ARESP3216220 · ARESP3216334 · ARESP3264809 · ARESP3285685 · HC1093112 · HC1096435 · RESP2178919
-
----
+- **Extração:** 40 processos e 43 réus, em `dados/amostra_t6_casos.csv` e `dados/amostra_t6_teses.csv`.
+  - 12 réus ficam fora do recorte: antes da condenação/preventiva/inquérito (5); ato infracional/ECA (2); art. 35 sem art. 33 (2); só organização criminosa, Lei 12.850 (2); art. 37, "olheiro" (1).
+  - Restam 31 réus (30 processos) e 92 teses.
+- **Resultado para o réu:** 29 desfavoráveis, 1 favorável e 1 parcial.
+  - Favorável: REsp 2255646 (Carlos Pires), recurso do MP que perdeu; o §4º foi mantido.
+  - Parcial: AREsp 3285685 (Sebastião Reis), confissão reconhecida na monocrática; o AgRg da defesa foi desprovido.
+  - Por relator: Carlos Pires 4/5 desfavoráveis; Nilsoni 8/8; Og 4/4; Schietti 8/8; Sebastião Reis 5/6.
+- **Mérito:** 29 das 92 teses tiveram o mérito analisado, e só 3 foram favoráveis. Barreiras: Súmula 7 (20), HC substitutivo (16), Súmula 182 (13), Súmula 284/STF (5).
+- **Erro técnico da defesa:** 21 de 31 (particular 15/20, Defensoria 6/11).
+- **Metadados:** 27 particular e 13 Defensoria. A defesa recorreu ao STF (RE) em 8 dos 40, bem mais que na 5ª Turma, e no AREsp 3185153 entrou com embargos de divergência. Em vários processos o relator mudou depois (redistribuição da convocada Nilsoni); para a análise vale o relator do acórdão (JSON).
+- **Fatos disponíveis:** droga 17/31, quantidade 13/31, primariedade 6/31, data do fato 2/31. Marcadores em 15/31 ("namorada do líder", "membros de facção", "faz da traficância seu modus vivendi", "local conhecido como ponto de venda", "companheira de faccionado", "boca de fumo").
+- **HC contra trânsito em julgado:** 3 dos 8 de Schietti são HC usados no lugar da revisão criminal, barrados de saída.
+- **Leitura:** a amostra não separa os relatores. Com 6 a 8 casos por relator, uma taxa de 12% (Sebastião Reis nas ementas) dá zero vitórias em cerca de 1 de cada 3 sorteios. A diferença entre relatores tem que vir da base de ementas (seção 4b); a amostra serve para mostrar *como* se perde (barreiras, erro técnico, falta de dados para a lei).
 
 ## 6. Ideias para explorar
 
@@ -140,7 +179,7 @@ Estes casos foram **escolhidos por contraste** e não são representativos. Serv
 5. **Base 2, direcionada:** só acórdãos que analisaram o mérito do §4º ou da busca pessoal. É ela que alimenta a árvore A.
 
 **Análises com o que já temos**
-6. **Ementas em escala:** 844 de tráfico na 5ª Turma e cerca de 630 na 6ª. Regex para assunto, barreira processual, resultado e marcadores, usando os 40 extraídos como gabarito. Primeira comparação entre as turmas.
+6. ~~Ementas em escala~~ (feito, seção 4b). Próximo: testar se a diferença entre relatores se mantém dentro do mesmo assunto (p. ex., só §4º).
 7. **Sensibilidade da árvore A:** critérios vagos obrigam a escolher números (ex.: ato infracional a menos de X anos). Variar X e ver quem ganha ou perde o §4º. O caso 1052086 ilustra.
 8. **Paradoxo da precisão na árvore B:** ela acerta cerca de 94% dizendo sempre "nega".
 9. **Auditar a extração por IA:** conferir 5 casos à mão e medir a concordância.
@@ -159,9 +198,14 @@ Estes casos foram **escolhidos por contraste** e não são representativos. Serv
 
 ## 8. Próximos passos
 
-1. Baixar os CSVs e PDFs dos 40 da 6ª Turma (seção 5) → metadados e extração com o mesmo protocolo.
-2. Comparar a 5ª e a 6ª Turma (amostras e ementas em escala).
-3. Tentar obter as monocráticas.
-4. Conferir à mão 5 casos da extração por IA.
-5. Fechar o dicionário de colunas (base: `extracao/protocolo_extracao.md`).
-6. Montar a árvore A em Prolog a partir de `leis/`, já pensando no teste de sensibilidade.
+1. ~~Amostra da 6ª Turma~~ (feito: 40/40, validação 29/30). Próximo: comparar as amostras das duas turmas lado a lado.
+2. Árvore B com a base de ementas (teste rápido em 08/11: nos recursos da defesa, o 1º nó aprendido é "relator = Sebastião Reis?" e o 2º "relator = Og?"; acha 29 das 43 vitórias com 233 alarmes falsos). Refazer com cuidado.
+3. **Base do §4º** (`dados/amostra_p4.csv`, gerada por `scripts/sortear_p4.py`, semente 2026): 99 processos em que a defesa pediu o §4º, de 10 relatores das duas turmas. Desenho caso-controle: entram todas as 19 vitórias da defesa e 8 derrotas sorteadas por relator (coluna `peso` para re-ponderar). Objetivo: extrair os fatos do texto integral (quantidade, antecedentes, atos infracionais) e testar se o relator continua decisivo com os fatos controlados.
+   - JSONs de mar–mai/2026 (enviados em 08/11) não entram: têm poucas decisões por mês e taxa de vitória da defesa de 60%+, ou seja, parecem uma seleção, não o conjunto completo. Os de jan–fev vieram da 1ª Turma.
+   - **Sebastião Reis (19 processos, 22 réus) extraído** → `dados/amostra_p4_casos.csv` (protocolo em `extracao/protocolo_p4.md`). Os fatos aparecem bem mais que nas outras amostras: droga 18/22, quantidade 14/22, primariedade 10/22, fundamento do TJ para negar o §4º 22/22 (quantidade em 13).
+   - **Achado: o relator concede, a turma derruba.** Em 4 das 11 "vitórias" da ementa, Sebastião Reis tinha concedido o §4º na monocrática, o MP agravou e a Turma retirou o benefício. Em 3 delas ele ficou vencido (AREsp 2946226: 432 kg de maconha; HC 1060758: 308 kg; HC 1017077: 2 kg de cocaína, fração reduzida de 2/3 para 1/6). Mesmos fatos, mesma lei, resposta diferente conforme quem decide: o critério "não se dedicar a atividades criminosas" é lido de dois jeitos.
+   - **Correção do `analisar_ementas.py`:** esses casos eram lidos como vitória da defesa (o agravo "provido" era do MP). Nova regra: agravo provido que cassa a monocrática / restabelece o acórdão / declara a minorante inaplicável = recurso do MP. Nova coluna `relator_vencido`. Efeito: Sebastião Reis cai de 12% para 10,8%; a diferença entre turmas continua (0,8% × 5,0%, p ≈ 10⁻⁶). Erro restante conhecido: HC 1017077 (redução da fração).
+4. Tentar obter as monocráticas.
+5. Conferir à mão 5 casos da extração por IA.
+6. Fechar o dicionário de colunas (base: `extracao/protocolo_extracao.md`).
+7. Montar a árvore A em Prolog a partir de `leis/`, já pensando no teste de sensibilidade.

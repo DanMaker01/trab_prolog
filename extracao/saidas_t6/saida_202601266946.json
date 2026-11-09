@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1086770",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Rogerio Schietti Cruz",
+   "reu": "Emerson Ribeiro Felix",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC substitutivo de revisao criminal; nao ajuizou revisao criminal na origem",
+   "obs": "HC impetrado em 6/4/2026 contra acordao de EDcl na apelacao (25/11/2025), transitado para a defesa em 16/12/2025. Defesa alegava fragilidade da vinculacao do reu as drogas, achadas em area de vegetacao aberta, sem exame de merito."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1086770",
+   "reu": "Emerson Ribeiro Felix",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Transito em julgado sem inauguracao da competencia do STJ torna o HC incognoscivel; aplicacao do obice nao configura negativa de jurisdicao."
+  },
+  {
+   "processo": "HC 1086770",
+   "reu": "Emerson Ribeiro Felix",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Nao examinada: HC substitutivo de revisao criminal nao conhecido."
+  }
+ ]
+}

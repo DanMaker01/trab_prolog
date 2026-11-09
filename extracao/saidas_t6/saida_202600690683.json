@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1076501",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Rogerio Schietti Cruz",
+   "reu": "Daniel Claudio Teixeira",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC substitutivo de revisao criminal; nao interpos REsp nem ajuizou revisao criminal na origem",
+   "obs": "HC impetrado em 26/2/2026 contra acordao de apelacao de 23/4/2025, transitado em 16/5/2025. Teses da impetracao nao descritas no acordao; nao conhecimento mantido."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1076501",
+   "reu": "Daniel Claudio Teixeira",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Transito em julgado sem inauguracao da competencia do STJ (sem REsp nem revisao criminal na origem) torna o HC incognoscivel."
+  }
+ ]
+}

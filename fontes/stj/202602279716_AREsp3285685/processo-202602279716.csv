@@ -1,0 +1,144 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202602279716"
+"Numero Unico";"00391830920238272729"
+"Classe";"AREsp"
+"Numero Classe";"3285685"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"TO"
+"Origem";"TJTO"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS"
+"Ministro Relator";"SEBASTIÃO REIS JÚNIOR"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Prioridade";"1"
+"Descricao Prioridade";"Idoso (60 a 79 anos)"
+"Valor Causa";"0"
+"Ultima Fase";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS intimado eletronicamente da(o) Decisões e Vistas em 25/09/2026"
+"Data Ultima Fase";"25/09/2026 02:09:03"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"AGRAVANTE";"ANTONIO THALES MAGALHAES CAVALCANTE";"";"IONÁ BEZERRA OLIVEIRA DE ASSUMÇÃO"
+"AGRAVANTE";"MARCIA LEMOS";"";"MARCOS ANTONIO CANDAL RODRIGUES DE OLIVEIRA"
+"AGRAVADO";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"00287.03603.03633.";"Crimes do Sistema Nacional de Armas";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"09/06/2026"
+"Data Protocolo";"09/06/2026"
+"Data Baixa";"22/09/2026"
+"Data Distribuicao 1";"16/06/2026"
+"Data Distribuicao 2";"12/06/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"00303137220238272729";"Nao";"0";"1"
+"303137220238272729";"Nao";"0";"1"
+"391830920238272729";"Nao";"0";"0"
+"00391830920238272729";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"prevenção de Turma"
+"Motivo";"despacho/decisão"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS intimado eletronicamente da(o) Decisões e Vistas em 25/09/2026";"25/09/2026"
+"132";"Recebidos os autos no(a) SUPREMO TRIBUNAL FEDERAL - número de controle 0039183092023827272920260923054201";"23/09/2026"
+"123";"Remetidos os Autos (em grau de recurso) para SUPREMO TRIBUNAL FEDERAL recebendo o número de controle 0039183092023827272920260923054201";"23/09/2026"
+"30025";"Disponibilizado para remessa eletrônica ao Supremo Tribunal Federal";"22/09/2026"
+"1051";"Decorrido prazo de ANTONIO THALES MAGALHAES CAVALCANTE em 22/09/2026 para recurso";"22/09/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 967078/2026";"15/09/2026"
+"118";"Protocolizada Petição 967078/2026 (CieMPF - CIÊNCIA PELO MPF) em 15/09/2026";"15/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS";"15/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"15/09/2026"
+"92";"Publicado DESPACHO / DECISÃO em 15/09/2026 Petição Nº 679030/2026 - EDcl";"15/09/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"14/09/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0679030 - EDcl no AREsp 3285685 - Publicação prevista para 15/09/2026";"11/09/2026"
+"200";"Embargos de Declaração de ANTONIO THALES MAGALHAES CAVALCANTE Não-acolhidos - Petição Nº 2026/00679030 - EDcl no AREsp 3285685";"11/09/2026"
+"51";"Conclusos para julgamento ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator) com embargos de declaração ";"04/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS intimado eletronicamente da(o) Acórdãos em 24/08/2026";"24/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 838166/2026";"18/08/2026"
+"118";"Protocolizada Petição 838166/2026 (CieMPF - CIÊNCIA PELO MPF) em 18/08/2026";"18/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS";"14/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"14/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 14/08/2026 Petição Nº 685507/2026 - AgRg";"14/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"13/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0685507 - AgRg no AREsp 3285685 - Publicação prevista para 14/08/2026";"12/08/2026"
+"132";"Recebidos os autos no(a) SEXTA TURMA ";"12/08/2026"
+"3001";"Proclamação Final de Julgamento: A Sexta Turma, por unanimidade, negou provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+ Petição Nº 685507/2026 - AgRg no AREsp 3285685";"04/08/2026"
+"239";"Conhecido o recurso de ANTONIO THALES MAGALHAES CAVALCANTE e não-provido,por unanimidade, pela SEXTA TURMA Petição Nº 685507/2026 - AgRg no AREsp 3285685";"04/08/2026"
+"3002";"Inclusão em mesa para julgamento - SEXTA TURMA - sessão do dia 04/08/2026 14:00:00 - Petição N° 202600685507 - AgRg no AREsp 3285685/TO";"21/07/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 06/07/2026";"06/07/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 06/07/2026";"06/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS intimado eletronicamente da(o) Decisões e Vistas em 06/07/2026";"06/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS intimado eletronicamente da(o) Decisões e Vistas em 06/07/2026";"06/07/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"02/07/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 685507/2026";"02/07/2026"
+"118";"Protocolizada Petição 685507/2026 (AgRg - AGRAVO REGIMENTAL) em 02/07/2026";"02/07/2026"
+"85";"Juntada de Petição de EMBARGOS DE DECLARAÇÃO nº 679030/2026";"01/07/2026"
+"118";"Protocolizada Petição 679030/2026 (EDcl - EMBARGOS DE DECLARAÇÃO) em 30/06/2026";"30/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 675743/2026";"30/06/2026"
+"118";"Protocolizada Petição 675743/2026 (CieMPF - CIÊNCIA PELO MPF) em 30/06/2026";"30/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS intimado eletronicamente da(o) Decisões e Vistas em 29/06/2026";"29/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 29/06/2026";"29/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS";"26/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS";"26/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"26/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"26/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 26/06/2026 ";"26/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 26/06/2026 ";"26/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"25/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"25/06/2026"
+"235";"Não conhecido o recurso de MARCIA LEMOS";"24/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 26/06/2026";"24/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 26/06/2026";"24/06/2026"
+"12439";"Conheço do agravo de ANTONIO THALES MAGALHAES CAVALCANTE e MARCIA LEMOS para conhecer em parte o recurso especial e dar provimento parcial";"24/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"22/06/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"22/06/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 641474/2026";"22/06/2026"
+"118";"Protocolizada Petição 641474/2026 (ParMPF - PARECER DO MPF) em 22/06/2026";"22/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS";"17/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"17/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 17/06/2026 ";"17/06/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"16/06/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"16/06/2026"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"16/06/2026"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL para abertura de vista ao MPF.";"16/06/2026"
+"36";"Redistribuído por prevenção de Órgão Julgador, em razão de despacho/decisão, ao Ministro SEBASTIÃO REIS JÚNIOR - SEXTA TURMA";"16/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"16/06/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"15/06/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"15/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 17/06/2026";"15/06/2026"
+"12474";"Determinada a distribuição do feito";"15/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) HERMAN BENJAMIN (Presidente) - pela SJD.";"12/06/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"12/06/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS";"09/06/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600967078";"CIÊNCIA PELO MPF";"CieMPF";"15/09/2026";"MPF"
+"202600838166";"CIÊNCIA PELO MPF";"CieMPF";"18/08/2026";"MPF"
+"202600685507";"AGRAVO REGIMENTAL";"AgRg";"02/07/2026";"ANTONIO THALES MAGALHAES CAVALCANTE"
+"202600679030";"EMBARGOS DE DECLARAÇÃO";"EDcl";"30/06/2026";"ANTONIO THALES MAGALHAES CAVALCANTE"
+"202600675743";"CIÊNCIA PELO MPF";"CieMPF";"30/06/2026";"MPF"
+"202600641474";"PARECER DO MPF";"ParMPF";"22/06/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"AREsp";"2026,8,14";"";"202600685507";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

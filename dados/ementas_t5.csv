@@ -1,0 +1,880 @@
+registro,processo,classe_acordao,turma,relator,data_decisao,objeto,recorrente,dispositivo,resultado_reu,barreiras,marcadores,votacao,relator_vencido
+202401049085,AREsp 2599403,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260616,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202503833488,AREsp 3064649,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260624,nulidade_busca,defesa,desprovido,desfavoravel,,local_conhecido,unanime,nao
+202504381104,AREsp 3110301,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504766636,AREsp 3125568,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,local_conhecido fuga_mudanca_direcao,unanime,nao
+202504894501,AREsp 3131937,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,local_conhecido,unanime,nao
+202504961966,AREsp 3135814,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260617,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202505057703,AREsp 3139242,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260616,autoria,defesa,desprovido,desfavoravel,,,unanime,nao
+202600114031,AREsp 3147735,AgRg nos EDcl no AREsp,QUINTA TURMA,JOEL ILAN,20260616,nulidade_busca,defesa,desprovido,desfavoravel,,,unanime,nao
+202600115178,AREsp 3148954,AgRg no AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260624,p4,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202600142454,AREsp 3149915,AgRg nos EDcl no AREsp,QUINTA TURMA,JOEL ILAN,20260624,autoria,defesa,desprovido,desfavoravel,,comunidade_bairro,unanime,nao
+202600121058,AREsp 3150364,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260609,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600121690,AREsp 3150460,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260616,outro,defesa,desprovido,desfavoravel,Sum284 Sum83 revisao_criminal,conhecido_policia,unanime,nao
+202600225514,AREsp 3156646,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260609,nulidade_busca,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao
+202600395446,AREsp 3171063,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202600408416,AREsp 3172378,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao,unanime,nao
+202600433733,AREsp 3172591,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260624,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284,local_conhecido,unanime,nao
+202600476838,AREsp 3175306,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260609,outro,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600519760,AREsp 3175943,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260624,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284 Sum83,,unanime,nao
+202600627326,AREsp 3182544,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260804,nulidade_busca,mp,desprovido,favoravel,Sum7,fuga_mudanca_direcao,unanime,nao
+202600643126,AREsp 3183315,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260804,outro,defesa,desprovido,desfavoravel,Sum7 revisao_criminal,,unanime,nao
+202600767321,AREsp 3192718,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,local_conhecido nervosismo fuga_mudanca_direcao,unanime,nao
+202600722612,AREsp 3193190,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260616,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202600786518,AREsp 3194739,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260616,outro,defesa,desprovido,desfavoravel,Sum182 Sum83,,unanime,nao
+202600821700,AREsp 3196286,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260624,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600944892,AREsp 3200794,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260616,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202600625508,AREsp 3202731,AgRg no AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600894932,AREsp 3202867,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260804,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601034945,AREsp 3208789,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260804,autoria,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202601015658,AREsp 3210071,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260624,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202601063622,AREsp 3211734,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260609,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202601279771,AREsp 3221312,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260804,p4,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202601266680,AREsp 3223118,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260804,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601401867,AREsp 3228973,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260609,outro,defesa,desprovido,desfavoravel,Sum182 Sum83,,unanime,nao
+202601799095,AREsp 3256826,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260804,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601021272,AREsp 3259778,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202601877470,AREsp 3261483,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao,unanime,nao
+202602230066,AREsp 3285713,AgRg no AREsp,QUINTA TURMA,JOEL ILAN,20260804,nulidade_busca,mp,desprovido,favoravel,,local_conhecido fuga_mudanca_direcao,unanime,nao
+202502201741,HC 1011980,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202502809710,HC 1022542,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260615,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202503449894,HC 1034167,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,faccao,unanime,nao
+202503659430,HC 1037460,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo,denuncia_anonima,unanime,nao
+202504180290,HC 1046907,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,dosimetria,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao
+202504471241,HC 1052086,AgRg no AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,p4,mp,desprovido,favoravel,,faccao atos_infracionais,unanime,nao
+202504596635,HC 1054443,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202504660691,HC 1055585,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,faccao,unanime,nao
+202504772286,HC 1057525,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504821086,HC 1058178,AgRg no AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202504835330,HC 1058978,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,outro,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202504984120,HC 1061533,AgRg no AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202505120319,HC 1065054,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202600125846,HC 1067637,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202600166362,HC 1068268,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,denuncia_anonima,unanime,nao
+202600235471,HC 1069195,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,local_conhecido fuga_mudanca_direcao,unanime,nao
+202600347838,HC 1070795,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260819,outro,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202600373482,HC 1071270,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260527,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,local_conhecido,unanime,nao
+202600441985,HC 1072497,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202600474742,HC 1072845,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260527,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600474653,HC 1073027,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600572831,HC 1074767,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260527,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600586060,HC 1075051,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,atos_infracionais,unanime,nao
+202600712829,HC 1076825,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260615,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202600741531,HC 1077438,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,dosimetria,defesa,desprovido,desfavoravel,revisao_criminal,,unanime,nao
+202600764339,HC 1077891,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202600768594,HC 1078006,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202600812595,HC 1078537,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202600814390,HC 1078571,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260819,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202600817409,HC 1078604,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260527,outro,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202600828315,HC 1078946,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260615,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600829677,HC 1078949,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,outro,defesa,desprovido,desfavoravel,HC_substitutivo supressao_instancia,,unanime,nao
+202600850651,HC 1079193,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,outro,defesa,nao_conhecido,desfavoravel,Sum182 revisao_criminal,,unanime,nao
+202600855094,HC 1079279,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260615,outro,mp,nao_conhecido,favoravel,,,unanime,nao
+202600855514,HC 1079283,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260819,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600860004,HC 1079354,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,atos_infracionais denuncia_anonima,unanime,nao
+202600880527,HC 1079696,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260819,p4,defesa,desprovido,desfavoravel,Sum182,,unanime,nao
+202600892305,HC 1079890,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260624,autoria,defesa,desprovido,desfavoravel,revisao_criminal supressao_instancia,,unanime,nao
+202600952201,HC 1080891,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260615,outro,defesa,desprovido,desfavoravel,HC_substitutivo supressao_instancia,,unanime,nao
+202600976929,HC 1081367,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202600988643,HC 1081531,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,desclassificacao,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal reiteracao,,unanime,nao
+202601020755,HC 1081958,AgRg nos EDcl no HC,QUINTA TURMA,JOEL ILAN,20260603,outro,defesa,nao_conhecido,desfavoravel,Sum182 HC_substitutivo revisao_criminal,,unanime,nao
+202601023279,HC 1082154,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo supressao_instancia,denuncia_anonima,unanime,nao
+202601028863,HC 1082249,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260615,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202601032104,HC 1082280,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260527,desclassificacao,defesa,desprovido,desfavoravel,HC_substitutivo supressao_instancia,,unanime,nao
+202601089246,HC 1083415,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,outro,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202601134763,HC 1084150,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,dosimetria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601153354,HC 1084805,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601188394,HC 1085071,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260527,outro,defesa,nao_conhecido,desfavoravel,Sum182 revisao_criminal,,unanime,nao
+202601252781,HC 1085593,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,dosimetria,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao
+202601223740,HC 1086092,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260615,desclassificacao,defesa,desprovido,desfavoravel,supressao_instancia,faccao,unanime,nao
+202601244375,HC 1086180,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,desclassificacao,defesa,desprovido,desfavoravel,,,unanime,nao
+202601256735,HC 1086388,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,nao_conhecido,desfavoravel,Sum182 HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202601284690,HC 1086860,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,p4,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao
+202601286988,HC 1087053,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,p4,defesa,desprovido,desfavoravel,Sum7,atos_infracionais,unanime,nao
+202601309753,HC 1087421,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260615,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202601376595,HC 1088408,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao,unanime,nao
+202601417547,HC 1088952,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260617,desclassificacao,defesa,desprovido,desfavoravel,revisao_criminal,,unanime,nao
+202601522575,HC 1090432,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260819,dosimetria,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 revisao_criminal,,unanime,nao
+202601528436,HC 1090520,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,desprovido,desfavoravel,supressao_instancia reiteracao,,unanime,nao
+202601528260,HC 1090595,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202601658547,HC 1092922,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao
+202601835576,HC 1096507,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260819,outro,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202401810840,HC 914913,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260527,dosimetria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202401955152,HC 917802,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260603,nulidade_busca,defesa,desprovido,desfavoravel,revisao_criminal,local_conhecido nervosismo,unanime,nao
+202500692601,HC 985389,AgRg no HC,QUINTA TURMA,JOEL ILAN,20260616,nulidade_busca,mp,desprovido,favoravel,,nervosismo fuga_mudanca_direcao,maioria,nao
+202502726357,REsp 2224508,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260617,dosimetria,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202503802933,REsp 2236114,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260617,nulidade_busca,defesa,desprovido,desfavoravel,,nervosismo fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202504638937,REsp 2246055,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284 reiteracao,,unanime,nao
+202504617036,REsp 2246105,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504942530,REsp 2250575,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260527,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202505023480,REsp 2250907,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260603,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600206895,REsp 2254192,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600269059,REsp 2255169,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260624,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600272706,REsp 2255373,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,nervosismo,unanime,nao
+202600526547,REsp 2258912,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260603,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202600604578,REsp 2259736,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,nervosismo,unanime,nao
+202600645829,REsp 2260227,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260812,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600811989,REsp 2261676,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260624,autoria,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202601614986,REsp 2269392,AgRg no REsp,QUINTA TURMA,JOEL ILAN,20260812,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202600056091,RHC 230495,AgRg no RHC,QUINTA TURMA,JOEL ILAN,20260624,outro,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao
+202600989729,RHC 234374,AgRg nos EDcl no RHC,QUINTA TURMA,JOEL ILAN,20260812,desclassificacao,mp,desprovido,favoravel,,,unanime,nao
+202601021296,RHC 234443,AgRg no RHC,QUINTA TURMA,JOEL ILAN,20260603,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202301996170,AREsp 2383329,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202502387341,AREsp 2976000,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202502835416,AREsp 3015618,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260616,outro,defesa,nao_conhecido,desfavoravel,,,unanime,nao
+202503066345,AREsp 3020836,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,outro,defesa,desprovido,desfavoravel,Sum284,,unanime,nao
+202503131301,AREsp 3025720,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260819,nulidade_busca,mp,desprovido,favoravel,,local_conhecido fuga_mudanca_direcao,unanime,nao
+202503141941,AREsp 3027384,AREsp,QUINTA TURMA,MARIA MARLUCE,20260519,nulidade_busca,mp,provido,desfavoravel,,local_conhecido nervosismo fuga_mudanca_direcao,unanime,nao
+202503170136,AREsp 3028151,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202503242680,AREsp 3031121,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202503253322,AREsp 3031311,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,Sum182,atos_infracionais,unanime,nao
+202503265011,AREsp 3031966,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,outro,defesa,desprovido,desfavoravel,Sum182 Sum83,,unanime,nao
+202503282403,AREsp 3033060,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260819,p4,defesa,nao_conhecido,desfavoravel,,,unanime,nao
+202503455685,AREsp 3043534,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260819,dosimetria,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202503512639,AREsp 3046865,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202503522523,AREsp 3047768,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum182,faccao,unanime,nao
+202503590351,AREsp 3052575,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,outro,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202503730374,AREsp 3059751,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202503739115,AREsp 3060250,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,desclassificacao,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 Sum284 Sum83,,unanime,nao
+202504065896,AREsp 3080045,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260609,outro,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,faccao,unanime,nao
+202504067350,AREsp 3080280,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202504099194,AREsp 3083871,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,faccao,unanime,nao
+202503571104,AREsp 3086757,AgRg nos EDcl no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,outro,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504117630,AREsp 3092050,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504150606,AREsp 3094436,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504177670,AREsp 3096258,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202504173680,AREsp 3100048,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260819,autoria,defesa,desprovido,desfavoravel,,,unanime,nao
+202504393651,AREsp 3103445,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,p4,defesa,desprovido,desfavoravel,Sum182 revisao_criminal reiteracao,,unanime,nao
+202504202384,AREsp 3103522,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504312390,AREsp 3104793,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260616,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504744279,AREsp 3121986,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,desclassificacao,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504784278,AREsp 3124936,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,dosimetria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo supressao_instancia,,unanime,nao
+202504823146,AREsp 3127176,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504869168,AREsp 3128804,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504890672,AREsp 3130775,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260818,nulidade_busca,defesa,desprovido,desfavoravel,Sum83,,unanime,nao
+202504871284,AREsp 3130853,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,local_conhecido fuga_mudanca_direcao,unanime,nao
+202504912297,AREsp 3131271,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504922459,AREsp 3131447,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504951868,AREsp 3135415,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504992323,AREsp 3136453,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202505039818,AREsp 3138097,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260818,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 Sum284,denuncia_anonima,unanime,nao
+202600105300,AREsp 3148157,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,faccao,unanime,nao
+202600119210,AREsp 3149003,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600138545,AREsp 3149887,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260609,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600168838,AREsp 3153365,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260818,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,faccao,unanime,nao
+202600328920,AREsp 3164469,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum83,local_conhecido,unanime,nao
+202600329699,AREsp 3164514,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,Sum7 supressao_instancia,,unanime,nao
+202600332586,AREsp 3165120,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202600348367,AREsp 3166119,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600405447,AREsp 3170810,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260609,outro,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 reiteracao,,unanime,nao
+202600403440,AREsp 3172127,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600508020,AREsp 3175712,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600572754,AREsp 3180884,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260818,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202600575331,AREsp 3181410,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202600579698,AREsp 3181543,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600652768,AREsp 3185307,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260818,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,faccao,unanime,nao
+202600679760,AREsp 3187206,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600694763,AREsp 3187666,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260602,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284 revisao_criminal,,unanime,nao
+202600796123,AREsp 3194234,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260818,dosimetria,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202600826117,AREsp 3196470,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260616,p4,defesa,desprovido,desfavoravel,Sum7 Sum284,,unanime,nao
+202600839334,AREsp 3196598,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260818,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202601157713,AREsp 3216949,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260818,outro,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202601540221,AREsp 3240506,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202602095485,AREsp 3276415,AgRg no AREsp,QUINTA TURMA,MARIA MARLUCE,20260818,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202502390543,HC 1015650,HC,QUINTA TURMA,MARIA MARLUCE,20260617,p4,defesa,parcial,parcial,,,unanime,nao
+202502474459,HC 1017250,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260527,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,faccao,unanime,nao
+202502569763,HC 1018839,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260527,p4,defesa,desprovido,desfavoravel,HC_substitutivo,faccao,unanime,nao
+202502573267,HC 1018909,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260812,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202502812264,HC 1022588,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202502876401,HC 1023627,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202502880650,HC 1023650,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,mp,desprovido,favoravel,,,unanime,nao
+202502935145,HC 1024798,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260615,desclassificacao,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202503039730,HC 1026805,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202503049713,HC 1026969,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260527,desclassificacao,defesa,nao_conhecido,desfavoravel,Sum182 HC_substitutivo,,unanime,nao
+202503197341,HC 1029704,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,autoria,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202503278809,HC 1031135,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao,unanime,nao
+202503314491,HC 1031804,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202503362175,HC 1032625,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260602,p4,mp,desprovido,favoravel,,,unanime,nao
+202503362923,HC 1032636,HC,QUINTA TURMA,MARIA MARLUCE,20260615,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202503387283,HC 1033125,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260527,p4,defesa,parcial,parcial,Sum7 HC_substitutivo revisao_criminal reiteracao,local_conhecido,unanime,nao
+202503435012,HC 1033993,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202503574790,HC 1036144,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260602,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202503811034,HC 1039852,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260615,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202503802720,HC 1040034,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260812,p4,defesa,desprovido,desfavoravel,Sum7,local_conhecido,unanime,nao
+202503887540,HC 1041693,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260615,p4,defesa,desprovido,desfavoravel,revisao_criminal supressao_instancia,,unanime,nao
+202503887907,HC 1041704,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 HC_substitutivo,,unanime,nao
+202504019301,HC 1043816,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 HC_substitutivo,,unanime,nao
+202504052465,HC 1044830,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,outro,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao,unanime,nao
+202504097643,HC 1045527,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260615,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202504104804,HC 1045614,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260615,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum182 HC_substitutivo,,unanime,nao
+202504151564,HC 1046453,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260527,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202504153500,HC 1046470,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260615,outro,defesa,desprovido,desfavoravel,supressao_instancia reiteracao,,unanime,nao
+202504172138,HC 1046671,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202504168291,HC 1046795,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260812,outro,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 HC_substitutivo,,unanime,nao
+202504218003,HC 1047543,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202504225221,HC 1047820,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,faccao,unanime,nao
+202504227040,HC 1047847,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260602,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202504264550,HC 1048554,RCD no HC,QUINTA TURMA,MARIA MARLUCE,20260617,outro,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202504287698,HC 1049019,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,dosimetria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202504298491,HC 1049126,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260812,dosimetria,defesa,nao_conhecido,desfavoravel,Sum182 HC_substitutivo,,unanime,nao
+202504428153,HC 1051307,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202504476343,HC 1052144,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260615,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504583190,HC 1054071,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504613425,HC 1054823,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202504621818,HC 1054963,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202504702766,HC 1056543,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260616,nulidade_busca,mp,desprovido,favoravel,HC_substitutivo,local_conhecido nervosismo denuncia_anonima,unanime,nao
+202504776936,HC 1057599,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260616,outro,defesa,nao_conhecido,desfavoravel,Sum182 HC_substitutivo,,unanime,nao
+202504790486,HC 1057844,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,local_conhecido nervosismo,unanime,nao
+202504833409,HC 1058588,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260602,p4,mp,desprovido,favoravel,,,unanime,nao
+202504834015,HC 1058950,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 HC_substitutivo revisao_criminal,,unanime,nao
+202504860431,HC 1059142,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260615,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202504928903,HC 1060412,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,desclassificacao,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao,unanime,nao
+202504938431,HC 1060637,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,mp,desprovido,favoravel,HC_substitutivo,,unanime,nao
+202504966008,HC 1061141,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,defesa,desprovido,desfavoravel,Sum7,local_conhecido atos_infracionais,unanime,nao
+202504972670,HC 1061287,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,denuncia_anonima,unanime,nao
+202600032704,HC 1066237,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202600035950,HC 1066265,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 revisao_criminal,local_conhecido denuncia_anonima,unanime,nao
+202600070364,HC 1066734,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum182 HC_substitutivo revisao_criminal,,unanime,nao
+202600116859,HC 1067414,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202600141569,HC 1067896,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,fuga_mudanca_direcao,unanime,nao
+202600158603,HC 1068138,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202600191731,HC 1068513,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600235927,HC 1069202,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260615,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,fuga_mudanca_direcao,unanime,nao
+202600315222,HC 1070225,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260602,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo,fuga_mudanca_direcao,unanime,nao
+202600340704,HC 1070678,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202600452450,HC 1072753,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,denuncia_anonima,unanime,nao
+202600487327,HC 1073224,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202600528947,HC 1074082,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,desprovido,desfavoravel,,local_conhecido,unanime,nao
+202600631906,HC 1075716,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600636046,HC 1075786,AgRg nos EDcl no HC,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202600646018,HC 1075913,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260603,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo,denuncia_anonima,unanime,nao
+202600652364,HC 1075997,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,dosimetria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202600659312,HC 1076147,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260603,desclassificacao,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600669661,HC 1076273,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,atos_infracionais,unanime,nao
+202600680371,HC 1076400,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,p4,defesa,desprovido,desfavoravel,,local_conhecido atos_infracionais,unanime,nao
+202600770952,HC 1078048,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260602,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600772025,HC 1078064,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,fuga_mudanca_direcao,unanime,nao
+202600813230,HC 1078550,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600819984,HC 1078631,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo supressao_instancia,,unanime,nao
+202600825775,HC 1078743,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600844418,HC 1079109,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260812,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600856740,HC 1079308,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,defesa,nao_conhecido,desfavoravel,Sum182 HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202600867810,HC 1079465,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600943226,HC 1080656,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202600965140,HC 1081129,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,fuga_mudanca_direcao,unanime,nao
+202601067803,HC 1082746,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202601075804,HC 1083145,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260603,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,fuga_mudanca_direcao,unanime,nao
+202601079893,HC 1083197,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260602,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601101415,HC 1083638,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601133160,HC 1084122,HC,QUINTA TURMA,MARIA MARLUCE,20260624,dosimetria,defesa,nao_conhecido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202601200918,HC 1085295,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202601220924,HC 1085973,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260615,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202601256481,HC 1086375,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601260733,HC 1086637,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260616,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601261565,HC 1086709,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601345926,HC 1087933,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260624,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202601486741,HC 1089998,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260818,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202601534871,HC 1090831,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260616,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601810723,HC 1096013,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260616,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202404832622,HC 969956,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260617,outro,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202501192298,HC 994055,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260527,nulidade_busca,defesa,desprovido,desfavoravel,,,unanime,nao
+202501401964,HC 998124,AgRg no HC,QUINTA TURMA,MARIA MARLUCE,20260603,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202303800953,REsp 2103315,REsp,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao,unanime,nao
+202304255000,REsp 2111532,REsp,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,mp,parcial,parcial,,fuga_mudanca_direcao,unanime,nao
+202401923773,REsp 2146954,AgRg nos EDcl no REsp,QUINTA TURMA,MARIA MARLUCE,20260616,p4,defesa,parcial,parcial,Sum7 Sum83,,unanime,nao
+202403878447,REsp 2176127,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260603,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202500655102,REsp 2199783,AgRg nos EDcl no REsp,QUINTA TURMA,MARIA MARLUCE,20260617,outro,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202501327406,REsp 2208425,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,atos_infracionais denuncia_anonima,unanime,nao
+202501534486,REsp 2211032,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260615,dosimetria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202502954456,REsp 2226206,REsp,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,defesa,parcial,parcial,,,unanime,nao
+202503111030,REsp 2228381,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao,unanime,nao
+202503248530,REsp 2229576,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260602,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,nervosismo,unanime,nao
+202503210581,REsp 2229729,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260527,autoria,mp,desprovido,favoravel,,local_conhecido,unanime,nao
+202503219613,REsp 2229748,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,local_conhecido nervosismo fuga_mudanca_direcao,unanime,nao
+202503229027,REsp 2229773,REsp,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao,unanime,nao
+202503309826,REsp 2231295,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260602,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202503400817,REsp 2232109,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260615,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,faccao,unanime,nao
+202503526652,REsp 2233219,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202503554367,REsp 2233760,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260624,desclassificacao,defesa,desprovido,desfavoravel,Sum182,,unanime,nao
+202503712808,REsp 2235298,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504043377,REsp 2239210,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260812,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504093627,REsp 2239786,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260819,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202504098438,REsp 2239853,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260819,p4,mp,nao_conhecido,favoravel,Sum7,,unanime,nao
+202504297897,REsp 2243090,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260616,nulidade_busca,mp,desprovido,favoravel,Sum7,,unanime,nao
+202504325354,REsp 2243138,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260603,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,comunidade_bairro local_conhecido faccao nervosismo,unanime,nao
+202504476419,REsp 2244821,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260609,autoria,mp,desprovido,favoravel,Sum7,,unanime,nao
+202504482413,REsp 2245080,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202504724059,REsp 2247116,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504800689,REsp 2248245,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260603,p4,defesa,desprovido,desfavoravel,Sum7,local_conhecido,unanime,nao
+202504819589,REsp 2248533,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao,unanime,nao
+202504994925,REsp 2250564,REsp,QUINTA TURMA,MARIA MARLUCE,20260617,dosimetria,mp,provido,desfavoravel,,,unanime,nao
+202505042539,REsp 2251336,REsp,QUINTA TURMA,MARIA MARLUCE,20260617,nulidade_busca,mp,provido,desfavoravel,,,unanime,nao
+202600073369,REsp 2252892,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600142466,REsp 2253569,REsp,QUINTA TURMA,MARIA MARLUCE,20260617,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202600174201,REsp 2253901,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260819,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,local_conhecido nervosismo fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202600566356,REsp 2259376,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260609,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600566410,REsp 2259448,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260609,outro,defesa,desprovido,desfavoravel,Sum284,,unanime,nao
+202600915749,REsp 2262687,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260624,p4,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202601002518,REsp 2263743,AgRg no REsp,QUINTA TURMA,MARIA MARLUCE,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,nervosismo,unanime,nao
+202503766516,RHC 224503,AgRg nos EDcl no RHC,QUINTA TURMA,MARIA MARLUCE,20260812,outro,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202505067142,RHC 229825,AgRg no RHC,QUINTA TURMA,MARIA MARLUCE,20260812,outro,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202600111140,RHC 230732,AgRg no RHC,QUINTA TURMA,MARIA MARLUCE,20260602,outro,defesa,nao_conhecido,desfavoravel,Sum7,,unanime,nao
+202600201198,RHC 231113,AgRg no RHC,QUINTA TURMA,MARIA MARLUCE,20260812,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202600575622,RHC 232532,AgRg no RHC,QUINTA TURMA,MARIA MARLUCE,20260603,autoria,defesa,nao_conhecido,desfavoravel,,faccao,unanime,nao
+202600992653,RHC 234300,AgRg no RHC,QUINTA TURMA,MARIA MARLUCE,20260609,outro,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202303201132,AREsp 2460608,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,local_conhecido nervosismo,unanime,nao
+202303632203,AREsp 2480313,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284,,unanime,nao
+202303825757,AREsp 2488163,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,nervosismo,unanime,nao
+202304094630,AREsp 2508202,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202400768524,AREsp 2585017,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260609,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202402437817,AREsp 2683983,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260616,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202402554672,AREsp 2691559,AgRg nos EDcl no AREsp,QUINTA TURMA,MESSOD AZULAY,20260616,p4,mp,desprovido,favoravel,revisao_criminal,,unanime,nao
+202403685282,AREsp 2757575,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202500456865,AREsp 2859673,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260609,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202501152024,AREsp 2899383,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182,denuncia_anonima,unanime,nao
+202501185020,AREsp 2901214,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,outro,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202501537075,AREsp 2924426,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260818,outro,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 Sum284,,unanime,nao
+202501502060,AREsp 2926577,AgRg no AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202501883939,AREsp 2945080,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260609,p4,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202501885567,AREsp 2945213,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182,fuga_mudanca_direcao,unanime,nao
+202501881261,AREsp 2946072,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260609,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,faccao,unanime,nao
+202501999627,AREsp 2953615,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,dosimetria,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202502185038,AREsp 2964885,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202502288493,AREsp 2970344,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260609,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,faccao,unanime,nao
+202502500729,AREsp 2983450,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202502597290,AREsp 2990220,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260818,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum284,fuga_mudanca_direcao,unanime,nao
+202502818489,AREsp 3006668,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,fuga_mudanca_direcao,unanime,nao
+202502910670,AREsp 3013966,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,faccao,unanime,nao
+202503040163,AREsp 3020406,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum182 Sum284,,unanime,nao
+202503133409,AREsp 3026072,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,outro,defesa,nao_conhecido,desfavoravel,,,unanime,nao
+202503194070,AREsp 3029021,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202503298447,AREsp 3034038,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202503405123,AREsp 3044468,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,dosimetria,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202503490320,AREsp 3045181,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202503687310,AREsp 3057899,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202503631667,AREsp 3063238,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,autoria,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284,,unanime,nao
+202503957331,AREsp 3071781,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202503961911,AREsp 3071968,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,revisao_criminal,,unanime,nao
+202504078750,AREsp 3079080,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202504067236,AREsp 3080119,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,dosimetria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504100600,AREsp 3083892,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202503719094,AREsp 3087673,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504308317,AREsp 3103876,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260609,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504334252,AREsp 3105513,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202504441667,AREsp 3111620,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum83,comunidade_bairro atos_infracionais,unanime,nao
+202504513996,AREsp 3114288,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504698347,AREsp 3119401,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260616,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202504932470,AREsp 3132834,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202505017615,AREsp 3137778,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202505059658,AREsp 3138625,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202504881017,AREsp 3140837,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202600057444,AREsp 3150451,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260609,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600137471,AREsp 3151152,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,nervosismo denuncia_anonima,unanime,nao
+202600149058,AREsp 3151233,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202600205962,AREsp 3155301,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,denuncia_anonima,unanime,nao
+202600195973,AREsp 3155952,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202600240770,AREsp 3158277,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,autoria,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202600445333,AREsp 3172424,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202600393499,AREsp 3174172,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600483247,AREsp 3174903,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284 Sum83,,unanime,nao
+202600517119,AREsp 3175016,AgRg nos EDcl no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,outro,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202600508513,AREsp 3176407,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260616,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600589432,AREsp 3180987,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202600598139,AREsp 3181171,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,outro,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83 reiteracao,faccao,unanime,nao
+202600666719,AREsp 3185577,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600689893,AREsp 3187570,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,nulidade_busca,defesa,desprovido,desfavoravel,,denuncia_anonima,unanime,nao
+202600752638,AREsp 3191608,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284,,unanime,nao
+202600794216,AREsp 3192912,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202600734527,AREsp 3194694,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,outro,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202600797372,AREsp 3195037,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,outro,defesa,desprovido,desfavoravel,Sum7 revisao_criminal,,unanime,nao
+202600820600,AREsp 3196251,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum83,local_conhecido fuga_mudanca_direcao,unanime,nao
+202600829135,AREsp 3196514,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,dosimetria,defesa,desprovido,desfavoravel,Sum182 Sum83,,unanime,nao
+202600829414,AREsp 3197492,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260818,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202600842181,AREsp 3197536,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202600678307,AREsp 3198262,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260609,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202600859808,AREsp 3198654,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum182,faccao,unanime,nao
+202600886498,AREsp 3202811,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260616,autoria,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284,,unanime,nao
+202600893202,AREsp 3202851,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260616,outro,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284 revisao_criminal,,unanime,nao
+202600907166,AREsp 3203373,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,local_conhecido nervosismo,unanime,nao
+202600929685,AREsp 3204120,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202600989398,AREsp 3205183,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202601012147,AREsp 3206996,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284 Sum83,,unanime,nao
+202601022840,AREsp 3207131,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,outro,defesa,desprovido,desfavoravel,Sum182,,unanime,nao
+202601009212,AREsp 3207202,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260602,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182 HC_substitutivo,,unanime,nao
+202601022233,AREsp 3208610,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,faccao,unanime,nao
+202601157310,AREsp 3216295,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum284 Sum83 revisao_criminal,,unanime,nao
+202601195045,AREsp 3218210,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284 Sum83,fuga_mudanca_direcao,unanime,nao
+202601291252,AREsp 3222259,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,desclassificacao,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202601225468,AREsp 3222317,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260616,dosimetria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601323873,AREsp 3225488,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202601328623,AREsp 3226396,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182,nervosismo fuga_mudanca_direcao,unanime,nao
+202601364517,AREsp 3228737,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum182,fuga_mudanca_direcao,unanime,nao
+202601464497,AREsp 3232763,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601503708,AREsp 3235521,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,nervosismo,unanime,nao
+202601551883,AREsp 3240606,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202601758316,AREsp 3252818,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,outro,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202601713592,AREsp 3253115,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202602033889,AREsp 3274129,AgRg no AREsp,QUINTA TURMA,MESSOD AZULAY,20260818,desclassificacao,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 revisao_criminal,,unanime,nao
+202502572726,HC 1018870,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,p4,defesa,desprovido,desfavoravel,HC_substitutivo,faccao,unanime,nao
+202502599300,HC 1019322,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202503233001,HC 1030349,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,desclassificacao,defesa,desprovido,desfavoravel,HC_substitutivo,local_conhecido atos_infracionais,unanime,nao
+202503312650,HC 1031719,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,outro,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202503409050,HC 1033506,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202503646690,HC 1037311,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260819,p4,mp,desprovido,favoravel,HC_substitutivo,,unanime,nao
+202503886946,HC 1041683,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,fuga_mudanca_direcao,unanime,nao
+202504126082,HC 1046074,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,desclassificacao,defesa,desprovido,desfavoravel,Sum7 revisao_criminal,,unanime,nao
+202504158702,HC 1046572,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum284 HC_substitutivo revisao_criminal,,unanime,nao
+202504171998,HC 1046666,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum182 HC_substitutivo revisao_criminal,denuncia_anonima,unanime,nao
+202504299553,HC 1049163,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,outro,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202504427774,HC 1051299,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal supressao_instancia,faccao,unanime,nao
+202504436797,HC 1051449,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202504607039,HC 1054540,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202504597480,HC 1054742,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,comunidade_bairro local_conhecido nervosismo,unanime,nao
+202504641367,HC 1054877,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202504624510,HC 1055015,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,faccao,unanime,nao
+202504643000,HC 1055261,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202504737668,HC 1056853,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202504755516,HC 1057142,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202504800212,HC 1057983,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202504822629,HC 1058375,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo supressao_instancia,fuga_mudanca_direcao,unanime,nao
+202504835163,HC 1058699,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,outro,defesa,desprovido,desfavoravel,Sum7 Sum182 HC_substitutivo,faccao atos_infracionais,unanime,nao
+202504855650,HC 1059061,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,atos_infracionais,unanime,nao
+202504859184,HC 1059098,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182 HC_substitutivo,denuncia_anonima,unanime,nao
+202504952615,HC 1060674,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202505031040,HC 1062417,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202505067191,HC 1062927,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202505119946,HC 1064975,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,autoria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202600006576,HC 1065811,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202600015146,HC 1066046,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202600104060,HC 1067197,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum182 HC_substitutivo revisao_criminal,,unanime,nao
+202600105081,HC 1067211,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 HC_substitutivo revisao_criminal,,unanime,nao
+202600126565,HC 1067691,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202600195277,HC 1068562,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600217602,HC 1068953,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202600286910,HC 1069777,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202600311748,HC 1070195,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202600330781,HC 1070579,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202600341613,HC 1070688,AgRg nos EDcl no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202600362855,HC 1071059,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202600373975,HC 1071260,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,Sum7 reiteracao,,unanime,nao
+202600383670,HC 1071435,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600393285,HC 1071577,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600407859,HC 1071918,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600427865,HC 1072299,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,fuga_mudanca_direcao,unanime,nao
+202600439430,HC 1072453,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600612681,HC 1075447,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,dosimetria,defesa,desprovido,desfavoravel,Sum182 HC_substitutivo revisao_criminal,,unanime,nao
+202600673003,HC 1076318,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,atos_infracionais,unanime,nao
+202600753737,HC 1077622,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,dosimetria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202600758550,HC 1077742,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600762142,HC 1077887,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600769959,HC 1078029,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600803054,HC 1078409,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600808018,HC 1078500,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600812117,HC 1078528,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,local_conhecido fuga_mudanca_direcao,unanime,nao
+202600822555,HC 1078665,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,fuga_mudanca_direcao,unanime,nao
+202600850020,HC 1079166,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,outro,defesa,desprovido,desfavoravel,HC_substitutivo,comunidade_bairro atos_infracionais,unanime,nao
+202600856360,HC 1079301,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600874797,HC 1079579,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202600875835,HC 1079595,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202600883848,HC 1079749,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202600896458,HC 1079951,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202600920049,HC 1080323,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,desclassificacao,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,fuga_mudanca_direcao,unanime,nao
+202600931068,HC 1080546,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,outro,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202600936110,HC 1080596,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202600941700,HC 1080643,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600943000,HC 1080650,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,outro,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202600999714,HC 1081754,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,outro,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601027966,HC 1082232,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202601067827,HC 1082667,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,desclassificacao,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601070170,HC 1082769,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202601069532,HC 1082824,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601070524,HC 1083027,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo reiteracao,,unanime,nao
+202601078923,HC 1083176,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202601080962,HC 1083242,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,local_conhecido,unanime,nao
+202601106744,HC 1083726,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601112270,HC 1083813,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601120334,HC 1083947,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601123808,HC 1083975,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202601127747,HC 1084012,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,dosimetria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202601163504,HC 1084664,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao
+202601175015,HC 1084686,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601159304,HC 1084868,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601188244,HC 1085060,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601193733,HC 1085146,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,p4,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao
+202601199061,HC 1085250,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 revisao_criminal supressao_instancia,,unanime,nao
+202601254865,HC 1085529,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,outro,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202601220985,HC 1085866,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601232512,HC 1085997,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,dosimetria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601233433,HC 1086117,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202601257187,HC 1086421,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601257757,HC 1086435,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,outro,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601258427,HC 1086474,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601259753,HC 1086572,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260603,outro,defesa,nao_conhecido,desfavoravel,,,unanime,nao
+202601260276,HC 1086616,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,dosimetria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601261440,HC 1086685,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260527,dosimetria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202601295785,HC 1087199,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601325820,HC 1087742,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,nao_conhecido,desfavoravel,,,unanime,nao
+202601354800,HC 1088059,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601403600,HC 1088777,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601440427,HC 1089331,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601459720,HC 1089638,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601517430,HC 1090392,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202601526960,HC 1090612,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,outro,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202601533784,HC 1090806,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601556063,HC 1091380,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601607958,HC 1092160,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,faccao,unanime,nao
+202601613370,HC 1092168,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601632037,HC 1092542,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,outro,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202601634109,HC 1092622,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601635839,HC 1092645,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601703546,HC 1093765,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,desclassificacao,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601705315,HC 1093821,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260615,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601730491,HC 1094454,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202601731819,HC 1094479,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601760622,HC 1095027,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260617,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601794931,HC 1095595,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601811769,HC 1096030,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,outro,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202601815494,HC 1096102,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260624,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601851125,HC 1096768,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,outro,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202601933440,HC 1098005,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,desclassificacao,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202602045667,HC 1100166,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202202159103,HC 755991,AgRg no HC,QUINTA TURMA,MESSOD AZULAY,20260812,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202302217485,REsp 2082198,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260812,nulidade_busca,defesa,desprovido,desfavoravel,,,unanime,nao
+202402034300,REsp 2148744,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260812,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202403806766,REsp 2175060,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202500463314,REsp 2197184,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260615,nulidade_busca,defesa,desprovido,desfavoravel,,,unanime,nao
+202501496947,REsp 2211331,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260812,p4,mp,desprovido,favoravel,,,unanime,nao
+202502377571,REsp 2221967,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202502610872,REsp 2223484,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260615,desclassificacao,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202503303740,REsp 2231274,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260624,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202503655284,REsp 2234707,AgRg nos EDcl no REsp,QUINTA TURMA,MESSOD AZULAY,20260527,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202504061743,REsp 2239398,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,denuncia_anonima,unanime,nao
+202504623750,REsp 2246006,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260615,nulidade_busca,defesa,desprovido,desfavoravel,,,unanime,nao
+202504778285,REsp 2247958,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,Sum7,local_conhecido,unanime,nao
+202504904296,REsp 2249728,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83 HC_substitutivo revisao_criminal,nervosismo fuga_mudanca_direcao,unanime,nao
+202505055958,REsp 2251411,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260603,nulidade_busca,defesa,desprovido,desfavoravel,,nervosismo denuncia_anonima,unanime,nao
+202600213332,REsp 2254195,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202600337777,REsp 2256789,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260812,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202600384440,REsp 2256940,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260527,nulidade_busca,defesa,desprovido,desfavoravel,,local_conhecido nervosismo,unanime,nao
+202600393729,REsp 2257547,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260615,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202600774640,REsp 2262104,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202601586028,REsp 2269149,AgRg no REsp,QUINTA TURMA,MESSOD AZULAY,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504820456,RHC 228808,AgRg no RHC,QUINTA TURMA,MESSOD AZULAY,20260624,autoria,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202504896986,RHC 229071,AgRg no RHC,QUINTA TURMA,MESSOD AZULAY,20260603,outro,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202600607851,RHC 232655,AgRg no RHC,QUINTA TURMA,MESSOD AZULAY,20260624,outro,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202303717672,AREsp 2481621,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,dosimetria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202400905554,AREsp 2591493,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202404824040,AREsp 2827966,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202500508735,AREsp 2857423,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,local_conhecido nervosismo,unanime,nao
+202501814608,AREsp 2943990,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202501927517,AREsp 2948079,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202502318285,AREsp 2971872,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 Sum83,fuga_mudanca_direcao,unanime,nao
+202502841624,AREsp 3008411,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260818,dosimetria,defesa,nao_conhecido,desfavoravel,Sum182,,unanime,nao
+202502913447,AREsp 3014094,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,desclassificacao,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202503232432,AREsp 3030380,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202503589597,AREsp 3052558,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202503681525,AREsp 3057624,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,outro,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202503990017,AREsp 3074959,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,dosimetria,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202504155710,AREsp 3084134,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,denuncia_anonima,unanime,nao
+202504675348,AREsp 3119763,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504667169,AREsp 3122884,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504777744,AREsp 3124231,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,outro,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202504841221,AREsp 3128296,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202505017829,AREsp 3137785,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202505068241,AREsp 3140702,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,Sum7 Sum284 supressao_instancia,faccao,unanime,nao
+202505098320,AREsp 3141362,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600012610,AREsp 3142460,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600048292,AREsp 3144498,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600055412,AREsp 3146823,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600055323,AREsp 3146958,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,nervosismo,unanime,nao
+202600147420,AREsp 3150975,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600170485,AREsp 3153020,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600174779,AREsp 3154857,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,fuga_mudanca_direcao,unanime,nao
+202504816624,AREsp 3158135,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,nulidade_busca,mp,desprovido,favoravel,Sum7,faccao,unanime,nao
+202600256563,AREsp 3160936,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202600383050,AREsp 3169445,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202600338310,AREsp 3172114,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,Sum7,faccao denuncia_anonima,unanime,nao
+202600457071,AREsp 3172487,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum83,,unanime,nao
+202600494824,AREsp 3174940,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202600575974,AREsp 3181437,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,outro,defesa,desprovido,desfavoravel,,,unanime,nao
+202600585833,AREsp 3181628,AgRg no AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600634431,AREsp 3182861,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600643316,AREsp 3185161,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,dosimetria,defesa,desprovido,desfavoravel,Sum182,,unanime,nao
+202600649606,AREsp 3185241,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202600720880,AREsp 3189948,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,faccao denuncia_anonima,unanime,nao
+202600727827,AREsp 3194588,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202600796398,AREsp 3195016,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260624,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600877123,AREsp 3199034,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600907320,AREsp 3203391,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202600928877,AREsp 3204110,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600974554,AREsp 3205556,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao,unanime,nao
+202601042388,AREsp 3209080,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202601103916,AREsp 3216161,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202601170139,AREsp 3216472,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202601218428,AREsp 3219060,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,outro,defesa,desprovido,desfavoravel,Sum182 Sum83,,unanime,nao
+202601233319,AREsp 3222059,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,conhecido_policia,unanime,nao
+202601291126,AREsp 3222533,AgRg nos EDcl no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,Sum83,,unanime,nao
+202601242331,AREsp 3222711,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601365818,AREsp 3230006,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601376813,AREsp 3230070,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601459909,AREsp 3233288,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601579240,AREsp 3238757,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202601592009,AREsp 3240434,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,outro,defesa,nao_conhecido,desfavoravel,Sum7 Sum182 reiteracao,,unanime,nao
+202601679361,AREsp 3246466,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,faccao fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202601692446,AREsp 3248898,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,nao_conhecido,desfavoravel,Sum7 Sum182,,unanime,nao
+202601696350,AREsp 3249311,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,Sum7 Sum182 Sum284 Sum83,,unanime,nao
+202601896125,AREsp 3267696,AgRg no AREsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202503648636,HC 1037348,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,mp,desprovido,favoravel,,faccao,unanime,nao
+202600410391,HC 1071846,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,p4,mp,desprovido,favoravel,HC_substitutivo,faccao,unanime,nao
+202600658605,HC 1076134,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260624,outro,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202600739072,HC 1077422,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,autoria,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202600898555,HC 1079913,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,comunidade_bairro,unanime,nao
+202600912692,HC 1080193,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,outro,defesa,desprovido,desfavoravel,HC_substitutivo,faccao,unanime,nao
+202601035599,HC 1082334,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202601069479,HC 1082995,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260819,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo supressao_instancia,,unanime,nao
+202601118684,HC 1083470,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,dosimetria,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao
+202601094254,HC 1083561,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260624,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo,faccao,unanime,nao
+202601166560,HC 1084210,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,p4,defesa,desprovido,desfavoravel,HC_substitutivo,faccao,unanime,nao
+202601158481,HC 1084620,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601166611,HC 1084718,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202601173929,HC 1084944,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum182 HC_substitutivo revisao_criminal supressao_instancia reiteracao,,unanime,nao
+202601242836,HC 1086171,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260603,outro,defesa,desprovido,desfavoravel,revisao_criminal reiteracao,,unanime,nao
+202601254978,HC 1086325,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202601257050,HC 1086409,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601258893,HC 1086505,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260615,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601259716,HC 1086568,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,autoria,defesa,desprovido,desfavoravel,HC_substitutivo supressao_instancia,,unanime,nao
+202601262361,HC 1086713,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601342399,HC 1087613,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260617,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601340594,HC 1087879,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,p4,defesa,desprovido,desfavoravel,,atos_infracionais,unanime,nao
+202601377431,HC 1088292,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260615,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601392080,HC 1088647,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260603,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202601407741,HC 1088842,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260624,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202601430800,HC 1089169,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7 supressao_instancia,faccao,unanime,nao
+202601457801,HC 1089604,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,atos_infracionais,unanime,nao
+202601523601,HC 1090341,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260615,p4,defesa,desprovido,desfavoravel,HC_substitutivo supressao_instancia,,unanime,nao
+202601529394,HC 1090524,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260624,p4,defesa,desprovido,desfavoravel,HC_substitutivo supressao_instancia,,unanime,nao
+202601514562,HC 1090663,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260615,outro,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202601526388,HC 1090859,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601557275,HC 1091393,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260617,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601566755,HC 1091451,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260624,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601574529,HC 1091589,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202601591315,HC 1091838,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260624,p4,defesa,desprovido,desfavoravel,HC_substitutivo,faccao ocupacao,unanime,nao
+202601608058,HC 1092165,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202601657828,HC 1092888,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260615,outro,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo supressao_instancia,,unanime,nao
+202601668190,HC 1093139,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,desclassificacao,defesa,desprovido,desfavoravel,,,unanime,nao
+202601703408,HC 1093586,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260624,nulidade_busca,defesa,desprovido,desfavoravel,,denuncia_anonima,unanime,nao
+202601694710,HC 1093889,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202601707056,HC 1094103,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo supressao_instancia,,unanime,nao
+202601732450,HC 1094513,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,autoria,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202601737414,HC 1094597,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,desclassificacao,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao,unanime,nao
+202601741271,HC 1094648,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260624,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601748206,HC 1094794,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601774481,HC 1095233,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260819,autoria,mp,desprovido,favoravel,,,unanime,nao
+202601778080,HC 1095370,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260819,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601781383,HC 1095441,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601794538,HC 1095584,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601790446,HC 1095585,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260819,p4,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202601797722,HC 1095752,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo reiteracao,fuga_mudanca_direcao,unanime,nao
+202601822687,HC 1096296,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260616,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601835665,HC 1096501,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo supressao_instancia,,unanime,nao
+202601845787,HC 1096707,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601854500,HC 1096827,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202601855784,HC 1096897,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,autoria,defesa,desprovido,desfavoravel,Sum7 revisao_criminal,,unanime,nao
+202601904458,HC 1097669,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260819,p4,defesa,desprovido,desfavoravel,supressao_instancia,,unanime,nao
+202601916515,HC 1097868,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202601935030,HC 1098187,AgRg nos EDcl no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601956955,HC 1098571,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,denuncia_anonima,unanime,nao
+202601986201,HC 1099129,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao fuga_mudanca_direcao,unanime,nao
+202602011989,HC 1099575,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260812,p4,defesa,desprovido,desfavoravel,HC_substitutivo,faccao ocupacao,unanime,nao
+202602047877,HC 1100205,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260616,p4,mp,desprovido,favoravel,,,unanime,nao
+202602139188,HC 1101895,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202602178760,HC 1102559,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260616,p4,defesa,desprovido,desfavoravel,HC_substitutivo supressao_instancia,,unanime,nao
+202602218144,HC 1103257,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,dosimetria,defesa,desprovido,desfavoravel,Sum7 supressao_instancia,,unanime,nao
+202602318204,HC 1105296,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum182 reiteracao,,unanime,nao
+202602366290,HC 1106011,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202602377777,HC 1106149,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,,denuncia_anonima,unanime,nao
+202602386222,HC 1106289,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,local_conhecido,unanime,nao
+202602385831,HC 1106365,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,outro,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202602521131,HC 1108250,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,autoria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202602527410,HC 1108325,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202602517360,HC 1108487,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202602626075,HC 1109801,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,outro,defesa,desprovido,desfavoravel,HC_substitutivo,comunidade_bairro atos_infracionais,unanime,nao
+202602647990,HC 1110245,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,comunidade_bairro faccao fuga_mudanca_direcao,unanime,nao
+202602669941,HC 1110568,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,faccao,unanime,nao
+202603001267,HC 1115379,AgRg no HC,QUINTA TURMA,REYNALDO SOARES,20260818,p4,defesa,nao_conhecido,desfavoravel,Sum182 reiteracao,,unanime,nao
+202401847410,REsp 2145851,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260804,dosimetria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202500211319,REsp 2193353,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202501546126,REsp 2211164,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260812,outro,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202502354750,REsp 2220412,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260804,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202600071590,REsp 2252909,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260615,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600414495,REsp 2257366,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260519,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum284,faccao,unanime,nao
+202600464013,REsp 2258039,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260812,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600508108,REsp 2259747,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260812,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202600605855,REsp 2259755,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260812,autoria,defesa,desprovido,desfavoravel,Sum7 revisao_criminal,,unanime,nao
+202600910117,REsp 2263744,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260804,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601582506,REsp 2268948,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260804,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601563863,REsp 2269347,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202601756737,REsp 2270988,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260616,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601767149,REsp 2270996,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260804,p4,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202602032196,REsp 2274191,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,,faccao atos_infracionais fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202602495847,REsp 2281334,AgRg no REsp,QUINTA TURMA,REYNALDO SOARES,20260818,p4,defesa,nao_conhecido,desfavoravel,Sum182 reiteracao,,unanime,nao
+202601786283,RHC 237835,AgRg no RHC,QUINTA TURMA,REYNALDO SOARES,20260624,nulidade_busca,defesa,desprovido,desfavoravel,,denuncia_anonima,unanime,nao
+202602529226,RHC 241285,AgRg no RHC,QUINTA TURMA,REYNALDO SOARES,20260804,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo supressao_instancia,,unanime,nao
+202303691614,AREsp 2485173,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,dosimetria,defesa,desprovido,desfavoravel,Sum7 Sum83,,unanime,nao
+202402021827,AREsp 2659378,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,faccao,unanime,nao
+202502275304,AREsp 2969823,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,p4,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202503224519,AREsp 3029735,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,nulidade_busca,mp,desprovido,favoravel,,fuga_mudanca_direcao denuncia_anonima,unanime,nao
+202503220213,AREsp 3033653,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,faccao denuncia_anonima,unanime,nao
+202503895755,AREsp 3068909,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 Sum83,nervosismo denuncia_anonima,unanime,nao
+202504001119,AREsp 3075399,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504087190,AREsp 3082163,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,autoria,defesa,desprovido,desfavoravel,Sum83 revisao_criminal,,unanime,nao
+202504226611,AREsp 3103541,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260616,p4,mp,desprovido,favoravel,,,unanime,nao
+202504604325,AREsp 3117223,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,nulidade_busca,defesa,desprovido,desfavoravel,,local_conhecido,unanime,nao
+202504696578,AREsp 3119919,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,autoria,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202504733919,AREsp 3121916,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260616,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,nervosismo,unanime,nao
+202504894651,AREsp 3131939,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202505058155,AREsp 3138514,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260616,desclassificacao,defesa,desprovido,desfavoravel,Sum7,local_conhecido fuga_mudanca_direcao,unanime,nao
+202600118780,AREsp 3148999,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202600148692,AREsp 3151329,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,dosimetria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600147063,AREsp 3153334,AgRg no AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600276709,AREsp 3160340,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202600292700,AREsp 3161498,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,nulidade_busca,mp,desprovido,favoravel,,local_conhecido,unanime,nao
+202600293289,AREsp 3162327,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600353945,AREsp 3167026,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600365481,AREsp 3167623,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600405815,AREsp 3172393,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,p4,mp,desprovido,favoravel,Sum7,faccao,unanime,nao
+202600441455,AREsp 3172465,AgRg no AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,desclassificacao,defesa,desprovido,desfavoravel,Sum7,local_conhecido fuga_mudanca_direcao,unanime,nao
+202600421069,AREsp 3174199,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202600440736,AREsp 3175088,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,dosimetria,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202600483676,AREsp 3175339,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600513747,AREsp 3175768,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202600529375,AREsp 3176887,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao,unanime,nao
+202600579310,AREsp 3181538,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,autoria,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202600624180,AREsp 3182379,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,dosimetria,defesa,desprovido,desfavoravel,revisao_criminal,,unanime,nao
+202600682431,AREsp 3184502,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202600699007,AREsp 3187787,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202600766550,AREsp 3192716,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,p4,defesa,desprovido,desfavoravel,Sum7,local_conhecido,unanime,nao
+202600820120,AREsp 3194482,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202600813228,AREsp 3195941,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,nulidade_busca,defesa,desprovido,desfavoravel,,,unanime,nao
+202600762635,AREsp 3202422,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,dosimetria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600883925,AREsp 3202796,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601045458,AREsp 3209428,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202601074540,AREsp 3210926,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601128390,AREsp 3213723,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260616,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601189367,AREsp 3217489,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,desprovido,desfavoravel,,atos_infracionais,unanime,nao
+202601206400,AREsp 3218421,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601206081,AREsp 3218651,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601234204,AREsp 3222347,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,denuncia_anonima,unanime,nao
+202601248317,AREsp 3222812,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260609,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601326842,AREsp 3224238,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601299044,AREsp 3224381,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601327144,AREsp 3224879,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,desprovido,desfavoravel,,atos_infracionais,unanime,nao
+202601337937,AREsp 3225561,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601454577,AREsp 3233168,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,desprovido,desfavoravel,,atos_infracionais,unanime,nao
+202601449027,AREsp 3233176,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601427520,AREsp 3233224,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601462303,AREsp 3234084,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601694001,AREsp 3249300,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260616,p4,mp,desprovido,favoravel,Sum7,faccao,unanime,nao
+202601743545,AREsp 3252357,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601762630,AREsp 3252786,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,p4,mp,desprovido,favoravel,,,unanime,nao
+202601817198,AREsp 3256395,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601889146,AREsp 3262811,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,dosimetria,defesa,desprovido,desfavoravel,Sum182 Sum83,,unanime,nao
+202601981095,AREsp 3268783,AgRg nos EDcl no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601984962,AREsp 3269215,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202602326508,AREsp 3288487,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260804,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao,unanime,nao
+202602745990,AREsp 3306420,AgRg no AREsp,QUINTA TURMA,RIBEIRO DANTAS,20260818,nulidade_busca,defesa,desprovido,desfavoravel,,faccao fuga_mudanca_direcao,unanime,nao
+202501750418,HC 1003988,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,p4,mp,desprovido,favoravel,,faccao,unanime,nao
+202502452382,HC 1016769,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,p4,mp,desprovido,favoravel,,faccao ocupacao,unanime,nao
+202503422843,HC 1033845,HC,QUINTA TURMA,RIBEIRO DANTAS,20260804,autoria,defesa,nao_conhecido,desfavoravel,HC_substitutivo revisao_criminal,faccao,unanime,nao
+202503705690,HC 1038252,HC,QUINTA TURMA,RIBEIRO DANTAS,20260818,outro,defesa,nao_conhecido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202503954920,HC 1043301,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260617,outro,defesa,desprovido,desfavoravel,supressao_instancia,comunidade_bairro faccao,unanime,nao
+202504089201,HC 1045355,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260617,outro,defesa,desprovido,desfavoravel,,comunidade_bairro faccao,unanime,nao
+202504355053,HC 1050178,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,atos_infracionais,unanime,nao
+202504384450,HC 1050683,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,nulidade_busca,mp,desprovido,favoravel,,,unanime,nao
+202504799860,HC 1058005,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,outro,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202600096344,HC 1067124,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600164633,HC 1068231,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600196542,HC 1068612,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,nulidade_busca,defesa,nao_conhecido,desfavoravel,Sum182 supressao_instancia reiteracao,denuncia_anonima,unanime,nao
+202600249369,HC 1069336,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,outro,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal reiteracao,,unanime,nao
+202600269792,HC 1069600,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,nulidade_busca,defesa,desprovido,desfavoravel,,denuncia_anonima,unanime,nao
+202600324020,HC 1070423,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260615,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202600392870,HC 1071550,HC,QUINTA TURMA,RIBEIRO DANTAS,20260804,nulidade_busca,defesa,nao_conhecido,desfavoravel,HC_substitutivo revisao_criminal,faccao denuncia_anonima,unanime,nao
+202600536973,HC 1074231,HC,QUINTA TURMA,RIBEIRO DANTAS,20260804,dosimetria,defesa,nao_conhecido,desfavoravel,HC_substitutivo,local_conhecido faccao,unanime,nao
+202600594148,HC 1075127,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,local_conhecido faccao atos_infracionais fuga_mudanca_direcao,unanime,nao
+202600642090,HC 1075841,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600667083,HC 1076247,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,,unanime,nao
+202600703993,HC 1076761,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600705232,HC 1076767,AgRg nos EDcl no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,dosimetria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal reiteracao,,unanime,nao
+202600737190,HC 1077335,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,outro,mp,desprovido,favoravel,,,maioria,nao
+202600738668,HC 1077361,AgRg no AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,autoria,mp,desprovido,favoravel,,faccao,unanime,nao
+202600737671,HC 1077427,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600767179,HC 1077974,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,outro,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600800085,HC 1078363,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,nervosismo fuga_mudanca_direcao,unanime,nao
+202600817410,HC 1078608,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,autoria,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202600817310,HC 1078657,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,local_conhecido fuga_mudanca_direcao,unanime,nao
+202600824082,HC 1078704,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,nulidade_busca,defesa,desprovido,desfavoravel,revisao_criminal reiteracao,,unanime,nao
+202600857445,HC 1079328,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,autoria,defesa,desprovido,desfavoravel,supressao_instancia,faccao,unanime,nao
+202600875228,HC 1079580,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,faccao,unanime,nao
+202600924635,HC 1080505,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202600948822,HC 1080794,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,autoria,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601005548,HC 1081826,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo supressao_instancia,,unanime,nao
+202601039631,HC 1082423,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,nulidade_busca,mp,desprovido,favoravel,,fuga_mudanca_direcao,unanime,nao
+202601070698,HC 1083050,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601090404,HC 1083095,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260615,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,fuga_mudanca_direcao,unanime,nao
+202601098168,HC 1083599,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260615,p4,defesa,desprovido,desfavoravel,,ocupacao,unanime,nao
+202601151107,HC 1084382,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260615,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601214690,HC 1085930,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260527,p4,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao
+202601216220,HC 1085970,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260615,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601216368,HC 1085971,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260617,p4,defesa,nao_conhecido,desfavoravel,revisao_criminal reiteracao,,unanime,nao
+202601227856,HC 1086048,AgRg no AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260617,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,fuga_mudanca_direcao,unanime,nao
+202601232459,HC 1086101,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,p4,defesa,desprovido,desfavoravel,Sum7 supressao_instancia,,unanime,nao
+202601249376,HC 1086255,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260615,p4,defesa,desprovido,desfavoravel,,,unanime,nao
+202601254980,HC 1086326,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,p4,defesa,desprovido,desfavoravel,,faccao ocupacao,unanime,nao
+202601260151,HC 1086600,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260617,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601270224,HC 1086813,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260615,dosimetria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601284831,HC 1086873,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,autoria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601298919,HC 1087253,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,nulidade_busca,defesa,desprovido,desfavoravel,,comunidade_bairro fuga_mudanca_direcao,unanime,nao
+202601303717,HC 1087309,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260615,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601350024,HC 1087973,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260617,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601385470,HC 1088363,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260603,autoria,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601402461,HC 1088750,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601431606,HC 1089186,AgRg nos EDcl no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,fuga_mudanca_direcao,unanime,nao
+202601434802,HC 1089227,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601466076,HC 1089825,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,outro,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601477968,HC 1089869,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260615,desclassificacao,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601489800,HC 1090067,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260615,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601515078,HC 1090429,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,desclassificacao,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal supressao_instancia,,unanime,nao
+202601533760,HC 1090801,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601535035,HC 1090839,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,p4,defesa,parcial,parcial,HC_substitutivo,fuga_mudanca_direcao,unanime,nao
+202601547533,HC 1091134,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260617,p4,defesa,parcial,parcial,HC_substitutivo,,unanime,nao
+202601552528,HC 1091210,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601571119,HC 1091508,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,p4,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601572319,HC 1091524,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260804,p4,defesa,parcial,parcial,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601654950,HC 1092991,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601722680,HC 1094297,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601745237,HC 1094717,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601748105,HC 1094766,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,outro,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601784453,HC 1095483,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,p4,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo revisao_criminal,,unanime,nao
+202601788481,HC 1095528,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,p4,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601810090,HC 1095991,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,desclassificacao,mp,desprovido,favoravel,Sum7 HC_substitutivo,local_conhecido nervosismo fuga_mudanca_direcao,unanime,nao
+202601816985,HC 1096224,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601830361,HC 1096394,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo supressao_instancia,,unanime,nao
+202601852362,HC 1096795,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,nulidade_busca,defesa,desprovido,desfavoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202601856276,HC 1096870,RCD no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,outro,defesa,desprovido,desfavoravel,revisao_criminal supressao_instancia,faccao,unanime,nao
+202601861284,HC 1096960,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 supressao_instancia,,unanime,nao
+202601861765,HC 1096961,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260624,nulidade_busca,defesa,desprovido,desfavoravel,,nervosismo denuncia_anonima,unanime,nao
+202601883791,HC 1097319,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260812,dosimetria,defesa,desprovido,desfavoravel,HC_substitutivo,,unanime,nao
+202601889688,HC 1097446,AgRg no HC,QUINTA TURMA,RIBEIRO DANTAS,20260819,dosimetria,mp,desprovido,favoravel,HC_substitutivo revisao_criminal,,unanime,nao
+202503805850,REsp 2236120,AgRg no REsp,QUINTA TURMA,RIBEIRO DANTAS,20260615,nulidade_busca,defesa,desprovido,desfavoravel,,denuncia_anonima,unanime,nao
+202504514274,REsp 2244850,AgRg no REsp,QUINTA TURMA,RIBEIRO DANTAS,20260527,desclassificacao,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202505045104,REsp 2251337,AgRg no REsp,QUINTA TURMA,RIBEIRO DANTAS,20260617,nulidade_busca,defesa,desprovido,desfavoravel,,fuga_mudanca_direcao,unanime,nao
+202600230320,REsp 2254663,AgRg no REsp,QUINTA TURMA,RIBEIRO DANTAS,20260624,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,local_conhecido,unanime,nao
+202600633611,REsp 2259998,AgRg no REsp,QUINTA TURMA,RIBEIRO DANTAS,20260617,nulidade_busca,mp,desprovido,favoravel,Sum7,local_conhecido nervosismo,unanime,nao
+202600773201,REsp 2261385,AgRg no REsp,QUINTA TURMA,RIBEIRO DANTAS,20260615,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202601085053,REsp 2264497,AgRg no REsp,QUINTA TURMA,RIBEIRO DANTAS,20260615,p4,defesa,desprovido,desfavoravel,Sum7,faccao,unanime,nao
+202601293462,REsp 2266453,AgRg no REsp,QUINTA TURMA,RIBEIRO DANTAS,20260615,nulidade_busca,defesa,desprovido,desfavoravel,Sum7 HC_substitutivo,denuncia_anonima,unanime,nao
+202601715664,REsp 2270536,AgRg no REsp,QUINTA TURMA,RIBEIRO DANTAS,20260812,nulidade_busca,defesa,desprovido,desfavoravel,Sum7,fuga_mudanca_direcao,unanime,nao
+202601760634,REsp 2270993,AgRg no REsp,QUINTA TURMA,RIBEIRO DANTAS,20260624,p4,defesa,desprovido,desfavoravel,Sum7,,unanime,nao
+202504725259,RHC 228503,AgRg no RHC,QUINTA TURMA,RIBEIRO DANTAS,20260615,outro,defesa,desprovido,desfavoravel,,faccao,unanime,nao
+202601360830,RHC 236033,AgRg no RHC,QUINTA TURMA,RIBEIRO DANTAS,20260603,autoria,defesa,desprovido,desfavoravel,,,unanime,nao
+202601601491,RHC 237019,AgRg no RHC,QUINTA TURMA,RIBEIRO DANTAS,20260615,outro,defesa,desprovido,desfavoravel,reiteracao,,unanime,nao

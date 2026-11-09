@@ -1,0 +1,96 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3182130",
+   "via": "AREsp (revisao criminal)",
+   "data_fato": "2024-04-04",
+   "uf": "MS",
+   "relator": "Carlos Pires Brandao",
+   "reu": "Remilton Roges Martins de Freitas",
+   "sexo": "M",
+   "drogas": "cocaina",
+   "qtd_g": 126200,
+   "porcoes": "121 tabletes",
+   "petrechos_dinheiro": "caminhao (cavalo trator Volvo com semirreboque); droga oculta nos estepes",
+   "majorante_art40": "V (interestadual)",
+   "origem_abordagem": "outro (fiscalizacao da PRF, operacao Conatus, com caes farejadores)",
+   "local_conhecido": "",
+   "comportamento_reu": "inquieto; dificuldade para responder questionamentos basicos; excesso de nervosismo",
+   "tipo_busca": "veicular",
+   "consentimento": "",
+   "primario": "sim",
+   "antecedentes": "bons",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "nao se trata de simples mula; elo indispensavel de grande organizacao criminosa; pessoas de confianca dentro da organizacao",
+   "parecer_mpf": "",
+   "sent_pena_m": 98,
+   "tj_pena_m": 98,
+   "stj_pena_m": 98,
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "126,2 kg de cocaina + compartimento oculto, transporte interestadual, logistica e alto valor da carga: dedicacao a atividade criminosa/integracao a organizacao",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "revisao criminal usada como sucedaneo recursal, sem hipotese do art. 621 do CPP",
+   "obs": "Revisao criminal nao conhecida pelo TJMS; STJ manteve, acrescentando que a pena-base de 7 anos (art. 42) nao tem ilegalidade manifesta. Tese de bis in idem (Tema 712/STF) do agravo nao foi enfrentada expressamente."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3182130",
+   "reu": "Remilton Roges Martins de Freitas",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "revisao criminal incabivel",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Revisao criminal nao se presta a rediscutir dosimetria e §4º ja apreciados na apelacao sem hipotese do art. 621 do CPP."
+  },
+  {
+   "processo": "AREsp 3182130",
+   "reu": "Remilton Roges Martins de Freitas",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Natureza e quantidade (126,2 kg de cocaina) justificam pena-base de 7 anos (art. 42), sem direito a fracao especifica."
+  },
+  {
+   "processo": "AREsp 3182130",
+   "reu": "Remilton Roges Martins de Freitas",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Afastamento fundado em elementos concretos alem da quantidade; rever a dedicacao a atividade criminosa exigiria reexame de provas."
+  },
+  {
+   "processo": "AREsp 3182130",
+   "reu": "Remilton Roges Martins de Freitas",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido prejudicado, pois dependia da reducao da pena."
+  },
+  {
+   "processo": "AREsp 3182130",
+   "reu": "Remilton Roges Martins de Freitas",
+   "tese": "outro:bis_in_idem_tema712",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Nao enfrentada expressamente; agravo desprovido por ausencia de fundamentos novos."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "REsp 2178527",
+   "via": "REsp",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Og Fernandes",
+   "reu": "Jose Pedro Goncalves Rosa",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "VI (envolvimento de menores)",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "avisou os menores da chegada da guarnicao policial (olheiro)",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Condenado pelo art. 37 (informante/olheiro) apos desclassificacao do art. 33 pelo juiz; STJ manteve tipicidade mesmo sem grupo estavel ou identificado (Sum. 83) e aplicou Sum. 7. Defesa invocou precedente do proprio relator (AREsp 2.630.753/MG), distinguido por fatos diversos."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "REsp 2178527",
+   "reu": "Jose Pedro Goncalves Rosa",
+   "tese": "outro:atipicidade_art37",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "O art. 37 nao exige vinculo estavel nem identificacao do grupo beneficiado (Sum. 83) e rever a valoracao das provas encontra obice na Sum. 7."
+  },
+  {
+   "processo": "REsp 2178527",
+   "reu": "Jose Pedro Goncalves Rosa",
+   "tese": "outro:majorante_art40_VI",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Afastar o envolvimento de menores reconhecido pelo TJ exigiria reexame de provas."
+  }
+ ]
+}

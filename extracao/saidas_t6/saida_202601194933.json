@@ -1,0 +1,96 @@
+{
+ "casos": [
+  {
+   "processo": "RHC 235243",
+   "via": "RHC",
+   "data_fato": "",
+   "uf": "DF",
+   "relator": "Og Fernandes",
+   "reu": "Regivan do Carmo Vieira",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "celular (pericia); veiculo e valores sob constricao patrimonial",
+   "majorante_art40": "nao",
+   "origem_abordagem": "investigacao",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Fase de inquerito (instaurado em 23/2/2025, investigado solto) por trafico e associacao, sem apreensao de drogas nem laudo toxicologico; MP local pediu arquivamento e depois se retratou. EDcl rejeitados e RE com seguimento negado pela Vice-Presidencia (Temas 339, 660 e 895/STF)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "RHC 235243",
+   "reu": "Regivan do Carmo Vieira",
+   "tese": "outro:excesso_prazo_inquerito",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Prazo do inquerito com investigado solto e improprio e a complexidade (pericias em dispositivo eletronico, dados bancarios, foragido) justifica a dilacao."
+  },
+  {
+   "processo": "RHC 235243",
+   "reu": "Regivan do Carmo Vieira",
+   "tese": "outro:trancamento_inquerito",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Trancamento e excepcional e nao se verificou de plano falta de justa causa, atipicidade ou ausencia de indicios."
+  },
+  {
+   "processo": "RHC 235243",
+   "reu": "Regivan do Carmo Vieira",
+   "tese": "outro:desproporcionalidade_constricoes_patrimoniais",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Materia nao examinada pelo Tribunal de origem; exame pelo STJ configuraria supressao de instancia."
+  },
+  {
+   "processo": "RHC 235243",
+   "reu": "Regivan do Carmo Vieira",
+   "tese": "outro:omissao_embargos_declaracao",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Inexistencia de vicio; mera rediscussao, e o julgador nao precisa rebater todos os argumentos."
+  },
+  {
+   "processo": "RHC 235243",
+   "reu": "Regivan do Carmo Vieira",
+   "tese": "outro:recurso_extraordinario_fundamentacao",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Seguimento negado com base nos Temas 339, 660 e 895 do STF (art. 1.030, I, a, CPC)."
+  }
+ ]
+}

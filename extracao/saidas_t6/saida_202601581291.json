@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3238765",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Rogerio Schietti Cruz",
+   "reu": "Ivanildo Valentin de Oliveira",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "diversas porcoes",
+   "petrechos_dinheiro": "R$ 57,75; mochila",
+   "majorante_art40": "",
+   "origem_abordagem": "patrulhamento",
+   "local_conhecido": "sim",
+   "comportamento_reu": "ao avistar a equipe tentou se furtar da abordagem, tentando entrar em uma residencia; fuga correndo repentinamente",
+   "tipo_busca": "pessoal",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "local conhecido nos meios policiais pela mercancia espuria;vestindo uma mochila",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "STJ aplicou HC 877.943/MS (fuga ao avistar a policia = fundada suspeita); a defesa alegou que a fuga foi narrativa tardia e que os relatos iniciais citavam apenas a mochila, ponto nao enfrentado especificamente."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3238765",
+   "reu": "Ivanildo Valentin de Oliveira",
+   "tese": "nulidade_busca_pessoal",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Tentativa de fuga correndo ao avistar os policiais configura fundada suspeita para busca pessoal (HC 877.943/MS, 3a Secao)."
+  }
+ ]
+}

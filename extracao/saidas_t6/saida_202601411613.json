@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1088909",
+   "via": "HC",
+   "data_fato": "2025-07-07",
+   "uf": "PR",
+   "relator": "Rogerio Schietti Cruz",
+   "reu": "Fernando Paulus dos Reis",
+   "sexo": "M",
+   "drogas": "cocaina+maconha",
+   "qtd_g": 1080,
+   "porcoes": "1 tablete de cocaina (1,07 kg) + 10 g de maconha",
+   "petrechos_dinheiro": "diversas embalagens tipo pinos plasticos",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "nao",
+   "antecedentes": "tres condenacoes transitadas em julgado por trafico e porte ilegal de arma de fogo (multirreincidente)",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "contumaz;multirreincidencia",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "HC contra prisao preventiva por excesso de prazo (preso desde 7/7/2025; instrucao pendente de laudo papiloscopico). STJ considerou o prazo razoavel e o tramite normal, sem desidia do Judiciario; sem sentenca ainda."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1088909",
+   "reu": "Fernando Paulus dos Reis",
+   "tese": "outro:excesso_de_prazo_prisao_preventiva",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Prisao desde julho/2025 nao e desproporcional diante da gravidade (1,07 kg de cocaina), da contumacia do reu e do tramite regular, sem desidia estatal; agravo sem argumentos novos."
+  }
+ ]
+}

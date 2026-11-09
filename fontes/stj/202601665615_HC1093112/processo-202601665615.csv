@@ -1,0 +1,104 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601665615"
+"Numero Unico";"01665614920263000000"
+"Classe";"HC"
+"Numero Classe";"1093112"
+"Tipo Processo";"Originário"
+"Status";"Processo arquivado"
+"UF";"ES"
+"Origem";"TJES"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO"
+"Ministro Relator";"SEBASTIÃO REIS JÚNIOR"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Nao"
+"Pedido Liminar";"Sim"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Arquivado Definitivamente "
+"Data Ultima Fase";"06/08/2026 10:51:10"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"IMPETRANTE";"MURILO MACHADO RANGEL";"";"MURILO MACHADO RANGEL"
+"IMPETRADO";"TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO";"";""
+"PACIENTE";"ALEXANDRE FERNANDES PEREIRA";"";""
+"INTERESSADO";"MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"00287.03603.03628.";"Crimes de ""Lavagem"" ou Ocultação de Bens, Direitos ou Valores";"Nao";"Terceira Seção"
+"00287.12333.12334.";"Promoção, constituição, financiamento ou integração de Organização Criminosa";"Nao";"Terceira Seção"
+"00287.03603.03607.05897.";"Associação para a Produção e Tráfico e Condutas Afins";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"30/04/2026"
+"Data Protocolo";"29/04/2026"
+"Data Classificacao";"30/04/2026"
+"Data Arquivamento";"06/08/2026"
+"Data Distribuicao 1";"30/04/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"50062777220248080012";"Nao";"0";"2"
+"50006696120268080000";"Nao";"0";"1"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Distribuição"
+"Tipo";"prevenção de Turma"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"246";"Arquivado Definitivamente ";"06/08/2026"
+"848";"Transitado em Julgado em 04/08/2026 ";"06/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO intimado eletronicamente da(o) Acórdãos em 09/07/2026";"09/07/2026"
+"581";"Juntada de Certidão Em razão da Portaria STJ/GP n. 461 de 25 de junho de 2026, que decretou ponto facultativo no Superior Tribunal de Justiça no dia 29 de junho de 2026, CERTIFICO, em RETIFICAÇÃO da Certidão de Publicação lançada nestes autos, que as matérias disponibilizadas no Diário da Justiça Eletrônico Nacional CNJ (DJEN) em 26/06/2026 consideram-se PUBLICADAS em 30/06/2026, nos termos da Lei 11.419/2006, art. 4º, §3º.";"01/07/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 678738/2026";"30/06/2026"
+"118";"Protocolizada Petição 678738/2026 (CieMPF - CIÊNCIA PELO MPF) em 30/06/2026";"30/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO";"29/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"29/06/2026"
+"92";"Publicado EMENTA / ACORDÃO em 29/06/2026 Petição Nº 452714/2026 - AgRg";"29/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"26/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0452714 - AgRg no HC 1093112 - Publicação prevista para 29/06/2026";"25/06/2026"
+"3001";"Proclamação Final de Julgamento: A SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. - Petição Nº 00452714/2026 - AgRg no HC 1093112/ES/ES";"24/06/2026"
+"239";"Conhecido o recurso de ALEXANDRE FERNANDES PEREIRA e não-provido , por unanimidade, pela SEXTA TURMA    - Petição N° 00452714/2026 - AgRg no HC 1093112/ES";"24/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO intimado eletronicamente da(o) Pauta de Julgamentos em 08/06/2026";"08/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 08/06/2026";"08/06/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 28/05/2026 ";"28/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO";"28/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"28/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"27/05/2026"
+"417";"Incluído em pauta para 18/06/2026 00:00:00 pela SEXTA TURMA (Sessão Virtual) - Petição Nº 00452714/2026 - AgRg no HC 1093112/ES";"26/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO intimado eletronicamente da(o) Decisões e Vistas em 15/05/2026";"15/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"08/05/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 452714/2026";"08/05/2026"
+"118";"Protocolizada Petição 452714/2026 (AgRg - AGRAVO REGIMENTAL) em 08/05/2026";"08/05/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 436809/2026";"05/05/2026"
+"118";"Protocolizada Petição 436809/2026 (CieMPF - CIÊNCIA PELO MPF) em 05/05/2026";"05/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO";"05/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"05/05/2026"
+"92";"Publicado DESPACHO / DECISÃO em 05/05/2026 ";"05/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"04/05/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 05/05/2026";"30/04/2026"
+"447";"Denegado o Habeas Corpus a ALEXANDRE FERNANDES PEREIRA";"30/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator) - pela SJD.";"30/04/2026"
+"26";"Distribuído por prevenção de Órgão Julgador ao Ministro SEBASTIÃO REIS JÚNIOR - SEXTA TURMA";"30/04/2026"
+"118";"Protocolizada Petição (originária) em 29/04/2026";"29/04/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600678738";"CIÊNCIA PELO MPF";"CieMPF";"30/06/2026";"MPF"
+"202600452714";"AGRAVO REGIMENTAL";"AgRg";"08/05/2026";"MURILO MACHADO RANGEL"
+"202600436809";"CIÊNCIA PELO MPF";"CieMPF";"05/05/2026";"MPF"
+"";"";"";"";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"HC";"2026,6,29";"";"202600452714";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"24/06/2026";"00:00";"SEXTA TURMA";"PAUTA DE JULGAMENTOS";"28/05/2026"

@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1090661",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Og Fernandes",
+   "reu": "Renato Torneiro Fulgencio Lopes",
+   "sexo": "M",
+   "drogas": "cocaina",
+   "qtd_g": "",
+   "porcoes": "40 involucros",
+   "petrechos_dinheiro": "2 miniaparelhos celulares; 1 chip; 1 cartao/placa de celular",
+   "majorante_art40": "",
+   "origem_abordagem": "revista prisional",
+   "local_conhecido": "",
+   "comportamento_reu": "negou ter ingerido algo; imagem suspeita no scanner corporal (selecionado por amostragem no retorno da saida temporaria)",
+   "tipo_busca": "pessoal",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "reeducando;retorno de saida temporaria;alegada retaliacao pela atuacao da mae advogada em PAD",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Droga ingerida e detectada por body scanner em retorno de saida temporaria; STJ considerou dispensavel exame de corpo de delito quanto ao meio de ocultacao, bastando apreensao e laudo toxicologico. HC substitutivo indeferido liminarmente, sem ilegalidade flagrante (art. 647-A CPP)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1090661",
+   "reu": "Renato Torneiro Fulgencio Lopes",
+   "tese": "outro:nulidade_ausencia_exame_corpo_delito",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Materialidade comprovada por apreensao e laudo toxicologico definitivo; exame de corpo de delito sobre o meio de ocultacao e circunstancia acessoria."
+  },
+  {
+   "processo": "HC 1090661",
+   "reu": "Renato Torneiro Fulgencio Lopes",
+   "tese": "outro:incongruencia_scanner_cadeia_custodia",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Rever a conclusao de prova harmonica sobre as imagens do scanner exige revolvimento fatico-probatorio."
+  },
+  {
+   "processo": "HC 1090661",
+   "reu": "Renato Torneiro Fulgencio Lopes",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Teses de retaliacao e coacao na confissao afastadas pelo TJ com base em conjunto probatorio coerente; sem ilegalidade flagrante."
+  }
+ ]
+}

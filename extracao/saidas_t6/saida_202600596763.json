@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3181652",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "SEBASTIAO REIS JUNIOR",
+   "reu": "MATHEUS LUIZ RODRIGUES DE ASSIS",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "sim",
+   "antecedentes": "",
+   "atos_infracionais": "sim (analogo ao trafico; MSE executada ate ago/2019)",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "historico infracional;medida socioeducativa",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "ato infracional analogo ao trafico com MSE ate 2019, proximo ao fato de 2021",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "STJ manteve afastamento do §4º com base em ato infracional pretérito com razoável proximidade temporal (EREsp 1.916.596/SP). Defesa alegou quantidade/variedade inexpressivas, mas não há números no texto."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3181652",
+   "reu": "MATHEUS LUIZ RODRIGUES DE ASSIS",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Historico infracional grave, documentado e temporalmente proximo (MSE ate 2019, fato em 2021) e fundamento idoneo para afastar o redutor, conforme EREsp 1.916.596/SP."
+  }
+ ]
+}

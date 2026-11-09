@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1089400",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Rogerio Schietti Cruz",
+   "reu": "Jakeline Souza de Albuquerque",
+   "sexo": "F",
+   "drogas": "cocaina+maconha+haxixe+crack+k2+ecstasy+lanca-perfume",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "folha com anotacoes de contabilidade do trafico",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "nao se trata de pessoa principiante na traficancia;nao e pequena traficante ou agente ocasional",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": 80,
+   "stj_pena_m": 80,
+   "sent_regime": "",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "relevante quantidade e variedade (7 tipos) de drogas + anotacoes de contabilidade do trafico: dedicacao a atividades criminosas",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "HC indeferido liminarmente pela Presidencia como substitutivo de recurso proprio; no agravo, STJ aplicou REsp 1.887.511 (quantidade/natureza conjugada com outras circunstancias) para manter o afastamento do redutor. Quantidade usada tambem na pena-base (art. 42)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1089400",
+   "reu": "Jakeline Souza de Albuquerque",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Variedade e quantidade de drogas somadas a anotacoes de contabilidade do trafico sao elementos concretos de dedicacao criminosa; rever exigiria revolvimento fatico-probatorio."
+  },
+  {
+   "processo": "HC 1089400",
+   "reu": "Jakeline Souza de Albuquerque",
+   "tese": "outro:bis_in_idem_quantidade_pena_base_e_p4",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Uso supletivo da natureza/quantidade na terceira fase e valido quando conjugado com outras circunstancias concretas (REsp 1.887.511/SP)."
+  },
+  {
+   "processo": "HC 1089400",
+   "reu": "Jakeline Souza de Albuquerque",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido de regime aberto dependia do reconhecimento do redutor, que foi negado."
+  },
+  {
+   "processo": "HC 1089400",
+   "reu": "Jakeline Souza de Albuquerque",
+   "tese": "substituicao_prd",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido de substituicao dependia do reconhecimento do redutor, que foi negado."
+  }
+ ]
+}

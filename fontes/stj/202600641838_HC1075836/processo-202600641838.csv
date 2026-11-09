@@ -1,0 +1,135 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202600641838"
+"Numero Unico";"00641831520263000000"
+"Classe";"HC"
+"Numero Classe";"1075836"
+"Tipo Processo";"Originário"
+"Status";"Processo arquivado"
+"UF";"GO"
+"Origem";"TJGO"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS"
+"Ministro Relator";"OG FERNANDES"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Nao"
+"Pedido Liminar";"Sim"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Arquivado Definitivamente"
+"Data Ultima Fase";"03/09/2026 14:53:16"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"IMPETRANTE";"FREDERICO APARECIDO BATISTA";"";"FREDERICO APARECIDO BATISTA"
+"IMPETRADO";"TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS";"";""
+"PACIENTE";"THIARLES GOMES NOGUEIRA";"";""
+"INTERESSADO";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"25/02/2026"
+"Data Protocolo";"24/02/2026"
+"Data Classificacao";"25/02/2026"
+"Data Arquivamento";"03/09/2026"
+"Data Distribuicao 1";"25/02/2026"
+"Data Distribuicao 2";"25/02/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"01162106220198090093";"Nao";"0";"0"
+"1162106220198090093";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"automática"
+"Motivo";"encaminhamento da ARP"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"246";"Arquivado Definitivamente";"03/09/2026"
+"848";"Transitado em Julgado em 03/09/2026";"03/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS intimado eletronicamente da(o) Acórdãos em 28/08/2026";"28/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 840273/2026";"18/08/2026"
+"118";"Protocolizada Petição 840273/2026 (CieMPF - CIÊNCIA PELO MPF) em 18/08/2026";"18/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS";"18/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"18/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 18/08/2026 Petição Nº 268036/2026 - AgRg";"18/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"17/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0268036 - AgRg no HC 1075836 - Publicação prevista para 18/08/2026";"14/08/2026"
+"239";"Conhecido o recurso de THIARLES GOMES NOGUEIRA e não-provido , por unanimidade, pela SEXTA TURMA    - Petição N° 00268036/2026 - AgRg no HC 1075836/GO";"12/08/2026"
+"3001";"Proclamação Final de Julgamento: A SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2026 a 12/08/2026, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. - Petição Nº 00268036/2026 - AgRg no HC 1075836/GO/GO";"12/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS intimado eletronicamente da(o) Pauta de Julgamentos em 25/06/2026";"25/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 25/06/2026";"25/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS";"15/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"15/06/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 15/06/2026 ";"15/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"12/06/2026"
+"417";"Incluído em pauta para 06/08/2026 00:00:00 pela SEXTA TURMA (Sessão Virtual) - Petição Nº 00268036/2026 - AgRg no HC 1075836/GO";"11/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS intimado eletronicamente da(o) Decisões e Vistas em 06/04/2026";"06/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) OG FERNANDES (Relator)";"23/03/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 268036/2026";"23/03/2026"
+"118";"Protocolizada Petição 268036/2026 (AgRg - AGRAVO REGIMENTAL) em 23/03/2026";"23/03/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 267169/2026";"23/03/2026"
+"118";"Protocolizada Petição 267169/2026 (CieMPF - CIÊNCIA PELO MPF) em 23/03/2026";"23/03/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 23/03/2026";"23/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS";"23/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"23/03/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS intimado eletronicamente da(o) Decisões e Vistas em 23/03/2026";"23/03/2026"
+"92";"Publicado DESPACHO / DECISÃO em 23/03/2026 ";"23/03/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"20/03/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 23/03/2026";"19/03/2026"
+"12458";"Não conhecido o Habeas Corpus de THIARLES GOMES NOGUEIRA (PRESO)";"19/03/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) OG FERNANDES (Relator)";"17/03/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 242463/2026";"17/03/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"17/03/2026"
+"118";"Protocolizada Petição 242463/2026 (ParMPF - PARECER DO MPF) em 17/03/2026";"17/03/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS intimado eletronicamente da(o) Decisões e Vistas em 12/03/2026";"12/03/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 12/03/2026";"12/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS";"11/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"11/03/2026"
+"92";"Publicado DESPACHO / DECISÃO em 11/03/2026 ";"11/03/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"10/03/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"09/03/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"09/03/2026"
+"581";"Juntada de Certidão : Em relação à(o) decisão/despacho retro, com publicação prevista para 11/03/2026, certifica-se ciência antecipada para todos os fins e efeitos legais, pelo(a) representante da parte FREDERICO APARECIDO BATISTA, Dr(a) FREDERICO APARECIDO BATISTA, OAB/MG sob nº 211066.";"09/03/2026"
+"792";"Não concedida a medida liminar de THIARLES GOMES NOGUEIRA (PRESO) e determinada vista ao Ministério Público Federal";"09/03/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 11/03/2026";"09/03/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) OG FERNANDES (Relator)";"03/03/2026"
+"85";"Juntada de Petição de PETIÇÃO nº 173670/2026";"03/03/2026"
+"118";"Protocolizada Petição 173670/2026 (PET - PETIÇÃO) em 02/03/2026";"02/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS";"02/03/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"02/03/2026"
+"92";"Publicado DESPACHO / DECISÃO em 02/03/2026 ";"02/03/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"27/02/2026"
+"581";"Juntada de Certidão : Em relação à(o) decisão/despacho retro, com publicação prevista para 02/03/2026, certifica-se ciência antecipada para todos os fins e efeitos legais, pelo(a) representante da parte FREDERICO APARECIDO BATISTA, Dr(a) FREDERICO APARECIDO BATISTA, OAB/MG sob nº 211066.";"26/02/2026"
+"11010";"Proferido despacho de mero expediente determinando intimação";"26/02/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 02/03/2026";"26/02/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) OG FERNANDES (Relator) - pela SJD.";"25/02/2026"
+"36";"Redistribuído por sorteio, em razão de encaminhamento à ARP, ao Ministro OG FERNANDES - SEXTA TURMA";"25/02/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"25/02/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS ";"25/02/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) HERMAN BENJAMIN (Presidente) - pela SJD.";"25/02/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"25/02/2026"
+"118";"Protocolizada Petição (originária) em 24/02/2026";"24/02/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600840273";"CIÊNCIA PELO MPF";"CieMPF";"18/08/2026";"MPF"
+"202600268036";"AGRAVO REGIMENTAL";"AgRg";"23/03/2026";"THIARLES GOMES NOGUEIRA"
+"202600267169";"CIÊNCIA PELO MPF";"CieMPF";"23/03/2026";"MPF"
+"202600242463";"PARECER DO MPF";"ParMPF";"17/03/2026";"MPF"
+"202600173670";"PETIÇÃO";"PET";"02/03/2026";"THIARLES GOMES NOGUEIRA "
+"";"";"";"";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"HC";"2026,8,18";"";"202600268036";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"12/08/2026";"00:00";"SEXTA TURMA";"PAUTA DE JULGAMENTOS";"15/06/2026"

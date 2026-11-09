@@ -1,0 +1,127 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601163185"
+"Numero Unico";"08019650220228140015"
+"Classe";"AREsp"
+"Numero Classe";"3216334"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"PA"
+"Origem";"TJPA"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ"
+"Ministro Relator";"SEBASTIÃO REIS JÚNIOR"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Valor Causa";"0"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ"
+"Data Ultima Fase";"24/09/2026 14:43:19"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"AGRAVANTE";"JÚLIO BERNARDO DE SOUZA NETO";"";"DEFENSORIA PÚBLICA DO ESTADO DO PARÁ"
+"AGRAVADO";"MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ";"";""
+"CORRÉU";"ANA LARISSA DA SILVA BARBOSA";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.05899.";"Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"30/03/2026"
+"Data Protocolo";"27/03/2026"
+"Data Baixa";"24/09/2026"
+"Data Distribuicao 1";"17/04/2026"
+"Data Distribuicao 2";"30/03/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"801965022022";"Nao";"0";"0"
+"0819650220228140015";"Nao";"0";"0"
+"08019650220228140015";"Nao";"0";"0"
+"8019650220228140015";"Nao";"0";"0"
+"819650220228140015";"Nao";"0";"0"
+"0801965022022";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"automática"
+"Motivo";"encaminhamento da ARP"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ";"24/09/2026"
+"848";"Transitado em Julgado em 24/09/2026";"24/09/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DO PARÁ intimado eletronicamente da(o) Acórdãos em 24/08/2026";"24/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ intimado eletronicamente da(o) Acórdãos em 24/08/2026";"24/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 827516/2026";"17/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 827192/2026";"17/08/2026"
+"118";"Protocolizada Petição 827516/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"118";"Protocolizada Petição 827192/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) DEFENSORIA PÚBLICA DO ESTADO DO PARÁ";"14/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ";"14/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"14/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 14/08/2026 Petição Nº 679617/2026 - AgRg";"14/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"13/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0679617 - AgRg no AREsp 3216334 - Publicação prevista para 14/08/2026";"12/08/2026"
+"132";"Recebidos os autos no(a) SEXTA TURMA ";"12/08/2026"
+"3001";"Proclamação Final de Julgamento: A Sexta Turma, por unanimidade, negou provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+ Petição Nº 679617/2026 - AgRg no AREsp 3216334";"04/08/2026"
+"239";"Conhecido o recurso de JÚLIO BERNARDO DE SOUZA NETO e não-provido,por unanimidade, pela SEXTA TURMA Petição Nº 679617/2026 - AgRg no AREsp 3216334";"04/08/2026"
+"3002";"Inclusão em mesa para julgamento - SEXTA TURMA - sessão do dia 04/08/2026 14:00:00 - Petição N° 202600679617 - AgRg no AREsp 3216334/PA";"22/07/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"01/07/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 679617/2026";"01/07/2026"
+"118";"Protocolizada Petição 679617/2026 (AgRg - AGRAVO REGIMENTAL) em 01/07/2026";"01/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ intimado eletronicamente da(o) Decisões e Vistas em 19/06/2026";"19/06/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DO PARÁ intimado eletronicamente da(o) Decisões e Vistas em 19/06/2026";"19/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 583916/2026";"09/06/2026"
+"118";"Protocolizada Petição 583916/2026 (CieMPF - CIÊNCIA PELO MPF) em 09/06/2026";"09/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DO PARÁ";"09/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ";"09/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"09/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 09/06/2026 ";"09/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"08/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 09/06/2026";"03/06/2026"
+"12440";"Conheço do agravo de JÚLIO BERNARDO DE SOUZA NETO para conhecer em parte o recurso especial e negar provimento";"03/06/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DO PARÁ intimado eletronicamente da(o) Decisões e Vistas em 04/05/2026";"04/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ intimado eletronicamente da(o) Decisões e Vistas em 04/05/2026";"04/05/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 04/05/2026";"04/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"28/04/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"28/04/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 406803/2026";"28/04/2026"
+"118";"Protocolizada Petição 406803/2026 (ParMPF - PARECER DO MPF) em 28/04/2026";"28/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ";"22/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DO PARÁ";"22/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"22/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 22/04/2026 ";"22/04/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"17/04/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"17/04/2026"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"17/04/2026"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à Coordenadoria de Recursos Especiais para abertura de vista ao MPF.";"17/04/2026"
+"36";"Redistribuído por sorteio, em razão de encaminhamento à ARP, ao Ministro SEBASTIÃO REIS JÚNIOR - SEXTA TURMA";"17/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"17/04/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"16/04/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"16/04/2026"
+"12474";"Determinada a distribuição do feito";"16/04/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 22/04/2026";"16/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) HERMAN BENJAMIN (Presidente) - pela SJD.";"30/03/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"30/03/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ";"27/03/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600827516";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600827192";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600679617";"AGRAVO REGIMENTAL";"AgRg";"01/07/2026";"JÚLIO BERNARDO DE SOUZA NETO"
+"202600583916";"CIÊNCIA PELO MPF";"CieMPF";"09/06/2026";"MPF"
+"202600406803";"PARECER DO MPF";"ParMPF";"28/04/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"AREsp";"2026,8,14";"";"202600679617";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

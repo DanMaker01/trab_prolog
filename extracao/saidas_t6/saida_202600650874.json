@@ -1,0 +1,96 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3191865",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "PB",
+   "relator": "Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",
+   "reu": "Joseane Vieira da Silva",
+   "sexo": "F",
+   "drogas": "crack",
+   "qtd_g": 150,
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "V (interestadual)",
+   "origem_abordagem": "investigacao (Operacao Borborema, PF, interceptacao telefonica)",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "namorada do lider do grupo (Jean Albuquerque de Sousa); membros de faccao criminosa; organizacao criminosa; Operacao Borborema; reiteracao criminosa",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 161,
+   "tj_pena_m": 161,
+   "stj_pena_m": 161,
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "TJ: afastado 'fundamentadamente' sem razao transcrita; STJ: condenacao por associacao para o trafico (art. 35) impede o redutor",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "nao indicou dispositivo legal violado nas teses de dosimetria (Sum. 284/STF)",
+   "obs": "Condenada por arts. 33 e 35 c/c 40, V, a 13a5m (pena somada); os 150 g de crack seriam amostra de carga de 6 kg vinda do Ceara. RE teve seguimento negado (Temas 182 e 339/STF)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3191865",
+   "reu": "Joseane Vieira da Silva",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Interceptacoes e prova testemunhal demonstram trafico e associacao estavel e permanente; rever exige reexame de provas."
+  },
+  {
+   "processo": "AREsp 3191865",
+   "reu": "Joseane Vieira da Silva",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "A condenacao por associacao para o trafico impede o reconhecimento do trafico privilegiado."
+  },
+  {
+   "processo": "AREsp 3191865",
+   "reu": "Joseane Vieira da Silva",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Teses de dosimetria sem indicacao precisa do dispositivo violado configuram fundamentacao deficiente."
+  },
+  {
+   "processo": "AREsp 3191865",
+   "reu": "Joseane Vieira da Silva",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pleito subsidiario de regime mais brando nao foi apreciado de forma autonoma, ficando abrangido pelo nao conhecimento das teses de dosimetria."
+  },
+  {
+   "processo": "AREsp 3191865",
+   "reu": "Joseane Vieira da Silva",
+   "tese": "outro:recurso_extraordinario",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Seguimento negado: valoracao do art. 59 CP sem repercussao geral (Tema 182) e fundamentacao suficiente (Tema 339)."
+  }
+ ]
+}

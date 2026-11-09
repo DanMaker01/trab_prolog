@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1080301",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Og Fernandes",
+   "reu": "Messias Pereira do Nascimento",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "patrulhamento (guarda municipal)",
+   "local_conhecido": "sim",
+   "comportamento_reu": "visto realizando troca de objetos por dinheiro; atitude suspeita; tentou empreender fuga; tentou dispensar sacola; tentou ocultar porcao na boca",
+   "tipo_busca": "pessoal",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Busca pessoal por guardas municipais validada com base no Tema 656/STF e em fundadas suspeitas (fuga em ponto de trafico). HC substitutivo indeferido liminarmente e agravo desprovido."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1080301",
+   "reu": "Messias Pereira do Nascimento",
+   "tese": "nulidade_busca_pessoal",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Fuga e tentativa de dispensar sacola em local conhecido de trafico configuram fundada suspeita; rever exige reexame de provas."
+  },
+  {
+   "processo": "HC 1080301",
+   "reu": "Messias Pereira do Nascimento",
+   "tese": "outro:atribuicao_guarda_municipal",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pelo Tema 656/STF a guarda municipal pode fazer policiamento ostensivo comunitario, nao se limitando ao patrimonio municipal."
+  }
+ ]
+}

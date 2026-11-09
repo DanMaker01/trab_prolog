@@ -1,0 +1,96 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1065723",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "2018-08-15",
+   "uf": "SP",
+   "relator": "Carlos Pires Brandao",
+   "reu": "Maria Antonia de Campos Nardi",
+   "sexo": "F",
+   "drogas": "maconha",
+   "qtd_g": 459,
+   "porcoes": "",
+   "petrechos_dinheiro": "veiculo",
+   "majorante_art40": "VI (adolescente)",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "filha adolescente usada na entrega",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": 112,
+   "stj_pena_m": 112,
+   "sent_regime": "",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC substitutivo contra revisao criminal; tese de condenacao isolada em crime plurissubjetivo trazida so nos EDcl (inovacao recursal)",
+   "obs": "Absolvida do art. 33 em 1o grau e condenada so pelo art. 35; o TJSP restabeleceu o art. 33 e fixou 9a4m em regime fechado, e a revisao criminal foi indeferida. A defesa interpôs recurso ordinario ao STF, ja processado."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1065723",
+   "reu": "Maria Antonia de Campos Nardi",
+   "tese": "outro:atipicidade_associacao_art35",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Aferir estabilidade e permanencia do vinculo associativo exige reexame de provas, inviavel em HC."
+  },
+  {
+   "processo": "HC 1065723",
+   "reu": "Maria Antonia de Campos Nardi",
+   "tese": "outro:condenacao_isolada_crime_plurissubjetivo",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Tese deduzida apenas nos EDcl constitui inovacao recursal (preclusao consumativa)."
+  },
+  {
+   "processo": "HC 1065723",
+   "reu": "Maria Antonia de Campos Nardi",
+   "tese": "outro:negativa_prestacao_jurisdicional_revisao",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "O TJ enfrentou a tese nos limites da revisao criminal; fundamentacao suficiente nao precisa ser exaustiva."
+  },
+  {
+   "processo": "HC 1065723",
+   "reu": "Maria Antonia de Campos Nardi",
+   "tese": "outro:concessao_ordem_de_oficio",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ausencia de ilegalidade flagrante ou teratologia."
+  },
+  {
+   "processo": "HC 1065723",
+   "reu": "Maria Antonia de Campos Nardi",
+   "tese": "outro:prequestionamento_constitucional",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ao STJ e vedado apreciar materia constitucional, inclusive para prequestionamento."
+  }
+ ]
+}

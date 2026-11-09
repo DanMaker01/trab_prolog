@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "REsp 2178919",
+   "via": "REsp",
+   "data_fato": "",
+   "uf": "PR",
+   "relator": "Sebastiao Reis Junior",
+   "reu": "Maurilio Galdino Goncalves de Lima",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": 84,
+   "porcoes": "porcoes de maconha",
+   "petrechos_dinheiro": "balanca de precisao; caderno de anotacoes do trafico; 70 sacos ziplock vazios; R$ 104,00 em notas diversas",
+   "majorante_art40": "",
+   "origem_abordagem": "patrulhamento",
+   "local_conhecido": "sim",
+   "comportamento_reu": "saiu do local no momento da abordagem do correu (STJ chama de fuga); corréu fugiu para o imovel ao avistar a policia",
+   "tipo_busca": "pessoal+domiciliar",
+   "consentimento": "nao",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "regiao conhecida pelo intenso trafico de drogas;residencia conhecida por ser ponto de venda e uso de drogas;reu dedicado a atividades criminosas",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "semiaberto",
+   "tj_regime": "semiaberto",
+   "stj_regime": "",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "reu dedicado a atividades criminosas",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "sem cotejo analitico (dissidio); alegacao generica de falta de justa causa (Sum. 284/STF)",
+   "obs": "Ingresso validado pela fuga do correu (sem nada ilicito com ele) para casa em ponto de trafico, pela balanca visivel e pela informacao de uma menor (irma do reu), ainda que sem mandado nem autorizacao. Cadeia de custodia: a falta inicial de lacre nao basta sem prova de adulteracao."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "REsp 2178919",
+   "reu": "Maurilio Galdino Goncalves de Lima",
+   "tese": "outro:dissidio_jurisprudencial",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Recorrente nao fez cotejo analitico nem demonstrou similitude fatica (arts. 1.029 CPC e 255 RISTJ)."
+  },
+  {
+   "processo": "REsp 2178919",
+   "reu": "Maurilio Galdino Goncalves de Lima",
+   "tese": "outro:ausencia_justa_causa",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Alegacao generica de falta de justa causa (art. 395, III, CPP), sem demonstrar as razoes."
+  },
+  {
+   "processo": "REsp 2178919",
+   "reu": "Maurilio Galdino Goncalves de Lima",
+   "tese": "outro:quebra_cadeia_custodia",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Cronologia do vestigio identificavel; a ausencia inicial de lacre, sem prova de manipulacao, nao gera nulidade."
+  },
+  {
+   "processo": "REsp 2178919",
+   "reu": "Maurilio Galdino Goncalves de Lima",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Fuga do correu para o imovel em ponto de trafico, balanca de precisao visivel e fuga do recorrente sao fundadas razoes (Tema 280/STF) de crime permanente."
+  }
+ ]
+}

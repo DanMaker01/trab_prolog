@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3243065",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Carlos Pires Brandao",
+   "reu": "R G P DE S",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": "",
+   "porcoes": "1 bucha (segundo a defesa)",
+   "petrechos_dinheiro": "arma de fogo; dinheiro; balanca; anotacoes",
+   "majorante_art40": "nao",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Adolescente (ato infracional analogo ao art. 33 e art. 16, p.u., IV, Lei 10.826/03): sentenca desclassificou para art. 28 e absolveu da arma (advertencia); TJ julgou procedente a representacao e aplicou liberdade assistida por 1 ano. Condenacao apoiada em depoimentos policiais, confissao informal e indicacao do local da sacola com drogas, arma e dinheiro."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3243065",
+   "reu": "R G P DE S",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Insuficiencia probatoria e ausencia de liame subjetivo exigem reexame de fatos e provas."
+  },
+  {
+   "processo": "AREsp 3243065",
+   "reu": "R G P DE S",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Destinacao da droga foi apreciada na origem e sua revisao demanda revolvimento probatorio."
+  },
+  {
+   "processo": "AREsp 3243065",
+   "reu": "R G P DE S",
+   "tese": "outro:validade_depoimentos_policiais",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Depoimentos policiais harmonicos, colhidos sob contraditorio e corroborados por apreensoes e laudos bastam para a condenacao."
+  }
+ ]
+}

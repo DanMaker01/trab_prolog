@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3224072",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "MS",
+   "relator": "Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",
+   "reu": "Bruna de Souza Bezerra",
+   "sexo": "F",
+   "drogas": "maconha",
+   "qtd_g": 5600,
+   "porcoes": "",
+   "petrechos_dinheiro": "celular (quebra de sigilo: dialogos, filmagens, comprovantes de pagamento, PIX)",
+   "majorante_art40": "nao",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "sim",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "dedica-se as atividades criminosas com habitualidade;faz da traficancia seu modus vivendi;esquema de delivery;so vendia acima de cinquenta reais;diversidade de drogas do tipo maconha",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 60,
+   "tj_pena_m": 60,
+   "stj_pena_m": 60,
+   "sent_regime": "semiaberto",
+   "tj_regime": "semiaberto",
+   "stj_regime": "semiaberto",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "dedicacao a atividades criminosas: vendas habituais em delivery comprovadas por pericia no celular apreendido",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Re primaria com 5,6 kg de maconha; minorante negada com base em dados extraidos do celular. O voto menciona 'historico de atos infracionais, petrechos e radio comunicador', que nao constam do trecho da sentenca transcrito (aparente erro de copia)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3224072",
+   "reu": "Bruna de Souza Bezerra",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Afastamento do redutor com fundamentacao idonea (dedicacao a atividades criminosas); rever exigiria reexame de provas."
+  },
+  {
+   "processo": "AREsp 3224072",
+   "reu": "Bruna de Souza Bezerra",
+   "tese": "regime",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido dependente do reconhecimento do privilegio; mantido o semiaberto."
+  },
+  {
+   "processo": "AREsp 3224072",
+   "reu": "Bruna de Souza Bezerra",
+   "tese": "substituicao_prd",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido dependente do reconhecimento do privilegio; pena de 5 anos mantida."
+  }
+ ]
+}

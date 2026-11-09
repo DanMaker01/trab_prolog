@@ -1,0 +1,96 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3103548",
+   "via": "AREsp",
+   "data_fato": "2023-01-28",
+   "uf": "SC",
+   "relator": "Og Fernandes",
+   "reu": "Giuliano Lopes Barzan Filho",
+   "sexo": "M",
+   "drogas": "cocaina",
+   "qtd_g": 920,
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "outro (fiscalizacao de transito da PRF na BR-101)",
+   "local_conhecido": "",
+   "comportamento_reu": "velocidade elevada; pelicula escura; demorou para desembarcar; nervosismo; confessou ao ser indagado",
+   "tipo_busca": "pessoal+veicular",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "dialogos de celular",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": 66.7,
+   "stj_pena_m": 66.7,
+   "sent_regime": "",
+   "tj_regime": "semiaberto",
+   "stj_regime": "semiaberto",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "dedicacao a atividade criminosa inferida de dialogos de celular",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "recurso especial nao indicou com clareza dispositivo violado na detracao (Sum. 284/STF); reiteracao da tese do p4 ja julgada no HC 1.038.587",
+   "obs": "Busca validada por velocidade, pelicula escura, demora em sair do carro e confissao no momento da abordagem, apesar de os PRFs afirmarem fiscalizacao de rotina, sem informacao previa e que o reu nao tentou fugir. A decisao da Vice-Presidencia no RE descreveu 'aparente tentativa de fuga', fato contrariado pelo depoimento policial transcrito."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3103548",
+   "reu": "Giuliano Lopes Barzan Filho",
+   "tese": "nulidade_busca_pessoal",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Velocidade elevada, pelicula escura, demora para desembarcar e confissao configuraram fundadas razoes; rever exigiria reexame fatico."
+  },
+  {
+   "processo": "AREsp 3103548",
+   "reu": "Giuliano Lopes Barzan Filho",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Materia ja apreciada no HC 1.038.587/SC; inadmissivel reiteracao de pedido."
+  },
+  {
+   "processo": "AREsp 3103548",
+   "reu": "Giuliano Lopes Barzan Filho",
+   "tese": "outro:detracao_regime",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 284/STF",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Fundamentacao deficiente; ademais, mesmo no calculo da defesa a detracao nao permitiria abrandar o regime."
+  },
+  {
+   "processo": "AREsp 3103548",
+   "reu": "Giuliano Lopes Barzan Filho",
+   "tese": "outro:anpp",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Pedido de ANPP prejudicado pela manutencao da pena."
+  },
+  {
+   "processo": "AREsp 3103548",
+   "reu": "Giuliano Lopes Barzan Filho",
+   "tese": "outro:recurso_extraordinario_admissibilidade",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Vice-Presidencia negou seguimento ao RE (Temas 280, 339, 660 e 895 do STF)."
+  }
+ ]
+}

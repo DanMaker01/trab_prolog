@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 2981531",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Carlos Pires Brandao",
+   "reu": "Maico Gabriel Pereira Dimas",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": 84,
+   "tj_pena_m": 84,
+   "stj_pena_m": 84,
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "dosimetria sem prequestionamento especifico; tese de revaloracao juridica nao afastou Sum. 7",
+   "obs": "Condenado no art. 33 caput a 7 anos em regime fechado, mantida pelo TJMG; defesa alegava ausencia de instrumentos de mercancia e versao do correu sobre consumo compartilhado. STJ manteve Sum. 7 para absolvicao/desclassificacao e rejeitou EDcl."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 2981531",
+   "reu": "Maico Gabriel Pereira Dimas",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Absolvicao exigiria revisao das premissas faticas fixadas pelas instancias ordinarias."
+  },
+  {
+   "processo": "AREsp 2981531",
+   "reu": "Maico Gabriel Pereira Dimas",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "A finalidade da droga integra o quadro fatico soberano da origem; altera-la exige reexame de provas."
+  },
+  {
+   "processo": "AREsp 2981531",
+   "reu": "Maico Gabriel Pereira Dimas",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Falta de prequestionamento especifico quanto a dosimetria."
+  },
+  {
+   "processo": "AREsp 2981531",
+   "reu": "Maico Gabriel Pereira Dimas",
+   "tese": "outro:omissao_embargos_declaracao",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "O acordao enfrentou a distincao revaloracao x reexame; EDcl nao se prestam a rediscutir o merito."
+  }
+ ]
+}

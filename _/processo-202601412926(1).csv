@@ -1,0 +1,116 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601412926"
+"Numero Unico";"07148480520258070001"
+"Classe";"AREsp"
+"Numero Classe";"3230542"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"DF"
+"Origem";"TJDFT"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS"
+"Ministro Relator";"SEBASTIÃO REIS JÚNIOR"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Valor Causa";"0"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS"
+"Data Ultima Fase";"01/09/2026 14:23:17"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"AGRAVANTE";"KRISLEY REIS DOS SANTOS";"";"WILSOMAR SOUSA SILVA"
+"AGRAVADO";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"";""
+"CORRÉU";"IVAN CARLOS DE SOUSA BARBOSA";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"00287.10620.10621.";"Aplicação da Pena";"Nao";"Terceira Seção"
+"00287.10620.10621.10633.";"Regime inicial";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"15/04/2026"
+"Data Protocolo";"13/04/2026"
+"Data Baixa";"01/09/2026"
+"Data Distribuicao 1";"29/04/2026"
+"Data Distribuicao 2";"17/04/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"07148480520258070001";"Nao";"0";"6"
+"7148480520258070001";"Nao";"0";"6"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"prevenção de processo"
+"Motivo";"despacho/decisão"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS";"01/09/2026"
+"848";"Transitado em Julgado em 01/09/2026";"01/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Acórdãos em 18/08/2026";"18/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 831045/2026";"17/08/2026"
+"118";"Protocolizada Petição 831045/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"14/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"14/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 14/08/2026 Petição Nº 608674/2026 - AgRg";"14/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"13/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0608674 - AgRg no AREsp 3230542 - Publicação prevista para 14/08/2026";"12/08/2026"
+"132";"Recebidos os autos no(a) SEXTA TURMA ";"12/08/2026"
+"239";"Conhecido o recurso de KRISLEY REIS DOS SANTOS e não-provido,por unanimidade, pela SEXTA TURMA Petição Nº 608674/2026 - AgRg no AREsp 3230542";"04/08/2026"
+"3001";"Proclamação Final de Julgamento: A Sexta Turma, por unanimidade, negou provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+ Petição Nº 608674/2026 - AgRg no AREsp 3230542";"04/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Decisões e Vistas em 16/06/2026";"16/06/2026"
+"3002";"Inclusão em mesa para julgamento - SEXTA TURMA - sessão do dia 04/08/2026 14:00:00 - Petição N° 202600608674 - AgRg no AREsp 3230542/DF";"16/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"16/06/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 608674/2026";"15/06/2026"
+"118";"Protocolizada Petição 608674/2026 (AgRg - AGRAVO REGIMENTAL) em 15/06/2026";"15/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 588224/2026";"10/06/2026"
+"118";"Protocolizada Petição 588224/2026 (CieMPF - CIÊNCIA PELO MPF) em 10/06/2026";"10/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"10/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"10/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 10/06/2026 ";"10/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"09/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 10/06/2026";"08/06/2026"
+"12436";"Conheço do agravo de KRISLEY REIS DOS SANTOS para não conhecer do Recurso Especial";"08/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"03/06/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"03/06/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 568783/2026";"03/06/2026"
+"118";"Protocolizada Petição 568783/2026 (ParMPF - PARECER DO MPF) em 03/06/2026";"03/06/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"14/05/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 11/05/2026";"11/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Decisões e Vistas em 11/05/2026";"11/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"30/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"30/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 30/04/2026 ";"30/04/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"29/04/2026"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"29/04/2026"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à Coordenadoria de Recursos Especiais para abertura de vista ao MPF.";"29/04/2026"
+"36";"Redistribuído por dependência, em razão de despacho/decisão, ao Ministro SEBASTIÃO REIS JÚNIOR - SEXTA TURMA. Processo prevento: RHC 218836 (2025/0240215-9)";"29/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"29/04/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"28/04/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"28/04/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 30/04/2026";"28/04/2026"
+"12474";"Determinada a distribuição do feito";"28/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) HERMAN BENJAMIN (Presidente) - pela SJD.";"17/04/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"17/04/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS";"13/04/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600831045";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600608674";"AGRAVO REGIMENTAL";"AgRg";"15/06/2026";"KRISLEY REIS DOS SANTOS"
+"202600588224";"CIÊNCIA PELO MPF";"CieMPF";"10/06/2026";"MPF"
+"202600568783";"PARECER DO MPF";"ParMPF";"03/06/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"AREsp";"2026,8,14";"";"202600608674";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

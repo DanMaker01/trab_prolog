@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3285685",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "TO",
+   "relator": "Sebastiao Reis Junior",
+   "reu": "Antonio Thales Magalhaes Cavalcante",
+   "sexo": "M",
+   "drogas": "crack+maconha+cocaina",
+   "qtd_g": 1883.3,
+   "porcoes": "1,64 kg crack + 235,3 g maconha + 8 g cocaina",
+   "petrechos_dinheiro": "arma de fogo de uso restrito com municoes (na residencia)",
+   "majorante_art40": "III (escola)",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": 133.4,
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "1/6",
+   "stj_p4": "1/6",
+   "tj_fund_neg_p4": "condenacao concomitante por associacao para o trafico; quantidade e variedade de drogas; apreensao de arma com municoes",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "parcial",
+   "erro_tecnico_defesa": "nao infirmou fundamentos autonomos do acordao estadual para a fracao de 1/6 (atacou so a sentenca)",
+   "obs": "Condenado tambem por associacao para o trafico (art. 35) e posse de arma de uso restrito, mas com redutor do art. 33 §4 mantido em 1/6. Monocratica reconheceu confissao parcial (Tema 1.194/STJ) e reduziu a pena para 11a1m12d e 1.210 dias-multa; AgRg so manteve."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3285685",
+   "reu": "Antonio Thales Magalhaes Cavalcante",
+   "tese": "outro:majorante_art40_III",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Proximidade de escola fixada pela prova oral, dispensada medicao; revisao exige reexame de provas."
+  },
+  {
+   "processo": "AREsp 3285685",
+   "reu": "Antonio Thales Magalhaes Cavalcante",
+   "tese": "outro:consuncao_arma_trafico",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "TJ afastou nexo finalistico entre arma (na residencia) e trafico, em linha com o Tema 1.259/STJ; revisao exige reexame fatico."
+  },
+  {
+   "processo": "AREsp 3285685",
+   "reu": "Antonio Thales Magalhaes Cavalcante",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Fracao de 1/6 apoiada em associacao concomitante, quantidade/variedade de drogas e arma; alterar exige revaloracao fatica, e fundamentos autonomos nao foram impugnados."
+  },
+  {
+   "processo": "AREsp 3285685",
+   "reu": "Antonio Thales Magalhaes Cavalcante",
+   "tese": "outro:atenuante_confissao",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "favoravel",
+   "fundamento": "Confissao parcial reconhecida na monocratica (Tema 1.194/STJ), com redimensionamento da pena, e mantida."
+  }
+ ]
+}

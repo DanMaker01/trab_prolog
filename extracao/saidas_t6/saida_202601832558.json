@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1096435",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Sebastiao Reis Junior",
+   "reu": "Vilma de Barros Antunes",
+   "sexo": "F",
+   "drogas": "crack",
+   "qtd_g": "",
+   "porcoes": "mais de 1 kg de crack",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "nao",
+   "antecedentes": "reincidente especifica; cumpria pena ao tempo do novo flagrante",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "razoes dissociadas; nao impugnou integralmente os fundamentos da decisao agravada (dialeticidade)",
+   "obs": "HC contra preventiva/negativa de prisao domiciliar (alegada dependencia integral da genitora, com laudo medico); monocratica viu supressao de instancia na domiciliar. Defesa citou 127 dias de preventiva ate a AIJ de 19/8/2026; o agravo nao foi conhecido."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1096435",
+   "reu": "Vilma de Barros Antunes",
+   "tese": "outro:prisao_domiciliar_cuidado_genitora",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Agravo nao conhecido por violar a dialeticidade: nao impugnou a fundamentacao concreta da preventiva (reincidencia especifica, cumprimento de pena, mais de 1 kg de crack)."
+  },
+  {
+   "processo": "HC 1096435",
+   "reu": "Vilma de Barros Antunes",
+   "tese": "outro:demora_instrucao",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Nao examinada; o agravo nao foi conhecido por falta de impugnacao especifica."
+  }
+ ]
+}

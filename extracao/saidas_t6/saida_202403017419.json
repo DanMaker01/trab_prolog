@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "HC 936798",
+   "via": "HC",
+   "data_fato": "2023-07-29",
+   "uf": "SC",
+   "relator": "Og Fernandes",
+   "reu": "A. de B. G.",
+   "sexo": "M",
+   "drogas": "crack+cocaina",
+   "qtd_g": 12.24,
+   "porcoes": "6 porcoes de crack + 1 porcao de cocaina",
+   "petrechos_dinheiro": "R$ 514,00; 3 smartphones; balanca de precisao",
+   "majorante_art40": "nao",
+   "origem_abordagem": "patrulhamento",
+   "local_conhecido": "sim",
+   "comportamento_reu": "fugiu para o interior da residencia ao avistar a viatura; situacao suspeita",
+   "tipo_busca": "pessoal+domiciliar",
+   "consentimento": "nao",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "sim (varios registros; 3 por condutas identicas ao trafico, todos em 2023)",
+   "ultimo_ato_infracional_ano": "2023",
+   "marcadores_subjetivos": "contumaz na pratica de atos infracionais de natureza grave;local conhecido pelo trafico;Bairro Vila Miguel",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "sim",
+   "tj_p4": "sim",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Adolescente (ECA): sentenca aplicou PSC por 4 meses (trafico privilegiado) e TJSC, em apelo do MP, substituiu por semiliberdade pela reiteracao infracional; STJ validou ingresso domiciliar pela fuga para dentro do imovel, citando precedentes do STF pos-Tema 280. Representacao fala em 1,6 g de crack + 11,8 g de cocaina; laudo em 1,6 g + 10,64 g (usado o laudo)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 936798",
+   "reu": "A. de B. G.",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "A fuga do representado para o interior da residencia ao avistar a viatura em patrulhamento configura fundadas razoes (Tema 280/STF), sendo o trafico crime permanente."
+  },
+  {
+   "processo": "HC 936798",
+   "reu": "A. de B. G.",
+   "tese": "outro:medida_socioeducativa",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Semiliberdade fundamentada na reiteracao de atos infracionais da mesma natureza e na contumacia do adolescente."
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601194933"
+"Numero Unico";"07560948120258070000"
+"Classe";"RHC"
+"Numero Classe";"235243"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"DF"
+"Origem";"TJDFT"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS"
+"Ministro Relator";"VICE-PRESIDENTE DO STJ"
+"Segredo Justica";"Nao"
+"Pedido Liminar";"Sim"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS"
+"Data Ultima Fase";"28/10/2026 17:23:14"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"RECORRENTE";"REGIVAN DO CARMO VIEIRA";"";"MARCO PAOLO PICININ"
+"RECORRIDO";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"";""
+"CORRÉU";"ANDERSON NASCIMENTO RODRIGUES";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.";"Crimes de Tráfico Ilícito e Uso Indevido de Drogas";"Sim";"Terceira Seção"
+"01209.10604.10610.";"Trancamento";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"30/03/2026"
+"Data Protocolo";"30/03/2026"
+"Data Classificacao";"08/04/2026"
+"Data Baixa";"28/10/2026"
+"Data Distribuicao 1";"15/09/2026"
+"Data Distribuicao 2";"08/04/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"7094585420258070001";"Nao";"1";"1"
+"07094585420258070001";"Nao";"1";"1"
+"7560948120258070000";"Nao";"0";"0"
+"07560948120258070000";"Nao";"0";"0"
+"7032025";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Registro | Vice-Presidente do STJ"
+"Tipo";"automática"
+"Competencia";"Presidência"
+"Competencia Processante";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS";"28/10/2026"
+"848";"Transitado em Julgado em 28/10/2026";"28/10/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 1132172/2026";"22/10/2026"
+"118";"Protocolizada Petição 1132172/2026 (CieMPF - CIÊNCIA PELO MPF) em 22/10/2026";"22/10/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Decisões e Vistas em 22/10/2026";"22/10/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"22/10/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"22/10/2026"
+"92";"Publicado DESPACHO / DECISÃO em 22/10/2026 Petição Nº 955734/2026 - RE nos EDcl no AgRg no";"22/10/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"21/10/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0955734 - RE nos EDcl no AgRg no RHC 235243 - Publicação prevista para 22/10/2026";"19/10/2026"
+"15621";"Negado seguimento ao recurso extraordinário (STF - TEMA 339, TEMA 660 e TEMA 895) - Petição Nº 2026/00955734 - RE nos EDcl no AgRg RHC 235243";"19/10/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) VICE-PRESIDENTE DO STJ (Relator)";"29/09/2026"
+"85";"Juntada de Petição de CONTRARRAZÕES RE/RO nº 1028125/2026";"28/09/2026"
+"118";"Protocolizada Petição 1028125/2026 (CRR - CONTRARRAZÕES RE/RO) em 28/09/2026";"28/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Decisões e Vistas em 28/09/2026";"28/09/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 978671/2026";"17/09/2026"
+"118";"Protocolizada Petição 978671/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/09/2026";"17/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"17/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"17/09/2026"
+"92";"Publicado VISTA à(s) parte(s) recorrida(s) para contrarrazões de Recurso Extraordinário (RE) em 17/09/2026 Petição Nº 955734/2026 - ";"17/09/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"16/09/2026"
+"11383";"Ato ordinatório praticado (VISTA à(s) parte(s) recorrida(s) para contrarrazões de Recurso Extraordinário (RE) - PETIÇÃO Nº 955734/2026. Publicação prevista para 17/09/2026)";"15/09/2026"
+"26";"Distribuído por competência exclusiva ao Ministro VICE-PRESIDENTE DO STJ";"15/09/2026"
+"581";"Juntada de Certidão : Certifico que, nesta data, o presente feito foi registrado ao Excelentíssimo Senhor MINISTRO VICE-PRESIDENTE DO STJ.";"15/09/2026"
+"123";"Remetidos os Autos (para processamento do RE) para COORDENADORIA DE PROCESSAMENTO DE DECISÕES ESTRANGEIRAS E RECURSOS PARA O STF ";"14/09/2026"
+"85";"Juntada de Petição de RECURSO EXTRAORDINÁRIO nº 955734/2026";"11/09/2026"
+"118";"Protocolizada Petição 955734/2026 (RE - RECURSO EXTRAORDINÁRIO) em 11/09/2026";"11/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Acórdãos em 31/08/2026";"31/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 884766/2026";"27/08/2026"
+"118";"Protocolizada Petição 884766/2026 (CieMPF - CIÊNCIA PELO MPF) em 27/08/2026";"27/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 27/08/2026 Petição Nº 691525/2026 - EDcl no AgRg no";"27/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"27/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"27/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"26/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0691525 - EDcl no AgRg no RHC 235243 - Publicação prevista para 27/08/2026";"25/08/2026"
+"132";"Recebidos os autos no(a) SEXTA TURMA ";"21/08/2026"
+"200";"Embargos de Declaração de REGIVAN DO CARMO VIEIRA Não-acolhidos,por unanimidade, pela SEXTA TURMA Petição Nº691525/2026 - EDcl no AgRg no RHC RHC 235243";"18/08/2026"
+"3001";"Proclamação Final de Julgamento: A Sexta Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+ Petição Nº691525/2026 - EDcl no AgRg no RHC RHC 235243";"18/08/2026"
+"3002";"Inclusão em mesa para julgamento - SEXTA TURMA - sessão do dia 18/08/2026 14:00:00 - Petição N° 202600691525 - EDcl no AgRg no RHC 235243/DF";"03/08/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) OG FERNANDES (Relator)";"03/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Acórdãos em 03/07/2026";"03/07/2026"
+"85";"Juntada de Petição de EMBARGOS DE DECLARAÇÃO nº 691525/2026";"03/07/2026"
+"118";"Protocolizada Petição 691525/2026 (EDcl - EMBARGOS DE DECLARAÇÃO) em 03/07/2026";"03/07/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 685682/2026";"02/07/2026"
+"118";"Protocolizada Petição 685682/2026 (CieMPF - CIÊNCIA PELO MPF) em 02/07/2026";"02/07/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"02/07/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"02/07/2026"
+"92";"Publicado EMENTA / ACORDÃO em 02/07/2026 Petição Nº 409789/2026 - AgRg";"02/07/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"01/07/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0409789 - AgRg no RHC 235243 - Publicação prevista para 02/07/2026";"27/06/2026"
+"3001";"Proclamação Final de Julgamento: A SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. - Petição Nº 00409789/2026 - AgRg no RHC 235243/DF/DF";"24/06/2026"
+"239";"Conhecido o recurso de REGIVAN DO CARMO VIEIRA e não-provido , por unanimidade, pela SEXTA TURMA    - Petição N° 00409789/2026 - AgRg no RHC 235243/DF";"24/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 08/06/2026";"08/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Pauta de Julgamentos em 02/06/2026";"02/06/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 28/05/2026 ";"28/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"28/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"28/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"27/05/2026"
+"417";"Incluído em pauta para 18/06/2026 00:00:00 pela SEXTA TURMA (Sessão Virtual) - Petição Nº 00409789/2026 - AgRg no RHC 235243/DF";"26/05/2026"
+"85";"Juntada de Petição de MEMORIAL nº 511326/2026";"21/05/2026"
+"118";"Protocolizada Petição 511326/2026 (MEMO - MEMORIAL) em 21/05/2026";"21/05/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 04/05/2026";"04/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS intimado eletronicamente da(o) Decisões e Vistas em 04/05/2026";"04/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) OG FERNANDES (Relator)";"28/04/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 409789/2026";"28/04/2026"
+"118";"Protocolizada Petição 409789/2026 (AgRg - AGRAVO REGIMENTAL) em 28/04/2026";"28/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 23/04/2026 ";"23/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"23/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS";"23/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"22/04/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 23/04/2026";"20/04/2026"
+"239";"Conhecido o recurso de REGIVAN DO CARMO VIEIRA e não-provido";"20/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) OG FERNANDES (Relator) - pela SJD.";"08/04/2026"
+"26";"Distribuído por dependência ao Ministro OG FERNANDES - SEXTA TURMA. Processo prevento: RHC 216266 (2025/0178369-0)";"08/04/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS";"30/03/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202601132172";"CIÊNCIA PELO MPF";"CieMPF";"22/10/2026";"MPF"
+"202601028125";"CONTRARRAZÕES RE/RO";"CRR";"28/09/2026";"MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS"
+"202600978671";"CIÊNCIA PELO MPF";"CieMPF";"17/09/2026";"MPF"
+"202600955734";"RECURSO EXTRAORDINÁRIO";"RE";"11/09/2026";"REGIVAN DO CARMO VIEIRA"
+"202600884766";"CIÊNCIA PELO MPF";"CieMPF";"27/08/2026";"MPF"
+"202600691525";"EMBARGOS DE DECLARAÇÃO";"EDcl";"03/07/2026";"REGIVAN DO CARMO VIEIRA"
+"202600685682";"CIÊNCIA PELO MPF";"CieMPF";"02/07/2026";"MPF"
+"202600511326";"MEMORIAL";"MEMO";"21/05/2026";"REGIVAN DO CARMO VIEIRA"
+"202600409789";"AGRAVO REGIMENTAL";"AgRg";"28/04/2026";"REGIVAN DO CARMO VIEIRA"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"RHC";"2026,8,27";"";"202600691525";"Nao"
+"RHC";"2026,7,2";"";"202600409789";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"24/06/2026";"00:00";"SEXTA TURMA";"PAUTA DE JULGAMENTOS";"28/05/2026"

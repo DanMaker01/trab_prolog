@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "RHC 204466",
+   "via": "RHC",
+   "data_fato": "",
+   "uf": "RJ",
+   "relator": "Og Fernandes",
+   "reu": "Joao Marcello Bastos da Silva",
+   "sexo": "M",
+   "drogas": "drogas sinteticas",
+   "qtd_g": "",
+   "porcoes": "sacos com drogas sinteticas",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "nao",
+   "origem_abordagem": "denuncia anonima",
+   "local_conhecido": "",
+   "comportamento_reu": "arremessou sacos com drogas pela janela ao avistar a viatura",
+   "tipo_busca": "domiciliar",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Agravo regimental do MP provido (revertendo decisao anterior), por fundadas razoes do ingresso (denuncia anonima especifica + arremesso de sacola), ressalvado exame definitivo na instrucao; EDcl da defesa rejeitados, inclusive alegacao de cerceamento por falta de memoriais. Defesa alegava ausencia de formalizacao da denuncia anonima e desvio de finalidade (mandado de prisao informado na portaria do condominio)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "RHC 204466",
+   "reu": "Joao Marcello Bastos da Silva",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Denuncia anonima especifica e detalhada somada ao arremesso de sacos com drogas pela janela ao avistar a viatura constituem fundadas razoes em crime permanente; exame definitivo cabe a instrucao."
+  },
+  {
+   "processo": "RHC 204466",
+   "reu": "Joao Marcello Bastos da Silva",
+   "tese": "outro:cerceamento_defesa_pauta",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Defesa foi previamente intimada da sessao virtual de 28/8 a 3/9/2026 por despacho publicado em 22/8/2026; ausente prejuizo."
+  },
+  {
+   "processo": "RHC 204466",
+   "reu": "Joao Marcello Bastos da Silva",
+   "tese": "outro:omissao_contradicao_edcl",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Inexistencia de vicio do art. 619 do CPP; pretensao de mera rediscussao."
+  }
+ ]
+}

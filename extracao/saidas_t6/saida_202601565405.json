@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3240954",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",
+   "reu": "Isabelly da Silva Souza",
+   "sexo": "F",
+   "drogas": "cocaina+maconha+crack+ecstasy",
+   "qtd_g": 2409.0,
+   "porcoes": "2488 involucros cocaina + 825 involucros maconha/skunk + 376 involucros crack + ecstasy",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "outro (cao farejador indicou a residencia)",
+   "local_conhecido": "sim",
+   "comportamento_reu": "",
+   "tipo_busca": "domiciliar",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "local conhecido como ponto de venda de drogas",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "impugnacao generica/insuficiente dos obices de inadmissao (Sum. 284/STF e 7/STJ)",
+   "obs": "Ingresso domiciliar validado na origem por fundadas suspeitas (ponto de venda + indicacao de cao farejador); TJ deu parcial provimento a apelacao, sem detalhe da pena. qtd_g exclui o ecstasy, cuja quantidade nao foi informada."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3240954",
+   "reu": "Isabelly da Silva Souza",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Rever as fundadas suspeitas reconhecidas pela origem exigiria reexame fatico-probatorio; agravo nao impugnou adequadamente os obices."
+  },
+  {
+   "processo": "AREsp 3240954",
+   "reu": "Isabelly da Silva Souza",
+   "tese": "outro:violacao_constitucional",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Violacao a dispositivos constitucionais e materia do STF (art. 102, III, CF), incabivel em recurso especial."
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202404432728"
+"Numero Unico";"00308399120238160030"
+"Classe";"REsp"
+"Numero Classe";"2183472"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"PR"
+"Origem";"TJPR"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ"
+"Ministro Relator";"SEBASTIÃO REIS JÚNIOR"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ"
+"Data Ultima Fase";"19/08/2026 15:13:22"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"RECORRENTE";"GABRIEL DA ALMEIDA DOS SANTOS";"";""
+"RECORRENTE";"VALMIR FRANCISCO DOS SANTOS";"";"ROBERTO MARTINS GUIMARÃES"
+"RECORRIDO";"MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"25/11/2024"
+"Data Protocolo";"21/11/2024"
+"Data Baixa";"19/08/2026"
+"Data Distribuicao 1";"06/12/2024"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"327544420248160030";"Nao";"0";"0"
+"00327544420248160030";"Nao";"0";"0"
+"00308399120238160030";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Distribuição"
+"Tipo";"automática"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ";"19/08/2026"
+"848";"Transitado em Julgado em 19/08/2026";"19/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ intimado eletronicamente da(o) Acórdãos em 02/07/2026";"02/07/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 642902/2026";"22/06/2026"
+"118";"Protocolizada Petição 642902/2026 (CieMPF - CIÊNCIA PELO MPF) em 22/06/2026";"22/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ";"22/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"22/06/2026"
+"92";"Publicado EMENTA / ACORDÃO em 22/06/2026 ";"22/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"19/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Publicação prevista para 22/06/2026";"18/06/2026"
+"581";"Juntada de Certidão : Certifico que, na presente data, foi comunicado o resultado de julgamento da Sexta Turma ao Tribunal de origem, via malote digital.";"12/06/2026"
+"241";"Conhecido em parte o recurso de GABRIEL DA ALMEIDA DOS SANTOS e VALMIR FRANCISCO DOS SANTOS e provido em parte , por unanimidade, pela SEXTA TURMA";"11/06/2026"
+"3001";"Proclamação Final de Julgamento: A SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2026 a 11/06/2026, por unanimidade, decidiu conhecer parcialmente do recurso e, nessa parte, dar-lhe parcial provimento, nos termos do voto do Sr. Ministro Relator.";"11/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 25/05/2026";"25/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ intimado eletronicamente da(o) Pauta de Julgamentos em 25/05/2026";"25/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ";"14/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"14/05/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 14/05/2026 ";"14/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"13/05/2026"
+"417";"Incluído em pauta para 05/06/2026 00:00:00 pela SEXTA TURMA (Sessão Virtual)";"12/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"28/01/2025"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"28/01/2025"
+"85";"Juntada de Petição de PARECER DO MPF nº 51189/2025";"28/01/2025"
+"118";"Protocolizada Petição 51189/2025 (PET - PETIÇÃO) em 28/01/2025";"28/01/2025"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"06/12/2024"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"06/12/2024"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL ";"06/12/2024"
+"581";"Juntada de Certidão Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à Coordenadoria de Processamento de Feitos de Direito Penal para abertura de vista ao MPF.";"06/12/2024"
+"26";"Distribuído por sorteio ao Ministro SEBASTIÃO REIS JÚNIOR - SEXTA TURMA";"06/12/2024"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ";"21/11/2024"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600642902";"CIÊNCIA PELO MPF";"CieMPF";"22/06/2026";"MPF"
+"202500051189";"PARECER DO MPF";"ParMPF";"28/01/2025";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"REsp";"2026,6,22";"";"";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"11/06/2026";"00:00";"SEXTA TURMA";"PAUTA DE JULGAMENTOS";"14/05/2026"

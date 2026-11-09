@@ -1,0 +1,15 @@
+{"casos":[{
+"processo":"HC 1088101","relator":"Sebastião Reis Júnior","uf":"SC","reu":"GILBERTO MODOLON SEVERINA","sexo":"M","data_fato":"",
+"drogas":"cocaina","qtd_g_total":"","qtd_por_droga":"","porcoes":"","petrechos":"","dinheiro":"","arma":"",
+"primario":"sim","reincidente":"nao","maus_antecedentes":"","antecedentes_desc":"condenacao anterior por trafico (AP 0003325-27.2011.8.24.0010) atingida pela prescricao da pretensao punitiva; 22 boletins de ocorrencia",
+"atos_infracionais":"","ultimo_ato_infracional_ano":"","acoes_penais_em_curso":"sim","associacao_art35":"",
+"outros_indicios_dedicacao":"22 boletins de ocorrencia;condenacao pretérita prescrita pelo mesmo delito;depoimento de policiais (conhecido do meio policial pelo trafico);informacoes de inteligencia sobre integracao a organizacao criminosa",
+"majorante_art40":"",
+"sent_p4":"","tj_p4":"nao",
+"tj_fundamentos_negar":"acoes_em_curso;outro:22 boletins de ocorrencia;outro:condenacao anterior prescrita;outro:depoimento policial e inteligencia sobre organizacao criminosa",
+"stj_mono_p4":"nao_conheceu","stj_final_p4":"negado","stj_obice":"HC substitutivo","stj_analisou_merito":"sim",
+"stj_precedentes":"Sumula 444/STJ",
+"stj_fundamento":"Embora o reu nao seja reincidente (erro material reconhecido), a dedicacao a atividades criminosas extraida de BOs, acao em curso, condenacao prescrita e depoimento policial sobre organizacao criminosa e fundamento autonomo para negar o redutor.",
+"quem_recorreu_ultimo":"defesa","resultado_final_reu":"desfavoravel","pena_final_m":"","regime_final":"semiaberto","votacao":"unanime",
+"obs":"Presidencia indeferiu liminarmente (HC substitutivo de revisao criminal e preclusao por transito em julgado antigo); AgRg negou o §4º por suposta reincidencia, e EDcl acolheu erro material sem efeitos infringentes. Defesa alega 40 g de cocaina e que a acao em curso (0000599-74.2018) foi extinta pela prescricao, o que o STJ confirmou."
+}]}

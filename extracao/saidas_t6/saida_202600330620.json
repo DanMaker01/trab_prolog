@@ -1,0 +1,56 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3165049",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "RJ",
+   "relator": "Carlos Pires Brandao",
+   "reu": "Rodrigo Felix da Silva",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "IV (arma) + V (interestadual)",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": 75,
+   "stj_pena_m": 75,
+   "sent_regime": "",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "nao impugnou especificamente os fundamentos da inadmissao (Sum. 7, 282/STF, 83) (Sum. 182)",
+   "obs": "Condenacao por associacao para o trafico (art. 35 c/c 40, IV e V), nao por trafico; AREsp nao conhecido pela Presidencia (Sum. 182), decisao mantida. Texto nao distingue pena da sentenca e do TJ (6a3m, fechado)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3165049",
+   "reu": "Rodrigo Felix da Silva",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Alegacao de condenacao baseada so em provas do inquerito (art. 155 CPP) nao examinada por falta de impugnacao especifica dos obices da inadmissao."
+  }
+ ]
+}

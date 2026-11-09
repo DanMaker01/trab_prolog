@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3129963",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Carlos Pires Brandao",
+   "reu": "Renan Silva de Paula",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": 96,
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "nao impugnou especificamente a Sum. 7 com cotejo analitico (Sum. 182)",
+   "obs": "Condenado pelos arts. 33 e 35 da Lei 11.343/06 (concurso material) a 8 anos em regime fechado e 1200 dias-multa; nenhuma tese de merito foi analisada. RE teve seguimento negado (Temas 339, 660, 895 e 181 do STF)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3129963",
+   "reu": "Renan Silva de Paula",
+   "tese": "outro:absolvicao_associacao_art35",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Agravo nao impugnou especificamente o obice da Sum. 7 aplicado na inadmissao."
+  },
+  {
+   "processo": "AREsp 3129963",
+   "reu": "Renan Silva de Paula",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Agravo nao conhecido por falta de impugnacao especifica."
+  },
+  {
+   "processo": "AREsp 3129963",
+   "reu": "Renan Silva de Paula",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Agravo nao conhecido por falta de impugnacao especifica."
+  },
+  {
+   "processo": "AREsp 3129963",
+   "reu": "Renan Silva de Paula",
+   "tese": "outro:recurso_extraordinario_admissibilidade",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Vice-Presidencia negou seguimento ao RE (Temas 339, 660, 895 e 181 do STF)."
+  }
+ ]
+}

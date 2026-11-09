@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3264809",
+   "via": "AREsp (revisao criminal)",
+   "data_fato": "",
+   "uf": "PR",
+   "relator": "SEBASTIAO REIS JUNIOR",
+   "reu": "ARTUR DA SILVA AMANCIO",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "nao impugnou fundamentos da inadmissao (Sum. 182); sem cotejo analitico; nao enfrentou prejudicialidade da alinea c; precedentes nao contemporaneos contra Sum. 83",
+   "obs": "Agravo regimental nao conhecido por falta de dialeticidade (Sum. 182). O recurso especial versava sobre busca pessoal, valor do depoimento policial e limites da revisao criminal."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3264809",
+   "reu": "ARTUR DA SILVA AMANCIO",
+   "tese": "nulidade_busca_pessoal",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ausencia de impugnacao especifica dos obices (Sum. 83 e 7) aplicados na inadmissao."
+  },
+  {
+   "processo": "AREsp 3264809",
+   "reu": "ARTUR DA SILVA AMANCIO",
+   "tese": "outro:valor_depoimento_policial",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ausencia de impugnacao especifica; julgados antigos nao demonstram superacao da Sum. 83."
+  },
+  {
+   "processo": "AREsp 3264809",
+   "reu": "ARTUR DA SILVA AMANCIO",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 182",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Ausencia de impugnacao especifica dos fundamentos da inadmissao sobre os limites da revisao criminal."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{"casos":[{
+"processo":"HC 1085824","relator":"Sebastião Reis Júnior","uf":"SP","reu":"ANGELICA DE MELO ALBUQUERQUE BARROS","sexo":"F","data_fato":"",
+"drogas":"maconha","qtd_g_total":1108,"qtd_por_droga":"maconha 1108","porcoes":"","petrechos":"","dinheiro":"","arma":"",
+"primario":"sim","reincidente":"nao","maus_antecedentes":"nao","antecedentes_desc":"primaria e de bons antecedentes; pena-base no minimo legal",
+"atos_infracionais":"","ultimo_ato_infracional_ano":"","acoes_penais_em_curso":"","associacao_art35":"",
+"outros_indicios_dedicacao":"ausencia de comprovacao de trabalho licito;droga apreendida tambem com o companheiro/correu (confianca do fornecedor)",
+"majorante_art40":"nao",
+"sent_p4":"","tj_p4":"nao",
+"tj_fundamentos_negar":"quantidade;natureza;outro:ausencia de comprovacao de trabalho licito;outro:confianca do fornecedor deduzida da quantidade",
+"stj_mono_p4":"concedeu_oficio 1/2","stj_final_p4":"concedido_oficio 1/2","stj_obice":"HC substitutivo","stj_analisou_merito":"sim",
+"stj_precedentes":"AgRg no AREsp 2.599.241/RJ;AgRg no REsp 2.147.211/PA",
+"stj_fundamento":"Quantidade e natureza da droga, por si sos, nao afastam o redutor sem outro elemento concreto, mas 1.108 g de maconha justificam modular a fracao em 1/2.",
+"quem_recorreu_ultimo":"mp","resultado_final_reu":"parcial","pena_final_m":30,"regime_final":"semiaberto","votacao":"unanime",
+"obs":"HC substitutivo de revisao criminal indeferido, mas ordem concedida de oficio (defesa pedia 2/3, aberto e substituicao, negados); AgRg do MP (que alegava R$ 7.000, atuacao conjunta com caminhao e apreensao adicional) improvido e RE do MP inadmitido (Sum. 279/STF), ARE remetido ao STF. TJ julgou apelacao do MP ('a apelada'), sugerindo que a sentenca aplicou o redutor, mas a fracao nao consta."
+}]}

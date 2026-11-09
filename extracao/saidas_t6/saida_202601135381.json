@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3216220",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "ES",
+   "relator": "SEBASTIAO REIS JUNIOR",
+   "reu": "LUCAS BERGAMIM DE SOUZA",
+   "sexo": "M",
+   "drogas": "cocaina+crack",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "R$ 571,00 em notas fracionadas; arma de fogo",
+   "majorante_art40": "IV (arma de fogo)",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "concurso de tres agentes;corrupcao de menor;emprego de arma de fogo",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "nao",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "quantidade expressiva e natureza (crack e cocaina), concurso de 3 agentes, corrupcao de menor, arma de fogo, dinheiro fracionado",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "inovacao recursal (reformatio in pejus arguida so no AgRg)",
+   "obs": "Afastamento do §4º mantido por Sum. 7, pois a origem usou fatores autonomos alem da quantidade (afastando bis in idem). Tese de reformatio in pejus nao conhecida por inovacao recursal."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3216220",
+   "reu": "LUCAS BERGAMIM DE SOUZA",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Afastar a conclusao de dedicacao criminosa baseada em concurso de agentes, corrupcao de menor, arma e dinheiro fracionado exigiria reexame de provas."
+  },
+  {
+   "processo": "AREsp 3216220",
+   "reu": "LUCAS BERGAMIM DE SOUZA",
+   "tese": "outro:reformatio_in_pejus",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Tese nao exposta no recurso especial e trazida apenas no agravo regimental configura inovacao recursal."
+  }
+ ]
+}

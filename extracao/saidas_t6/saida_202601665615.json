@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1093112",
+   "via": "HC",
+   "data_fato": "",
+   "uf": "ES",
+   "relator": "Sebastiao Reis Junior",
+   "reu": "Alexandre Fernandes Pereira",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "investigacao",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "domiciliar",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "lideranca em organizacao criminosa;triangulacao financeira;utilizacao de interpostas pessoas;empresa AR7 Veiculos como instrumento de ocultacao patrimonial",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "HC contra cautelares (busca e apreensao, quebra de sigilo telematico e bloqueio de R$ 5.428.609,52) na Operacao Blind Guardian (orcrim, trafico, lavagem), sem condenacao. Defesa alegou bloqueio desproporcional frente a R$ 135.307,00 de movimentacoes suspeitas; STJ entendeu que exige revolvimento fatico e que o HC e via inadequada para desbloqueio."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1093112",
+   "reu": "Alexandre Fernandes Pereira",
+   "tese": "outro:fundamentacao_generica_cautelares",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Cautelares apoiadas em dados telematicos, relatorios financeiros e RIFs do COAF; aferir suficiencia dos indicios exige revolvimento fatico-probatorio incompativel com HC."
+  },
+  {
+   "processo": "HC 1093112",
+   "reu": "Alexandre Fernandes Pereira",
+   "tese": "outro:fundamentacao_supletiva_tj",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "TJ apenas sistematizou elementos ja constantes da investigacao, sem inovar no nucleo fatico."
+  },
+  {
+   "processo": "HC 1093112",
+   "reu": "Alexandre Fernandes Pereira",
+   "tese": "outro:erro_premissa_composicao_societaria",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Relevancia da composicao societaria da AR7 exige exame aprofundado de documentos, incompativel com HC."
+  },
+  {
+   "processo": "HC 1093112",
+   "reu": "Alexandre Fernandes Pereira",
+   "tese": "outro:desproporcionalidade_bloqueio_patrimonial",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Correlacao entre valor bloqueado e proveito ilicito exige analise incompativel com HC, via inadequada para desbloqueio de medidas assecuratorias complexas."
+  }
+ ]
+}

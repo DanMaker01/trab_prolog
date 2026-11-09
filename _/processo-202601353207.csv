@@ -1,0 +1,137 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601353207"
+"Numero Unico";"01353205720263000000"
+"Classe";"HC"
+"Numero Classe";"1088101"
+"Tipo Processo";"Originário"
+"Status";"Processo arquivado"
+"UF";"SC"
+"Origem";"TJSC"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA"
+"Ministro Relator";"SEBASTIÃO REIS JÚNIOR"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Nao"
+"Pedido Liminar";"Sim"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Arquivado Definitivamente "
+"Data Ultima Fase";"24/09/2026 12:11:16"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"IMPETRANTE";"FILIPI CORREA DE OLIVEIRA";"";"FILIPI CORRÊA DE OLIVEIRA | MARIA EDUARDA MARTINS FAVARIN"
+"IMPETRADO";"TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA";"";""
+"PACIENTE";"GILBERTO MODOLON SEVERINA";"";""
+"CORRÉU";"MARCIO LUZ DOS SANTOS GUTSTEIN";"";""
+"INTERESSADO";"MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"10/04/2026"
+"Data Protocolo";"09/04/2026"
+"Data Classificacao";"13/04/2026"
+"Data Arquivamento";"24/09/2026"
+"Data Distribuicao 1";"24/04/2026"
+"Data Distribuicao 2";"13/04/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"00000641420198240159";"Nao";"0";"0"
+"641420198240159";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"automática"
+"Motivo";"despacho/decisão"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"246";"Arquivado Definitivamente ";"24/09/2026"
+"848";"Transitado em Julgado em 09/09/2026 ";"24/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA intimado eletronicamente da(o) Acórdãos em 03/09/2026";"03/09/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 900916/2026";"31/08/2026"
+"118";"Protocolizada Petição 900916/2026 (CieMPF - CIÊNCIA PELO MPF) em 31/08/2026";"31/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"24/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA";"24/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 24/08/2026 Petição Nº 658196/2026 - EDcl no AgRg no";"24/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"21/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0658196 - EDcl no AgRg no HC 1088101 - Publicação prevista para 24/08/2026";"20/08/2026"
+"132";"Recebidos os autos no(a) SEXTA TURMA ";"20/08/2026"
+"198";"Embargos de Declaração de GILBERTO MODOLON SEVERINA acolhidos, sem efeitos infringentes,por unanimidade, pela SEXTA TURMA Petição Nº658196/2026 - EDcl no AgRg no HC HC 1088101";"18/08/2026"
+"3001";"Proclamação Final de Julgamento: A Sexta Turma, por unanimidade, acolheu os embargos de declaração, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator.
+ Petição Nº658196/2026 - EDcl no AgRg no HC HC 1088101";"18/08/2026"
+"3002";"Inclusão em mesa para julgamento - SEXTA TURMA - sessão do dia 18/08/2026 14:00:00 - Petição N° 202600658196 - EDcl no AgRg no HC 1088101/SC";"06/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 724591/2026";"14/07/2026"
+"118";"Protocolizada Petição 724591/2026 (CieMPF - CIÊNCIA PELO MPF) em 14/07/2026";"14/07/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Acórdãos em 09/07/2026";"09/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA intimado eletronicamente da(o) Acórdãos em 09/07/2026";"09/07/2026"
+"581";"Juntada de Certidão Em razão da Portaria STJ/GP n. 461 de 25 de junho de 2026, que decretou ponto facultativo no Superior Tribunal de Justiça no dia 29 de junho de 2026, CERTIFICO, em RETIFICAÇÃO da Certidão de Publicação lançada nestes autos, que as matérias disponibilizadas no Diário da Justiça Eletrônico Nacional CNJ (DJEN) em 26/06/2026 consideram-se PUBLICADAS em 30/06/2026, nos termos da Lei 11.419/2006, art. 4º, §3º.";"01/07/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator)";"30/06/2026"
+"85";"Juntada de Petição de EMBARGOS DE DECLARAÇÃO nº 658196/2026";"30/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"29/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA";"29/06/2026"
+"92";"Publicado EMENTA / ACORDÃO em 29/06/2026 Petição Nº 370404/2026 - AgRg";"29/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"26/06/2026"
+"118";"Protocolizada Petição 658196/2026 (EDcl - EMBARGOS DE DECLARAÇÃO) em 25/06/2026";"25/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0370404 - AgRg no HC 1088101 - Publicação prevista para 29/06/2026";"25/06/2026"
+"3001";"Proclamação Final de Julgamento: A SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. - Petição Nº 00370404/2026 - AgRg no HC 1088101/SC/SC";"24/06/2026"
+"239";"Conhecido o recurso de GILBERTO MODOLON SEVERINA e não-provido , por unanimidade, pela SEXTA TURMA    - Petição N° 00370404/2026 - AgRg no HC 1088101/SC";"24/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA intimado eletronicamente da(o) Pauta de Julgamentos em 08/06/2026";"08/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 08/06/2026";"08/06/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 28/05/2026 ";"28/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"28/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA";"28/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"27/05/2026"
+"417";"Incluído em pauta para 18/06/2026 00:00:00 pela SEXTA TURMA (Sessão Virtual) - Petição Nº 00370404/2026 - AgRg no HC 1088101/SC";"26/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA intimado eletronicamente da(o) Decisões e Vistas em 07/05/2026";"07/05/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 07/05/2026";"07/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA intimado eletronicamente da(o) Decisões e Vistas em 04/05/2026";"04/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"27/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA";"27/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 27/04/2026 Petição Nº 370404/2026 - AgRg";"27/04/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 390365/2026";"24/04/2026"
+"118";"Protocolizada Petição 390365/2026 (CieMPF - CIÊNCIA PELO MPF) em 24/04/2026";"24/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) SEBASTIÃO REIS JÚNIOR (Relator) - pela SJD.";"24/04/2026"
+"36";"Redistribuído por sorteio, em razão de despacho/decisão, ao Ministro SEBASTIÃO REIS JÚNIOR - SEXTA TURMA";"24/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"24/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"24/04/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSOS ORIGINÁRIOS";"23/04/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE PROCESSOS ORIGINÁRIOS";"23/04/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0370404 - AgRg no HC 1088101 - Publicação prevista para 27/04/2026";"23/04/2026"
+"12474";"Determinada a distribuição do feito - Petição Nº 2026/00370404 - AgRg no HC 1088101";"23/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) com encaminhamento à ARP";"22/04/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 370404/2026";"22/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"22/04/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA";"22/04/2026"
+"92";"Publicado DESPACHO / DECISÃO em 22/04/2026 ";"22/04/2026"
+"118";"Protocolizada Petição 370404/2026 (AgRg - AGRAVO REGIMENTAL) em 17/04/2026";"17/04/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"17/04/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 22/04/2026";"16/04/2026"
+"447";"Denegado o Habeas Corpus a GILBERTO MODOLON SEVERINA";"16/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) HERMAN BENJAMIN (Presidente) - pela SJD.";"13/04/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"13/04/2026"
+"118";"Protocolizada Petição (originária) em 09/04/2026";"09/04/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600900916";"CIÊNCIA PELO MPF";"CieMPF";"31/08/2026";"MPF"
+"202600724591";"CIÊNCIA PELO MPF";"CieMPF";"14/07/2026";"MPF"
+"202600658196";"EMBARGOS DE DECLARAÇÃO";"EDcl";"25/06/2026";"FILIPI CORREA DE OLIVEIRA"
+"202600390365";"CIÊNCIA PELO MPF";"CieMPF";"24/04/2026";"MPF"
+"202600370404";"AGRAVO REGIMENTAL";"AgRg";"17/04/2026";"FILIPI CORREA DE OLIVEIRA"
+"";"";"";"";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"HC";"2026,8,24";"";"202600658196";"Nao"
+"HC";"2026,6,29";"";"202600370404";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"24/06/2026";"00:00";"SEXTA TURMA";"PAUTA DE JULGAMENTOS";"28/05/2026"

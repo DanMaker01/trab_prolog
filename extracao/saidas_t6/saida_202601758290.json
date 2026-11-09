@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1094990",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "DF",
+   "relator": "Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",
+   "reu": "ANDRE CHRISTIAN ALVES DA SILVA",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "nao",
+   "antecedentes": "maus antecedentes (duas condenacoes definitivas por fato anterior); reincidente",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "conduta social negativa: crimes praticados durante cumprimento de pena em regime semiaberto",
+   "parecer_mpf": "",
+   "sent_pena_m": 171,
+   "tj_pena_m": 171,
+   "stj_pena_m": 171,
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Pena total de 14a3m por arts. 33 e 35 (pena-base do trafico 7a6m por maus antecedentes e conduta social); HC substitutivo de revisao criminal indeferido liminarmente pela Presidencia. Apos o AgRg, a defesa interpos recurso ordinario ao STF (despacho de 26/8/2026)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1094990",
+   "reu": "ANDRE CHRISTIAN ALVES DA SILVA",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "HC nao e sucedaneo de revisao criminal; tese nao reiterada no agravo regimental."
+  },
+  {
+   "processo": "HC 1094990",
+   "reu": "ANDRE CHRISTIAN ALVES DA SILVA",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "HC nao e sucedaneo de revisao criminal; tese nao reiterada no agravo regimental."
+  },
+  {
+   "processo": "HC 1094990",
+   "reu": "ANDRE CHRISTIAN ALVES DA SILVA",
+   "tese": "outro:absolvicao_associacao_art35",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "HC nao e sucedaneo de revisao criminal; tese nao reiterada no agravo regimental."
+  },
+  {
+   "processo": "HC 1094990",
+   "reu": "ANDRE CHRISTIAN ALVES DA SILVA",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Sem flagrante ilegalidade: maus antecedentes e conduta social (crime durante cumprimento de pena) sao vetores distintos, sem bis in idem."
+  }
+ ]
+}

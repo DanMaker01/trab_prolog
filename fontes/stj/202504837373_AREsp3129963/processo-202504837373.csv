@@ -1,0 +1,155 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202504837373"
+"Numero Unico";"00087276520248130390"
+"Classe";"AREsp"
+"Numero Classe";"3129963"
+"Tipo Processo";"Recursal"
+"Status";"Processamento de RE/RO"
+"UF";"MG"
+"Origem";"TJMG"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS"
+"Ministro Relator";"VICE-PRESIDENTE DO STJ"
+"Orgao Julgador";"CORTE ESPECIAL"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 19/10/2026"
+"Data Ultima Fase";"19/10/2026 10:01:47"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"AGRAVANTE";"RENAN SILVA DE PAULA";"";"ALISON SOUZA NOGUEIRA"
+"AGRAVADO";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"";""
+"CORRÉU";"PABLO DA SILVA COSTA";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"10/12/2025"
+"Data Protocolo";"05/12/2025"
+"Data Distribuicao 1";"19/08/2026"
+"Data Distribuicao 2";"06/02/2026"
+"Data Distribuicao 3";"10/12/2025"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"00087276520248130390";"Nao";"0";"0"
+"10000250888161003";"Nao";"0";"0"
+"87276520248130390";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Registro | Vice-Presidente do STJ"
+"Tipo";"automática"
+"Competencia";"Corte Especial"
+"Competencia Processante";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Pauta de Julgamentos em 19/10/2026";"19/10/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Pauta de Julgamentos em 19/10/2026";"19/10/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"09/10/2026"
+"300105";"Disponibilizada intimação eletrônica (Pauta de Julgamentos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"09/10/2026"
+"92";"Publicado PAUTA DE JULGAMENTOS em 09/10/2026 ";"09/10/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"08/10/2026"
+"417";"Incluído em pauta para 04/11/2026 11:30:00 pela CORTE ESPECIAL (Sessão Virtual) - Petição Nº 01022082/2026 - AgRg no RE no AgRg no AREsp 3129963/MG";"07/10/2026"
+"30078";"Órgão julgador alterado de para CORTE ESPECIAL em 07/10/2026";"07/10/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 02/10/2026";"02/10/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) VICE-PRESIDENTE DO STJ (Relator)";"28/09/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 1022082/2026";"26/09/2026"
+"118";"Protocolizada Petição 1022082/2026 (AgRg - AGRAVO REGIMENTAL) em 26/09/2026";"26/09/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 1004235/2026";"23/09/2026"
+"118";"Protocolizada Petição 1004235/2026 (CieMPF - CIÊNCIA PELO MPF) em 23/09/2026";"23/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"22/09/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"22/09/2026"
+"92";"Publicado DESPACHO / DECISÃO em 22/09/2026 Petição Nº 841311/2026 - RE no AgRg no";"22/09/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"21/09/2026"
+"15621";"Negado seguimento ao recurso extraordinário (STF - TEMA 339)";"18/09/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0841311 - RE no AgRg no AREsp 3129963 - Publicação prevista para 22/09/2026";"18/09/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) VICE-PRESIDENTE DO STJ (Relator)";"15/09/2026"
+"85";"Juntada de Petição de CONTRARRAZÕES RE/RO nº 965342/2026";"14/09/2026"
+"118";"Protocolizada Petição 965342/2026 (CRR - CONTRARRAZÕES RE/RO) em 14/09/2026";"14/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 31/08/2026";"31/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Acórdãos em 28/08/2026";"28/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 859246/2026";"21/08/2026"
+"118";"Protocolizada Petição 859246/2026 (CieMPF - CIÊNCIA PELO MPF) em 21/08/2026";"21/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"21/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"21/08/2026"
+"92";"Publicado VISTA à(s) parte(s) recorrida(s) para contrarrazões de Recurso Extraordinário (RE) em 21/08/2026 Petição Nº 841311/2026 - ";"21/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"20/08/2026"
+"11383";"Ato ordinatório praticado (VISTA à(s) parte(s) recorrida(s) para contrarrazões de Recurso Extraordinário (RE) - PETIÇÃO Nº 841311/2026. Publicação prevista para 21/08/2026)";"19/08/2026"
+"26";"Distribuído por competência exclusiva ao Ministro VICE-PRESIDENTE DO STJ";"19/08/2026"
+"581";"Juntada de Certidão : Certifico que, nesta data, o presente feito foi registrado ao Excelentíssimo Senhor MINISTRO VICE-PRESIDENTE DO STJ.";"19/08/2026"
+"123";"Remetidos os Autos (para processamento do RE) para COORDENADORIA DE PROCESSAMENTO DE DECISÕES ESTRANGEIRAS E RECURSOS PARA O STF ";"19/08/2026"
+"85";"Juntada de Petição de RECURSO EXTRAORDINÁRIO nº 841311/2026";"18/08/2026"
+"118";"Protocolizada Petição 841311/2026 (RE - RECURSO EXTRAORDINÁRIO) em 18/08/2026";"18/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 839533/2026";"18/08/2026"
+"118";"Protocolizada Petição 839533/2026 (CieMPF - CIÊNCIA PELO MPF) em 18/08/2026";"18/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"18/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"18/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 18/08/2026 Petição Nº 668748/2026 - AgRg";"18/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"17/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0668748 - AgRg no AREsp 3129963 - Publicação prevista para 18/08/2026";"13/08/2026"
+"132";"Recebidos os autos no(a) SEXTA TURMA ";"07/08/2026"
+"3001";"Proclamação Final de Julgamento: A Sexta Turma, por unanimidade, negou provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+ Petição Nº 668748/2026 - AgRg no AREsp 3129963";"04/08/2026"
+"239";"Conhecido o recurso de RENAN SILVA DE PAULA e não-provido,por unanimidade, pela SEXTA TURMA Petição Nº 668748/2026 - AgRg no AREsp 3129963";"04/08/2026"
+"3002";"Inclusão em mesa para julgamento - SEXTA TURMA - sessão do dia 04/08/2026 14:00:00 - Petição N° 202600668748 - AgRg no AREsp 3129963/MG";"21/07/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 09/07/2026";"09/07/2026"
+"581";"Juntada de Certidão Em razão da Portaria STJ/GP n. 461 de 25 de junho de 2026, que decretou ponto facultativo no Superior Tribunal de Justiça no dia 29 de junho de 2026, CERTIFICO, em RETIFICAÇÃO da Certidão de Publicação lançada nestes autos, que as matérias disponibilizadas no Diário da Justiça Eletrônico Nacional CNJ (DJEN) em 26/06/2026 consideram-se PUBLICADAS em 30/06/2026, nos termos da Lei 11.419/2006, art. 4º, §3º.";"01/07/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) CARLOS PIRES BRANDÃO (Relator)";"01/07/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 668748/2026";"01/07/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 677408/2026";"30/06/2026"
+"118";"Protocolizada Petição 677408/2026 (CieMPF - CIÊNCIA PELO MPF) em 30/06/2026";"30/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 29/06/2026 ";"30/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"29/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"29/06/2026"
+"118";"Protocolizada Petição 668748/2026 (AgRg - AGRAVO REGIMENTAL) em 28/06/2026";"28/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"26/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 29/06/2026";"24/06/2026"
+"235";"Não conhecido o recurso de RENAN SILVA DE PAULA";"24/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) CARLOS PIRES BRANDÃO (Relator)";"04/06/2026"
+"85";"Juntada de Petição de MANIFESTAÇÃO PELO MPF nº 570806/2026";"04/06/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"04/06/2026"
+"118";"Protocolizada Petição 570806/2026 (ManMPF - MANIFESTAÇÃO PELO MPF) em 04/06/2026";"04/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 20/02/2026";"20/02/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 20/02/2026";"20/02/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"10/02/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"10/02/2026"
+"92";"Publicado DESPACHO / DECISÃO em 10/02/2026 ";"10/02/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"09/02/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"06/02/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"06/02/2026"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"06/02/2026"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à Coordenadoria de Recursos Especiais para abertura de vista ao MPF.";"06/02/2026"
+"36";"Redistribuído por sorteio, em razão de despacho/decisão, ao Ministro CARLOS PIRES BRANDÃO - SEXTA TURMA";"06/02/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"06/02/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"05/02/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 10/02/2026";"05/02/2026"
+"12474";"Determinada a distribuição do feito";"05/02/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) - pela SJD.";"10/12/2025"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"10/12/2025"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS";"05/12/2025"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202601022082";"AGRAVO REGIMENTAL";"AgRg";"26/09/2026";"RENAN SILVA DE PAULA"
+"202601004235";"CIÊNCIA PELO MPF";"CieMPF";"23/09/2026";"MPF"
+"202600965342";"CONTRARRAZÕES RE/RO";"CRR";"14/09/2026";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS"
+"202600859246";"CIÊNCIA PELO MPF";"CieMPF";"21/08/2026";"MPF"
+"202600841311";"RECURSO EXTRAORDINÁRIO";"RE";"18/08/2026";"RENAN SILVA DE PAULA"
+"202600839533";"CIÊNCIA PELO MPF";"CieMPF";"18/08/2026";"MPF"
+"202600677408";"CIÊNCIA PELO MPF";"CieMPF";"30/06/2026";"MPF"
+"202600668748";"AGRAVO REGIMENTAL";"AgRg";"28/06/2026";"RENAN SILVA DE PAULA"
+"202600570806";"MANIFESTAÇÃO PELO MPF";"ManMPF";"04/06/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"AREsp";"2026,8,18";"";"202600668748";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao
+"11/11/2026";"00:00";"CORTE ESPECIAL";"PAUTA DE JULGAMENTOS";"09/10/2026"

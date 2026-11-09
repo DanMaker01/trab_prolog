@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1057736",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "SP",
+   "relator": "Rogerio Schietti Cruz",
+   "reu": "Wilson Pinheiro da Silva Junior",
+   "sexo": "M",
+   "drogas": "",
+   "qtd_g": "",
+   "porcoes": "",
+   "petrechos_dinheiro": "",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC substitutivo de revisao criminal impetrado no STJ contra acordao de apelacao transitado em julgado (STJ incompetente)",
+   "obs": "HC impetrado em 3/12/2025 contra acordao transitado em 16/12/2024; indeferido liminarmente por incompetencia do STJ (art. 105, I, e, CF) e afastada concessao de oficio."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1057736",
+   "reu": "Wilson Pinheiro da Silva Junior",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "HC substitutivo de revisao criminal contra condenacao transitada em julgado; STJ so revisa seus proprios julgados."
+  },
+  {
+   "processo": "HC 1057736",
+   "reu": "Wilson Pinheiro da Silva Junior",
+   "tese": "outro:omissao_flagrante_ilegalidade_hc_de_oficio",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Concessao de oficio exige coacao ilegal verificavel de plano e nao serve para sanar irregularidade recursal; agravo sem argumentos novos."
+  }
+ ]
+}

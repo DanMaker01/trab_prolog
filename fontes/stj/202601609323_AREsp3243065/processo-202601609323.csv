@@ -1,0 +1,124 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601609323"
+"Numero Unico";"02135489620238130024"
+"Classe";"AREsp"
+"Numero Classe";"3243065"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"MG"
+"Origem";"TJMG"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS"
+"Ministro Relator";"CARLOS PIRES BRANDÃO"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Sim"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS "
+"Data Ultima Fase";"30/09/2026 08:09:54"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"AGRAVANTE";"R G P DE S";"";"DEFENSORIA PÚBLICA DO ESTADO DE MINAS GERAIS"
+"AGRAVADO";"M P DO E DE M G";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"09633.09634.09847.09858.09859.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"09633.10688.11389.";"Liberdade assistida";"Nao";"Terceira Seção"
+"01209.04263.04264.10865.";"Cerceamento de Defesa";"Nao";"Terceira Seção"
+"09633.09634.09847.09893.";"Do Sistema Nacional de Armas";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"28/04/2026"
+"Data Protocolo";"27/04/2026"
+"Data Baixa";"30/09/2026"
+"Data Distribuicao 1";"21/05/2026"
+"Data Distribuicao 2";"29/04/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"24230213548";"Nao";"0";"0"
+"0024230213548";"Nao";"0";"0"
+"2135489620238130024";"Nao";"0";"0"
+"02135489620238130024";"Nao";"0";"0"
+"10000245042718003";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"automática"
+"Motivo";"encaminhamento da ARP"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS ";"30/09/2026"
+"848";"Transitado em Julgado em 30/09/2026 ";"30/09/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Acórdãos em 28/08/2026";"28/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Acórdãos em 28/08/2026";"28/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 840261/2026";"18/08/2026"
+"118";"Protocolizada Petição 840261/2026 (CieMPF - CIÊNCIA PELO MPF) em 18/08/2026";"18/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"18/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE MINAS GERAIS";"18/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"18/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 18/08/2026 Petição Nº 611101/2026 - AgRg";"18/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"17/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0611101 - AgRg no AREsp 3243065 - Publicação prevista para 18/08/2026";"13/08/2026"
+"132";"Recebidos os autos no(a) SEXTA TURMA ";"07/08/2026"
+"3001";"Proclamação Final de Julgamento: A Sexta Turma, por unanimidade, negou provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+ Petição Nº 611101/2026 - AgRg no AREsp 3243065";"04/08/2026"
+"239";"Conhecido o recurso de R G P DE S (MENOR) e não-provido,por unanimidade, pela SEXTA TURMA Petição Nº 611101/2026 - AgRg no AREsp 3243065";"04/08/2026"
+"3002";"Inclusão em mesa para julgamento - SEXTA TURMA - sessão do dia 04/08/2026 14:00:00 - Petição N° 202600611101 - AgRg no AREsp 3243065/MG";"29/07/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) CARLOS PIRES BRANDÃO (Relator)";"16/06/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 611101/2026";"16/06/2026"
+"118";"Protocolizada Petição 611101/2026 (AgRg - AGRAVO REGIMENTAL) em 16/06/2026";"16/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 08/06/2026";"08/06/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 08/06/2026";"08/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 556437/2026";"01/06/2026"
+"118";"Protocolizada Petição 556437/2026 (CieMPF - CIÊNCIA PELO MPF) em 01/06/2026";"01/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 01/06/2026";"01/06/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 01/06/2026";"01/06/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE MINAS GERAIS intimado eletronicamente da(o) Decisões e Vistas em 01/06/2026";"01/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE MINAS GERAIS";"29/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"29/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"29/05/2026"
+"92";"Publicado DESPACHO / DECISÃO em 29/05/2026 ";"29/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"28/05/2026"
+"239";"Conhecido o recurso de R G P DE S (MENOR) e não-provido";"26/05/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 29/05/2026";"26/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) CARLOS PIRES BRANDÃO (Relator)";"22/05/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"22/05/2026"
+"85";"Juntada de Petição de PARECER DO MPF nº 517252/2026";"22/05/2026"
+"118";"Protocolizada Petição 517252/2026 (ParMPF - PARECER DO MPF) em 22/05/2026";"22/05/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"21/05/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"21/05/2026"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"21/05/2026"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL para abertura de vista ao MPF.";"21/05/2026"
+"36";"Redistribuído por sorteio, em razão de encaminhamento à ARP, ao Ministro CARLOS PIRES BRANDÃO - SEXTA TURMA";"21/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE MINAS GERAIS";"21/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"21/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS";"21/05/2026"
+"92";"Publicado DESPACHO / DECISÃO em 21/05/2026 ";"21/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"20/05/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"19/05/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"19/05/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 21/05/2026";"19/05/2026"
+"12474";"Determinada a distribuição do feito";"19/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) HERMAN BENJAMIN (Presidente) - pela SJD.";"29/04/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"29/04/2026"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS";"27/04/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600840261";"CIÊNCIA PELO MPF";"CieMPF";"18/08/2026";"MPF"
+"202600611101";"AGRAVO REGIMENTAL";"AgRg";"16/06/2026";"R G P DE S"
+"202600556437";"CIÊNCIA PELO MPF";"CieMPF";"01/06/2026";"MPF"
+"202600517252";"PARECER DO MPF";"ParMPF";"22/05/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"AREsp";"2026,8,18";"";"202600611101";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

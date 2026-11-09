@@ -1,0 +1,76 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3216334",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "PA",
+   "relator": "SEBASTIAO REIS JUNIOR",
+   "reu": "JULIO BERNARDO DE SOUZA NETO",
+   "sexo": "M",
+   "drogas": "cocaina",
+   "qtd_g": 272,
+   "porcoes": "droga em forma de pedra",
+   "petrechos_dinheiro": "nenhum (sem balanca, anotacoes ou dinheiro, segundo a defesa)",
+   "majorante_art40": "",
+   "origem_abordagem": "investigacao (denuncia anonima + monitoramento/campana)",
+   "local_conhecido": "sim",
+   "comportamento_reu": "pegando pacote no mato e trazendo para entregar; entrou em veiculo e foi a residencia; desfez-se da droga na frente dos policiais",
+   "tipo_busca": "pessoal+veicular+domiciliar",
+   "consentimento": "autorizacao (autor nao especificado)",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "foragido do sistema prisional;regiao conhecida pela traficancia;boca de fumo",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Busca pessoal validada por investigacao previa, campana e visualizacao de conduta tipica em boca de fumo, alem de denuncia anonima corroborada. Desclassificacao barrada pela Sum. 7, com enfase na quantidade e na forma de pedra."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3216334",
+   "reu": "JULIO BERNARDO DE SOUZA NETO",
+   "tese": "nulidade_busca_pessoal",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Investigacao previa, campana e visualizacao do reu pegando pacote na mata em ponto de trafico configuram fundada suspeita (art. 244 CPP)."
+  },
+  {
+   "processo": "AREsp 3216334",
+   "reu": "JULIO BERNARDO DE SOUZA NETO",
+   "tese": "nulidade_busca_domiciliar",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Decisao monocratica reconheceu ingresso domiciliar com autorizacao e fundadas razoes; agravo nao desconstituiu o fundamento."
+  },
+  {
+   "processo": "AREsp 3216334",
+   "reu": "JULIO BERNARDO DE SOUZA NETO",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Origem assentou o trafico pela quantidade e pelo acondicionamento em pedra; rever exigiria reexame de provas."
+  }
+ ]
+}

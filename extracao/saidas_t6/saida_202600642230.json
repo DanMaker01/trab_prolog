@@ -1,0 +1,106 @@
+{
+ "casos": [
+  {
+   "processo": "AREsp 3185153",
+   "via": "AREsp",
+   "data_fato": "",
+   "uf": "CE",
+   "relator": "Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",
+   "reu": "Francisco Davi Monteiro Silva",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": 172,
+   "porcoes": "fracionada em pequenas porcoes",
+   "petrechos_dinheiro": "R$ 50,00 em especie; simulacro de arma de fogo",
+   "majorante_art40": "",
+   "origem_abordagem": "outro (policiais viram o reu dispensar saco com droga em via publica)",
+   "local_conhecido": "",
+   "comportamento_reu": "pilotava moto em via publica e jogou/dispensou um saco com droga; resistiu a abordagem e rasgou farda de policial",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 20,
+   "tj_pena_m": 20,
+   "stj_pena_m": 20,
+   "sent_regime": "aberto",
+   "tj_regime": "aberto",
+   "stj_regime": "aberto",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "embargos de divergencia sem inteiro teor do paradigma; RE contra decisao monocratica sem esgotar instancia (Sum. 281/STF)",
+   "obs": "Pena de 1a8m em regime aberto substituida por duas PRDs; absolvido em 1º grau do crime de resistencia (art. 329 CP). Alegada tortura com deformidade dentaria foi tida como posterior ao flagrante, sem contaminar a prova; EREsp indeferido liminarmente e RE inadmitido (Sum. 281/STF)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "AREsp 3185153",
+   "reu": "Francisco Davi Monteiro Silva",
+   "tese": "outro:nulidade_tortura_na_prisao",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Agressoes posteriores ao flagrante nao contaminam materialidade e autoria ja demonstradas; rever exige reexame de provas."
+  },
+  {
+   "processo": "AREsp 3185153",
+   "reu": "Francisco Davi Monteiro Silva",
+   "tese": "outro:nulidade_ausencia_aviso_de_miranda",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Origem reconheceu que a advertencia foi feita, e o aviso so e exigido no interrogatorio formal, sem prejuizo demonstrado."
+  },
+  {
+   "processo": "AREsp 3185153",
+   "reu": "Francisco Davi Monteiro Silva",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Absolvicao por insuficiencia probatoria demanda reexame do acervo fatico-probatorio."
+  },
+  {
+   "processo": "AREsp 3185153",
+   "reu": "Francisco Davi Monteiro Silva",
+   "tese": "desclassificacao_art28",
+   "quem_alegou": "defesa",
+   "obice": "Sum. 7",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Quantidade, fracionamento, dinheiro e simulacro afastaram o uso proprio na origem; rever exige reexame de provas."
+  },
+  {
+   "processo": "AREsp 3185153",
+   "reu": "Francisco Davi Monteiro Silva",
+   "tese": "outro:embargos_de_divergencia",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Indeferidos liminarmente por falta de juntada do inteiro teor do acordao paradigma (art. 1.043, §4º, CPC)."
+  },
+  {
+   "processo": "AREsp 3185153",
+   "reu": "Francisco Davi Monteiro Silva",
+   "tese": "outro:recurso_extraordinario",
+   "quem_alegou": "defesa",
+   "obice": "outro",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "RE inadmitido pela Sum. 281/STF por impugnar decisao monocratica sem esgotamento da instancia."
+  }
+ ]
+}

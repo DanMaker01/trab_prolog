@@ -1,0 +1,158 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202505066613"
+"Numero Unico";"08165817920218230010"
+"Classe";"AREsp"
+"Numero Classe";"3139305"
+"Tipo Processo";"Recursal"
+"Status";"Processo baixado"
+"UF";"RR"
+"Origem";"TJRR"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA"
+"Ministro Relator";"ROGERIO SCHIETTI"
+"Orgao Julgador";"SEXTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA"
+"Data Ultima Fase";"24/08/2026 19:53:14"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"AGRAVANTE";"KEVEN VIDAL PAIVA";"";""
+"AGRAVANTE";"CARLOS DANIEL DOS SANTOS MEDEIROS";"";""
+"AGRAVANTE";"VALERIA DA SILVA LUCENA";"";"ANTÔNIO AGAMENON DE ALMEIDA | ANTONIO CLAUDIO DE ALMEIDA | EDMILSON MACEDO SOUSA | ANTONIA ALGARINA DE SOUSA | LARISSA ARALDI | PEDRO XAVIER COELHO SOBRINHO"
+"AGRAVADO";"MINISTÉRIO PÚBLICO DO ESTADO DE RORAIMA";"";""
+"CORRÉU";"ALEX FREDERICO DE OLIVEIRA";"";""
+"CORRÉU";"ANDRE FELIPE VIEIRA DOS SANTOS";"";""
+"CORRÉU";"ANTONIO CARNEIRO LIMA";"";""
+"CORRÉU";"CLEVERTON MARTINS FERNANDES";"";""
+"CORRÉU";"EDSON DE ARAUJO GARCIA";"";""
+"CORRÉU";"ERIC LIMA DA SILVA";"";""
+"CORRÉU";"FABRICIO SOARES DA SILVA";"";""
+"CORRÉU";"GEAN CLEVERTON LOURENCO PEREIRA";"";""
+"CORRÉU";"GLAUCIANE DOS SANTOS DO NASCIMENTO";"";""
+"CORRÉU";"HIGOR LIRA DE OLIVEIRA";"";""
+"CORRÉU";"JACKSON GUILHERME FERREIRA DE SOUSA";"";""
+"CORRÉU";"JAMES GOMES DE MIRANDA";"";""
+"CORRÉU";"JHONN CARTNEY SOUZA DA SILVA";"";""
+"CORRÉU";"JOAO CARLOS PEREIRA RAMPHAL";"";""
+"CORRÉU";"JOAO OLIVEIRA DA COSTA";"";""
+"CORRÉU";"MANOEL PEREIRA LOPES";"";""
+"CORRÉU";"PABLO GOMES DE SALES";"";""
+"CORRÉU";"RAFAEL ARAUJO GADILHA";"";""
+"CORRÉU";"RICARDO DA SILVA SALVIANO";"";""
+"CORRÉU";"VALDEMAR FILHO MENDES PEREIRA";"";""
+"CORRÉU";"WILKSON BESSA RAMOS";"";""
+"CORRÉU";"MOACIR MIGUEL DE LIMA JUNIOR";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+"00287.12333.12334.";"Promoção, constituição, financiamento ou integração de Organização Criminosa";"Nao";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"19/12/2025"
+"Data Protocolo";"18/12/2025"
+"Data Classificacao";"03/03/2026"
+"Data Baixa";"24/08/2026"
+"Data Distribuicao 1";"03/03/2026"
+"Data Distribuicao 2";"22/12/2025"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"08165817920218230010";"Nao";"0";"4"
+"8165817920218230010";"Nao";"0";"4"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"prevenção de processo"
+"Motivo";"agravo regimental"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"22";"Baixa Definitiva para TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA";"24/08/2026"
+"848";"Transitado em Julgado em 13/08/2026";"24/08/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE RORAIMA intimado eletronicamente da(o) Acórdãos em 03/07/2026";"03/07/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 672139/2026";"30/06/2026"
+"118";"Protocolizada Petição 672139/2026 (CieMPF - CIÊNCIA PELO MPF) em 30/06/2026";"30/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE RORAIMA";"23/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"23/06/2026"
+"92";"Publicado EMENTA / ACORDÃO em 23/06/2026 Petição Nº 575593/2026 - AgRg";"23/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"22/06/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0575593 - AgRg no AREsp 3139305 - Publicação prevista para 23/06/2026";"19/06/2026"
+"132";"Recebidos os autos no(a) SEXTA TURMA ";"19/06/2026"
+"239";"Conhecido o recurso de KEVEN VIDAL PAIVA, CARLOS DANIEL DOS SANTOS MEDEIROS e VALERIA DA SILVA LUCENA e não-provido,por unanimidade, pela SEXTA TURMA Petição Nº 575593/2026 - AgRg no AREsp 3139305";"16/06/2026"
+"3001";"Proclamação Final de Julgamento: A Sexta Turma, por unanimidade, negou provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+ Petição Nº 575593/2026 - AgRg no AREsp 3139305";"16/06/2026"
+"3002";"Inclusão em mesa para julgamento - SEXTA TURMA - sessão do dia 16/06/2026 14:00:00 - Petição N° 202600575593 - AgRg no AREsp 3139305/RR";"12/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE RORAIMA intimado eletronicamente da(o) Decisões e Vistas em 11/06/2026";"11/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) ROGERIO SCHIETTI CRUZ (Relator)";"08/06/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 575593/2026";"08/06/2026"
+"118";"Protocolizada Petição 575593/2026 (AgRg - AGRAVO REGIMENTAL) em 08/06/2026";"08/06/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 564215/2026";"02/06/2026"
+"118";"Protocolizada Petição 564215/2026 (CieMPF - CIÊNCIA PELO MPF) em 02/06/2026";"02/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE RORAIMA";"01/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"01/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 01/06/2026 ";"01/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"29/05/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 01/06/2026";"28/05/2026"
+"12435";"Conheço do agravo de CARLOS DANIEL DOS SANTOS MEDEIROS, KEVEN VIDAL PAIVA e VALERIA DA SILVA LUCENA para negar provimento ao Recurso Especial";"28/05/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) ROGERIO SCHIETTI CRUZ (Relator)";"15/04/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 359592/2026";"15/04/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"15/04/2026"
+"30077";"Tipo de petição alterado (Petição nº 359592/2026 alterada de PET - PETIÇÃO para CieMPF - CIÊNCIA PELO MPF)";"15/04/2026"
+"118";"Protocolizada Petição 359592/2026 (PET - PETIÇÃO) em 15/04/2026";"15/04/2026"
+"300101";"Disponibilizada cópia digital dos autos à(o) MINISTÉRIO PÚBLICO FEDERAL";"03/03/2026"
+"30015";"Autos com vista ao Ministério Público Federal para parecer";"03/03/2026"
+"123";"Remetidos os Autos (para abertura de vista ao MPF) para COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PENAL";"03/03/2026"
+"581";"Juntada de Certidão : Certifico, em cumprimento ao determinado pelo(a) Excelentíssimo(a) Senhor(a) Ministro(a) Relator(a), nas hipóteses previstas em Memorando/Ofício arquivado nesta Secretaria Judiciária, o encaminhamento do presente feito à Coordenadoria de Recursos Especiais para abertura de vista ao MPF.";"03/03/2026"
+"36";"Redistribuído por dependência, em razão de agravo regimental, ao Ministro ROGERIO SCHIETTI CRUZ - SEXTA TURMA. Processo prevento: HC 722444 (2022/0035140-2)";"03/03/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 02/03/2026";"02/03/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE RORAIMA intimado eletronicamente da(o) Decisões e Vistas em 02/03/2026";"02/03/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE RORAIMA intimado eletronicamente da(o) Decisões e Vistas em 18/02/2026";"18/02/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 18/02/2026";"18/02/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 18/02/2026";"18/02/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE RORAIMA";"18/02/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"18/02/2026"
+"92";"Publicado DESPACHO / DECISÃO em 18/02/2026 Petição Nº 96889/2026 - AgRg";"18/02/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"13/02/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"12/02/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE CLASSIFICAÇÃO E DISTRIBUIÇÃO DE PROCESSOS";"12/02/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0096889 - AgRg no AREsp 3139305 - Publicação prevista para 18/02/2026";"12/02/2026"
+"12474";"Determinada a distribuição do feito";"12/02/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) com encaminhamento à ARP";"11/02/2026"
+"581";"Juntada de Certidão : Certifico que a Coordenadoria de Processamento de Feitos de Direito Penal procedeu à retificação da autuação dos presentes autos, em atenção às procurações de e-STJ fls. 3533, 3537 e 3541.";"11/02/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 96889/2026";"10/02/2026"
+"118";"Protocolizada Petição 96889/2026 (AgRg - AGRAVO REGIMENTAL) em 10/02/2026";"10/02/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 94593/2026";"09/02/2026"
+"118";"Protocolizada Petição 94593/2026 (CieMPF - CIÊNCIA PELO MPF) em 09/02/2026";"09/02/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE RORAIMA";"05/02/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"05/02/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"05/02/2026"
+"92";"Publicado DESPACHO / DECISÃO em 05/02/2026 ";"05/02/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"04/02/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"04/02/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 05/02/2026";"03/02/2026"
+"235";"Não conhecido o recurso de CARLOS DANIEL DOS SANTOS MEDEIROS, KEVEN VIDAL PAIVA e VALERIA DA SILVA LUCENA";"03/02/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) - pela SJD";"22/12/2025"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"22/12/2025"
+"132";"Recebidos os autos eletronicamente no(a) SUPERIOR TRIBUNAL DE JUSTIÇA do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA";"18/12/2025"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600672139";"CIÊNCIA PELO MPF";"CieMPF";"30/06/2026";"MPF"
+"202600575593";"AGRAVO REGIMENTAL";"AgRg";"08/06/2026";"KEVEN VIDAL PAIVA"
+"202600564215";"CIÊNCIA PELO MPF";"CieMPF";"02/06/2026";"MPF"
+"202600359592";"CIÊNCIA PELO MPF";"CieMPF";"15/04/2026";""
+"202600096889";"AGRAVO REGIMENTAL";"AgRg";"10/02/2026";"KEVEN VIDAL PAIVA"
+"202600094593";"CIÊNCIA PELO MPF";"CieMPF";"09/02/2026";"MPF"
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"AREsp";"2026,6,23";"";"202600575593";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

@@ -1,0 +1,66 @@
+{
+ "casos": [
+  {
+   "processo": "HC 1075836",
+   "via": "HC (HC pos-transito)",
+   "data_fato": "",
+   "uf": "GO",
+   "relator": "Og Fernandes",
+   "reu": "Thiarles Gomes Nogueira",
+   "sexo": "M",
+   "drogas": "maconha",
+   "qtd_g": 196.52,
+   "porcoes": "",
+   "petrechos_dinheiro": "dinheiro; balanca de precisao; faca; materiais plasticos para embalo da droga",
+   "majorante_art40": "",
+   "origem_abordagem": "",
+   "local_conhecido": "",
+   "comportamento_reu": "",
+   "tipo_busca": "",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "",
+   "sent_pena_m": "",
+   "tj_pena_m": "",
+   "stj_pena_m": "",
+   "sent_regime": "",
+   "tj_regime": "",
+   "stj_regime": "",
+   "sent_p4": "",
+   "tj_p4": "nao",
+   "stj_p4": "nao",
+   "tj_fund_neg_p4": "apreensao de dinheiro, balanca de precisao, faca e embalagens indicam dedicacao ao crime (defesa alega uso de acoes penais em curso)",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "HC impetrado apos transito em julgado (15/2/2022) como substitutivo de revisao criminal",
+   "obs": "HC nao conhecido por ser substitutivo de revisao criminal (art. 105, I, e, CF); sem ilegalidade flagrante para concessao de oficio quanto ao §4º. Defesa alegava primariedade, bons antecedentes e afastamento do privilegio com base em acoes penais em curso, mas o STJ apoiou-se nos petrechos."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "HC 1075836",
+   "reu": "Thiarles Gomes Nogueira",
+   "tese": "revisao_criminal_cabimento",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "nao",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Transito em julgado em 15/2/2022 torna o HC substitutivo de revisao criminal, de competencia da origem (art. 105, I, e, CF)."
+  },
+  {
+   "processo": "HC 1075836",
+   "reu": "Thiarles Gomes Nogueira",
+   "tese": "p4",
+   "quem_alegou": "defesa",
+   "obice": "HC substitutivo",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Apreensao de 196,52 g de maconha com dinheiro, balanca, faca e embalagens revela dedicacao ao crime; rever exige reexame de provas."
+  }
+ ]
+}

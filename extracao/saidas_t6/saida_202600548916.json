@@ -1,0 +1,86 @@
+{
+ "casos": [
+  {
+   "processo": "REsp 2259260",
+   "via": "REsp",
+   "data_fato": "",
+   "uf": "MG",
+   "relator": "Nilsoni de Freitas (Desembargadora Convocada do TJDFT)",
+   "reu": "Carlos Eduardo Germano de Oliveira",
+   "sexo": "M",
+   "drogas": "cocaina+crack+maconha",
+   "qtd_g": 1320.1,
+   "porcoes": "63 papelotes + 20 pedras + 2 barras",
+   "petrechos_dinheiro": "pistola 9mm com numeracao suprimida; 30 cartuchos 9mm; 9 cartuchos .380; 2 carregadores; mochila",
+   "majorante_art40": "nao",
+   "origem_abordagem": "denuncia anonima",
+   "local_conhecido": "",
+   "comportamento_reu": "ingressou na residencia do tio com a mochila (informe de populares)",
+   "tipo_busca": "domiciliar",
+   "consentimento": "",
+   "primario": "",
+   "antecedentes": "maus antecedentes: 3 condenacoes definitivas anteriores (alcancadas pelo periodo depurador)",
+   "atos_infracionais": "",
+   "ultimo_ato_infracional_ano": "",
+   "marcadores_subjetivos": "",
+   "parecer_mpf": "desfavoravel",
+   "sent_pena_m": 138.8,
+   "tj_pena_m": 138.8,
+   "stj_pena_m": 138.8,
+   "sent_regime": "fechado",
+   "tj_regime": "fechado",
+   "stj_regime": "fechado",
+   "sent_p4": "",
+   "tj_p4": "",
+   "stj_p4": "",
+   "tj_fund_neg_p4": "",
+   "votacao": "unanime",
+   "vencidos": "",
+   "resultado_final_reu": "desfavoravel",
+   "erro_tecnico_defesa": "",
+   "obs": "Pena total (11a6m24d) inclui art. 16 da Lei 10.826/2003 em concurso material; TJ afastou majorante do art. 40, IV por falta de prova do uso da arma no trafico. RE posterior sobrestado pela Vice-Presidencia ate julgamento do Tema 1.185/STF (aviso do direito ao silencio na abordagem)."
+  }
+ ],
+ "teses": [
+  {
+   "processo": "REsp 2259260",
+   "reu": "Carlos Eduardo Germano de Oliveira",
+   "tese": "outro:nulidade_art155_confissao_informal_aviso_miranda",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Condenacao apoiada em provas judiciais (apreensao e depoimentos policiais); confissao informal do correu nao foi usada para condenar, sem prejuizo."
+  },
+  {
+   "processo": "REsp 2259260",
+   "reu": "Carlos Eduardo Germano de Oliveira",
+   "tese": "absolvicao_autoria",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Denuncia anonima e confissao informal corroboradas por provas judiciais independentes, que sustentam a autoria."
+  },
+  {
+   "processo": "REsp 2259260",
+   "reu": "Carlos Eduardo Germano de Oliveira",
+   "tese": "dosimetria_pena_base",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Condenacoes antigas podem ser valoradas como maus antecedentes sem limite temporal (Tema 150/STF)."
+  },
+  {
+   "processo": "REsp 2259260",
+   "reu": "Carlos Eduardo Germano de Oliveira",
+   "tese": "outro:consuncao_arma_art40IV",
+   "quem_alegou": "defesa",
+   "obice": "nenhum",
+   "analisou_merito": "sim",
+   "resultado_reu": "desfavoravel",
+   "fundamento": "Sem prova de que a arma servia ao trafico, mantem-se o concurso material com o art. 16 da Lei 10.826/2003 (designios autonomos)."
+  }
+ ]
+}
