@@ -281,6 +281,22 @@ qualquer mês completo (0\% a 22\%). Isso indica que esses arquivos trazem uma s
 decisões, e não todas.
 A contagem mês a mês está em \texttt{dados/meses.csv}.
 
+A Figura~\ref{fig:taxa-mensal} mostra a taxa de vitória da defesa em cada mês completo. A 5ª
+Turma começa 2025 bem acima da 6ª (até 21\% em fevereiro) e, a partir de março, fica quase
+sempre abaixo dela. A 6ª Turma oscila em torno de 5\% o tempo todo. A virada da 5ª Turma
+coincide com a saída de Daniela Teixeira da relatoria: ela relatou 268 dos 343 recursos da
+defesa julgados pela 5ª Turma em janeiro de 2025 e 284 dos 461 em fevereiro, mas só 103 em
+março e quase nenhum de abril em diante. A seção seguinte trata dos relatores.
+
+\begin{figure}[h]
+\centering
+\caption{Recursos da defesa em que ela vence, por mês e turma (só meses completos).}
+\label{fig:taxa-mensal}
+\includegraphics[width=\textwidth]{Imagens/taxa_mensal.pdf}
+\legend{Fonte: elaborado pelo autor a partir dos espelhos de acórdãos do STJ. Pontos vazios:
+meses com menos de 100 recursos da defesa, em que a taxa varia muito por acaso.}
+\end{figure}
+
 \subsection*{Quem recorre e quem ganha}
 
 Em 5.323 processos (92\%) quem recorreu foi a defesa. Para o réu, o resultado foi
@@ -314,31 +330,41 @@ A Tabela~\ref{tab:dados-relator} mostra a taxa de vitória da defesa com cada re
 diferença é grande dentro das duas turmas; a chance de ela ser acaso é praticamente nula
 (teste qui-quadrado).
 
+A última coluna é a \textbf{margem de erro}: o intervalo em que a taxa ``verdadeira'' do
+relator deve estar, com 95\% de confiança (intervalo de Wilson). Ela é larga quando há poucos
+processos. Mesmo assim, a faixa de Daniela Teixeira (19\% a 25\%) não chega nem perto da de
+nenhum colega da 5ª Turma (todas abaixo de 7\%), e a de Sebastião Reis (6\% a 11\%) fica acima
+das de Carlos Pires e Nilsoni de Freitas (até 3\%). Já entre relatores como Reynaldo Soares,
+Ribeiro Dantas e Maria Marluce as faixas se sobrepõem: com estes dados, não dá para dizer que
+eles decidem de forma diferente.
+
 \begin{table}[h]
 \centering\small
-\caption{Recursos da defesa e vitórias, por relator (2025 e 2026 somados).}
+\caption{Recursos da defesa e vitórias, por relator (2025 e 2026 somados), com a margem de erro de 95\%.}
 \label{tab:dados-relator}
-\begin{tabular}{llrrr}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{llrrrr}
 \toprule
-Turma & Relator & Recursos da defesa & Vitórias & Defesa vence \\
+Turma & Relator & Recursos da defesa & Vitórias & Defesa vence & Margem (95\%) \\
 \midrule
-5ª & Daniela Teixeira (só 2025) & 681 & 150 & 22,0\% \\
-5ª & Reynaldo Soares da Fonseca & 547 & 12 & 2,2\% \\
-5ª & Ribeiro Dantas & 427 & 10 & 2,3\% \\
-5ª & Carlos Cini (convocado, só 2025) & 203 & 7 & 3,4\% \\
-5ª & Maria Marluce Caldas (quase só 2026) & 193 & 4 & 2,1\% \\
-5ª & Messod Azulay Neto & 557 & 4 & 0,7\% \\
-5ª & Joel Ilan Paciornik & 475 & 4 & 0,8\% \\
+5ª & Daniela Teixeira (só 2025) & 681 & 150 & 22,0\% & 19,1 a 25,3 \\
+5ª & Reynaldo Soares da Fonseca & 547 & 12 & 2,2\% & 1,3 a 3,8 \\
+5ª & Ribeiro Dantas & 427 & 10 & 2,3\% & 1,3 a 4,3 \\
+5ª & Carlos Cini (convocado, só 2025) & 203 & 7 & 3,4\% & 1,7 a 6,9 \\
+5ª & Maria Marluce Caldas (quase só 2026) & 193 & 4 & 2,1\% & 0,8 a 5,2 \\
+5ª & Messod Azulay Neto & 557 & 4 & 0,7\% & 0,3 a 1,8 \\
+5ª & Joel Ilan Paciornik & 475 & 4 & 0,8\% & 0,3 a 2,1 \\
 \midrule
-6ª & Sebastião Reis Júnior & 624 & 52 & 8,3\% \\
-6ª & Otávio de Almeida Toledo (convocado, só 2025) & 308 & 24 & 7,8\% \\
-6ª & Rogerio Schietti Cruz & 299 & 13 & 4,3\% \\
-6ª & Og Fernandes & 327 & 14 & 4,3\% \\
-6ª & Antonio Saldanha Palheiro & 399 & 14 & 3,5\% \\
-6ª & Carlos Pires Brandão (quase só 2026) & 149 & 0 & 0,0\% \\
-6ª & Nilsoni de Freitas (convocada, só 2026) & 134 & 0 & 0,0\% \\
+6ª & Sebastião Reis Júnior & 624 & 52 & 8,3\% & 6,4 a 10,8 \\
+6ª & Otávio de Almeida Toledo (convocado, só 2025) & 308 & 24 & 7,8\% & 5,3 a 11,3 \\
+6ª & Rogerio Schietti Cruz & 299 & 13 & 4,3\% & 2,6 a 7,3 \\
+6ª & Og Fernandes & 327 & 14 & 4,3\% & 2,6 a 7,1 \\
+6ª & Antonio Saldanha Palheiro & 399 & 14 & 3,5\% & 2,1 a 5,8 \\
+6ª & Carlos Pires Brandão (quase só 2026) & 149 & 0 & 0,0\% & 0,0 a 2,5 \\
+6ª & Nilsoni de Freitas (convocada, só 2026) & 134 & 0 & 0,0\% & 0,0 a 2,8 \\
 \bottomrule
 \end{tabular}
+\end{adjustbox}
 \end{table}
 
 \paragraph*{O caso da 5ª Turma.} Em 2025, a ministra Daniela Teixeira foi relatora de 681
@@ -357,6 +383,54 @@ Por isso, comparamos os relatores dentro de um mesmo assunto. Nos pedidos de red
 Daniela Teixeira deu alguma vitória em 57 de 191 casos (30\%) e Sebastião Reis em 21 de 201
 (10\%), enquanto Messod Azulay (1 de 207), Og Fernandes (1 de 108), Carlos Pires (0 de 41) e
 Nilsoni de Freitas (0 de 25) quase nunca deram.
+
+\paragraph*{Comparando casos parecidos.} Para levar em conta várias diferenças ao mesmo tempo,
+usamos uma \textbf{regressão logística}: um modelo que estima a chance de a defesa vencer a
+partir do relator, do assunto, do tipo de recurso (HC, AREsp, REsp\ldots) e do ano. Assim, o
+efeito de cada relator é medido comparando casos com o mesmo assunto, o mesmo tipo de recurso
+e o mesmo ano. Entraram 5.040 recursos da defesa: os relatores com 30 recursos ou mais, menos
+Carlos Pires e Nilsoni de Freitas, que não deram nenhuma vitória (com zero vitórias o modelo
+não consegue calcular a chance).
+
+O resultado está na Tabela~\ref{tab:dados-regressao}. Mesmo comparando casos parecidos, com
+Daniela Teixeira a chance de vitória é cerca de 10 vezes a de Reynaldo Soares (escolhido
+como referência por ter uma taxa típica da 5ª Turma); com Sebastião Reis, cerca de 4 vezes;
+com Messod Azulay, menos de um terço. Retirar o relator do modelo piora muito o ajuste (a
+chance de essa diferença ser acaso é de cerca de $10^{-45}$), e o modelo explica o dobro com o
+relator do que sem ele (pseudo-$R^2$ de 0,20 contra 0,10). O tipo de recurso também pesa
+bastante (o REsp vence mais que o HC), o assunto pesa pouco, e o ano, uma vez conhecido o
+relator, não pesa nada. Ou seja: a queda da 5ª Turma em 2026 é explicada por quem passou a
+relatar, não pela passagem do tempo.
+
+\begin{table}[h]
+\centering\small
+\caption{Chance de a defesa vencer com cada relator, comparada à de Reynaldo Soares da
+Fonseca, para o mesmo assunto, tipo de recurso e ano (regressão logística, 5.040 recursos).}
+\label{tab:dados-regressao}
+\begin{tabular}{lrr}
+\toprule
+Relator & Chance (vezes a da referência) & Margem (95\%) \\
+\midrule
+Daniela Teixeira & 9,89 & 5,31 a 18,41 \\
+Sebastião Reis Júnior & 3,99 & 2,08 a 7,64 \\
+Otávio de Almeida Toledo (convocado) & 3,77 & 1,82 a 7,80 \\
+Og Fernandes & 2,54 & 1,14 a 5,63 \\
+Rogerio Schietti Cruz & 1,90 & 0,84 a 4,26 \\
+Antonio Saldanha Palheiro & 1,53 & 0,69 a 3,41 \\
+Carlos Cini (convocado) & 1,44 & 0,55 a 3,79 \\
+Ribeiro Dantas & 1,14 & 0,48 a 2,68 \\
+Reynaldo Soares da Fonseca (referência) & 1 & -- \\
+Maria Marluce Caldas & 0,88 & 0,27 a 2,90 \\
+Joel Ilan Paciornik & 0,38 & 0,12 a 1,18 \\
+Messod Azulay Neto & 0,31 & 0,10 a 0,96 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Duas ressalvas. Primeiro, o modelo controla só o que está nas fichas; ele não vê, por exemplo,
+a quantidade de droga, que quase nunca aparece na ementa. Segundo, quando a margem passa por 1
+(como em Ribeiro Dantas ou Maria Marluce), não se pode afirmar que aquele relator difere da
+referência.
 
 \paragraph*{Votação.} Quase todas as decisões são unânimes: 5.650 de 5.778. Houve 128 decisões
 por maioria, e em 48 delas o próprio relator foi vencido (28 delas com Daniela Teixeira).
@@ -455,7 +529,8 @@ Tabela 1 é, portanto, um teto: a redução do § 4º em si é concedida ainda m
         processual.
   \item O resultado depende de quem relata. Na mesma turma e no mesmo período, a taxa vai de
         0,7\% a 22\% conforme o relator, e a saída de uma única ministra fez a taxa da 5ª Turma
-        cair dez vezes.
+        cair dez vezes. Isso continua valendo quando se comparam casos com o mesmo assunto,
+        tipo de recurso e ano (Tabela~\ref{tab:dados-regressao}).
   \item Os fatos que a lei manda considerar (quantidade, antecedentes, primariedade) quase não
         aparecem nas ementas, e aparecem pouco mesmo no texto completo
         (Tabela~\ref{tab:cobertura}).

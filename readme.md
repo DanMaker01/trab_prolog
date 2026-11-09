@@ -288,3 +288,22 @@ Saídas em `resultados/` (CSVs, `experimentos.json` e as tabelas `tab_*.tex`, in
   (E2 e exemplos com réus reais), além de `testes_arvore_a.pl` e `testes_arvore_b.pl`.
 - **Ordem para refazer tudo:** `montar_base.py` → `gerar_fatos.py` → `arvore_b.py` → `swipl -g main -t halt prolog/experimentos.pl`
   → `swipl -g main -t halt prolog/experimento_a.pl` → `experimentos.py` → `contagens.py` → testes.
+
+## 12. Visualizador (pygame)
+
+`python scripts/ver_arvore.py` (requer `pip install pygame` e SWI-Prolog). Ao abrir, roda os três arquivos de
+testes Prolog e mostra o resultado no topo. TAB alterna entre o juiz virtual (caminho de cada réu pelas cinco
+perguntas, em verde/vermelho/amarelo = sim/não/não informado) e a árvore aprendida (caminho do processo em azul).
+← → troca o réu/processo, ↑ ↓ troca a leitura, T mostra só os réus inventados dos testes.
+Os caminhos vêm de `prolog/exporta_caminhos.pl`.
+
+## 13. Análises extras: gráfico mensal, margem de erro e regressão
+
+`python scripts/analises_extra.py` (precisa de pandas, matplotlib, statsmodels) gera:
+
+- `tex/Imagens/taxa_mensal.pdf` (e `resultados/taxa_mensal.png`): vitória da defesa por mês, 5ª x 6ª Turma. A 5ª começa 2025 alta (Daniela Teixeira relatava mais da metade dos casos em jan/fev) e despenca a partir de março; a 6ª fica em torno de 5%.
+- `resultados/tab_relator_ic.tex`: taxa por relator com intervalo de Wilson de 95%. Daniela (19,1–25,3%) não se sobrepõe a nenhum colega da 5ª; Sebastião (6,4–10,8%) fica acima de Carlos Pires e Nilsoni.
+- `resultados/tab_regressao.tex`: regressão logística `vence ~ relator + assunto + tipo de recurso + ano` (5.040 recursos da defesa; ficam fora os relatores com <30 recursos e os 2 sem nenhuma vitória). Referência: Reynaldo Soares. Daniela 9,9x (5,3–18,4), Sebastião 4,0x, Messod 0,31x. Teste de razão de verossimilhança por bloco: relator p≈3e-45, tipo de recurso p≈4e-25, assunto p≈0,009, ano p≈0,62. Pseudo-R² 0,20 com relator, 0,10 sem.
+- `resultados/analises_extra.json`: todos os números.
+
+No Capítulo 2: Figura 1 (seção "Quais meses entraram"), coluna "Margem (95%)" na tabela de relatores e o parágrafo "Comparando casos parecidos" com a tabela da regressão.

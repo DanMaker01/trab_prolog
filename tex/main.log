@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.11)  9 NOV 2026 19:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.11)  9 NOV 2026 19:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -948,54 +948,74 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7] [8] [9]
+[7]
+<Imagens/taxa_mensal.pdf, id=94, 542.025pt x 260.17201pt>
+File: Imagens/taxa_mensal.pdf Graphic file (type pdf)
+<use Imagens/taxa_mensal.pdf>
+Package pdftex.def Info: Imagens/taxa_mensal.pdf  used on input line 295.
+(pdftex.def)             Requested size: 455.0pt x 218.408pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10] [11]
-Underfull \hbox (badness 2529) in paragraph at lines 511--511
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./Imagens/taxa_mensal.pdf>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11] [12]
+Underfull \hbox (badness 2529) in paragraph at lines 586--586
 \T1/ptm/m/n/10 (+20) dam de fra-
  []
 
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 582--582
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
 []|\T1/ptm/m/n/10 (+20) Acerto
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--582
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
 \T1/ptm/m/n/10 (+20) equi-li-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--582
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
 []|\T1/ptm/m/n/10 (+20) Vitórias
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--582
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
 \T1/ptm/m/n/10 (+20) acha-das
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--582
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
 []|\T1/ptm/m/n/10 (+20) Quando diz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--582
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
 []|\T1/ptm/m/n/10 (+20) Vitórias
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--583
+Underfull \hbox (badness 10000) in paragraph at lines 657--658
 []|\T1/ptm/m/n/10 (+20) Alarmes
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[13]) [14]
+[14] [15]) [16]
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1006,17 +1026,17 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 20164 strings out of 467870
- 330963 string characters out of 5419323
- 916842 words of memory out of 5000000
- 48321 multiletter control sequences out of 15000+600000
- 688930 words of font info for 295 fonts, out of 8000000 for 9000
+ 20196 strings out of 467870
+ 331429 string characters out of 5419323
+ 922168 words of memory out of 5000000
+ 48330 multiletter control sequences out of 15000+600000
+ 689566 words of font info for 307 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,107p,1212b,643s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (15 pages, 214313 bytes).
+ 99i,13n,107p,1212b,643s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (17 pages, 271883 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
- 79 named destinations out of 1000 (max. 500000)
- 71758 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 311 PDF objects out of 1000 (max. 8388607)
+ 84 named destinations out of 1000 (max. 500000)
+ 71763 words of extra memory for PDF output out of 74296 (max. 10000000)
 

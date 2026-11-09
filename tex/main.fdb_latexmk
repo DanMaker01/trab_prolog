@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1794260480.77953 "main.idx" "main.ind" "main" 1794262908.82285 0
-  "main.idx" 1794262907 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1794260480.77953 "main.idx" "main.ind" "main" 1794265054.40324 0
+  "main.idx" 1794265052 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1794262905.63889 "c:/Users/dan/Documents/GitHub/trab_prolog/tex/main.tex" "main.pdf" "main" 1794262908.82391 0
+["pdflatex"] 1794265050.07496 "c:/Users/dan/Documents/GitHub/trab_prolog/tex/main.tex" "main.pdf" "main" 1794265054.4043 0
   "C:/Users/dan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1794260477 83358 a8328cf182cf32ae8c92cd2e930e6977 ""
   "C:/Users/dan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1781177960 13332560 a74fd9b70ff1617f4528832ca4dad0a2 ""
   "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -33,7 +33,11 @@
   "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb" 1136846148 45758 19968a0990191524e34e1994d4a31cb6 ""
   "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb" 1136864148 35941 adef23a721dd8354a4a2bf4434f1c484 ""
   "C:/Users/dan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb" 1136864148 44648 23115b2a545ebfe2c526c3ca99db8b95 ""
@@ -153,13 +157,14 @@
   "C:/Users/dan/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "IFSULDEMINAS.sty" 1794260181 2575 47eb53c4f8c5cc8c4da77b3a5b96cc65 ""
   "Imagens/Logotipo ICMC.png" 1794260181 53364 c53e4ff9a7320effcf94544d8e2e49d9 ""
+  "Imagens/taxa_mensal.pdf" 1794265048 17291 9affc428a562922d6bf191f573effcca ""
   "c:/Users/dan/Documents/GitHub/trab_prolog/tex/main.tex" 1794260181 4025 ee58cb0576d1132a56a77ab1d1087d8d ""
-  "main.aux" 1794262908 9183 0936441a64357520d41b46aecba9956d "pdflatex"
+  "main.aux" 1794265053 10074 1ef41b46deeb1d16ca429d1dafb87fb8 "pdflatex"
   "main.ind" 1794260481 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
   "main.tex" 1794260181 4025 ee58cb0576d1132a56a77ab1d1087d8d ""
-  "main.toc" 1794262908 1125 dbc6b2434ea35539af9a0c22bfe141c6 "pdflatex"
+  "main.toc" 1794265053 1125 a77aabc0725211408ac8fae496333f54 "pdflatex"
   "textos/Capitulo 01.tex" 1794260181 1209 b3bdccd997f58b20bd973698e4dcea3c ""
-  "textos/Capitulo 02.tex" 1794262620 32132 d3dda5ca5a01c48ebb26d03645163779 ""
+  "textos/Capitulo 02.tex" 1794264796 36712 9195d24d359dc35de77165645ee36a5e ""
   (generated)
   "main.aux"
   "main.idx"

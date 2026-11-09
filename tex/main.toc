@@ -11,5 +11,5 @@
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Experimento prático para classificação de resultado de processos civis no recorte da Lei [...]}}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Metodologia}{3}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Os dados em números}{7}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Experimentos Computacionais}{11}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Experimentos Computacionais}{13}{section.2.3}%
 \vspace {\cftbeforechapterskip }
