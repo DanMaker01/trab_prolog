@@ -1,0 +1,15 @@
+{"casos":[{
+"processo":"HC 1091524","relator":"Ribeiro Dantas","uf":"SP","reu":"Enio Bastos da Silva","sexo":"M","data_fato":"",
+"drogas":"maconha","qtd_g_total":11.2,"qtd_por_droga":"maconha 11.2","porcoes":"06 trouxinhas dispensadas no chao","petrechos":"","dinheiro":"","arma":"",
+"primario":"sim","reincidente":"nao","maus_antecedentes":"nao","antecedentes_desc":"STJ: primario e circunstancias judiciais favoraveis",
+"atos_infracionais":"","ultimo_ato_infracional_ano":"","acoes_penais_em_curso":"","associacao_art35":"",
+"outros_indicios_dedicacao":"conversas no celular (mensagens de WhatsApp indicando traficancia desde 2021); denuncias anonimas; local conhecido (Posto Chicago, negociacao com presos em saida temporaria); confissao na fase policial",
+"majorante_art40":"nao",
+"sent_p4":"","tj_p4":"nao",
+"tj_fundamentos_negar":"celular",
+"stj_mono_p4":"nao_conheceu","stj_final_p4":"negado","stj_obice":"HC substitutivo","stj_analisou_merito":"sim",
+"stj_precedentes":"REsp 1.887.511;HC 725.534;Tema 1139;EDcl nos EREsp 1.916.596;AgRg no HC 988.096",
+"stj_fundamento":"Mensagens de celular demonstrando comercio de drogas ao menos desde 2021 evidenciam dedicacao a atividades criminosas, e rever isso exigiria reexame de provas.",
+"quem_recorreu_ultimo":"defesa","resultado_final_reu":"parcial","pena_final_m":60,"regime_final":"semiaberto","votacao":"unanime",
+"obs":"HC contra acordao de revisao criminal (condenacao transitada); o STJ ja havia negado o §4º em peticao no AREsp 2601030. Agravo parcialmente provido apenas para fixar o regime semiaberto."
+}]}

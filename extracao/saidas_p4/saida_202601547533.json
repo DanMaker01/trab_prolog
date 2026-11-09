@@ -1,0 +1,15 @@
+{"casos":[{
+"processo":"HC 1091134","relator":"Ribeiro Dantas","uf":"MS","reu":"Ezequiel Ricardo Caballero Gimenez","sexo":"M","data_fato":"",
+"drogas":"","qtd_g_total":"","qtd_por_droga":"","porcoes":"","petrechos":"","dinheiro":"","arma":"",
+"primario":"","reincidente":"","maus_antecedentes":"","antecedentes_desc":"",
+"atos_infracionais":"","ultimo_ato_infracional_ano":"","acoes_penais_em_curso":"","associacao_art35":"",
+"outros_indicios_dedicacao":"",
+"majorante_art40":"",
+"sent_p4":"","tj_p4":"",
+"tj_fundamentos_negar":"",
+"stj_mono_p4":"nao_conheceu","stj_final_p4":"negado","stj_obice":"outro","stj_analisou_merito":"nao",
+"stj_precedentes":"HC 1.021.432",
+"stj_fundamento":"Apelacao foi exclusiva da acusacao, de modo que o TJ nao tinha de examinar o §4º e o STJ nao pode aprecia-lo originariamente (supressao de instancia, coisa julgada, HC substitutivo).",
+"quem_recorreu_ultimo":"defesa","resultado_final_reu":"desfavoravel","pena_final_m":80,"regime_final":"fechado","votacao":"unanime",
+"obs":"No AgRg a Turma anulou a dosimetria e mandou o TJ analisar o §4º, mas acolheu EDcl do MP com efeitos infringentes e restabeleceu o nao conhecimento; EDcl da defesa rejeitados. Defesa alega que o reu atuou apenas como transportador pago (alegacao, sem fatos no texto); obice = supressao de instancia/coisa julgada."
+}]}

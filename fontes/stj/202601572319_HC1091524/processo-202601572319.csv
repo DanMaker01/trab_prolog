@@ -1,0 +1,130 @@
+﻿=== PROCESSO ===
+Campo;Valor
+"Numero Registro";"202601572319"
+"Numero Unico";"01572312820263000000"
+"Classe";"HC"
+"Numero Classe";"1091524"
+"Tipo Processo";"Originário"
+"Status";"Processo arquivado"
+"UF";"SP"
+"Origem";"TJSPRGL"
+"Nome Origem";"TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA"
+"Ministro Relator";"RIBEIRO DANTAS"
+"Orgao Julgador";"QUINTA TURMA"
+"Segredo Justica";"Nao"
+"Acao Coletiva";"Nao"
+"Ultima Fase";"Arquivado Definitivamente "
+"Data Ultima Fase";"15/09/2026 10:04:48"
+
+=== PARTES ===
+Tipo Parte;Nome;Autor/Reu;Advogados
+"IMPETRANTE";"DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO";"";"DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO"
+"IMPETRADO";"TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO";"";""
+"PACIENTE";"ENIO BASTOS DA SILVA";"";""
+"CORRÉU";"GEOVAN MARTINS DOS SANTOS";"";""
+"INTERESSADO";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"";""
+
+=== ASSUNTOS ===
+Codigo;Descricao;Principal;Area Especial
+"00287.03603.03607.03608.";"Tráfico de Drogas e Condutas Afins";"Sim";"Terceira Seção"
+
+=== DATAS ===
+Campo;Valor
+"Data Autuacao";"23/04/2026"
+"Data Protocolo";"23/04/2026"
+"Data Classificacao";"23/04/2026"
+"Data Arquivamento";"15/09/2026"
+"Data Distribuicao 1";"08/06/2026"
+"Data Distribuicao 2";"24/04/2026"
+
+=== NUMEROS ORIGEM ===
+Numero;Principal;Processos Ativos;Processos Inativos
+"15008248320218260571";"Nao";"0";"2"
+"00276461420258260000";"Nao";"0";"0"
+"276461420258260000";"Nao";"0";"0"
+
+=== DISTRIBUICAO ===
+Campo;Valor
+"Forma";"Redistribuição"
+"Tipo";"prevenção de Ministro"
+"Motivo";"agravo regimental"
+"Competencia";"Turma"
+
+=== FASES ===
+Codigo;Descricao;Data/Hora
+"246";"Arquivado Definitivamente ";"15/09/2026"
+"848";"Transitado em Julgado em 15/09/2026 ";"15/09/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Acórdãos em 24/08/2026";"24/08/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 830288/2026";"17/08/2026"
+"118";"Protocolizada Petição 830288/2026 (CieMPF - CIÊNCIA PELO MPF) em 17/08/2026";"17/08/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Acórdãos em 13/08/2026";"13/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"13/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"13/08/2026"
+"300105";"Disponibilizada intimação eletrônica (Acórdãos) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO";"13/08/2026"
+"92";"Publicado EMENTA / ACORDÃO em 13/08/2026 Petição Nº 458516/2026 - AgRg";"13/08/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"12/08/2026"
+"11383";"Ato ordinatório praticado - Acórdão encaminhado à publicação - Petição Nº 2026/0458516 - AgRg no HC 1091524 - Publicação prevista para 13/08/2026";"07/08/2026"
+"132";"Recebidos os autos no(a) QUINTA TURMA ";"06/08/2026"
+"238";"Conhecido o recurso de ENIO BASTOS DA SILVA e provido em parte,por unanimidade, pela QUINTA TURMA Petição Nº 458516/2026 - AgRg no HC 1091524";"04/08/2026"
+"3001";"Proclamação Final de Julgamento: ""A Turma, por unanimidade, deu parcial provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator""
+ Petição Nº 458516/2026 - AgRg no HC 1091524";"04/08/2026"
+"3002";"Inclusão em mesa para julgamento - QUINTA TURMA - sessão do dia 04/08/2026 14:00:00 - Petição N° 202600458516 - AgRg no HC 1091524/SP";"29/07/2026"
+"300104";"MINISTÉRIO PÚBLICO FEDERAL intimado eletronicamente da(o) Decisões e Vistas em 22/06/2026";"22/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 22/06/2026";"22/06/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 10/06/2026";"10/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"10/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"10/06/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO";"10/06/2026"
+"92";"Publicado DESPACHO / DECISÃO em 10/06/2026 Petição Nº 458516/2026 - AgRg";"10/06/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"09/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) RIBEIRO DANTAS (Relator) - pela SJD";"08/06/2026"
+"36";"Redistribuído por prevenção de Ministro, em razão de agravo regimental, ao Ministro RIBEIRO DANTAS - QUINTA TURMA";"08/06/2026"
+"132";"Recebidos os autos eletronicamente no(a) COORDENADORIA DE PROCESSOS ORIGINÁRIOS";"03/06/2026"
+"123";"Remetidos os Autos (para distribuição) para COORDENADORIA DE PROCESSOS ORIGINÁRIOS";"03/06/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Petição Nº 2026/0458516 - AgRg no HC 1091524 - Publicação prevista para 10/06/2026";"03/06/2026"
+"12474";"Determinada a distribuição do feito";"03/06/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) PRESIDENTE DO STJ (Relator) com encaminhamento à ARP";"02/06/2026"
+"581";"Juntada de Certidão : Certifico que decorreu sem manifestação o prazo, que teve início em 26/05/2026 e término em 01/06/2026, para MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO apresentar resposta à petição n. 458516/2026 (AGRAVO REGIMENTAL), de fls. 46.";"02/06/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 25/05/2026";"25/05/2026"
+"581";"Juntada de Certidão : Certifico que decorreu sem manifestação o prazo, que teve início em 14/05/2026 e término em 18/05/2026, para MINISTÉRIO PÚBLICO FEDERAL apresentar resposta à petição n. 458516/2026 (AGRAVO REGIMENTAL), de fls. 46.";"19/05/2026"
+"300104";"MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 15/05/2026";"15/05/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 474943/2026";"13/05/2026"
+"118";"Protocolizada Petição 474943/2026 (CieMPF - CIÊNCIA PELO MPF) em 13/05/2026";"13/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"13/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"13/05/2026"
+"92";"Publicado VISTA à(s) parte(s) agravada(s) para impugnação do Agravo Regimental (AgRg) em 13/05/2026 Petição Nº 458516/2026 - ";"13/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"12/05/2026"
+"11383";"Ato ordinatório praticado (VISTA à(s) parte(s) agravada(s) para impugnação do Agravo Regimental (AgRg) - PETIÇÃO Nº 458516/2026. Publicação prevista para 13/05/2026)";"11/05/2026"
+"85";"Juntada de Petição de AGRAVO REGIMENTAL nº 458516/2026";"11/05/2026"
+"118";"Protocolizada Petição 458516/2026 (AgRg - AGRAVO REGIMENTAL) em 11/05/2026";"11/05/2026"
+"85";"Juntada de Petição de CIÊNCIA PELO MPF nº 443345/2026";"06/05/2026"
+"118";"Protocolizada Petição 443345/2026 (CieMPF - CIÊNCIA PELO MPF) em 06/05/2026";"06/05/2026"
+"300104";"DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO intimado eletronicamente da(o) Decisões e Vistas em 05/05/2026";"05/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO FEDERAL";"05/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO";"05/05/2026"
+"300105";"Disponibilizada intimação eletrônica (Decisões e Vistas) ao(à) DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO";"05/05/2026"
+"92";"Publicado DESPACHO / DECISÃO em 05/05/2026 ";"05/05/2026"
+"1061";"Disponibilizado no DJ Eletrônico - DJEN (CNJ)";"04/05/2026"
+"11383";"Ato ordinatório praticado - Documento encaminhado à publicação - Publicação prevista para 05/05/2026";"30/04/2026"
+"447";"Denegado o Habeas Corpus a ENIO BASTOS DA SILVA (PRESO)";"30/04/2026"
+"447";"Denegado o Habeas Corpus a ENIO BASTOS DA SILVA (PRESO)";"30/04/2026"
+"447";"Denegado o Habeas Corpus a ENIO BASTOS DA SILVA (PRESO)";"30/04/2026"
+"447";"Denegado o Habeas Corpus a ENIO BASTOS DA SILVA (PRESO)";"30/04/2026"
+"51";"Conclusos para decisão ao(à) Ministro(a) HERMAN BENJAMIN (Presidente) - pela SJD.";"24/04/2026"
+"26";"Distribuído por competência exclusiva ao Ministro PRESIDENTE DO STJ";"24/04/2026"
+"118";"Protocolizada Petição (originária) em 23/04/2026";"23/04/2026"
+
+=== PETICOES ===
+Numero;Tipo;Sigla;Data Protocolo;Peticionario
+"202600830288";"CIÊNCIA PELO MPF";"CieMPF";"17/08/2026";"MPF"
+"202600474943";"CIÊNCIA PELO MPF";"CieMPF";"13/05/2026";"MPF"
+"202600458516";"AGRAVO REGIMENTAL";"AgRg";"11/05/2026";"ENIO BASTOS DA SILVA"
+"202600443345";"CIÊNCIA PELO MPF";"CieMPF";"06/05/2026";"MPF"
+"";"";"";"";""
+
+=== DECISÕES ===
+Classe;Data Publicacao;Volume;Peticao;Convertido
+"HC";"2026,8,13";"";"202600458516";"Nao"
+
+=== PAUTAS ===
+Data Sessao;Hora;Orgao Julgador;Tipo Documento;Data Publicacao

@@ -1,0 +1,15 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Capítulo 01}}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}[Tema]}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}[Subtema]}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}[Subtema]}{2}{subsection.1.1.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Experimento prático para classificação de resultado de processos civis no recorte da Lei [...]}}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Metodologia}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Os dados em números}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Experimentos Computacionais}{11}{section.2.3}%
+\vspace {\cftbeforechapterskip }

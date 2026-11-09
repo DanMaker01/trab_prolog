@@ -108,8 +108,8 @@ lin.append(["sem relator, testada num relator que não viu", "", PCT(v["acuracia
             PCT(v["precisao_vitorias"]), f"{v['vp']}/{v['vp'] + v['fn']}", v["fp"]])
 tabela("e3", ["Versão", "1ª pergunta", "Acerto equilibrado (\\%)", "Vitórias achadas (\\%)", "Quando diz vence, acerta (\\%)",
               "Vitórias achadas", "Alarmes falsos"], lin,
-       f"E3 -- Árvore aprendida: {jb['n']} recursos da defesa, dos quais {jb['vitorias']} vitórias. "
-       "Testada em casos que ela não viu no treino.",
+       "E3 -- Árvore aprendida: " + f"{jb['n']:,}".replace(",", ".") + f" recursos da defesa, dos quais {jb['vitorias']} vitórias. "
+       + "Testada em casos que ela não viu no treino.",
        "tab:e3", "p{3.4cm}lp{1.6cm}p{1.6cm}p{1.9cm}p{1.4cm}p{1.3cm}")
 # contrafactual: mesmo processo, outro relator da mesma turma
 dB = B.carregar(); X = B.matriz(dB, True)

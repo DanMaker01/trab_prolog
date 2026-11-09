@@ -1,8 +1,2476 @@
 :- encoding(utf8).
 % Gerado por scripts/arvore_b.py. tem(Processo, Variavel, Valor).
 :- discontiguous tem/3, resultado_real/2.
+tem('202300639420', turma, 'QUINTA TURMA'). tem('202300639420', relator, 'CARLOS CINI'). tem('202300639420', classe, 'AREsp'). tem('202300639420', objeto, 'p4').
+resultado_real('202300639420', vence).
+tem('202301165192', turma, 'QUINTA TURMA'). tem('202301165192', relator, 'CARLOS CINI'). tem('202301165192', classe, 'AREsp'). tem('202301165192', objeto, 'autoria').
+tem('202301165192', marcador, 'faccao').
+resultado_real('202301165192', perde).
+tem('202301347100', turma, 'QUINTA TURMA'). tem('202301347100', relator, 'CARLOS CINI'). tem('202301347100', classe, 'AREsp'). tem('202301347100', objeto, 'p4').
+resultado_real('202301347100', perde).
+tem('202302421235', turma, 'QUINTA TURMA'). tem('202302421235', relator, 'CARLOS CINI'). tem('202302421235', classe, 'AREsp'). tem('202302421235', objeto, 'p4').
+tem('202302421235', marcador, 'faccao').
+resultado_real('202302421235', perde).
+tem('202302461739', turma, 'QUINTA TURMA'). tem('202302461739', relator, 'CARLOS CINI'). tem('202302461739', classe, 'AREsp'). tem('202302461739', objeto, 'nulidade_busca').
+tem('202302461739', marcador, 'local_conhecido').
+resultado_real('202302461739', perde).
+tem('202304189742', turma, 'QUINTA TURMA'). tem('202304189742', relator, 'CARLOS CINI'). tem('202304189742', classe, 'AREsp'). tem('202304189742', objeto, 'dosimetria').
+resultado_real('202304189742', perde).
+tem('202400173180', turma, 'QUINTA TURMA'). tem('202400173180', relator, 'CARLOS CINI'). tem('202400173180', classe, 'AREsp'). tem('202400173180', objeto, 'autoria').
+resultado_real('202400173180', perde).
+tem('202401290208', turma, 'QUINTA TURMA'). tem('202401290208', relator, 'CARLOS CINI'). tem('202401290208', classe, 'AREsp'). tem('202401290208', objeto, 'p4').
+resultado_real('202401290208', perde).
+tem('202401423608', turma, 'QUINTA TURMA'). tem('202401423608', relator, 'CARLOS CINI'). tem('202401423608', classe, 'AREsp'). tem('202401423608', objeto, 'p4').
+tem('202401423608', marcador, 'faccao').
+tem('202401423608', marcador, 'ocupacao').
+resultado_real('202401423608', perde).
+tem('202402167505', turma, 'QUINTA TURMA'). tem('202402167505', relator, 'CARLOS CINI'). tem('202402167505', classe, 'AREsp'). tem('202402167505', objeto, 'nulidade_busca').
+resultado_real('202402167505', perde).
+tem('202402551476', turma, 'QUINTA TURMA'). tem('202402551476', relator, 'CARLOS CINI'). tem('202402551476', classe, 'AREsp'). tem('202402551476', objeto, 'p4').
+tem('202402551476', marcador, 'faccao').
+resultado_real('202402551476', perde).
+tem('202403196718', turma, 'QUINTA TURMA'). tem('202403196718', relator, 'CARLOS CINI'). tem('202403196718', classe, 'AREsp'). tem('202403196718', objeto, 'nulidade_busca').
+tem('202403196718', marcador, 'denuncia_anonima').
+resultado_real('202403196718', perde).
+tem('202403539930', turma, 'QUINTA TURMA'). tem('202403539930', relator, 'CARLOS CINI'). tem('202403539930', classe, 'AREsp'). tem('202403539930', objeto, 'outro').
+resultado_real('202403539930', perde).
+tem('202403851319', turma, 'QUINTA TURMA'). tem('202403851319', relator, 'CARLOS CINI'). tem('202403851319', classe, 'AREsp'). tem('202403851319', objeto, 'nulidade_busca').
+resultado_real('202403851319', perde).
+tem('202403735257', turma, 'QUINTA TURMA'). tem('202403735257', relator, 'CARLOS CINI'). tem('202403735257', classe, 'AREsp'). tem('202403735257', objeto, 'p4').
+tem('202403735257', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403735257', perde).
+tem('202403935160', turma, 'QUINTA TURMA'). tem('202403935160', relator, 'CARLOS CINI'). tem('202403935160', classe, 'AREsp'). tem('202403935160', objeto, 'autoria').
+resultado_real('202403935160', perde).
+tem('202404018473', turma, 'QUINTA TURMA'). tem('202404018473', relator, 'CARLOS CINI'). tem('202404018473', classe, 'AREsp'). tem('202404018473', objeto, 'outro').
+resultado_real('202404018473', perde).
+tem('202403976132', turma, 'QUINTA TURMA'). tem('202403976132', relator, 'CARLOS CINI'). tem('202403976132', classe, 'AREsp'). tem('202403976132', objeto, 'nulidade_busca').
+resultado_real('202403976132', perde).
+tem('202404131315', turma, 'QUINTA TURMA'). tem('202404131315', relator, 'CARLOS CINI'). tem('202404131315', classe, 'AREsp'). tem('202404131315', objeto, 'p4').
+tem('202404131315', marcador, 'ocupacao').
+resultado_real('202404131315', perde).
+tem('202404380506', turma, 'QUINTA TURMA'). tem('202404380506', relator, 'CARLOS CINI'). tem('202404380506', classe, 'AREsp'). tem('202404380506', objeto, 'p4').
+resultado_real('202404380506', perde).
+tem('202404403030', turma, 'QUINTA TURMA'). tem('202404403030', relator, 'CARLOS CINI'). tem('202404403030', classe, 'AREsp'). tem('202404403030', objeto, 'outro').
+resultado_real('202404403030', perde).
+tem('202404430745', turma, 'QUINTA TURMA'). tem('202404430745', relator, 'CARLOS CINI'). tem('202404430745', classe, 'AREsp'). tem('202404430745', objeto, 'outro').
+resultado_real('202404430745', perde).
+tem('202404594410', turma, 'QUINTA TURMA'). tem('202404594410', relator, 'CARLOS CINI'). tem('202404594410', classe, 'AREsp'). tem('202404594410', objeto, 'outro').
+resultado_real('202404594410', perde).
+tem('202404621192', turma, 'QUINTA TURMA'). tem('202404621192', relator, 'CARLOS CINI'). tem('202404621192', classe, 'AREsp'). tem('202404621192', objeto, 'desclassificacao').
+resultado_real('202404621192', perde).
+tem('202404660726', turma, 'QUINTA TURMA'). tem('202404660726', relator, 'CARLOS CINI'). tem('202404660726', classe, 'AREsp'). tem('202404660726', objeto, 'dosimetria').
+resultado_real('202404660726', perde).
+tem('202404664184', turma, 'QUINTA TURMA'). tem('202404664184', relator, 'CARLOS CINI'). tem('202404664184', classe, 'AREsp'). tem('202404664184', objeto, 'p4').
+resultado_real('202404664184', perde).
+tem('202404664970', turma, 'QUINTA TURMA'). tem('202404664970', relator, 'CARLOS CINI'). tem('202404664970', classe, 'AREsp'). tem('202404664970', objeto, 'outro').
+resultado_real('202404664970', perde).
+tem('202404726228', turma, 'QUINTA TURMA'). tem('202404726228', relator, 'CARLOS CINI'). tem('202404726228', classe, 'AREsp'). tem('202404726228', objeto, 'p4').
+tem('202404726228', marcador, 'local_conhecido').
+tem('202404726228', marcador, 'faccao').
+resultado_real('202404726228', perde).
+tem('202404744934', turma, 'QUINTA TURMA'). tem('202404744934', relator, 'CARLOS CINI'). tem('202404744934', classe, 'AREsp'). tem('202404744934', objeto, 'dosimetria').
+resultado_real('202404744934', perde).
+tem('202404767136', turma, 'QUINTA TURMA'). tem('202404767136', relator, 'CARLOS CINI'). tem('202404767136', classe, 'AREsp'). tem('202404767136', objeto, 'p4').
+resultado_real('202404767136', perde).
+tem('202404825364', turma, 'QUINTA TURMA'). tem('202404825364', relator, 'CARLOS CINI'). tem('202404825364', classe, 'AREsp'). tem('202404825364', objeto, 'dosimetria').
+resultado_real('202404825364', perde).
+tem('202500037434', turma, 'QUINTA TURMA'). tem('202500037434', relator, 'CARLOS CINI'). tem('202500037434', classe, 'AREsp'). tem('202500037434', objeto, 'p4').
+tem('202500037434', marcador, 'faccao').
+resultado_real('202500037434', perde).
+tem('202500043590', turma, 'QUINTA TURMA'). tem('202500043590', relator, 'CARLOS CINI'). tem('202500043590', classe, 'AREsp'). tem('202500043590', objeto, 'p4').
+resultado_real('202500043590', perde).
+tem('202500151093', turma, 'QUINTA TURMA'). tem('202500151093', relator, 'CARLOS CINI'). tem('202500151093', classe, 'AREsp'). tem('202500151093', objeto, 'p4').
+resultado_real('202500151093', perde).
+tem('202500158445', turma, 'QUINTA TURMA'). tem('202500158445', relator, 'CARLOS CINI'). tem('202500158445', classe, 'AREsp'). tem('202500158445', objeto, 'desclassificacao').
+resultado_real('202500158445', vence).
+tem('202500291479', turma, 'QUINTA TURMA'). tem('202500291479', relator, 'CARLOS CINI'). tem('202500291479', classe, 'AREsp'). tem('202500291479', objeto, 'nulidade_busca').
+tem('202500291479', marcador, 'faccao').
+tem('202500291479', marcador, 'nervosismo').
+resultado_real('202500291479', vence).
+tem('202500309475', turma, 'QUINTA TURMA'). tem('202500309475', relator, 'CARLOS CINI'). tem('202500309475', classe, 'AREsp'). tem('202500309475', objeto, 'nulidade_busca').
+tem('202500309475', marcador, 'denuncia_anonima').
+resultado_real('202500309475', perde).
+tem('202500320654', turma, 'QUINTA TURMA'). tem('202500320654', relator, 'CARLOS CINI'). tem('202500320654', classe, 'AREsp'). tem('202500320654', objeto, 'p4').
+resultado_real('202500320654', perde).
+tem('202500318880', turma, 'QUINTA TURMA'). tem('202500318880', relator, 'CARLOS CINI'). tem('202500318880', classe, 'AREsp'). tem('202500318880', objeto, 'nulidade_busca').
+tem('202500318880', marcador, 'denuncia_anonima').
+resultado_real('202500318880', perde).
+tem('202500427392', turma, 'QUINTA TURMA'). tem('202500427392', relator, 'CARLOS CINI'). tem('202500427392', classe, 'AREsp'). tem('202500427392', objeto, 'p4').
+tem('202500427392', marcador, 'faccao').
+resultado_real('202500427392', perde).
+tem('202500572500', turma, 'QUINTA TURMA'). tem('202500572500', relator, 'CARLOS CINI'). tem('202500572500', classe, 'AREsp'). tem('202500572500', objeto, 'p4').
+resultado_real('202500572500', perde).
+tem('202500818452', turma, 'QUINTA TURMA'). tem('202500818452', relator, 'CARLOS CINI'). tem('202500818452', classe, 'AREsp'). tem('202500818452', objeto, 'p4').
+resultado_real('202500818452', perde).
+tem('202500885484', turma, 'QUINTA TURMA'). tem('202500885484', relator, 'CARLOS CINI'). tem('202500885484', classe, 'AREsp'). tem('202500885484', objeto, 'autoria').
+resultado_real('202500885484', perde).
+tem('202500867540', turma, 'QUINTA TURMA'). tem('202500867540', relator, 'CARLOS CINI'). tem('202500867540', classe, 'AREsp'). tem('202500867540', objeto, 'outro').
+resultado_real('202500867540', perde).
+tem('202500958737', turma, 'QUINTA TURMA'). tem('202500958737', relator, 'CARLOS CINI'). tem('202500958737', classe, 'AREsp'). tem('202500958737', objeto, 'desclassificacao').
+tem('202500958737', marcador, 'conhecido_policia').
+resultado_real('202500958737', perde).
+tem('202501064599', turma, 'QUINTA TURMA'). tem('202501064599', relator, 'CARLOS CINI'). tem('202501064599', classe, 'AREsp'). tem('202501064599', objeto, 'outro').
+tem('202501064599', marcador, 'faccao').
+resultado_real('202501064599', perde).
+tem('202501244650', turma, 'QUINTA TURMA'). tem('202501244650', relator, 'CARLOS CINI'). tem('202501244650', classe, 'AREsp'). tem('202501244650', objeto, 'p4').
+resultado_real('202501244650', perde).
+tem('202501316980', turma, 'QUINTA TURMA'). tem('202501316980', relator, 'CARLOS CINI'). tem('202501316980', classe, 'AREsp'). tem('202501316980', objeto, 'nulidade_busca').
+tem('202501316980', marcador, 'local_conhecido').
+tem('202501316980', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501316980', perde).
+tem('202501537746', turma, 'QUINTA TURMA'). tem('202501537746', relator, 'CARLOS CINI'). tem('202501537746', classe, 'AREsp'). tem('202501537746', objeto, 'p4').
+resultado_real('202501537746', perde).
+tem('202501458426', turma, 'QUINTA TURMA'). tem('202501458426', relator, 'CARLOS CINI'). tem('202501458426', classe, 'AREsp'). tem('202501458426', objeto, 'dosimetria').
+resultado_real('202501458426', perde).
+tem('202501582462', turma, 'QUINTA TURMA'). tem('202501582462', relator, 'CARLOS CINI'). tem('202501582462', classe, 'AREsp'). tem('202501582462', objeto, 'nulidade_busca').
+resultado_real('202501582462', perde).
+tem('202501703012', turma, 'QUINTA TURMA'). tem('202501703012', relator, 'CARLOS CINI'). tem('202501703012', classe, 'AREsp'). tem('202501703012', objeto, 'outro').
+resultado_real('202501703012', perde).
+tem('202501741986', turma, 'QUINTA TURMA'). tem('202501741986', relator, 'CARLOS CINI'). tem('202501741986', classe, 'AREsp'). tem('202501741986', objeto, 'autoria').
+resultado_real('202501741986', perde).
+tem('202501803978', turma, 'QUINTA TURMA'). tem('202501803978', relator, 'CARLOS CINI'). tem('202501803978', classe, 'AREsp'). tem('202501803978', objeto, 'nulidade_busca').
+tem('202501803978', marcador, 'faccao').
+resultado_real('202501803978', perde).
+tem('202502008581', turma, 'QUINTA TURMA'). tem('202502008581', relator, 'CARLOS CINI'). tem('202502008581', classe, 'AREsp'). tem('202502008581', objeto, 'p4').
+resultado_real('202502008581', perde).
+tem('202501552573', turma, 'QUINTA TURMA'). tem('202501552573', relator, 'CARLOS CINI'). tem('202501552573', classe, 'HC'). tem('202501552573', objeto, 'nulidade_busca').
+resultado_real('202501552573', perde).
+tem('202501581059', turma, 'QUINTA TURMA'). tem('202501581059', relator, 'CARLOS CINI'). tem('202501581059', classe, 'HC'). tem('202501581059', objeto, 'nulidade_busca').
+tem('202501581059', marcador, 'local_conhecido').
+tem('202501581059', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501581059', perde).
+tem('202501632498', turma, 'QUINTA TURMA'). tem('202501632498', relator, 'CARLOS CINI'). tem('202501632498', classe, 'HC'). tem('202501632498', objeto, 'dosimetria').
+resultado_real('202501632498', perde).
+tem('202501667339', turma, 'QUINTA TURMA'). tem('202501667339', relator, 'CARLOS CINI'). tem('202501667339', classe, 'HC'). tem('202501667339', objeto, 'nulidade_busca').
+resultado_real('202501667339', perde).
+tem('202501777886', turma, 'QUINTA TURMA'). tem('202501777886', relator, 'CARLOS CINI'). tem('202501777886', classe, 'HC'). tem('202501777886', objeto, 'p4').
+tem('202501777886', marcador, 'faccao').
+resultado_real('202501777886', perde).
+tem('202501778418', turma, 'QUINTA TURMA'). tem('202501778418', relator, 'CARLOS CINI'). tem('202501778418', classe, 'HC'). tem('202501778418', objeto, 'nulidade_busca').
+tem('202501778418', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501778418', perde).
+tem('202501861635', turma, 'QUINTA TURMA'). tem('202501861635', relator, 'CARLOS CINI'). tem('202501861635', classe, 'HC'). tem('202501861635', objeto, 'nulidade_busca').
+resultado_real('202501861635', perde).
+tem('202501877680', turma, 'QUINTA TURMA'). tem('202501877680', relator, 'CARLOS CINI'). tem('202501877680', classe, 'HC'). tem('202501877680', objeto, 'p4').
+resultado_real('202501877680', perde).
+tem('202501903278', turma, 'QUINTA TURMA'). tem('202501903278', relator, 'CARLOS CINI'). tem('202501903278', classe, 'HC'). tem('202501903278', objeto, 'outro').
+tem('202501903278', marcador, 'faccao').
+resultado_real('202501903278', perde).
+tem('202501944655', turma, 'QUINTA TURMA'). tem('202501944655', relator, 'CARLOS CINI'). tem('202501944655', classe, 'HC'). tem('202501944655', objeto, 'p4').
+tem('202501944655', marcador, 'conhecido_policia').
+resultado_real('202501944655', perde).
+tem('202501932194', turma, 'QUINTA TURMA'). tem('202501932194', relator, 'CARLOS CINI'). tem('202501932194', classe, 'HC'). tem('202501932194', objeto, 'p4').
+tem('202501932194', marcador, 'faccao').
+resultado_real('202501932194', perde).
+tem('202501947976', turma, 'QUINTA TURMA'). tem('202501947976', relator, 'CARLOS CINI'). tem('202501947976', classe, 'HC'). tem('202501947976', objeto, 'p4').
+resultado_real('202501947976', perde).
+tem('202501951610', turma, 'QUINTA TURMA'). tem('202501951610', relator, 'CARLOS CINI'). tem('202501951610', classe, 'HC'). tem('202501951610', objeto, 'outro').
+resultado_real('202501951610', perde).
+tem('202501992061', turma, 'QUINTA TURMA'). tem('202501992061', relator, 'CARLOS CINI'). tem('202501992061', classe, 'HC'). tem('202501992061', objeto, 'p4').
+tem('202501992061', marcador, 'faccao').
+resultado_real('202501992061', perde).
+tem('202502027009', turma, 'QUINTA TURMA'). tem('202502027009', relator, 'CARLOS CINI'). tem('202502027009', classe, 'HC'). tem('202502027009', objeto, 'nulidade_busca').
+tem('202502027009', marcador, 'local_conhecido').
+resultado_real('202502027009', perde).
+tem('202502102011', turma, 'QUINTA TURMA'). tem('202502102011', relator, 'CARLOS CINI'). tem('202502102011', classe, 'HC'). tem('202502102011', objeto, 'desclassificacao').
+tem('202502102011', marcador, 'local_conhecido').
+tem('202502102011', marcador, 'denuncia_anonima').
+resultado_real('202502102011', perde).
+tem('202502184267', turma, 'QUINTA TURMA'). tem('202502184267', relator, 'CARLOS CINI'). tem('202502184267', classe, 'HC'). tem('202502184267', objeto, 'dosimetria').
+tem('202502184267', marcador, 'faccao').
+resultado_real('202502184267', perde).
+tem('202502218682', turma, 'QUINTA TURMA'). tem('202502218682', relator, 'CARLOS CINI'). tem('202502218682', classe, 'HC'). tem('202502218682', objeto, 'p4').
+resultado_real('202502218682', perde).
+tem('202502222364', turma, 'QUINTA TURMA'). tem('202502222364', relator, 'CARLOS CINI'). tem('202502222364', classe, 'HC'). tem('202502222364', objeto, 'outro').
+resultado_real('202502222364', perde).
+tem('202502226419', turma, 'QUINTA TURMA'). tem('202502226419', relator, 'CARLOS CINI'). tem('202502226419', classe, 'HC'). tem('202502226419', objeto, 'dosimetria').
+resultado_real('202502226419', perde).
+tem('202502278714', turma, 'QUINTA TURMA'). tem('202502278714', relator, 'CARLOS CINI'). tem('202502278714', classe, 'HC'). tem('202502278714', objeto, 'p4').
+resultado_real('202502278714', perde).
+tem('202502472577', turma, 'QUINTA TURMA'). tem('202502472577', relator, 'CARLOS CINI'). tem('202502472577', classe, 'HC'). tem('202502472577', objeto, 'p4').
+tem('202502472577', marcador, 'faccao').
+resultado_real('202502472577', perde).
+tem('202502540805', turma, 'QUINTA TURMA'). tem('202502540805', relator, 'CARLOS CINI'). tem('202502540805', classe, 'HC'). tem('202502540805', objeto, 'p4').
+resultado_real('202502540805', perde).
+tem('202202635525', turma, 'QUINTA TURMA'). tem('202202635525', relator, 'CARLOS CINI'). tem('202202635525', classe, 'HC'). tem('202202635525', objeto, 'dosimetria').
+resultado_real('202202635525', perde).
+tem('202300460361', turma, 'QUINTA TURMA'). tem('202300460361', relator, 'CARLOS CINI'). tem('202300460361', classe, 'HC'). tem('202300460361', objeto, 'dosimetria').
+resultado_real('202300460361', perde).
+tem('202301450181', turma, 'QUINTA TURMA'). tem('202301450181', relator, 'CARLOS CINI'). tem('202301450181', classe, 'HC'). tem('202301450181', objeto, 'nulidade_busca').
+tem('202301450181', marcador, 'faccao').
+resultado_real('202301450181', perde).
+tem('202301578520', turma, 'QUINTA TURMA'). tem('202301578520', relator, 'CARLOS CINI'). tem('202301578520', classe, 'HC'). tem('202301578520', objeto, 'outro').
+tem('202301578520', marcador, 'denuncia_anonima').
+resultado_real('202301578520', vence).
+tem('202301711813', turma, 'QUINTA TURMA'). tem('202301711813', relator, 'CARLOS CINI'). tem('202301711813', classe, 'HC'). tem('202301711813', objeto, 'dosimetria').
+resultado_real('202301711813', perde).
+tem('202301934459', turma, 'QUINTA TURMA'). tem('202301934459', relator, 'CARLOS CINI'). tem('202301934459', classe, 'HC'). tem('202301934459', objeto, 'dosimetria').
+tem('202301934459', marcador, 'faccao').
+resultado_real('202301934459', perde).
+tem('202304220397', turma, 'QUINTA TURMA'). tem('202304220397', relator, 'CARLOS CINI'). tem('202304220397', classe, 'HC'). tem('202304220397', objeto, 'autoria').
+tem('202304220397', marcador, 'faccao').
+resultado_real('202304220397', perde).
+tem('202304564301', turma, 'QUINTA TURMA'). tem('202304564301', relator, 'CARLOS CINI'). tem('202304564301', classe, 'HC'). tem('202304564301', objeto, 'nulidade_busca').
+tem('202304564301', marcador, 'comunidade_bairro').
+resultado_real('202304564301', perde).
+tem('202400253156', turma, 'QUINTA TURMA'). tem('202400253156', relator, 'CARLOS CINI'). tem('202400253156', classe, 'HC'). tem('202400253156', objeto, 'p4').
+resultado_real('202400253156', perde).
+tem('202400771156', turma, 'QUINTA TURMA'). tem('202400771156', relator, 'CARLOS CINI'). tem('202400771156', classe, 'HC'). tem('202400771156', objeto, 'p4').
+resultado_real('202400771156', perde).
+tem('202403754936', turma, 'QUINTA TURMA'). tem('202403754936', relator, 'CARLOS CINI'). tem('202403754936', classe, 'HC'). tem('202403754936', objeto, 'dosimetria').
+resultado_real('202403754936', perde).
+tem('202404014987', turma, 'QUINTA TURMA'). tem('202404014987', relator, 'CARLOS CINI'). tem('202404014987', classe, 'HC'). tem('202404014987', objeto, 'outro').
+resultado_real('202404014987', vence).
+tem('202404503517', turma, 'QUINTA TURMA'). tem('202404503517', relator, 'CARLOS CINI'). tem('202404503517', classe, 'HC'). tem('202404503517', objeto, 'p4').
+tem('202404503517', marcador, 'faccao').
+resultado_real('202404503517', perde).
+tem('202404592540', turma, 'QUINTA TURMA'). tem('202404592540', relator, 'CARLOS CINI'). tem('202404592540', classe, 'HC'). tem('202404592540', objeto, 'nulidade_busca').
+tem('202404592540', marcador, 'local_conhecido').
+tem('202404592540', marcador, 'atos_infracionais').
+tem('202404592540', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404592540', perde).
+tem('202404656070', turma, 'QUINTA TURMA'). tem('202404656070', relator, 'CARLOS CINI'). tem('202404656070', classe, 'HC'). tem('202404656070', objeto, 'p4').
+resultado_real('202404656070', perde).
+tem('202404815242', turma, 'QUINTA TURMA'). tem('202404815242', relator, 'CARLOS CINI'). tem('202404815242', classe, 'HC'). tem('202404815242', objeto, 'dosimetria').
+resultado_real('202404815242', perde).
+tem('202404868129', turma, 'QUINTA TURMA'). tem('202404868129', relator, 'CARLOS CINI'). tem('202404868129', classe, 'HC'). tem('202404868129', objeto, 'p4').
+resultado_real('202404868129', perde).
+tem('202404895770', turma, 'QUINTA TURMA'). tem('202404895770', relator, 'CARLOS CINI'). tem('202404895770', classe, 'HC'). tem('202404895770', objeto, 'nulidade_busca').
+resultado_real('202404895770', perde).
+tem('202404895923', turma, 'QUINTA TURMA'). tem('202404895923', relator, 'CARLOS CINI'). tem('202404895923', classe, 'HC'). tem('202404895923', objeto, 'desclassificacao').
+tem('202404895923', marcador, 'denuncia_anonima').
+resultado_real('202404895923', perde).
+tem('202404902211', turma, 'QUINTA TURMA'). tem('202404902211', relator, 'CARLOS CINI'). tem('202404902211', classe, 'HC'). tem('202404902211', objeto, 'desclassificacao').
+resultado_real('202404902211', perde).
+tem('202500042175', turma, 'QUINTA TURMA'). tem('202500042175', relator, 'CARLOS CINI'). tem('202500042175', classe, 'HC'). tem('202500042175', objeto, 'nulidade_busca').
+tem('202500042175', marcador, 'local_conhecido').
+tem('202500042175', marcador, 'faccao').
+tem('202500042175', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500042175', perde).
+tem('202500110072', turma, 'QUINTA TURMA'). tem('202500110072', relator, 'CARLOS CINI'). tem('202500110072', classe, 'HC'). tem('202500110072', objeto, 'nulidade_busca').
+tem('202500110072', marcador, 'nervosismo').
+resultado_real('202500110072', perde).
+tem('202500121786', turma, 'QUINTA TURMA'). tem('202500121786', relator, 'CARLOS CINI'). tem('202500121786', classe, 'HC'). tem('202500121786', objeto, 'p4').
+resultado_real('202500121786', perde).
+tem('202500185782', turma, 'QUINTA TURMA'). tem('202500185782', relator, 'CARLOS CINI'). tem('202500185782', classe, 'HC'). tem('202500185782', objeto, 'p4').
+resultado_real('202500185782', perde).
+tem('202500195135', turma, 'QUINTA TURMA'). tem('202500195135', relator, 'CARLOS CINI'). tem('202500195135', classe, 'HC'). tem('202500195135', objeto, 'p4').
+resultado_real('202500195135', perde).
+tem('202500207043', turma, 'QUINTA TURMA'). tem('202500207043', relator, 'CARLOS CINI'). tem('202500207043', classe, 'HC'). tem('202500207043', objeto, 'p4').
+resultado_real('202500207043', perde).
+tem('202500222302', turma, 'QUINTA TURMA'). tem('202500222302', relator, 'CARLOS CINI'). tem('202500222302', classe, 'HC'). tem('202500222302', objeto, 'p4').
+resultado_real('202500222302', perde).
+tem('202500222617', turma, 'QUINTA TURMA'). tem('202500222617', relator, 'CARLOS CINI'). tem('202500222617', classe, 'HC'). tem('202500222617', objeto, 'p4').
+resultado_real('202500222617', perde).
+tem('202500237688', turma, 'QUINTA TURMA'). tem('202500237688', relator, 'CARLOS CINI'). tem('202500237688', classe, 'HC'). tem('202500237688', objeto, 'p4').
+resultado_real('202500237688', perde).
+tem('202500245248', turma, 'QUINTA TURMA'). tem('202500245248', relator, 'CARLOS CINI'). tem('202500245248', classe, 'HC'). tem('202500245248', objeto, 'p4').
+tem('202500245248', marcador, 'faccao').
+resultado_real('202500245248', perde).
+tem('202500264118', turma, 'QUINTA TURMA'). tem('202500264118', relator, 'CARLOS CINI'). tem('202500264118', classe, 'HC'). tem('202500264118', objeto, 'p4').
+resultado_real('202500264118', perde).
+tem('202500251291', turma, 'QUINTA TURMA'). tem('202500251291', relator, 'CARLOS CINI'). tem('202500251291', classe, 'HC'). tem('202500251291', objeto, 'dosimetria').
+tem('202500251291', marcador, 'comunidade_bairro').
+tem('202500251291', marcador, 'faccao').
+resultado_real('202500251291', perde).
+tem('202500260480', turma, 'QUINTA TURMA'). tem('202500260480', relator, 'CARLOS CINI'). tem('202500260480', classe, 'HC'). tem('202500260480', objeto, 'p4').
+resultado_real('202500260480', perde).
+tem('202500285563', turma, 'QUINTA TURMA'). tem('202500285563', relator, 'CARLOS CINI'). tem('202500285563', classe, 'HC'). tem('202500285563', objeto, 'dosimetria').
+resultado_real('202500285563', perde).
+tem('202500285790', turma, 'QUINTA TURMA'). tem('202500285790', relator, 'CARLOS CINI'). tem('202500285790', classe, 'HC'). tem('202500285790', objeto, 'nulidade_busca').
+resultado_real('202500285790', perde).
+tem('202500287963', turma, 'QUINTA TURMA'). tem('202500287963', relator, 'CARLOS CINI'). tem('202500287963', classe, 'HC'). tem('202500287963', objeto, 'p4').
+resultado_real('202500287963', perde).
+tem('202500299122', turma, 'QUINTA TURMA'). tem('202500299122', relator, 'CARLOS CINI'). tem('202500299122', classe, 'HC'). tem('202500299122', objeto, 'nulidade_busca').
+tem('202500299122', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500299122', perde).
+tem('202500304110', turma, 'QUINTA TURMA'). tem('202500304110', relator, 'CARLOS CINI'). tem('202500304110', classe, 'HC'). tem('202500304110', objeto, 'desclassificacao').
+resultado_real('202500304110', perde).
+tem('202500319839', turma, 'QUINTA TURMA'). tem('202500319839', relator, 'CARLOS CINI'). tem('202500319839', classe, 'HC'). tem('202500319839', objeto, 'p4').
+resultado_real('202500319839', perde).
+tem('202500322840', turma, 'QUINTA TURMA'). tem('202500322840', relator, 'CARLOS CINI'). tem('202500322840', classe, 'HC'). tem('202500322840', objeto, 'p4').
+tem('202500322840', marcador, 'atos_infracionais').
+resultado_real('202500322840', perde).
+tem('202500322930', turma, 'QUINTA TURMA'). tem('202500322930', relator, 'CARLOS CINI'). tem('202500322930', classe, 'HC'). tem('202500322930', objeto, 'p4').
+resultado_real('202500322930', perde).
+tem('202500386823', turma, 'QUINTA TURMA'). tem('202500386823', relator, 'CARLOS CINI'). tem('202500386823', classe, 'HC'). tem('202500386823', objeto, 'desclassificacao').
+resultado_real('202500386823', perde).
+tem('202500447878', turma, 'QUINTA TURMA'). tem('202500447878', relator, 'CARLOS CINI'). tem('202500447878', classe, 'HC'). tem('202500447878', objeto, 'outro').
+tem('202500447878', marcador, 'atos_infracionais').
+resultado_real('202500447878', perde).
+tem('202500450891', turma, 'QUINTA TURMA'). tem('202500450891', relator, 'CARLOS CINI'). tem('202500450891', classe, 'HC'). tem('202500450891', objeto, 'p4').
+tem('202500450891', marcador, 'faccao').
+resultado_real('202500450891', perde).
+tem('202500460410', turma, 'QUINTA TURMA'). tem('202500460410', relator, 'CARLOS CINI'). tem('202500460410', classe, 'HC'). tem('202500460410', objeto, 'outro').
+resultado_real('202500460410', perde).
+tem('202500489306', turma, 'QUINTA TURMA'). tem('202500489306', relator, 'CARLOS CINI'). tem('202500489306', classe, 'HC'). tem('202500489306', objeto, 'nulidade_busca').
+tem('202500489306', marcador, 'denuncia_anonima').
+resultado_real('202500489306', perde).
+tem('202500493264', turma, 'QUINTA TURMA'). tem('202500493264', relator, 'CARLOS CINI'). tem('202500493264', classe, 'HC'). tem('202500493264', objeto, 'nulidade_busca').
+resultado_real('202500493264', perde).
+tem('202500516837', turma, 'QUINTA TURMA'). tem('202500516837', relator, 'CARLOS CINI'). tem('202500516837', classe, 'HC'). tem('202500516837', objeto, 'p4').
+resultado_real('202500516837', perde).
+tem('202500541915', turma, 'QUINTA TURMA'). tem('202500541915', relator, 'CARLOS CINI'). tem('202500541915', classe, 'HC'). tem('202500541915', objeto, 'p4').
+tem('202500541915', marcador, 'faccao').
+resultado_real('202500541915', perde).
+tem('202500555559', turma, 'QUINTA TURMA'). tem('202500555559', relator, 'CARLOS CINI'). tem('202500555559', classe, 'HC'). tem('202500555559', objeto, 'p4').
+resultado_real('202500555559', perde).
+tem('202500558100', turma, 'QUINTA TURMA'). tem('202500558100', relator, 'CARLOS CINI'). tem('202500558100', classe, 'HC'). tem('202500558100', objeto, 'dosimetria').
+resultado_real('202500558100', perde).
+tem('202500563310', turma, 'QUINTA TURMA'). tem('202500563310', relator, 'CARLOS CINI'). tem('202500563310', classe, 'HC'). tem('202500563310', objeto, 'nulidade_busca').
+tem('202500563310', marcador, 'denuncia_anonima').
+resultado_real('202500563310', perde).
+tem('202500614600', turma, 'QUINTA TURMA'). tem('202500614600', relator, 'CARLOS CINI'). tem('202500614600', classe, 'HC'). tem('202500614600', objeto, 'p4').
+resultado_real('202500614600', perde).
+tem('202500624405', turma, 'QUINTA TURMA'). tem('202500624405', relator, 'CARLOS CINI'). tem('202500624405', classe, 'HC'). tem('202500624405', objeto, 'nulidade_busca').
+tem('202500624405', marcador, 'atos_infracionais').
+resultado_real('202500624405', perde).
+tem('202500677342', turma, 'QUINTA TURMA'). tem('202500677342', relator, 'CARLOS CINI'). tem('202500677342', classe, 'HC'). tem('202500677342', objeto, 'nulidade_busca').
+tem('202500677342', marcador, 'denuncia_anonima').
+resultado_real('202500677342', perde).
+tem('202500695566', turma, 'QUINTA TURMA'). tem('202500695566', relator, 'CARLOS CINI'). tem('202500695566', classe, 'HC'). tem('202500695566', objeto, 'p4').
+resultado_real('202500695566', perde).
+tem('202500709987', turma, 'QUINTA TURMA'). tem('202500709987', relator, 'CARLOS CINI'). tem('202500709987', classe, 'HC'). tem('202500709987', objeto, 'nulidade_busca').
+resultado_real('202500709987', perde).
+tem('202500720054', turma, 'QUINTA TURMA'). tem('202500720054', relator, 'CARLOS CINI'). tem('202500720054', classe, 'HC'). tem('202500720054', objeto, 'p4').
+resultado_real('202500720054', perde).
+tem('202500721379', turma, 'QUINTA TURMA'). tem('202500721379', relator, 'CARLOS CINI'). tem('202500721379', classe, 'HC'). tem('202500721379', objeto, 'dosimetria').
+resultado_real('202500721379', perde).
+tem('202500728958', turma, 'QUINTA TURMA'). tem('202500728958', relator, 'CARLOS CINI'). tem('202500728958', classe, 'HC'). tem('202500728958', objeto, 'outro').
+resultado_real('202500728958', perde).
+tem('202500771731', turma, 'QUINTA TURMA'). tem('202500771731', relator, 'CARLOS CINI'). tem('202500771731', classe, 'HC'). tem('202500771731', objeto, 'nulidade_busca').
+resultado_real('202500771731', perde).
+tem('202500795283', turma, 'QUINTA TURMA'). tem('202500795283', relator, 'CARLOS CINI'). tem('202500795283', classe, 'HC'). tem('202500795283', objeto, 'p4').
+tem('202500795283', marcador, 'faccao').
+resultado_real('202500795283', perde).
+tem('202500816088', turma, 'QUINTA TURMA'). tem('202500816088', relator, 'CARLOS CINI'). tem('202500816088', classe, 'HC'). tem('202500816088', objeto, 'nulidade_busca').
+tem('202500816088', marcador, 'denuncia_anonima').
+resultado_real('202500816088', perde).
+tem('202500847392', turma, 'QUINTA TURMA'). tem('202500847392', relator, 'CARLOS CINI'). tem('202500847392', classe, 'HC'). tem('202500847392', objeto, 'nulidade_busca').
+resultado_real('202500847392', perde).
+tem('202500913345', turma, 'QUINTA TURMA'). tem('202500913345', relator, 'CARLOS CINI'). tem('202500913345', classe, 'HC'). tem('202500913345', objeto, 'nulidade_busca').
+tem('202500913345', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500913345', perde).
+tem('202500916832', turma, 'QUINTA TURMA'). tem('202500916832', relator, 'CARLOS CINI'). tem('202500916832', classe, 'HC'). tem('202500916832', objeto, 'p4').
+resultado_real('202500916832', perde).
+tem('202500925729', turma, 'QUINTA TURMA'). tem('202500925729', relator, 'CARLOS CINI'). tem('202500925729', classe, 'HC'). tem('202500925729', objeto, 'p4').
+resultado_real('202500925729', perde).
+tem('202500928557', turma, 'QUINTA TURMA'). tem('202500928557', relator, 'CARLOS CINI'). tem('202500928557', classe, 'HC'). tem('202500928557', objeto, 'p4').
+tem('202500928557', marcador, 'faccao').
+resultado_real('202500928557', perde).
+tem('202500929239', turma, 'QUINTA TURMA'). tem('202500929239', relator, 'CARLOS CINI'). tem('202500929239', classe, 'HC'). tem('202500929239', objeto, 'outro').
+tem('202500929239', marcador, 'nervosismo').
+tem('202500929239', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500929239', perde).
+tem('202500992863', turma, 'QUINTA TURMA'). tem('202500992863', relator, 'CARLOS CINI'). tem('202500992863', classe, 'HC'). tem('202500992863', objeto, 'nulidade_busca').
+tem('202500992863', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500992863', perde).
+tem('202501007665', turma, 'QUINTA TURMA'). tem('202501007665', relator, 'CARLOS CINI'). tem('202501007665', classe, 'HC'). tem('202501007665', objeto, 'outro').
+tem('202501007665', marcador, 'atos_infracionais').
+resultado_real('202501007665', perde).
+tem('202501010831', turma, 'QUINTA TURMA'). tem('202501010831', relator, 'CARLOS CINI'). tem('202501010831', classe, 'HC'). tem('202501010831', objeto, 'p4').
+tem('202501010831', marcador, 'faccao').
+resultado_real('202501010831', perde).
+tem('202501023542', turma, 'QUINTA TURMA'). tem('202501023542', relator, 'CARLOS CINI'). tem('202501023542', classe, 'HC'). tem('202501023542', objeto, 'nulidade_busca').
+tem('202501023542', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501023542', perde).
+tem('202501023643', turma, 'QUINTA TURMA'). tem('202501023643', relator, 'CARLOS CINI'). tem('202501023643', classe, 'HC'). tem('202501023643', objeto, 'p4').
+tem('202501023643', marcador, 'faccao').
+resultado_real('202501023643', perde).
+tem('202501075064', turma, 'QUINTA TURMA'). tem('202501075064', relator, 'CARLOS CINI'). tem('202501075064', classe, 'HC'). tem('202501075064', objeto, 'p4').
+tem('202501075064', marcador, 'faccao').
+resultado_real('202501075064', perde).
+tem('202501113731', turma, 'QUINTA TURMA'). tem('202501113731', relator, 'CARLOS CINI'). tem('202501113731', classe, 'HC'). tem('202501113731', objeto, 'desclassificacao').
+tem('202501113731', marcador, 'atos_infracionais').
+resultado_real('202501113731', perde).
+tem('202501132358', turma, 'QUINTA TURMA'). tem('202501132358', relator, 'CARLOS CINI'). tem('202501132358', classe, 'HC'). tem('202501132358', objeto, 'nulidade_busca').
+tem('202501132358', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501132358', perde).
+tem('202501132322', turma, 'QUINTA TURMA'). tem('202501132322', relator, 'CARLOS CINI'). tem('202501132322', classe, 'HC'). tem('202501132322', objeto, 'nulidade_busca').
+resultado_real('202501132322', perde).
+tem('202501278655', turma, 'QUINTA TURMA'). tem('202501278655', relator, 'CARLOS CINI'). tem('202501278655', classe, 'HC'). tem('202501278655', objeto, 'dosimetria').
+resultado_real('202501278655', perde).
+tem('202501292941', turma, 'QUINTA TURMA'). tem('202501292941', relator, 'CARLOS CINI'). tem('202501292941', classe, 'HC'). tem('202501292941', objeto, 'p4').
+resultado_real('202501292941', perde).
+tem('202501326469', turma, 'QUINTA TURMA'). tem('202501326469', relator, 'CARLOS CINI'). tem('202501326469', classe, 'HC'). tem('202501326469', objeto, 'p4').
+resultado_real('202501326469', perde).
+tem('202501338502', turma, 'QUINTA TURMA'). tem('202501338502', relator, 'CARLOS CINI'). tem('202501338502', classe, 'HC'). tem('202501338502', objeto, 'p4').
+tem('202501338502', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501338502', perde).
+tem('202501382990', turma, 'QUINTA TURMA'). tem('202501382990', relator, 'CARLOS CINI'). tem('202501382990', classe, 'HC'). tem('202501382990', objeto, 'p4').
+resultado_real('202501382990', perde).
+tem('202501365167', turma, 'QUINTA TURMA'). tem('202501365167', relator, 'CARLOS CINI'). tem('202501365167', classe, 'HC'). tem('202501365167', objeto, 'p4').
+tem('202501365167', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501365167', perde).
+tem('202501413325', turma, 'QUINTA TURMA'). tem('202501413325', relator, 'CARLOS CINI'). tem('202501413325', classe, 'HC'). tem('202501413325', objeto, 'p4').
+tem('202501413325', marcador, 'faccao').
+tem('202501413325', marcador, 'denuncia_anonima').
+resultado_real('202501413325', perde).
+tem('202501431562', turma, 'QUINTA TURMA'). tem('202501431562', relator, 'CARLOS CINI'). tem('202501431562', classe, 'HC'). tem('202501431562', objeto, 'p4').
+resultado_real('202501431562', perde).
+tem('202501461515', turma, 'QUINTA TURMA'). tem('202501461515', relator, 'CARLOS CINI'). tem('202501461515', classe, 'HC'). tem('202501461515', objeto, 'outro').
+resultado_real('202501461515', perde).
+tem('202501486218', turma, 'QUINTA TURMA'). tem('202501486218', relator, 'CARLOS CINI'). tem('202501486218', classe, 'HC'). tem('202501486218', objeto, 'p4').
+tem('202501486218', marcador, 'local_conhecido').
+tem('202501486218', marcador, 'faccao').
+resultado_real('202501486218', perde).
+tem('202201794278', turma, 'QUINTA TURMA'). tem('202201794278', relator, 'CARLOS CINI'). tem('202201794278', classe, 'REsp'). tem('202201794278', objeto, 'autoria').
+resultado_real('202201794278', perde).
+tem('202202730912', turma, 'QUINTA TURMA'). tem('202202730912', relator, 'CARLOS CINI'). tem('202202730912', classe, 'REsp'). tem('202202730912', objeto, 'outro').
+resultado_real('202202730912', perde).
+tem('202202746487', turma, 'QUINTA TURMA'). tem('202202746487', relator, 'CARLOS CINI'). tem('202202746487', classe, 'REsp'). tem('202202746487', objeto, 'autoria').
+resultado_real('202202746487', vence).
+tem('202300335073', turma, 'QUINTA TURMA'). tem('202300335073', relator, 'CARLOS CINI'). tem('202300335073', classe, 'REsp'). tem('202300335073', objeto, 'p4').
+resultado_real('202300335073', perde).
+tem('202301313547', turma, 'QUINTA TURMA'). tem('202301313547', relator, 'CARLOS CINI'). tem('202301313547', classe, 'REsp'). tem('202301313547', objeto, 'nulidade_busca').
+tem('202301313547', marcador, 'denuncia_anonima').
+resultado_real('202301313547', perde).
+tem('202301665360', turma, 'QUINTA TURMA'). tem('202301665360', relator, 'CARLOS CINI'). tem('202301665360', classe, 'REsp'). tem('202301665360', objeto, 'outro').
+resultado_real('202301665360', perde).
+tem('202302868314', turma, 'QUINTA TURMA'). tem('202302868314', relator, 'CARLOS CINI'). tem('202302868314', classe, 'REsp'). tem('202302868314', objeto, 'dosimetria').
+resultado_real('202302868314', perde).
+tem('202303436846', turma, 'QUINTA TURMA'). tem('202303436846', relator, 'CARLOS CINI'). tem('202303436846', classe, 'REsp'). tem('202303436846', objeto, 'dosimetria').
+tem('202303436846', marcador, 'faccao').
+resultado_real('202303436846', perde).
+tem('202303845168', turma, 'QUINTA TURMA'). tem('202303845168', relator, 'CARLOS CINI'). tem('202303845168', classe, 'REsp'). tem('202303845168', objeto, 'p4').
+resultado_real('202303845168', perde).
+tem('202401834658', turma, 'QUINTA TURMA'). tem('202401834658', relator, 'CARLOS CINI'). tem('202401834658', classe, 'REsp'). tem('202401834658', objeto, 'nulidade_busca').
+tem('202401834658', marcador, 'local_conhecido').
+tem('202401834658', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401834658', perde).
+tem('202401874378', turma, 'QUINTA TURMA'). tem('202401874378', relator, 'CARLOS CINI'). tem('202401874378', classe, 'REsp'). tem('202401874378', objeto, 'p4').
+resultado_real('202401874378', perde).
+tem('202402648055', turma, 'QUINTA TURMA'). tem('202402648055', relator, 'CARLOS CINI'). tem('202402648055', classe, 'REsp'). tem('202402648055', objeto, 'nulidade_busca').
+resultado_real('202402648055', perde).
+tem('202404214359', turma, 'QUINTA TURMA'). tem('202404214359', relator, 'CARLOS CINI'). tem('202404214359', classe, 'REsp'). tem('202404214359', objeto, 'p4').
+tem('202404214359', marcador, 'faccao').
+resultado_real('202404214359', perde).
+tem('202404478536', turma, 'QUINTA TURMA'). tem('202404478536', relator, 'CARLOS CINI'). tem('202404478536', classe, 'REsp'). tem('202404478536', objeto, 'dosimetria').
+resultado_real('202404478536', perde).
+tem('202404453428', turma, 'QUINTA TURMA'). tem('202404453428', relator, 'CARLOS CINI'). tem('202404453428', classe, 'REsp'). tem('202404453428', objeto, 'autoria').
+resultado_real('202404453428', perde).
+tem('202500062864', turma, 'QUINTA TURMA'). tem('202500062864', relator, 'CARLOS CINI'). tem('202500062864', classe, 'REsp'). tem('202500062864', objeto, 'dosimetria').
+resultado_real('202500062864', perde).
+tem('202500196752', turma, 'QUINTA TURMA'). tem('202500196752', relator, 'CARLOS CINI'). tem('202500196752', classe, 'REsp'). tem('202500196752', objeto, 'nulidade_busca').
+resultado_real('202500196752', vence).
+tem('202500469034', turma, 'QUINTA TURMA'). tem('202500469034', relator, 'CARLOS CINI'). tem('202500469034', classe, 'REsp'). tem('202500469034', objeto, 'nulidade_busca').
+resultado_real('202500469034', perde).
+tem('202500438184', turma, 'QUINTA TURMA'). tem('202500438184', relator, 'CARLOS CINI'). tem('202500438184', classe, 'REsp'). tem('202500438184', objeto, 'p4').
+resultado_real('202500438184', perde).
+tem('202501081704', turma, 'QUINTA TURMA'). tem('202501081704', relator, 'CARLOS CINI'). tem('202501081704', classe, 'REsp'). tem('202501081704', objeto, 'outro').
+resultado_real('202501081704', perde).
+tem('202501181558', turma, 'QUINTA TURMA'). tem('202501181558', relator, 'CARLOS CINI'). tem('202501181558', classe, 'REsp'). tem('202501181558', objeto, 'desclassificacao').
+resultado_real('202501181558', perde).
+tem('202501270471', turma, 'QUINTA TURMA'). tem('202501270471', relator, 'CARLOS CINI'). tem('202501270471', classe, 'REsp'). tem('202501270471', objeto, 'p4').
+resultado_real('202501270471', perde).
+tem('202501305466', turma, 'QUINTA TURMA'). tem('202501305466', relator, 'CARLOS CINI'). tem('202501305466', classe, 'REsp'). tem('202501305466', objeto, 'p4').
+resultado_real('202501305466', perde).
+tem('202501326410', turma, 'QUINTA TURMA'). tem('202501326410', relator, 'CARLOS CINI'). tem('202501326410', classe, 'REsp'). tem('202501326410', objeto, 'dosimetria').
+resultado_real('202501326410', perde).
+tem('202501329123', turma, 'QUINTA TURMA'). tem('202501329123', relator, 'CARLOS CINI'). tem('202501329123', classe, 'REsp'). tem('202501329123', objeto, 'nulidade_busca').
+resultado_real('202501329123', perde).
+tem('202501792158', turma, 'QUINTA TURMA'). tem('202501792158', relator, 'CARLOS CINI'). tem('202501792158', classe, 'REsp'). tem('202501792158', objeto, 'dosimetria').
+resultado_real('202501792158', perde).
+tem('202501755230', turma, 'QUINTA TURMA'). tem('202501755230', relator, 'CARLOS CINI'). tem('202501755230', classe, 'REsp'). tem('202501755230', objeto, 'nulidade_busca').
+resultado_real('202501755230', perde).
+tem('202501799120', turma, 'QUINTA TURMA'). tem('202501799120', relator, 'CARLOS CINI'). tem('202501799120', classe, 'REsp'). tem('202501799120', objeto, 'dosimetria').
+tem('202501799120', marcador, 'faccao').
+resultado_real('202501799120', perde).
+tem('202501908178', turma, 'QUINTA TURMA'). tem('202501908178', relator, 'CARLOS CINI'). tem('202501908178', classe, 'REsp'). tem('202501908178', objeto, 'outro').
+resultado_real('202501908178', perde).
+tem('202404111916', turma, 'QUINTA TURMA'). tem('202404111916', relator, 'CARLOS CINI'). tem('202404111916', classe, 'RHC'). tem('202404111916', objeto, 'nulidade_busca').
+resultado_real('202404111916', perde).
+tem('202404499100', turma, 'QUINTA TURMA'). tem('202404499100', relator, 'CARLOS CINI'). tem('202404499100', classe, 'RHC'). tem('202404499100', objeto, 'desclassificacao').
+resultado_real('202404499100', perde).
+tem('202500400708', turma, 'QUINTA TURMA'). tem('202500400708', relator, 'CARLOS CINI'). tem('202500400708', classe, 'RHC'). tem('202500400708', objeto, 'nulidade_busca').
+tem('202500400708', marcador, 'denuncia_anonima').
+resultado_real('202500400708', perde).
+tem('202500600393', turma, 'QUINTA TURMA'). tem('202500600393', relator, 'CARLOS CINI'). tem('202500600393', classe, 'RHC'). tem('202500600393', objeto, 'outro').
+resultado_real('202500600393', perde).
+tem('202501584218', turma, 'QUINTA TURMA'). tem('202501584218', relator, 'CARLOS CINI'). tem('202501584218', classe, 'RHC'). tem('202501584218', objeto, 'outro').
+resultado_real('202501584218', perde).
+tem('202501645516', turma, 'QUINTA TURMA'). tem('202501645516', relator, 'CARLOS CINI'). tem('202501645516', classe, 'RHC'). tem('202501645516', objeto, 'p4').
+resultado_real('202501645516', perde).
+tem('202502357464', turma, 'QUINTA TURMA'). tem('202502357464', relator, 'CARLOS CINI'). tem('202502357464', classe, 'RHC'). tem('202502357464', objeto, 'nulidade_busca').
+resultado_real('202502357464', perde).
+tem('202501266485', turma, 'QUINTA TURMA'). tem('202501266485', relator, 'CARLOS CINI'). tem('202501266485', classe, 'RMS'). tem('202501266485', objeto, 'outro').
+resultado_real('202501266485', perde).
+tem('202201260930', turma, 'QUINTA TURMA'). tem('202201260930', relator, 'DANIELA TEIXEIRA'). tem('202201260930', classe, 'AREsp'). tem('202201260930', objeto, 'p4').
+resultado_real('202201260930', perde).
+tem('202201332223', turma, 'QUINTA TURMA'). tem('202201332223', relator, 'DANIELA TEIXEIRA'). tem('202201332223', classe, 'AREsp'). tem('202201332223', objeto, 'p4').
+tem('202201332223', marcador, 'faccao').
+resultado_real('202201332223', perde).
+tem('202201581426', turma, 'QUINTA TURMA'). tem('202201581426', relator, 'DANIELA TEIXEIRA'). tem('202201581426', classe, 'AREsp'). tem('202201581426', objeto, 'nulidade_busca').
+resultado_real('202201581426', vence).
+tem('202202115352', turma, 'QUINTA TURMA'). tem('202202115352', relator, 'DANIELA TEIXEIRA'). tem('202202115352', classe, 'AREsp'). tem('202202115352', objeto, 'dosimetria').
+resultado_real('202202115352', vence).
+tem('202202380747', turma, 'QUINTA TURMA'). tem('202202380747', relator, 'DANIELA TEIXEIRA'). tem('202202380747', classe, 'AREsp'). tem('202202380747', objeto, 'p4').
+tem('202202380747', marcador, 'faccao').
+resultado_real('202202380747', perde).
+tem('202202414417', turma, 'QUINTA TURMA'). tem('202202414417', relator, 'DANIELA TEIXEIRA'). tem('202202414417', classe, 'AREsp'). tem('202202414417', objeto, 'nulidade_busca').
+resultado_real('202202414417', vence).
+tem('202202612955', turma, 'QUINTA TURMA'). tem('202202612955', relator, 'DANIELA TEIXEIRA'). tem('202202612955', classe, 'AREsp'). tem('202202612955', objeto, 'p4').
+resultado_real('202202612955', vence).
+tem('202202935132', turma, 'QUINTA TURMA'). tem('202202935132', relator, 'DANIELA TEIXEIRA'). tem('202202935132', classe, 'AREsp'). tem('202202935132', objeto, 'p4').
+tem('202202935132', marcador, 'faccao').
+resultado_real('202202935132', perde).
+tem('202203027493', turma, 'QUINTA TURMA'). tem('202203027493', relator, 'DANIELA TEIXEIRA'). tem('202203027493', classe, 'AREsp'). tem('202203027493', objeto, 'nulidade_busca').
+resultado_real('202203027493', perde).
+tem('202203060106', turma, 'QUINTA TURMA'). tem('202203060106', relator, 'DANIELA TEIXEIRA'). tem('202203060106', classe, 'AREsp'). tem('202203060106', objeto, 'nulidade_busca').
+tem('202203060106', marcador, 'denuncia_anonima').
+resultado_real('202203060106', perde).
+tem('202203071162', turma, 'QUINTA TURMA'). tem('202203071162', relator, 'DANIELA TEIXEIRA'). tem('202203071162', classe, 'AREsp'). tem('202203071162', objeto, 'dosimetria').
+resultado_real('202203071162', perde).
+tem('202203136818', turma, 'QUINTA TURMA'). tem('202203136818', relator, 'DANIELA TEIXEIRA'). tem('202203136818', classe, 'AREsp'). tem('202203136818', objeto, 'nulidade_busca').
+tem('202203136818', marcador, 'local_conhecido').
+tem('202203136818', marcador, 'nervosismo').
+tem('202203136818', marcador, 'fuga_mudanca_direcao').
+resultado_real('202203136818', perde).
+tem('202203223116', turma, 'QUINTA TURMA'). tem('202203223116', relator, 'DANIELA TEIXEIRA'). tem('202203223116', classe, 'AREsp'). tem('202203223116', objeto, 'nulidade_busca').
+tem('202203223116', marcador, 'local_conhecido').
+tem('202203223116', marcador, 'fuga_mudanca_direcao').
+resultado_real('202203223116', perde).
+tem('202203255203', turma, 'QUINTA TURMA'). tem('202203255203', relator, 'DANIELA TEIXEIRA'). tem('202203255203', classe, 'AREsp'). tem('202203255203', objeto, 'p4').
+tem('202203255203', marcador, 'faccao').
+resultado_real('202203255203', vence).
+tem('202203286276', turma, 'QUINTA TURMA'). tem('202203286276', relator, 'DANIELA TEIXEIRA'). tem('202203286276', classe, 'AREsp'). tem('202203286276', objeto, 'p4').
+tem('202203286276', marcador, 'faccao').
+resultado_real('202203286276', vence).
+tem('202203377160', turma, 'QUINTA TURMA'). tem('202203377160', relator, 'DANIELA TEIXEIRA'). tem('202203377160', classe, 'AREsp'). tem('202203377160', objeto, 'p4').
+resultado_real('202203377160', perde).
+tem('202203579045', turma, 'QUINTA TURMA'). tem('202203579045', relator, 'DANIELA TEIXEIRA'). tem('202203579045', classe, 'AREsp'). tem('202203579045', objeto, 'dosimetria').
+resultado_real('202203579045', vence).
+tem('202203980260', turma, 'QUINTA TURMA'). tem('202203980260', relator, 'DANIELA TEIXEIRA'). tem('202203980260', classe, 'AREsp'). tem('202203980260', objeto, 'nulidade_busca').
+resultado_real('202203980260', perde).
+tem('202300123030', turma, 'QUINTA TURMA'). tem('202300123030', relator, 'DANIELA TEIXEIRA'). tem('202300123030', classe, 'AREsp'). tem('202300123030', objeto, 'desclassificacao').
+resultado_real('202300123030', perde).
+tem('202300140712', turma, 'QUINTA TURMA'). tem('202300140712', relator, 'DANIELA TEIXEIRA'). tem('202300140712', classe, 'AREsp'). tem('202300140712', objeto, 'nulidade_busca').
+tem('202300140712', marcador, 'nervosismo').
+resultado_real('202300140712', perde).
+tem('202300177683', turma, 'QUINTA TURMA'). tem('202300177683', relator, 'DANIELA TEIXEIRA'). tem('202300177683', classe, 'AREsp'). tem('202300177683', objeto, 'dosimetria').
+resultado_real('202300177683', perde).
+tem('202300233753', turma, 'QUINTA TURMA'). tem('202300233753', relator, 'DANIELA TEIXEIRA'). tem('202300233753', classe, 'AREsp'). tem('202300233753', objeto, 'nulidade_busca').
+tem('202300233753', marcador, 'nervosismo').
+resultado_real('202300233753', vence).
+tem('202300296269', turma, 'QUINTA TURMA'). tem('202300296269', relator, 'DANIELA TEIXEIRA'). tem('202300296269', classe, 'AREsp'). tem('202300296269', objeto, 'autoria').
+resultado_real('202300296269', perde).
+tem('202300228276', turma, 'QUINTA TURMA'). tem('202300228276', relator, 'DANIELA TEIXEIRA'). tem('202300228276', classe, 'AREsp'). tem('202300228276', objeto, 'desclassificacao').
+resultado_real('202300228276', perde).
+tem('202300321756', turma, 'QUINTA TURMA'). tem('202300321756', relator, 'DANIELA TEIXEIRA'). tem('202300321756', classe, 'AREsp'). tem('202300321756', objeto, 'desclassificacao').
+resultado_real('202300321756', perde).
+tem('202300417123', turma, 'QUINTA TURMA'). tem('202300417123', relator, 'DANIELA TEIXEIRA'). tem('202300417123', classe, 'AREsp'). tem('202300417123', objeto, 'dosimetria').
+resultado_real('202300417123', perde).
+tem('202300430686', turma, 'QUINTA TURMA'). tem('202300430686', relator, 'DANIELA TEIXEIRA'). tem('202300430686', classe, 'AREsp'). tem('202300430686', objeto, 'p4').
+resultado_real('202300430686', perde).
+tem('202300436131', turma, 'QUINTA TURMA'). tem('202300436131', relator, 'DANIELA TEIXEIRA'). tem('202300436131', classe, 'AREsp'). tem('202300436131', objeto, 'dosimetria').
+resultado_real('202300436131', perde).
+tem('202300484940', turma, 'QUINTA TURMA'). tem('202300484940', relator, 'DANIELA TEIXEIRA'). tem('202300484940', classe, 'AREsp'). tem('202300484940', objeto, 'nulidade_busca').
+tem('202300484940', marcador, 'fuga_mudanca_direcao').
+resultado_real('202300484940', perde).
+tem('202300478692', turma, 'QUINTA TURMA'). tem('202300478692', relator, 'DANIELA TEIXEIRA'). tem('202300478692', classe, 'AREsp'). tem('202300478692', objeto, 'nulidade_busca').
+resultado_real('202300478692', perde).
+tem('202300467661', turma, 'QUINTA TURMA'). tem('202300467661', relator, 'DANIELA TEIXEIRA'). tem('202300467661', classe, 'AREsp'). tem('202300467661', objeto, 'dosimetria').
+resultado_real('202300467661', vence).
+tem('202300609327', turma, 'QUINTA TURMA'). tem('202300609327', relator, 'DANIELA TEIXEIRA'). tem('202300609327', classe, 'AREsp'). tem('202300609327', objeto, 'dosimetria').
+resultado_real('202300609327', perde).
+tem('202300699573', turma, 'QUINTA TURMA'). tem('202300699573', relator, 'DANIELA TEIXEIRA'). tem('202300699573', classe, 'AREsp'). tem('202300699573', objeto, 'nulidade_busca').
+resultado_real('202300699573', perde).
+tem('202300782992', turma, 'QUINTA TURMA'). tem('202300782992', relator, 'DANIELA TEIXEIRA'). tem('202300782992', classe, 'AREsp'). tem('202300782992', objeto, 'nulidade_busca').
+resultado_real('202300782992', perde).
+tem('202300848902', turma, 'QUINTA TURMA'). tem('202300848902', relator, 'DANIELA TEIXEIRA'). tem('202300848902', classe, 'AREsp'). tem('202300848902', objeto, 'nulidade_busca').
+tem('202300848902', marcador, 'faccao').
+resultado_real('202300848902', vence).
+tem('202300868135', turma, 'QUINTA TURMA'). tem('202300868135', relator, 'DANIELA TEIXEIRA'). tem('202300868135', classe, 'AREsp'). tem('202300868135', objeto, 'p4').
+tem('202300868135', marcador, 'faccao').
+resultado_real('202300868135', perde).
+tem('202300922865', turma, 'QUINTA TURMA'). tem('202300922865', relator, 'DANIELA TEIXEIRA'). tem('202300922865', classe, 'AREsp'). tem('202300922865', objeto, 'dosimetria').
+resultado_real('202300922865', vence).
+tem('202300960982', turma, 'QUINTA TURMA'). tem('202300960982', relator, 'DANIELA TEIXEIRA'). tem('202300960982', classe, 'AREsp'). tem('202300960982', objeto, 'nulidade_busca').
+tem('202300960982', marcador, 'fuga_mudanca_direcao').
+tem('202300960982', marcador, 'denuncia_anonima').
+resultado_real('202300960982', perde).
+tem('202301117345', turma, 'QUINTA TURMA'). tem('202301117345', relator, 'DANIELA TEIXEIRA'). tem('202301117345', classe, 'AREsp'). tem('202301117345', objeto, 'p4').
+resultado_real('202301117345', perde).
+tem('202301103725', turma, 'QUINTA TURMA'). tem('202301103725', relator, 'DANIELA TEIXEIRA'). tem('202301103725', classe, 'AREsp'). tem('202301103725', objeto, 'nulidade_busca').
+tem('202301103725', marcador, 'denuncia_anonima').
+resultado_real('202301103725', perde).
+tem('202301123856', turma, 'QUINTA TURMA'). tem('202301123856', relator, 'DANIELA TEIXEIRA'). tem('202301123856', classe, 'AREsp'). tem('202301123856', objeto, 'outro').
+resultado_real('202301123856', perde).
+tem('202301212174', turma, 'QUINTA TURMA'). tem('202301212174', relator, 'DANIELA TEIXEIRA'). tem('202301212174', classe, 'AREsp'). tem('202301212174', objeto, 'outro').
+resultado_real('202301212174', perde).
+tem('202301436416', turma, 'QUINTA TURMA'). tem('202301436416', relator, 'DANIELA TEIXEIRA'). tem('202301436416', classe, 'AREsp'). tem('202301436416', objeto, 'outro').
+resultado_real('202301436416', perde).
+tem('202301471034', turma, 'QUINTA TURMA'). tem('202301471034', relator, 'DANIELA TEIXEIRA'). tem('202301471034', classe, 'AREsp'). tem('202301471034', objeto, 'outro').
+resultado_real('202301471034', perde).
+tem('202301653291', turma, 'QUINTA TURMA'). tem('202301653291', relator, 'DANIELA TEIXEIRA'). tem('202301653291', classe, 'AREsp'). tem('202301653291', objeto, 'p4').
+resultado_real('202301653291', vence).
+tem('202301706891', turma, 'QUINTA TURMA'). tem('202301706891', relator, 'DANIELA TEIXEIRA'). tem('202301706891', classe, 'AREsp'). tem('202301706891', objeto, 'p4').
+tem('202301706891', marcador, 'faccao').
+resultado_real('202301706891', vence).
+tem('202301766846', turma, 'QUINTA TURMA'). tem('202301766846', relator, 'DANIELA TEIXEIRA'). tem('202301766846', classe, 'AREsp'). tem('202301766846', objeto, 'p4').
+tem('202301766846', marcador, 'faccao').
+resultado_real('202301766846', perde).
+tem('202301912636', turma, 'QUINTA TURMA'). tem('202301912636', relator, 'DANIELA TEIXEIRA'). tem('202301912636', classe, 'AREsp'). tem('202301912636', objeto, 'p4').
+tem('202301912636', marcador, 'faccao').
+resultado_real('202301912636', vence).
+tem('202301916563', turma, 'QUINTA TURMA'). tem('202301916563', relator, 'DANIELA TEIXEIRA'). tem('202301916563', classe, 'AREsp'). tem('202301916563', objeto, 'p4').
+resultado_real('202301916563', perde).
+tem('202302005101', turma, 'QUINTA TURMA'). tem('202302005101', relator, 'DANIELA TEIXEIRA'). tem('202302005101', classe, 'AREsp'). tem('202302005101', objeto, 'dosimetria').
+resultado_real('202302005101', perde).
+tem('202302030163', turma, 'QUINTA TURMA'). tem('202302030163', relator, 'DANIELA TEIXEIRA'). tem('202302030163', classe, 'AREsp'). tem('202302030163', objeto, 'outro').
+resultado_real('202302030163', perde).
+tem('202302021190', turma, 'QUINTA TURMA'). tem('202302021190', relator, 'DANIELA TEIXEIRA'). tem('202302021190', classe, 'AREsp'). tem('202302021190', objeto, 'p4').
+resultado_real('202302021190', perde).
+tem('202302124064', turma, 'QUINTA TURMA'). tem('202302124064', relator, 'DANIELA TEIXEIRA'). tem('202302124064', classe, 'AREsp'). tem('202302124064', objeto, 'nulidade_busca').
+tem('202302124064', marcador, 'atos_infracionais').
+tem('202302124064', marcador, 'denuncia_anonima').
+resultado_real('202302124064', vence).
+tem('202302182240', turma, 'QUINTA TURMA'). tem('202302182240', relator, 'DANIELA TEIXEIRA'). tem('202302182240', classe, 'AREsp'). tem('202302182240', objeto, 'p4').
+resultado_real('202302182240', vence).
+tem('202302195103', turma, 'QUINTA TURMA'). tem('202302195103', relator, 'DANIELA TEIXEIRA'). tem('202302195103', classe, 'AREsp'). tem('202302195103', objeto, 'desclassificacao').
+resultado_real('202302195103', perde).
+tem('202302275560', turma, 'QUINTA TURMA'). tem('202302275560', relator, 'DANIELA TEIXEIRA'). tem('202302275560', classe, 'AREsp'). tem('202302275560', objeto, 'dosimetria').
+resultado_real('202302275560', perde).
+tem('202302257031', turma, 'QUINTA TURMA'). tem('202302257031', relator, 'DANIELA TEIXEIRA'). tem('202302257031', classe, 'AREsp'). tem('202302257031', objeto, 'p4').
+tem('202302257031', marcador, 'faccao').
+resultado_real('202302257031', perde).
+tem('202302277909', turma, 'QUINTA TURMA'). tem('202302277909', relator, 'DANIELA TEIXEIRA'). tem('202302277909', classe, 'AREsp'). tem('202302277909', objeto, 'nulidade_busca').
+resultado_real('202302277909', perde).
+tem('202302347118', turma, 'QUINTA TURMA'). tem('202302347118', relator, 'DANIELA TEIXEIRA'). tem('202302347118', classe, 'AREsp'). tem('202302347118', objeto, 'nulidade_busca').
+tem('202302347118', marcador, 'denuncia_anonima').
+resultado_real('202302347118', vence).
+tem('202302370767', turma, 'QUINTA TURMA'). tem('202302370767', relator, 'DANIELA TEIXEIRA'). tem('202302370767', classe, 'AREsp'). tem('202302370767', objeto, 'p4').
+resultado_real('202302370767', perde).
+tem('202302404690', turma, 'QUINTA TURMA'). tem('202302404690', relator, 'DANIELA TEIXEIRA'). tem('202302404690', classe, 'AREsp'). tem('202302404690', objeto, 'p4').
+tem('202302404690', marcador, 'ocupacao').
+resultado_real('202302404690', vence).
+tem('202302360140', turma, 'QUINTA TURMA'). tem('202302360140', relator, 'DANIELA TEIXEIRA'). tem('202302360140', classe, 'AREsp'). tem('202302360140', objeto, 'outro').
+resultado_real('202302360140', perde).
+tem('202302435122', turma, 'QUINTA TURMA'). tem('202302435122', relator, 'DANIELA TEIXEIRA'). tem('202302435122', classe, 'AREsp'). tem('202302435122', objeto, 'nulidade_busca').
+tem('202302435122', marcador, 'faccao').
+resultado_real('202302435122', vence).
+tem('202302429683', turma, 'QUINTA TURMA'). tem('202302429683', relator, 'DANIELA TEIXEIRA'). tem('202302429683', classe, 'AREsp'). tem('202302429683', objeto, 'p4').
+resultado_real('202302429683', vence).
+tem('202302446700', turma, 'QUINTA TURMA'). tem('202302446700', relator, 'DANIELA TEIXEIRA'). tem('202302446700', classe, 'AREsp'). tem('202302446700', objeto, 'nulidade_busca').
+resultado_real('202302446700', perde).
+tem('202302497728', turma, 'QUINTA TURMA'). tem('202302497728', relator, 'DANIELA TEIXEIRA'). tem('202302497728', classe, 'AREsp'). tem('202302497728', objeto, 'p4').
+resultado_real('202302497728', perde).
+tem('202302510616', turma, 'QUINTA TURMA'). tem('202302510616', relator, 'DANIELA TEIXEIRA'). tem('202302510616', classe, 'AREsp'). tem('202302510616', objeto, 'outro').
+resultado_real('202302510616', perde).
+tem('202302541689', turma, 'QUINTA TURMA'). tem('202302541689', relator, 'DANIELA TEIXEIRA'). tem('202302541689', classe, 'AREsp'). tem('202302541689', objeto, 'outro').
+resultado_real('202302541689', perde).
+tem('202302631211', turma, 'QUINTA TURMA'). tem('202302631211', relator, 'DANIELA TEIXEIRA'). tem('202302631211', classe, 'AREsp'). tem('202302631211', objeto, 'dosimetria').
+resultado_real('202302631211', vence).
+tem('202302632371', turma, 'QUINTA TURMA'). tem('202302632371', relator, 'DANIELA TEIXEIRA'). tem('202302632371', classe, 'AREsp'). tem('202302632371', objeto, 'p4').
+resultado_real('202302632371', perde).
+tem('202302674304', turma, 'QUINTA TURMA'). tem('202302674304', relator, 'DANIELA TEIXEIRA'). tem('202302674304', classe, 'AREsp'). tem('202302674304', objeto, 'p4').
+tem('202302674304', marcador, 'faccao').
+resultado_real('202302674304', vence).
+tem('202302673658', turma, 'QUINTA TURMA'). tem('202302673658', relator, 'DANIELA TEIXEIRA'). tem('202302673658', classe, 'AREsp'). tem('202302673658', objeto, 'p4').
+resultado_real('202302673658', perde).
+tem('202302673557', turma, 'QUINTA TURMA'). tem('202302673557', relator, 'DANIELA TEIXEIRA'). tem('202302673557', classe, 'AREsp'). tem('202302673557', objeto, 'desclassificacao').
+resultado_real('202302673557', perde).
+tem('202302862376', turma, 'QUINTA TURMA'). tem('202302862376', relator, 'DANIELA TEIXEIRA'). tem('202302862376', classe, 'AREsp'). tem('202302862376', objeto, 'p4').
+resultado_real('202302862376', perde).
+tem('202302868504', turma, 'QUINTA TURMA'). tem('202302868504', relator, 'DANIELA TEIXEIRA'). tem('202302868504', classe, 'AREsp'). tem('202302868504', objeto, 'nulidade_busca').
+tem('202302868504', marcador, 'local_conhecido').
+tem('202302868504', marcador, 'nervosismo').
+resultado_real('202302868504', perde).
+tem('202302934580', turma, 'QUINTA TURMA'). tem('202302934580', relator, 'DANIELA TEIXEIRA'). tem('202302934580', classe, 'AREsp'). tem('202302934580', objeto, 'outro').
+resultado_real('202302934580', perde).
+tem('202302972279', turma, 'QUINTA TURMA'). tem('202302972279', relator, 'DANIELA TEIXEIRA'). tem('202302972279', classe, 'AREsp'). tem('202302972279', objeto, 'outro').
+resultado_real('202302972279', perde).
+tem('202302873686', turma, 'QUINTA TURMA'). tem('202302873686', relator, 'DANIELA TEIXEIRA'). tem('202302873686', classe, 'AREsp'). tem('202302873686', objeto, 'nulidade_busca').
+tem('202302873686', marcador, 'fuga_mudanca_direcao').
+tem('202302873686', marcador, 'denuncia_anonima').
+resultado_real('202302873686', perde).
+tem('202303052992', turma, 'QUINTA TURMA'). tem('202303052992', relator, 'DANIELA TEIXEIRA'). tem('202303052992', classe, 'AREsp'). tem('202303052992', objeto, 'nulidade_busca').
+tem('202303052992', marcador, 'denuncia_anonima').
+resultado_real('202303052992', perde).
+tem('202303142182', turma, 'QUINTA TURMA'). tem('202303142182', relator, 'DANIELA TEIXEIRA'). tem('202303142182', classe, 'AREsp'). tem('202303142182', objeto, 'nulidade_busca').
+tem('202303142182', marcador, 'denuncia_anonima').
+resultado_real('202303142182', perde).
+tem('202302884304', turma, 'QUINTA TURMA'). tem('202302884304', relator, 'DANIELA TEIXEIRA'). tem('202302884304', classe, 'AREsp'). tem('202302884304', objeto, 'autoria').
+resultado_real('202302884304', perde).
+tem('202303025125', turma, 'QUINTA TURMA'). tem('202303025125', relator, 'DANIELA TEIXEIRA'). tem('202303025125', classe, 'AREsp'). tem('202303025125', objeto, 'nulidade_busca').
+resultado_real('202303025125', perde).
+tem('202303170492', turma, 'QUINTA TURMA'). tem('202303170492', relator, 'DANIELA TEIXEIRA'). tem('202303170492', classe, 'AREsp'). tem('202303170492', objeto, 'p4').
+resultado_real('202303170492', vence).
+tem('202303179383', turma, 'QUINTA TURMA'). tem('202303179383', relator, 'DANIELA TEIXEIRA'). tem('202303179383', classe, 'AREsp'). tem('202303179383', objeto, 'p4').
+resultado_real('202303179383', perde).
+tem('202303201561', turma, 'QUINTA TURMA'). tem('202303201561', relator, 'DANIELA TEIXEIRA'). tem('202303201561', classe, 'AREsp'). tem('202303201561', objeto, 'nulidade_busca').
+tem('202303201561', marcador, 'denuncia_anonima').
+resultado_real('202303201561', perde).
+tem('202303408550', turma, 'QUINTA TURMA'). tem('202303408550', relator, 'DANIELA TEIXEIRA'). tem('202303408550', classe, 'AREsp'). tem('202303408550', objeto, 'desclassificacao').
+resultado_real('202303408550', perde).
+tem('202303209252', turma, 'QUINTA TURMA'). tem('202303209252', relator, 'DANIELA TEIXEIRA'). tem('202303209252', classe, 'AREsp'). tem('202303209252', objeto, 'dosimetria').
+resultado_real('202303209252', perde).
+tem('202303227072', turma, 'QUINTA TURMA'). tem('202303227072', relator, 'DANIELA TEIXEIRA'). tem('202303227072', classe, 'AREsp'). tem('202303227072', objeto, 'p4').
+tem('202303227072', marcador, 'faccao').
+resultado_real('202303227072', perde).
+tem('202303349550', turma, 'QUINTA TURMA'). tem('202303349550', relator, 'DANIELA TEIXEIRA'). tem('202303349550', classe, 'AREsp'). tem('202303349550', objeto, 'nulidade_busca').
+tem('202303349550', marcador, 'fuga_mudanca_direcao').
+tem('202303349550', marcador, 'denuncia_anonima').
+resultado_real('202303349550', vence).
+tem('202303378995', turma, 'QUINTA TURMA'). tem('202303378995', relator, 'DANIELA TEIXEIRA'). tem('202303378995', classe, 'AREsp'). tem('202303378995', objeto, 'p4').
+tem('202303378995', marcador, 'atos_infracionais').
+resultado_real('202303378995', perde).
+tem('202303391943', turma, 'QUINTA TURMA'). tem('202303391943', relator, 'DANIELA TEIXEIRA'). tem('202303391943', classe, 'AREsp'). tem('202303391943', objeto, 'p4').
+resultado_real('202303391943', vence).
+tem('202303457410', turma, 'QUINTA TURMA'). tem('202303457410', relator, 'DANIELA TEIXEIRA'). tem('202303457410', classe, 'AREsp'). tem('202303457410', objeto, 'p4').
+resultado_real('202303457410', perde).
+tem('202303500727', turma, 'QUINTA TURMA'). tem('202303500727', relator, 'DANIELA TEIXEIRA'). tem('202303500727', classe, 'AREsp'). tem('202303500727', objeto, 'nulidade_busca').
+tem('202303500727', marcador, 'denuncia_anonima').
+resultado_real('202303500727', perde).
+tem('202303565353', turma, 'QUINTA TURMA'). tem('202303565353', relator, 'DANIELA TEIXEIRA'). tem('202303565353', classe, 'AREsp'). tem('202303565353', objeto, 'nulidade_busca').
+tem('202303565353', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303565353', perde).
+tem('202303710991', turma, 'QUINTA TURMA'). tem('202303710991', relator, 'DANIELA TEIXEIRA'). tem('202303710991', classe, 'AREsp'). tem('202303710991', objeto, 'dosimetria').
+resultado_real('202303710991', perde).
+tem('202303596520', turma, 'QUINTA TURMA'). tem('202303596520', relator, 'DANIELA TEIXEIRA'). tem('202303596520', classe, 'AREsp'). tem('202303596520', objeto, 'p4').
+tem('202303596520', marcador, 'faccao').
+tem('202303596520', marcador, 'ocupacao').
+resultado_real('202303596520', vence).
+tem('202303647908', turma, 'QUINTA TURMA'). tem('202303647908', relator, 'DANIELA TEIXEIRA'). tem('202303647908', classe, 'AREsp'). tem('202303647908', objeto, 'desclassificacao').
+resultado_real('202303647908', perde).
+tem('202303652500', turma, 'QUINTA TURMA'). tem('202303652500', relator, 'DANIELA TEIXEIRA'). tem('202303652500', classe, 'AREsp'). tem('202303652500', objeto, 'nulidade_busca').
+tem('202303652500', marcador, 'local_conhecido').
+resultado_real('202303652500', perde).
+tem('202303671040', turma, 'QUINTA TURMA'). tem('202303671040', relator, 'DANIELA TEIXEIRA'). tem('202303671040', classe, 'AREsp'). tem('202303671040', objeto, 'nulidade_busca').
+resultado_real('202303671040', perde).
+tem('202303788254', turma, 'QUINTA TURMA'). tem('202303788254', relator, 'DANIELA TEIXEIRA'). tem('202303788254', classe, 'AREsp'). tem('202303788254', objeto, 'p4').
+tem('202303788254', marcador, 'faccao').
+resultado_real('202303788254', vence).
+tem('202303726242', turma, 'QUINTA TURMA'). tem('202303726242', relator, 'DANIELA TEIXEIRA'). tem('202303726242', classe, 'AREsp'). tem('202303726242', objeto, 'nulidade_busca').
+tem('202303726242', marcador, 'denuncia_anonima').
+resultado_real('202303726242', perde).
+tem('202303655198', turma, 'QUINTA TURMA'). tem('202303655198', relator, 'DANIELA TEIXEIRA'). tem('202303655198', classe, 'AREsp'). tem('202303655198', objeto, 'p4').
+resultado_real('202303655198', perde).
+tem('202303888084', turma, 'QUINTA TURMA'). tem('202303888084', relator, 'DANIELA TEIXEIRA'). tem('202303888084', classe, 'AREsp'). tem('202303888084', objeto, 'desclassificacao').
+resultado_real('202303888084', vence).
+tem('202303891363', turma, 'QUINTA TURMA'). tem('202303891363', relator, 'DANIELA TEIXEIRA'). tem('202303891363', classe, 'AREsp'). tem('202303891363', objeto, 'nulidade_busca').
+tem('202303891363', marcador, 'local_conhecido').
+tem('202303891363', marcador, 'nervosismo').
+resultado_real('202303891363', perde).
+tem('202303914051', turma, 'QUINTA TURMA'). tem('202303914051', relator, 'DANIELA TEIXEIRA'). tem('202303914051', classe, 'AREsp'). tem('202303914051', objeto, 'nulidade_busca').
+tem('202303914051', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303914051', perde).
+tem('202303916956', turma, 'QUINTA TURMA'). tem('202303916956', relator, 'DANIELA TEIXEIRA'). tem('202303916956', classe, 'AREsp'). tem('202303916956', objeto, 'outro').
+resultado_real('202303916956', perde).
+tem('202304143770', turma, 'QUINTA TURMA'). tem('202304143770', relator, 'DANIELA TEIXEIRA'). tem('202304143770', classe, 'AREsp'). tem('202304143770', objeto, 'p4').
+resultado_real('202304143770', perde).
+tem('202304002412', turma, 'QUINTA TURMA'). tem('202304002412', relator, 'DANIELA TEIXEIRA'). tem('202304002412', classe, 'AREsp'). tem('202304002412', objeto, 'nulidade_busca').
+resultado_real('202304002412', perde).
+tem('202304113111', turma, 'QUINTA TURMA'). tem('202304113111', relator, 'DANIELA TEIXEIRA'). tem('202304113111', classe, 'AREsp'). tem('202304113111', objeto, 'nulidade_busca').
+resultado_real('202304113111', vence).
+tem('202304126073', turma, 'QUINTA TURMA'). tem('202304126073', relator, 'DANIELA TEIXEIRA'). tem('202304126073', classe, 'AREsp'). tem('202304126073', objeto, 'p4').
+resultado_real('202304126073', perde).
+tem('202304314124', turma, 'QUINTA TURMA'). tem('202304314124', relator, 'DANIELA TEIXEIRA'). tem('202304314124', classe, 'AREsp'). tem('202304314124', objeto, 'p4').
+tem('202304314124', marcador, 'atos_infracionais').
+resultado_real('202304314124', perde).
+tem('202304210618', turma, 'QUINTA TURMA'). tem('202304210618', relator, 'DANIELA TEIXEIRA'). tem('202304210618', classe, 'AREsp'). tem('202304210618', objeto, 'dosimetria').
+resultado_real('202304210618', vence).
+tem('202304252411', turma, 'QUINTA TURMA'). tem('202304252411', relator, 'DANIELA TEIXEIRA'). tem('202304252411', classe, 'AREsp'). tem('202304252411', objeto, 'dosimetria').
+resultado_real('202304252411', vence).
+tem('202304333031', turma, 'QUINTA TURMA'). tem('202304333031', relator, 'DANIELA TEIXEIRA'). tem('202304333031', classe, 'AREsp'). tem('202304333031', objeto, 'p4').
+resultado_real('202304333031', perde).
+tem('202304357003', turma, 'QUINTA TURMA'). tem('202304357003', relator, 'DANIELA TEIXEIRA'). tem('202304357003', classe, 'AREsp'). tem('202304357003', objeto, 'nulidade_busca').
+resultado_real('202304357003', vence).
+tem('202304393060', turma, 'QUINTA TURMA'). tem('202304393060', relator, 'DANIELA TEIXEIRA'). tem('202304393060', classe, 'AREsp'). tem('202304393060', objeto, 'p4').
+resultado_real('202304393060', vence).
+tem('202304423940', turma, 'QUINTA TURMA'). tem('202304423940', relator, 'DANIELA TEIXEIRA'). tem('202304423940', classe, 'AREsp'). tem('202304423940', objeto, 'nulidade_busca').
+tem('202304423940', marcador, 'comunidade_bairro').
+tem('202304423940', marcador, 'local_conhecido').
+resultado_real('202304423940', perde).
+tem('202304462067', turma, 'QUINTA TURMA'). tem('202304462067', relator, 'DANIELA TEIXEIRA'). tem('202304462067', classe, 'AREsp'). tem('202304462067', objeto, 'outro').
+resultado_real('202304462067', perde).
+tem('202304472800', turma, 'QUINTA TURMA'). tem('202304472800', relator, 'DANIELA TEIXEIRA'). tem('202304472800', classe, 'AREsp'). tem('202304472800', objeto, 'autoria').
+resultado_real('202304472800', perde).
+tem('202304520853', turma, 'QUINTA TURMA'). tem('202304520853', relator, 'DANIELA TEIXEIRA'). tem('202304520853', classe, 'AREsp'). tem('202304520853', objeto, 'outro').
+tem('202304520853', marcador, 'atos_infracionais').
+tem('202304520853', marcador, 'fuga_mudanca_direcao').
+resultado_real('202304520853', perde).
+tem('202304545075', turma, 'QUINTA TURMA'). tem('202304545075', relator, 'DANIELA TEIXEIRA'). tem('202304545075', classe, 'AREsp'). tem('202304545075', objeto, 'dosimetria').
+resultado_real('202304545075', perde).
+tem('202304547616', turma, 'QUINTA TURMA'). tem('202304547616', relator, 'DANIELA TEIXEIRA'). tem('202304547616', classe, 'AREsp'). tem('202304547616', objeto, 'desclassificacao').
+resultado_real('202304547616', vence).
+tem('202400051359', turma, 'QUINTA TURMA'). tem('202400051359', relator, 'DANIELA TEIXEIRA'). tem('202400051359', classe, 'AREsp'). tem('202400051359', objeto, 'dosimetria').
+resultado_real('202400051359', perde).
+tem('202400049179', turma, 'QUINTA TURMA'). tem('202400049179', relator, 'DANIELA TEIXEIRA'). tem('202400049179', classe, 'AREsp'). tem('202400049179', objeto, 'nulidade_busca').
+tem('202400049179', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400049179', perde).
+tem('202400173902', turma, 'QUINTA TURMA'). tem('202400173902', relator, 'DANIELA TEIXEIRA'). tem('202400173902', classe, 'AREsp'). tem('202400173902', objeto, 'outro').
+resultado_real('202400173902', perde).
+tem('202400210277', turma, 'QUINTA TURMA'). tem('202400210277', relator, 'DANIELA TEIXEIRA'). tem('202400210277', classe, 'AREsp'). tem('202400210277', objeto, 'dosimetria').
+resultado_real('202400210277', perde).
+tem('202400210479', turma, 'QUINTA TURMA'). tem('202400210479', relator, 'DANIELA TEIXEIRA'). tem('202400210479', classe, 'AREsp'). tem('202400210479', objeto, 'p4').
+resultado_real('202400210479', vence).
+tem('202400213776', turma, 'QUINTA TURMA'). tem('202400213776', relator, 'DANIELA TEIXEIRA'). tem('202400213776', classe, 'AREsp'). tem('202400213776', objeto, 'nulidade_busca').
+resultado_real('202400213776', vence).
+tem('202400223307', turma, 'QUINTA TURMA'). tem('202400223307', relator, 'DANIELA TEIXEIRA'). tem('202400223307', classe, 'AREsp'). tem('202400223307', objeto, 'nulidade_busca').
+tem('202400223307', marcador, 'local_conhecido').
+resultado_real('202400223307', vence).
+tem('202400239364', turma, 'QUINTA TURMA'). tem('202400239364', relator, 'DANIELA TEIXEIRA'). tem('202400239364', classe, 'AREsp'). tem('202400239364', objeto, 'autoria').
+resultado_real('202400239364', perde).
+tem('202400259293', turma, 'QUINTA TURMA'). tem('202400259293', relator, 'DANIELA TEIXEIRA'). tem('202400259293', classe, 'AREsp'). tem('202400259293', objeto, 'dosimetria').
+resultado_real('202400259293', perde).
+tem('202400257831', turma, 'QUINTA TURMA'). tem('202400257831', relator, 'DANIELA TEIXEIRA'). tem('202400257831', classe, 'AREsp'). tem('202400257831', objeto, 'nulidade_busca').
+resultado_real('202400257831', vence).
+tem('202400293915', turma, 'QUINTA TURMA'). tem('202400293915', relator, 'DANIELA TEIXEIRA'). tem('202400293915', classe, 'AREsp'). tem('202400293915', objeto, 'nulidade_busca').
+resultado_real('202400293915', perde).
+tem('202400310630', turma, 'QUINTA TURMA'). tem('202400310630', relator, 'DANIELA TEIXEIRA'). tem('202400310630', classe, 'AREsp'). tem('202400310630', objeto, 'p4').
+resultado_real('202400310630', vence).
+tem('202400312080', turma, 'QUINTA TURMA'). tem('202400312080', relator, 'DANIELA TEIXEIRA'). tem('202400312080', classe, 'AREsp'). tem('202400312080', objeto, 'p4').
+resultado_real('202400312080', vence).
+tem('202400397571', turma, 'QUINTA TURMA'). tem('202400397571', relator, 'DANIELA TEIXEIRA'). tem('202400397571', classe, 'AREsp'). tem('202400397571', objeto, 'nulidade_busca').
+tem('202400397571', marcador, 'nervosismo').
+resultado_real('202400397571', perde).
+tem('202400442153', turma, 'QUINTA TURMA'). tem('202400442153', relator, 'DANIELA TEIXEIRA'). tem('202400442153', classe, 'AREsp'). tem('202400442153', objeto, 'p4').
+tem('202400442153', marcador, 'local_conhecido').
+resultado_real('202400442153', vence).
+tem('202400479507', turma, 'QUINTA TURMA'). tem('202400479507', relator, 'DANIELA TEIXEIRA'). tem('202400479507', classe, 'AREsp'). tem('202400479507', objeto, 'nulidade_busca').
+tem('202400479507', marcador, 'fuga_mudanca_direcao').
+tem('202400479507', marcador, 'denuncia_anonima').
+resultado_real('202400479507', perde).
+tem('202400521347', turma, 'QUINTA TURMA'). tem('202400521347', relator, 'DANIELA TEIXEIRA'). tem('202400521347', classe, 'AREsp'). tem('202400521347', objeto, 'nulidade_busca').
+tem('202400521347', marcador, 'local_conhecido').
+tem('202400521347', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400521347', perde).
+tem('202400684809', turma, 'QUINTA TURMA'). tem('202400684809', relator, 'DANIELA TEIXEIRA'). tem('202400684809', classe, 'AREsp'). tem('202400684809', objeto, 'nulidade_busca').
+resultado_real('202400684809', perde).
+tem('202400712162', turma, 'QUINTA TURMA'). tem('202400712162', relator, 'DANIELA TEIXEIRA'). tem('202400712162', classe, 'AREsp'). tem('202400712162', objeto, 'outro').
+tem('202400712162', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400712162', perde).
+tem('202400744515', turma, 'QUINTA TURMA'). tem('202400744515', relator, 'DANIELA TEIXEIRA'). tem('202400744515', classe, 'AREsp'). tem('202400744515', objeto, 'nulidade_busca').
+resultado_real('202400744515', perde).
+tem('202400756190', turma, 'QUINTA TURMA'). tem('202400756190', relator, 'DANIELA TEIXEIRA'). tem('202400756190', classe, 'AREsp'). tem('202400756190', objeto, 'nulidade_busca').
+resultado_real('202400756190', perde).
+tem('202400860954', turma, 'QUINTA TURMA'). tem('202400860954', relator, 'DANIELA TEIXEIRA'). tem('202400860954', classe, 'AREsp'). tem('202400860954', objeto, 'outro').
+resultado_real('202400860954', perde).
+tem('202400875927', turma, 'QUINTA TURMA'). tem('202400875927', relator, 'DANIELA TEIXEIRA'). tem('202400875927', classe, 'AREsp'). tem('202400875927', objeto, 'autoria').
+resultado_real('202400875927', perde).
+tem('202400932741', turma, 'QUINTA TURMA'). tem('202400932741', relator, 'DANIELA TEIXEIRA'). tem('202400932741', classe, 'AREsp'). tem('202400932741', objeto, 'nulidade_busca').
+tem('202400932741', marcador, 'denuncia_anonima').
+resultado_real('202400932741', perde).
+tem('202400975126', turma, 'QUINTA TURMA'). tem('202400975126', relator, 'DANIELA TEIXEIRA'). tem('202400975126', classe, 'AREsp'). tem('202400975126', objeto, 'nulidade_busca').
+tem('202400975126', marcador, 'fuga_mudanca_direcao').
+tem('202400975126', marcador, 'denuncia_anonima').
+resultado_real('202400975126', perde).
+tem('202401018162', turma, 'QUINTA TURMA'). tem('202401018162', relator, 'DANIELA TEIXEIRA'). tem('202401018162', classe, 'AREsp'). tem('202401018162', objeto, 'nulidade_busca').
+tem('202401018162', marcador, 'denuncia_anonima').
+resultado_real('202401018162', perde).
+tem('202401093010', turma, 'QUINTA TURMA'). tem('202401093010', relator, 'DANIELA TEIXEIRA'). tem('202401093010', classe, 'AREsp'). tem('202401093010', objeto, 'nulidade_busca').
+resultado_real('202401093010', perde).
+tem('202401124049', turma, 'QUINTA TURMA'). tem('202401124049', relator, 'DANIELA TEIXEIRA'). tem('202401124049', classe, 'AREsp'). tem('202401124049', objeto, 'dosimetria').
+resultado_real('202401124049', perde).
+tem('202401126109', turma, 'QUINTA TURMA'). tem('202401126109', relator, 'DANIELA TEIXEIRA'). tem('202401126109', classe, 'AREsp'). tem('202401126109', objeto, 'p4').
+resultado_real('202401126109', perde).
+tem('202401164983', turma, 'QUINTA TURMA'). tem('202401164983', relator, 'DANIELA TEIXEIRA'). tem('202401164983', classe, 'AREsp'). tem('202401164983', objeto, 'nulidade_busca').
+tem('202401164983', marcador, 'local_conhecido').
+tem('202401164983', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401164983', perde).
+tem('202401168634', turma, 'QUINTA TURMA'). tem('202401168634', relator, 'DANIELA TEIXEIRA'). tem('202401168634', classe, 'AREsp'). tem('202401168634', objeto, 'nulidade_busca').
+tem('202401168634', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401168634', perde).
+tem('202401191502', turma, 'QUINTA TURMA'). tem('202401191502', relator, 'DANIELA TEIXEIRA'). tem('202401191502', classe, 'AREsp'). tem('202401191502', objeto, 'autoria').
+resultado_real('202401191502', perde).
+tem('202401207789', turma, 'QUINTA TURMA'). tem('202401207789', relator, 'DANIELA TEIXEIRA'). tem('202401207789', classe, 'AREsp'). tem('202401207789', objeto, 'nulidade_busca').
+resultado_real('202401207789', vence).
+tem('202401210790', turma, 'QUINTA TURMA'). tem('202401210790', relator, 'DANIELA TEIXEIRA'). tem('202401210790', classe, 'AREsp'). tem('202401210790', objeto, 'desclassificacao').
+resultado_real('202401210790', perde).
+tem('202401217091', turma, 'QUINTA TURMA'). tem('202401217091', relator, 'DANIELA TEIXEIRA'). tem('202401217091', classe, 'AREsp'). tem('202401217091', objeto, 'nulidade_busca').
+tem('202401217091', marcador, 'nervosismo').
+tem('202401217091', marcador, 'fuga_mudanca_direcao').
+tem('202401217091', marcador, 'denuncia_anonima').
+resultado_real('202401217091', perde).
+tem('202401221609', turma, 'QUINTA TURMA'). tem('202401221609', relator, 'DANIELA TEIXEIRA'). tem('202401221609', classe, 'AREsp'). tem('202401221609', objeto, 'dosimetria').
+resultado_real('202401221609', perde).
+tem('202401264400', turma, 'QUINTA TURMA'). tem('202401264400', relator, 'DANIELA TEIXEIRA'). tem('202401264400', classe, 'AREsp'). tem('202401264400', objeto, 'nulidade_busca').
+tem('202401264400', marcador, 'denuncia_anonima').
+resultado_real('202401264400', perde).
+tem('202401269741', turma, 'QUINTA TURMA'). tem('202401269741', relator, 'DANIELA TEIXEIRA'). tem('202401269741', classe, 'AREsp'). tem('202401269741', objeto, 'desclassificacao').
+resultado_real('202401269741', perde).
+tem('202401289948', turma, 'QUINTA TURMA'). tem('202401289948', relator, 'DANIELA TEIXEIRA'). tem('202401289948', classe, 'AREsp'). tem('202401289948', objeto, 'nulidade_busca').
+resultado_real('202401289948', perde).
+tem('202401365846', turma, 'QUINTA TURMA'). tem('202401365846', relator, 'DANIELA TEIXEIRA'). tem('202401365846', classe, 'AREsp'). tem('202401365846', objeto, 'dosimetria').
+resultado_real('202401365846', perde).
+tem('202401375160', turma, 'QUINTA TURMA'). tem('202401375160', relator, 'DANIELA TEIXEIRA'). tem('202401375160', classe, 'AREsp'). tem('202401375160', objeto, 'desclassificacao').
+tem('202401375160', marcador, 'local_conhecido').
+resultado_real('202401375160', perde).
+tem('202401471657', turma, 'QUINTA TURMA'). tem('202401471657', relator, 'DANIELA TEIXEIRA'). tem('202401471657', classe, 'AREsp'). tem('202401471657', objeto, 'nulidade_busca').
+tem('202401471657', marcador, 'atos_infracionais').
+resultado_real('202401471657', perde).
+tem('202401482967', turma, 'QUINTA TURMA'). tem('202401482967', relator, 'DANIELA TEIXEIRA'). tem('202401482967', classe, 'AREsp'). tem('202401482967', objeto, 'nulidade_busca').
+tem('202401482967', marcador, 'local_conhecido').
+tem('202401482967', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401482967', perde).
+tem('202401552241', turma, 'QUINTA TURMA'). tem('202401552241', relator, 'DANIELA TEIXEIRA'). tem('202401552241', classe, 'AREsp'). tem('202401552241', objeto, 'nulidade_busca').
+resultado_real('202401552241', perde).
+tem('202401575579', turma, 'QUINTA TURMA'). tem('202401575579', relator, 'DANIELA TEIXEIRA'). tem('202401575579', classe, 'AREsp'). tem('202401575579', objeto, 'nulidade_busca').
+tem('202401575579', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401575579', perde).
+tem('202401583670', turma, 'QUINTA TURMA'). tem('202401583670', relator, 'DANIELA TEIXEIRA'). tem('202401583670', classe, 'AREsp'). tem('202401583670', objeto, 'nulidade_busca').
+tem('202401583670', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401583670', perde).
+tem('202401596410', turma, 'QUINTA TURMA'). tem('202401596410', relator, 'DANIELA TEIXEIRA'). tem('202401596410', classe, 'AREsp'). tem('202401596410', objeto, 'nulidade_busca').
+tem('202401596410', marcador, 'nervosismo').
+tem('202401596410', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401596410', perde).
+tem('202401622485', turma, 'QUINTA TURMA'). tem('202401622485', relator, 'DANIELA TEIXEIRA'). tem('202401622485', classe, 'AREsp'). tem('202401622485', objeto, 'outro').
+resultado_real('202401622485', perde).
+tem('202401625644', turma, 'QUINTA TURMA'). tem('202401625644', relator, 'DANIELA TEIXEIRA'). tem('202401625644', classe, 'AREsp'). tem('202401625644', objeto, 'dosimetria').
+resultado_real('202401625644', perde).
+tem('202401625656', turma, 'QUINTA TURMA'). tem('202401625656', relator, 'DANIELA TEIXEIRA'). tem('202401625656', classe, 'AREsp'). tem('202401625656', objeto, 'p4').
+resultado_real('202401625656', perde).
+tem('202401636311', turma, 'QUINTA TURMA'). tem('202401636311', relator, 'DANIELA TEIXEIRA'). tem('202401636311', classe, 'AREsp'). tem('202401636311', objeto, 'p4').
+resultado_real('202401636311', perde).
+tem('202401653715', turma, 'QUINTA TURMA'). tem('202401653715', relator, 'DANIELA TEIXEIRA'). tem('202401653715', classe, 'AREsp'). tem('202401653715', objeto, 'p4').
+resultado_real('202401653715', vence).
+tem('202401675563', turma, 'QUINTA TURMA'). tem('202401675563', relator, 'DANIELA TEIXEIRA'). tem('202401675563', classe, 'AREsp'). tem('202401675563', objeto, 'nulidade_busca').
+resultado_real('202401675563', perde).
+tem('202401685596', turma, 'QUINTA TURMA'). tem('202401685596', relator, 'DANIELA TEIXEIRA'). tem('202401685596', classe, 'AREsp'). tem('202401685596', objeto, 'dosimetria').
+resultado_real('202401685596', perde).
+tem('202401702880', turma, 'QUINTA TURMA'). tem('202401702880', relator, 'DANIELA TEIXEIRA'). tem('202401702880', classe, 'AREsp'). tem('202401702880', objeto, 'dosimetria').
+resultado_real('202401702880', perde).
+tem('202401737733', turma, 'QUINTA TURMA'). tem('202401737733', relator, 'DANIELA TEIXEIRA'). tem('202401737733', classe, 'AREsp'). tem('202401737733', objeto, 'outro').
+resultado_real('202401737733', perde).
+tem('202401846448', turma, 'QUINTA TURMA'). tem('202401846448', relator, 'DANIELA TEIXEIRA'). tem('202401846448', classe, 'AREsp'). tem('202401846448', objeto, 'nulidade_busca').
+resultado_real('202401846448', perde).
+tem('202401865343', turma, 'QUINTA TURMA'). tem('202401865343', relator, 'DANIELA TEIXEIRA'). tem('202401865343', classe, 'AREsp'). tem('202401865343', objeto, 'desclassificacao').
+resultado_real('202401865343', perde).
+tem('202401870250', turma, 'QUINTA TURMA'). tem('202401870250', relator, 'DANIELA TEIXEIRA'). tem('202401870250', classe, 'AREsp'). tem('202401870250', objeto, 'nulidade_busca').
+resultado_real('202401870250', perde).
+tem('202402012209', turma, 'QUINTA TURMA'). tem('202402012209', relator, 'DANIELA TEIXEIRA'). tem('202402012209', classe, 'AREsp'). tem('202402012209', objeto, 'p4').
+tem('202402012209', marcador, 'denuncia_anonima').
+resultado_real('202402012209', perde).
+tem('202402048082', turma, 'QUINTA TURMA'). tem('202402048082', relator, 'DANIELA TEIXEIRA'). tem('202402048082', classe, 'AREsp'). tem('202402048082', objeto, 'autoria').
+resultado_real('202402048082', perde).
+tem('202402064096', turma, 'QUINTA TURMA'). tem('202402064096', relator, 'DANIELA TEIXEIRA'). tem('202402064096', classe, 'AREsp'). tem('202402064096', objeto, 'nulidade_busca').
+tem('202402064096', marcador, 'faccao').
+resultado_real('202402064096', vence).
+tem('202402115300', turma, 'QUINTA TURMA'). tem('202402115300', relator, 'DANIELA TEIXEIRA'). tem('202402115300', classe, 'AREsp'). tem('202402115300', objeto, 'nulidade_busca').
+resultado_real('202402115300', perde).
+tem('202402179940', turma, 'QUINTA TURMA'). tem('202402179940', relator, 'DANIELA TEIXEIRA'). tem('202402179940', classe, 'AREsp'). tem('202402179940', objeto, 'outro').
+resultado_real('202402179940', perde).
+tem('202402210343', turma, 'QUINTA TURMA'). tem('202402210343', relator, 'DANIELA TEIXEIRA'). tem('202402210343', classe, 'AREsp'). tem('202402210343', objeto, 'p4').
+tem('202402210343', marcador, 'denuncia_anonima').
+resultado_real('202402210343', perde).
+tem('202402217226', turma, 'QUINTA TURMA'). tem('202402217226', relator, 'DANIELA TEIXEIRA'). tem('202402217226', classe, 'AREsp'). tem('202402217226', objeto, 'nulidade_busca').
+tem('202402217226', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402217226', perde).
+tem('202402285495', turma, 'QUINTA TURMA'). tem('202402285495', relator, 'DANIELA TEIXEIRA'). tem('202402285495', classe, 'AREsp'). tem('202402285495', objeto, 'p4').
+resultado_real('202402285495', vence).
+tem('202402344332', turma, 'QUINTA TURMA'). tem('202402344332', relator, 'DANIELA TEIXEIRA'). tem('202402344332', classe, 'AREsp'). tem('202402344332', objeto, 'nulidade_busca').
+resultado_real('202402344332', perde).
+tem('202402377720', turma, 'QUINTA TURMA'). tem('202402377720', relator, 'DANIELA TEIXEIRA'). tem('202402377720', classe, 'AREsp'). tem('202402377720', objeto, 'nulidade_busca').
+resultado_real('202402377720', perde).
+tem('202402379740', turma, 'QUINTA TURMA'). tem('202402379740', relator, 'DANIELA TEIXEIRA'). tem('202402379740', classe, 'AREsp'). tem('202402379740', objeto, 'nulidade_busca').
+resultado_real('202402379740', perde).
+tem('202402400236', turma, 'QUINTA TURMA'). tem('202402400236', relator, 'DANIELA TEIXEIRA'). tem('202402400236', classe, 'AREsp'). tem('202402400236', objeto, 'nulidade_busca').
+tem('202402400236', marcador, 'nervosismo').
+resultado_real('202402400236', perde).
+tem('202402430430', turma, 'QUINTA TURMA'). tem('202402430430', relator, 'DANIELA TEIXEIRA'). tem('202402430430', classe, 'AREsp'). tem('202402430430', objeto, 'p4').
+tem('202402430430', marcador, 'faccao').
+resultado_real('202402430430', vence).
+tem('202402432020', turma, 'QUINTA TURMA'). tem('202402432020', relator, 'DANIELA TEIXEIRA'). tem('202402432020', classe, 'AREsp'). tem('202402432020', objeto, 'p4').
+resultado_real('202402432020', perde).
+tem('202402444869', turma, 'QUINTA TURMA'). tem('202402444869', relator, 'DANIELA TEIXEIRA'). tem('202402444869', classe, 'AREsp'). tem('202402444869', objeto, 'nulidade_busca').
+resultado_real('202402444869', perde).
+tem('202402470590', turma, 'QUINTA TURMA'). tem('202402470590', relator, 'DANIELA TEIXEIRA'). tem('202402470590', classe, 'AREsp'). tem('202402470590', objeto, 'outro').
+resultado_real('202402470590', perde).
+tem('202402486460', turma, 'QUINTA TURMA'). tem('202402486460', relator, 'DANIELA TEIXEIRA'). tem('202402486460', classe, 'AREsp'). tem('202402486460', objeto, 'outro').
+tem('202402486460', marcador, 'denuncia_anonima').
+resultado_real('202402486460', perde).
+tem('202402542214', turma, 'QUINTA TURMA'). tem('202402542214', relator, 'DANIELA TEIXEIRA'). tem('202402542214', classe, 'AREsp'). tem('202402542214', objeto, 'nulidade_busca').
+resultado_real('202402542214', perde).
+tem('202402570601', turma, 'QUINTA TURMA'). tem('202402570601', relator, 'DANIELA TEIXEIRA'). tem('202402570601', classe, 'AREsp'). tem('202402570601', objeto, 'nulidade_busca').
+resultado_real('202402570601', perde).
+tem('202402606857', turma, 'QUINTA TURMA'). tem('202402606857', relator, 'DANIELA TEIXEIRA'). tem('202402606857', classe, 'AREsp'). tem('202402606857', objeto, 'nulidade_busca').
+tem('202402606857', marcador, 'denuncia_anonima').
+resultado_real('202402606857', perde).
+tem('202402611110', turma, 'QUINTA TURMA'). tem('202402611110', relator, 'DANIELA TEIXEIRA'). tem('202402611110', classe, 'AREsp'). tem('202402611110', objeto, 'nulidade_busca').
+resultado_real('202402611110', perde).
+tem('202402611727', turma, 'QUINTA TURMA'). tem('202402611727', relator, 'DANIELA TEIXEIRA'). tem('202402611727', classe, 'AREsp'). tem('202402611727', objeto, 'dosimetria').
+resultado_real('202402611727', perde).
+tem('202402633906', turma, 'QUINTA TURMA'). tem('202402633906', relator, 'DANIELA TEIXEIRA'). tem('202402633906', classe, 'AREsp'). tem('202402633906', objeto, 'nulidade_busca').
+tem('202402633906', marcador, 'denuncia_anonima').
+resultado_real('202402633906', perde).
+tem('202402655665', turma, 'QUINTA TURMA'). tem('202402655665', relator, 'DANIELA TEIXEIRA'). tem('202402655665', classe, 'AREsp'). tem('202402655665', objeto, 'nulidade_busca').
+resultado_real('202402655665', vence).
+tem('202402660308', turma, 'QUINTA TURMA'). tem('202402660308', relator, 'DANIELA TEIXEIRA'). tem('202402660308', classe, 'AREsp'). tem('202402660308', objeto, 'nulidade_busca').
+tem('202402660308', marcador, 'denuncia_anonima').
+resultado_real('202402660308', perde).
+tem('202402723133', turma, 'QUINTA TURMA'). tem('202402723133', relator, 'DANIELA TEIXEIRA'). tem('202402723133', classe, 'AREsp'). tem('202402723133', objeto, 'p4').
+resultado_real('202402723133', perde).
+tem('202402761000', turma, 'QUINTA TURMA'). tem('202402761000', relator, 'DANIELA TEIXEIRA'). tem('202402761000', classe, 'AREsp'). tem('202402761000', objeto, 'nulidade_busca').
+tem('202402761000', marcador, 'local_conhecido').
+resultado_real('202402761000', perde).
+tem('202402781090', turma, 'QUINTA TURMA'). tem('202402781090', relator, 'DANIELA TEIXEIRA'). tem('202402781090', classe, 'AREsp'). tem('202402781090', objeto, 'nulidade_busca').
+tem('202402781090', marcador, 'local_conhecido').
+resultado_real('202402781090', perde).
+tem('202402797226', turma, 'QUINTA TURMA'). tem('202402797226', relator, 'DANIELA TEIXEIRA'). tem('202402797226', classe, 'AREsp'). tem('202402797226', objeto, 'p4').
+resultado_real('202402797226', perde).
+tem('202402819369', turma, 'QUINTA TURMA'). tem('202402819369', relator, 'DANIELA TEIXEIRA'). tem('202402819369', classe, 'AREsp'). tem('202402819369', objeto, 'p4').
+resultado_real('202402819369', perde).
+tem('202402859750', turma, 'QUINTA TURMA'). tem('202402859750', relator, 'DANIELA TEIXEIRA'). tem('202402859750', classe, 'AREsp'). tem('202402859750', objeto, 'desclassificacao').
+resultado_real('202402859750', perde).
+tem('202402870471', turma, 'QUINTA TURMA'). tem('202402870471', relator, 'DANIELA TEIXEIRA'). tem('202402870471', classe, 'AREsp'). tem('202402870471', objeto, 'desclassificacao').
+resultado_real('202402870471', vence).
+tem('202402878453', turma, 'QUINTA TURMA'). tem('202402878453', relator, 'DANIELA TEIXEIRA'). tem('202402878453', classe, 'AREsp'). tem('202402878453', objeto, 'dosimetria').
+resultado_real('202402878453', perde).
+tem('202402886668', turma, 'QUINTA TURMA'). tem('202402886668', relator, 'DANIELA TEIXEIRA'). tem('202402886668', classe, 'AREsp'). tem('202402886668', objeto, 'nulidade_busca').
+tem('202402886668', marcador, 'nervosismo').
+tem('202402886668', marcador, 'fuga_mudanca_direcao').
+tem('202402886668', marcador, 'denuncia_anonima').
+resultado_real('202402886668', perde).
+tem('202402927859', turma, 'QUINTA TURMA'). tem('202402927859', relator, 'DANIELA TEIXEIRA'). tem('202402927859', classe, 'AREsp'). tem('202402927859', objeto, 'autoria').
+tem('202402927859', marcador, 'faccao').
+resultado_real('202402927859', perde).
+tem('202402940286', turma, 'QUINTA TURMA'). tem('202402940286', relator, 'DANIELA TEIXEIRA'). tem('202402940286', classe, 'AREsp'). tem('202402940286', objeto, 'dosimetria').
+tem('202402940286', marcador, 'faccao').
+resultado_real('202402940286', perde).
+tem('202402946475', turma, 'QUINTA TURMA'). tem('202402946475', relator, 'DANIELA TEIXEIRA'). tem('202402946475', classe, 'AREsp'). tem('202402946475', objeto, 'p4').
+resultado_real('202402946475', perde).
+tem('202403042292', turma, 'QUINTA TURMA'). tem('202403042292', relator, 'DANIELA TEIXEIRA'). tem('202403042292', classe, 'AREsp'). tem('202403042292', objeto, 'nulidade_busca').
+tem('202403042292', marcador, 'local_conhecido').
+resultado_real('202403042292', perde).
+tem('202403051570', turma, 'QUINTA TURMA'). tem('202403051570', relator, 'DANIELA TEIXEIRA'). tem('202403051570', classe, 'AREsp'). tem('202403051570', objeto, 'nulidade_busca').
+resultado_real('202403051570', perde).
+tem('202403069852', turma, 'QUINTA TURMA'). tem('202403069852', relator, 'DANIELA TEIXEIRA'). tem('202403069852', classe, 'AREsp'). tem('202403069852', objeto, 'outro').
+tem('202403069852', marcador, 'atos_infracionais').
+resultado_real('202403069852', vence).
+tem('202403082695', turma, 'QUINTA TURMA'). tem('202403082695', relator, 'DANIELA TEIXEIRA'). tem('202403082695', classe, 'AREsp'). tem('202403082695', objeto, 'nulidade_busca').
+tem('202403082695', marcador, 'local_conhecido').
+tem('202403082695', marcador, 'nervosismo').
+resultado_real('202403082695', perde).
+tem('202403089505', turma, 'QUINTA TURMA'). tem('202403089505', relator, 'DANIELA TEIXEIRA'). tem('202403089505', classe, 'AREsp'). tem('202403089505', objeto, 'nulidade_busca').
+resultado_real('202403089505', perde).
+tem('202403132165', turma, 'QUINTA TURMA'). tem('202403132165', relator, 'DANIELA TEIXEIRA'). tem('202403132165', classe, 'AREsp'). tem('202403132165', objeto, 'dosimetria').
+resultado_real('202403132165', perde).
+tem('202403138188', turma, 'QUINTA TURMA'). tem('202403138188', relator, 'DANIELA TEIXEIRA'). tem('202403138188', classe, 'AREsp'). tem('202403138188', objeto, 'nulidade_busca').
+resultado_real('202403138188', perde).
+tem('202403182832', turma, 'QUINTA TURMA'). tem('202403182832', relator, 'DANIELA TEIXEIRA'). tem('202403182832', classe, 'AREsp'). tem('202403182832', objeto, 'dosimetria').
+resultado_real('202403182832', perde).
+tem('202403188313', turma, 'QUINTA TURMA'). tem('202403188313', relator, 'DANIELA TEIXEIRA'). tem('202403188313', classe, 'AREsp'). tem('202403188313', objeto, 'nulidade_busca').
+resultado_real('202403188313', perde).
+tem('202403218724', turma, 'QUINTA TURMA'). tem('202403218724', relator, 'DANIELA TEIXEIRA'). tem('202403218724', classe, 'AREsp'). tem('202403218724', objeto, 'p4').
+resultado_real('202403218724', perde).
+tem('202403244278', turma, 'QUINTA TURMA'). tem('202403244278', relator, 'DANIELA TEIXEIRA'). tem('202403244278', classe, 'AREsp'). tem('202403244278', objeto, 'nulidade_busca').
+tem('202403244278', marcador, 'faccao').
+tem('202403244278', marcador, 'denuncia_anonima').
+resultado_real('202403244278', perde).
+tem('202403271150', turma, 'QUINTA TURMA'). tem('202403271150', relator, 'DANIELA TEIXEIRA'). tem('202403271150', classe, 'AREsp'). tem('202403271150', objeto, 'nulidade_busca').
+resultado_real('202403271150', perde).
+tem('202403278741', turma, 'QUINTA TURMA'). tem('202403278741', relator, 'DANIELA TEIXEIRA'). tem('202403278741', classe, 'AREsp'). tem('202403278741', objeto, 'autoria').
+resultado_real('202403278741', perde).
+tem('202403284087', turma, 'QUINTA TURMA'). tem('202403284087', relator, 'DANIELA TEIXEIRA'). tem('202403284087', classe, 'AREsp'). tem('202403284087', objeto, 'p4').
+resultado_real('202403284087', perde).
+tem('202403294666', turma, 'QUINTA TURMA'). tem('202403294666', relator, 'DANIELA TEIXEIRA'). tem('202403294666', classe, 'AREsp'). tem('202403294666', objeto, 'dosimetria').
+tem('202403294666', marcador, 'faccao').
+resultado_real('202403294666', perde).
+tem('202403396265', turma, 'QUINTA TURMA'). tem('202403396265', relator, 'DANIELA TEIXEIRA'). tem('202403396265', classe, 'AREsp'). tem('202403396265', objeto, 'nulidade_busca').
+resultado_real('202403396265', perde).
+tem('202403417628', turma, 'QUINTA TURMA'). tem('202403417628', relator, 'DANIELA TEIXEIRA'). tem('202403417628', classe, 'AREsp'). tem('202403417628', objeto, 'outro').
+tem('202403417628', marcador, 'faccao').
+resultado_real('202403417628', perde).
+tem('202403426603', turma, 'QUINTA TURMA'). tem('202403426603', relator, 'DANIELA TEIXEIRA'). tem('202403426603', classe, 'AREsp'). tem('202403426603', objeto, 'nulidade_busca').
+resultado_real('202403426603', perde).
+tem('202403443010', turma, 'QUINTA TURMA'). tem('202403443010', relator, 'DANIELA TEIXEIRA'). tem('202403443010', classe, 'AREsp'). tem('202403443010', objeto, 'p4').
+tem('202403443010', marcador, 'faccao').
+resultado_real('202403443010', perde).
+tem('202403511031', turma, 'QUINTA TURMA'). tem('202403511031', relator, 'DANIELA TEIXEIRA'). tem('202403511031', classe, 'AREsp'). tem('202403511031', objeto, 'dosimetria').
+tem('202403511031', marcador, 'faccao').
+resultado_real('202403511031', perde).
+tem('202403542006', turma, 'QUINTA TURMA'). tem('202403542006', relator, 'DANIELA TEIXEIRA'). tem('202403542006', classe, 'AREsp'). tem('202403542006', objeto, 'p4').
+resultado_real('202403542006', vence).
+tem('202403582219', turma, 'QUINTA TURMA'). tem('202403582219', relator, 'DANIELA TEIXEIRA'). tem('202403582219', classe, 'AREsp'). tem('202403582219', objeto, 'desclassificacao').
+resultado_real('202403582219', vence).
+tem('202403589997', turma, 'QUINTA TURMA'). tem('202403589997', relator, 'DANIELA TEIXEIRA'). tem('202403589997', classe, 'AREsp'). tem('202403589997', objeto, 'p4').
+tem('202403589997', marcador, 'faccao').
+resultado_real('202403589997', perde).
+tem('202403592961', turma, 'QUINTA TURMA'). tem('202403592961', relator, 'DANIELA TEIXEIRA'). tem('202403592961', classe, 'AREsp'). tem('202403592961', objeto, 'p4').
+tem('202403592961', marcador, 'local_conhecido').
+resultado_real('202403592961', perde).
+tem('202403632636', turma, 'QUINTA TURMA'). tem('202403632636', relator, 'DANIELA TEIXEIRA'). tem('202403632636', classe, 'AREsp'). tem('202403632636', objeto, 'p4').
+tem('202403632636', marcador, 'faccao').
+resultado_real('202403632636', perde).
+tem('202403665769', turma, 'QUINTA TURMA'). tem('202403665769', relator, 'DANIELA TEIXEIRA'). tem('202403665769', classe, 'AREsp'). tem('202403665769', objeto, 'outro').
+resultado_real('202403665769', vence).
+tem('202403684878', turma, 'QUINTA TURMA'). tem('202403684878', relator, 'DANIELA TEIXEIRA'). tem('202403684878', classe, 'AREsp'). tem('202403684878', objeto, 'p4').
+resultado_real('202403684878', perde).
+tem('202403711981', turma, 'QUINTA TURMA'). tem('202403711981', relator, 'DANIELA TEIXEIRA'). tem('202403711981', classe, 'AREsp'). tem('202403711981', objeto, 'p4').
+resultado_real('202403711981', perde).
+tem('202403833092', turma, 'QUINTA TURMA'). tem('202403833092', relator, 'DANIELA TEIXEIRA'). tem('202403833092', classe, 'AREsp'). tem('202403833092', objeto, 'nulidade_busca').
+resultado_real('202403833092', vence).
+tem('202403855905', turma, 'QUINTA TURMA'). tem('202403855905', relator, 'DANIELA TEIXEIRA'). tem('202403855905', classe, 'AREsp'). tem('202403855905', objeto, 'p4').
+resultado_real('202403855905', perde).
+tem('202403903744', turma, 'QUINTA TURMA'). tem('202403903744', relator, 'DANIELA TEIXEIRA'). tem('202403903744', classe, 'AREsp'). tem('202403903744', objeto, 'desclassificacao').
+resultado_real('202403903744', perde).
+tem('202403932255', turma, 'QUINTA TURMA'). tem('202403932255', relator, 'DANIELA TEIXEIRA'). tem('202403932255', classe, 'AREsp'). tem('202403932255', objeto, 'autoria').
+resultado_real('202403932255', perde).
+tem('202403934137', turma, 'QUINTA TURMA'). tem('202403934137', relator, 'DANIELA TEIXEIRA'). tem('202403934137', classe, 'AREsp'). tem('202403934137', objeto, 'outro').
+resultado_real('202403934137', perde).
+tem('202403944069', turma, 'QUINTA TURMA'). tem('202403944069', relator, 'DANIELA TEIXEIRA'). tem('202403944069', classe, 'AREsp'). tem('202403944069', objeto, 'p4').
+tem('202403944069', marcador, 'faccao').
+resultado_real('202403944069', perde).
+tem('202403944425', turma, 'QUINTA TURMA'). tem('202403944425', relator, 'DANIELA TEIXEIRA'). tem('202403944425', classe, 'AREsp'). tem('202403944425', objeto, 'p4').
+tem('202403944425', marcador, 'faccao').
+resultado_real('202403944425', perde).
+tem('202403946041', turma, 'QUINTA TURMA'). tem('202403946041', relator, 'DANIELA TEIXEIRA'). tem('202403946041', classe, 'AREsp'). tem('202403946041', objeto, 'dosimetria').
+resultado_real('202403946041', perde).
+tem('202403946558', turma, 'QUINTA TURMA'). tem('202403946558', relator, 'DANIELA TEIXEIRA'). tem('202403946558', classe, 'AREsp'). tem('202403946558', objeto, 'p4').
+tem('202403946558', marcador, 'faccao').
+resultado_real('202403946558', perde).
+tem('202403956681', turma, 'QUINTA TURMA'). tem('202403956681', relator, 'DANIELA TEIXEIRA'). tem('202403956681', classe, 'AREsp'). tem('202403956681', objeto, 'nulidade_busca').
+tem('202403956681', marcador, 'denuncia_anonima').
+resultado_real('202403956681', perde).
+tem('202403905752', turma, 'QUINTA TURMA'). tem('202403905752', relator, 'DANIELA TEIXEIRA'). tem('202403905752', classe, 'AREsp'). tem('202403905752', objeto, 'p4').
+tem('202403905752', marcador, 'faccao').
+resultado_real('202403905752', perde).
+tem('202404109065', turma, 'QUINTA TURMA'). tem('202404109065', relator, 'DANIELA TEIXEIRA'). tem('202404109065', classe, 'AREsp'). tem('202404109065', objeto, 'p4').
+resultado_real('202404109065', perde).
+tem('202404393986', turma, 'QUINTA TURMA'). tem('202404393986', relator, 'DANIELA TEIXEIRA'). tem('202404393986', classe, 'AREsp'). tem('202404393986', objeto, 'desclassificacao').
+resultado_real('202404393986', perde).
+tem('202304590296', turma, 'QUINTA TURMA'). tem('202304590296', relator, 'DANIELA TEIXEIRA'). tem('202304590296', classe, 'AgRg'). tem('202304590296', objeto, 'p4').
+resultado_real('202304590296', perde).
+tem('202202457310', turma, 'QUINTA TURMA'). tem('202202457310', relator, 'DANIELA TEIXEIRA'). tem('202202457310', classe, 'HC'). tem('202202457310', objeto, 'dosimetria').
+resultado_real('202202457310', perde).
+tem('202202631129', turma, 'QUINTA TURMA'). tem('202202631129', relator, 'DANIELA TEIXEIRA'). tem('202202631129', classe, 'HC'). tem('202202631129', objeto, 'dosimetria').
+resultado_real('202202631129', perde).
+tem('202202754298', turma, 'QUINTA TURMA'). tem('202202754298', relator, 'DANIELA TEIXEIRA'). tem('202202754298', classe, 'HC'). tem('202202754298', objeto, 'dosimetria').
+resultado_real('202202754298', perde).
+tem('202202837876', turma, 'QUINTA TURMA'). tem('202202837876', relator, 'DANIELA TEIXEIRA'). tem('202202837876', classe, 'HC'). tem('202202837876', objeto, 'desclassificacao').
+resultado_real('202202837876', perde).
+tem('202202919509', turma, 'QUINTA TURMA'). tem('202202919509', relator, 'DANIELA TEIXEIRA'). tem('202202919509', classe, 'HC'). tem('202202919509', objeto, 'dosimetria').
+resultado_real('202202919509', perde).
+tem('202202922433', turma, 'QUINTA TURMA'). tem('202202922433', relator, 'DANIELA TEIXEIRA'). tem('202202922433', classe, 'HC'). tem('202202922433', objeto, 'nulidade_busca').
+tem('202202922433', marcador, 'fuga_mudanca_direcao').
+resultado_real('202202922433', perde).
+tem('202203107422', turma, 'QUINTA TURMA'). tem('202203107422', relator, 'DANIELA TEIXEIRA'). tem('202203107422', classe, 'HC'). tem('202203107422', objeto, 'dosimetria').
+tem('202203107422', marcador, 'faccao').
+resultado_real('202203107422', perde).
+tem('202203276534', turma, 'QUINTA TURMA'). tem('202203276534', relator, 'DANIELA TEIXEIRA'). tem('202203276534', classe, 'HC'). tem('202203276534', objeto, 'dosimetria').
+resultado_real('202203276534', perde).
+tem('202203666823', turma, 'QUINTA TURMA'). tem('202203666823', relator, 'DANIELA TEIXEIRA'). tem('202203666823', classe, 'HC'). tem('202203666823', objeto, 'dosimetria').
+resultado_real('202203666823', perde).
+tem('202203767384', turma, 'QUINTA TURMA'). tem('202203767384', relator, 'DANIELA TEIXEIRA'). tem('202203767384', classe, 'HC'). tem('202203767384', objeto, 'p4').
+tem('202203767384', marcador, 'faccao').
+resultado_real('202203767384', perde).
+tem('202203786420', turma, 'QUINTA TURMA'). tem('202203786420', relator, 'DANIELA TEIXEIRA'). tem('202203786420', classe, 'HC'). tem('202203786420', objeto, 'dosimetria').
+resultado_real('202203786420', perde).
+tem('202203836913', turma, 'QUINTA TURMA'). tem('202203836913', relator, 'DANIELA TEIXEIRA'). tem('202203836913', classe, 'HC'). tem('202203836913', objeto, 'dosimetria').
+resultado_real('202203836913', perde).
+tem('202203887094', turma, 'QUINTA TURMA'). tem('202203887094', relator, 'DANIELA TEIXEIRA'). tem('202203887094', classe, 'HC'). tem('202203887094', objeto, 'dosimetria').
+resultado_real('202203887094', perde).
+tem('202203970743', turma, 'QUINTA TURMA'). tem('202203970743', relator, 'DANIELA TEIXEIRA'). tem('202203970743', classe, 'HC'). tem('202203970743', objeto, 'dosimetria').
+resultado_real('202203970743', perde).
+tem('202203970755', turma, 'QUINTA TURMA'). tem('202203970755', relator, 'DANIELA TEIXEIRA'). tem('202203970755', classe, 'HC'). tem('202203970755', objeto, 'p4').
+resultado_real('202203970755', perde).
+tem('202300273513', turma, 'QUINTA TURMA'). tem('202300273513', relator, 'DANIELA TEIXEIRA'). tem('202300273513', classe, 'HC'). tem('202300273513', objeto, 'dosimetria').
+resultado_real('202300273513', vence).
+tem('202300372939', turma, 'QUINTA TURMA'). tem('202300372939', relator, 'DANIELA TEIXEIRA'). tem('202300372939', classe, 'HC'). tem('202300372939', objeto, 'dosimetria').
+resultado_real('202300372939', perde).
+tem('202300438947', turma, 'QUINTA TURMA'). tem('202300438947', relator, 'DANIELA TEIXEIRA'). tem('202300438947', classe, 'HC'). tem('202300438947', objeto, 'dosimetria').
+resultado_real('202300438947', perde).
+tem('202300529022', turma, 'QUINTA TURMA'). tem('202300529022', relator, 'DANIELA TEIXEIRA'). tem('202300529022', classe, 'HC'). tem('202300529022', objeto, 'dosimetria').
+resultado_real('202300529022', perde).
+tem('202300585340', turma, 'QUINTA TURMA'). tem('202300585340', relator, 'DANIELA TEIXEIRA'). tem('202300585340', classe, 'HC'). tem('202300585340', objeto, 'dosimetria').
+resultado_real('202300585340', perde).
+tem('202300630362', turma, 'QUINTA TURMA'). tem('202300630362', relator, 'DANIELA TEIXEIRA'). tem('202300630362', classe, 'HC'). tem('202300630362', objeto, 'dosimetria').
+resultado_real('202300630362', vence).
+tem('202300692402', turma, 'QUINTA TURMA'). tem('202300692402', relator, 'DANIELA TEIXEIRA'). tem('202300692402', classe, 'HC'). tem('202300692402', objeto, 'nulidade_busca').
+tem('202300692402', marcador, 'fuga_mudanca_direcao').
+resultado_real('202300692402', perde).
+tem('202300788877', turma, 'QUINTA TURMA'). tem('202300788877', relator, 'DANIELA TEIXEIRA'). tem('202300788877', classe, 'HC'). tem('202300788877', objeto, 'nulidade_busca').
+tem('202300788877', marcador, 'atos_infracionais').
+resultado_real('202300788877', perde).
+tem('202300865356', turma, 'QUINTA TURMA'). tem('202300865356', relator, 'DANIELA TEIXEIRA'). tem('202300865356', classe, 'HC'). tem('202300865356', objeto, 'dosimetria').
+resultado_real('202300865356', perde).
+tem('202301144040', turma, 'QUINTA TURMA'). tem('202301144040', relator, 'DANIELA TEIXEIRA'). tem('202301144040', classe, 'HC'). tem('202301144040', objeto, 'dosimetria').
+tem('202301144040', marcador, 'local_conhecido').
+resultado_real('202301144040', perde).
+tem('202301159869', turma, 'QUINTA TURMA'). tem('202301159869', relator, 'DANIELA TEIXEIRA'). tem('202301159869', classe, 'HC'). tem('202301159869', objeto, 'outro').
+tem('202301159869', marcador, 'atos_infracionais').
+resultado_real('202301159869', perde).
+tem('202301168779', turma, 'QUINTA TURMA'). tem('202301168779', relator, 'DANIELA TEIXEIRA'). tem('202301168779', classe, 'HC'). tem('202301168779', objeto, 'dosimetria').
+tem('202301168779', marcador, 'faccao').
+resultado_real('202301168779', perde).
+tem('202301187018', turma, 'QUINTA TURMA'). tem('202301187018', relator, 'DANIELA TEIXEIRA'). tem('202301187018', classe, 'HC'). tem('202301187018', objeto, 'desclassificacao').
+tem('202301187018', marcador, 'local_conhecido').
+resultado_real('202301187018', perde).
+tem('202301292690', turma, 'QUINTA TURMA'). tem('202301292690', relator, 'DANIELA TEIXEIRA'). tem('202301292690', classe, 'HC'). tem('202301292690', objeto, 'dosimetria').
+resultado_real('202301292690', perde).
+tem('202301292729', turma, 'QUINTA TURMA'). tem('202301292729', relator, 'DANIELA TEIXEIRA'). tem('202301292729', classe, 'HC'). tem('202301292729', objeto, 'p4').
+resultado_real('202301292729', perde).
+tem('202301364035', turma, 'QUINTA TURMA'). tem('202301364035', relator, 'DANIELA TEIXEIRA'). tem('202301364035', classe, 'HC'). tem('202301364035', objeto, 'nulidade_busca').
+resultado_real('202301364035', perde).
+tem('202301419390', turma, 'QUINTA TURMA'). tem('202301419390', relator, 'DANIELA TEIXEIRA'). tem('202301419390', classe, 'HC'). tem('202301419390', objeto, 'p4').
+resultado_real('202301419390', perde).
+tem('202301433120', turma, 'QUINTA TURMA'). tem('202301433120', relator, 'DANIELA TEIXEIRA'). tem('202301433120', classe, 'HC'). tem('202301433120', objeto, 'dosimetria').
+resultado_real('202301433120', perde).
+tem('202301430290', turma, 'QUINTA TURMA'). tem('202301430290', relator, 'DANIELA TEIXEIRA'). tem('202301430290', classe, 'HC'). tem('202301430290', objeto, 'autoria').
+resultado_real('202301430290', perde).
+tem('202301434004', turma, 'QUINTA TURMA'). tem('202301434004', relator, 'DANIELA TEIXEIRA'). tem('202301434004', classe, 'HC'). tem('202301434004', objeto, 'nulidade_busca').
+tem('202301434004', marcador, 'nervosismo').
+tem('202301434004', marcador, 'denuncia_anonima').
+resultado_real('202301434004', perde).
+tem('202301663869', turma, 'QUINTA TURMA'). tem('202301663869', relator, 'DANIELA TEIXEIRA'). tem('202301663869', classe, 'HC'). tem('202301663869', objeto, 'dosimetria').
+resultado_real('202301663869', perde).
+tem('202301721745', turma, 'QUINTA TURMA'). tem('202301721745', relator, 'DANIELA TEIXEIRA'). tem('202301721745', classe, 'HC'). tem('202301721745', objeto, 'nulidade_busca').
+tem('202301721745', marcador, 'denuncia_anonima').
+resultado_real('202301721745', vence).
+tem('202301758692', turma, 'QUINTA TURMA'). tem('202301758692', relator, 'DANIELA TEIXEIRA'). tem('202301758692', classe, 'HC'). tem('202301758692', objeto, 'nulidade_busca').
+resultado_real('202301758692', vence).
+tem('202301786512', turma, 'QUINTA TURMA'). tem('202301786512', relator, 'DANIELA TEIXEIRA'). tem('202301786512', classe, 'HC'). tem('202301786512', objeto, 'nulidade_busca').
+resultado_real('202301786512', perde).
+tem('202301841127', turma, 'QUINTA TURMA'). tem('202301841127', relator, 'DANIELA TEIXEIRA'). tem('202301841127', classe, 'HC'). tem('202301841127', objeto, 'dosimetria').
+resultado_real('202301841127', perde).
+tem('202301867020', turma, 'QUINTA TURMA'). tem('202301867020', relator, 'DANIELA TEIXEIRA'). tem('202301867020', classe, 'HC'). tem('202301867020', objeto, 'dosimetria').
+resultado_real('202301867020', perde).
+tem('202301861651', turma, 'QUINTA TURMA'). tem('202301861651', relator, 'DANIELA TEIXEIRA'). tem('202301861651', classe, 'HC'). tem('202301861651', objeto, 'p4').
+resultado_real('202301861651', perde).
+tem('202301881757', turma, 'QUINTA TURMA'). tem('202301881757', relator, 'DANIELA TEIXEIRA'). tem('202301881757', classe, 'HC'). tem('202301881757', objeto, 'nulidade_busca').
+resultado_real('202301881757', perde).
+tem('202301919581', turma, 'QUINTA TURMA'). tem('202301919581', relator, 'DANIELA TEIXEIRA'). tem('202301919581', classe, 'HC'). tem('202301919581', objeto, 'p4').
+resultado_real('202301919581', perde).
+tem('202301930229', turma, 'QUINTA TURMA'). tem('202301930229', relator, 'DANIELA TEIXEIRA'). tem('202301930229', classe, 'HC'). tem('202301930229', objeto, 'dosimetria').
+tem('202301930229', marcador, 'faccao').
+resultado_real('202301930229', vence).
+tem('202301968958', turma, 'QUINTA TURMA'). tem('202301968958', relator, 'DANIELA TEIXEIRA'). tem('202301968958', classe, 'HC'). tem('202301968958', objeto, 'nulidade_busca').
+tem('202301968958', marcador, 'local_conhecido').
+resultado_real('202301968958', vence).
+tem('202301980262', turma, 'QUINTA TURMA'). tem('202301980262', relator, 'DANIELA TEIXEIRA'). tem('202301980262', classe, 'HC'). tem('202301980262', objeto, 'desclassificacao').
+tem('202301980262', marcador, 'faccao').
+tem('202301980262', marcador, 'atos_infracionais').
+tem('202301980262', marcador, 'fuga_mudanca_direcao').
+resultado_real('202301980262', perde).
+tem('202302061276', turma, 'QUINTA TURMA'). tem('202302061276', relator, 'DANIELA TEIXEIRA'). tem('202302061276', classe, 'HC'). tem('202302061276', objeto, 'nulidade_busca').
+resultado_real('202302061276', perde).
+tem('202302093755', turma, 'QUINTA TURMA'). tem('202302093755', relator, 'DANIELA TEIXEIRA'). tem('202302093755', classe, 'HC'). tem('202302093755', objeto, 'p4').
+resultado_real('202302093755', perde).
+tem('202302108239', turma, 'QUINTA TURMA'). tem('202302108239', relator, 'DANIELA TEIXEIRA'). tem('202302108239', classe, 'HC'). tem('202302108239', objeto, 'p4').
+resultado_real('202302108239', perde).
+tem('202302120692', turma, 'QUINTA TURMA'). tem('202302120692', relator, 'DANIELA TEIXEIRA'). tem('202302120692', classe, 'HC'). tem('202302120692', objeto, 'nulidade_busca').
+resultado_real('202302120692', perde).
+tem('202302144160', turma, 'QUINTA TURMA'). tem('202302144160', relator, 'DANIELA TEIXEIRA'). tem('202302144160', classe, 'HC'). tem('202302144160', objeto, 'nulidade_busca').
+tem('202302144160', marcador, 'fuga_mudanca_direcao').
+resultado_real('202302144160', perde).
+tem('202302170790', turma, 'QUINTA TURMA'). tem('202302170790', relator, 'DANIELA TEIXEIRA'). tem('202302170790', classe, 'HC'). tem('202302170790', objeto, 'nulidade_busca').
+resultado_real('202302170790', perde).
+tem('202302210528', turma, 'QUINTA TURMA'). tem('202302210528', relator, 'DANIELA TEIXEIRA'). tem('202302210528', classe, 'HC'). tem('202302210528', objeto, 'p4').
+resultado_real('202302210528', perde).
+tem('202302299074', turma, 'QUINTA TURMA'). tem('202302299074', relator, 'DANIELA TEIXEIRA'). tem('202302299074', classe, 'HC'). tem('202302299074', objeto, 'p4').
+resultado_real('202302299074', perde).
+tem('202302339053', turma, 'QUINTA TURMA'). tem('202302339053', relator, 'DANIELA TEIXEIRA'). tem('202302339053', classe, 'HC'). tem('202302339053', objeto, 'desclassificacao').
+resultado_real('202302339053', perde).
+tem('202302382735', turma, 'QUINTA TURMA'). tem('202302382735', relator, 'DANIELA TEIXEIRA'). tem('202302382735', classe, 'HC'). tem('202302382735', objeto, 'dosimetria').
+resultado_real('202302382735', perde).
+tem('202302567645', turma, 'QUINTA TURMA'). tem('202302567645', relator, 'DANIELA TEIXEIRA'). tem('202302567645', classe, 'HC'). tem('202302567645', objeto, 'nulidade_busca').
+tem('202302567645', marcador, 'fuga_mudanca_direcao').
+tem('202302567645', marcador, 'denuncia_anonima').
+resultado_real('202302567645', perde).
+tem('202302808132', turma, 'QUINTA TURMA'). tem('202302808132', relator, 'DANIELA TEIXEIRA'). tem('202302808132', classe, 'HC'). tem('202302808132', objeto, 'nulidade_busca').
+tem('202302808132', marcador, 'faccao').
+resultado_real('202302808132', perde).
+tem('202302828137', turma, 'QUINTA TURMA'). tem('202302828137', relator, 'DANIELA TEIXEIRA'). tem('202302828137', classe, 'HC'). tem('202302828137', objeto, 'p4').
+resultado_real('202302828137', perde).
+tem('202302890459', turma, 'QUINTA TURMA'). tem('202302890459', relator, 'DANIELA TEIXEIRA'). tem('202302890459', classe, 'HC'). tem('202302890459', objeto, 'nulidade_busca').
+tem('202302890459', marcador, 'fuga_mudanca_direcao').
+tem('202302890459', marcador, 'denuncia_anonima').
+resultado_real('202302890459', vence).
+tem('202302933306', turma, 'QUINTA TURMA'). tem('202302933306', relator, 'DANIELA TEIXEIRA'). tem('202302933306', classe, 'HC'). tem('202302933306', objeto, 'autoria').
+tem('202302933306', marcador, 'faccao').
+resultado_real('202302933306', perde).
+tem('202302956190', turma, 'QUINTA TURMA'). tem('202302956190', relator, 'DANIELA TEIXEIRA'). tem('202302956190', classe, 'HC'). tem('202302956190', objeto, 'p4').
+tem('202302956190', marcador, 'denuncia_anonima').
+resultado_real('202302956190', perde).
+tem('202303001266', turma, 'QUINTA TURMA'). tem('202303001266', relator, 'DANIELA TEIXEIRA'). tem('202303001266', classe, 'HC'). tem('202303001266', objeto, 'p4').
+resultado_real('202303001266', perde).
+tem('202303023381', turma, 'QUINTA TURMA'). tem('202303023381', relator, 'DANIELA TEIXEIRA'). tem('202303023381', classe, 'HC'). tem('202303023381', objeto, 'nulidade_busca').
+tem('202303023381', marcador, 'atos_infracionais').
+resultado_real('202303023381', perde).
+tem('202303042214', turma, 'QUINTA TURMA'). tem('202303042214', relator, 'DANIELA TEIXEIRA'). tem('202303042214', classe, 'HC'). tem('202303042214', objeto, 'nulidade_busca').
+tem('202303042214', marcador, 'denuncia_anonima').
+resultado_real('202303042214', vence).
+tem('202303051969', turma, 'QUINTA TURMA'). tem('202303051969', relator, 'DANIELA TEIXEIRA'). tem('202303051969', classe, 'HC'). tem('202303051969', objeto, 'desclassificacao').
+tem('202303051969', marcador, 'local_conhecido').
+tem('202303051969', marcador, 'faccao').
+resultado_real('202303051969', perde).
+tem('202303056149', turma, 'QUINTA TURMA'). tem('202303056149', relator, 'DANIELA TEIXEIRA'). tem('202303056149', classe, 'HC'). tem('202303056149', objeto, 'outro').
+tem('202303056149', marcador, 'atos_infracionais').
+resultado_real('202303056149', perde).
+tem('202303071117', turma, 'QUINTA TURMA'). tem('202303071117', relator, 'DANIELA TEIXEIRA'). tem('202303071117', classe, 'HC'). tem('202303071117', objeto, 'dosimetria').
+resultado_real('202303071117', perde).
+tem('202303104191', turma, 'QUINTA TURMA'). tem('202303104191', relator, 'DANIELA TEIXEIRA'). tem('202303104191', classe, 'HC'). tem('202303104191', objeto, 'dosimetria').
+resultado_real('202303104191', perde).
+tem('202303121457', turma, 'QUINTA TURMA'). tem('202303121457', relator, 'DANIELA TEIXEIRA'). tem('202303121457', classe, 'HC'). tem('202303121457', objeto, 'outro').
+resultado_real('202303121457', perde).
+tem('202303149370', turma, 'QUINTA TURMA'). tem('202303149370', relator, 'DANIELA TEIXEIRA'). tem('202303149370', classe, 'HC'). tem('202303149370', objeto, 'p4').
+resultado_real('202303149370', perde).
+tem('202303188281', turma, 'QUINTA TURMA'). tem('202303188281', relator, 'DANIELA TEIXEIRA'). tem('202303188281', classe, 'HC'). tem('202303188281', objeto, 'nulidade_busca').
+tem('202303188281', marcador, 'denuncia_anonima').
+resultado_real('202303188281', vence).
+tem('202303217290', turma, 'QUINTA TURMA'). tem('202303217290', relator, 'DANIELA TEIXEIRA'). tem('202303217290', classe, 'HC'). tem('202303217290', objeto, 'nulidade_busca').
+resultado_real('202303217290', perde).
+tem('202303240513', turma, 'QUINTA TURMA'). tem('202303240513', relator, 'DANIELA TEIXEIRA'). tem('202303240513', classe, 'HC'). tem('202303240513', objeto, 'nulidade_busca').
+tem('202303240513', marcador, 'faccao').
+resultado_real('202303240513', perde).
+tem('202303241030', turma, 'QUINTA TURMA'). tem('202303241030', relator, 'DANIELA TEIXEIRA'). tem('202303241030', classe, 'HC'). tem('202303241030', objeto, 'dosimetria').
+tem('202303241030', marcador, 'faccao').
+resultado_real('202303241030', perde).
+tem('202303288098', turma, 'QUINTA TURMA'). tem('202303288098', relator, 'DANIELA TEIXEIRA'). tem('202303288098', classe, 'HC'). tem('202303288098', objeto, 'dosimetria').
+resultado_real('202303288098', perde).
+tem('202303305952', turma, 'QUINTA TURMA'). tem('202303305952', relator, 'DANIELA TEIXEIRA'). tem('202303305952', classe, 'HC'). tem('202303305952', objeto, 'nulidade_busca').
+tem('202303305952', marcador, 'faccao').
+tem('202303305952', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303305952', perde).
+tem('202303327031', turma, 'QUINTA TURMA'). tem('202303327031', relator, 'DANIELA TEIXEIRA'). tem('202303327031', classe, 'HC'). tem('202303327031', objeto, 'p4').
+tem('202303327031', marcador, 'faccao').
+resultado_real('202303327031', perde).
+tem('202303343413', turma, 'QUINTA TURMA'). tem('202303343413', relator, 'DANIELA TEIXEIRA'). tem('202303343413', classe, 'HC'). tem('202303343413', objeto, 'desclassificacao').
+resultado_real('202303343413', perde).
+tem('202303360704', turma, 'QUINTA TURMA'). tem('202303360704', relator, 'DANIELA TEIXEIRA'). tem('202303360704', classe, 'HC'). tem('202303360704', objeto, 'desclassificacao').
+resultado_real('202303360704', vence).
+tem('202303365993', turma, 'QUINTA TURMA'). tem('202303365993', relator, 'DANIELA TEIXEIRA'). tem('202303365993', classe, 'HC'). tem('202303365993', objeto, 'nulidade_busca').
+tem('202303365993', marcador, 'atos_infracionais').
+resultado_real('202303365993', perde).
+tem('202303378097', turma, 'QUINTA TURMA'). tem('202303378097', relator, 'DANIELA TEIXEIRA'). tem('202303378097', classe, 'HC'). tem('202303378097', objeto, 'nulidade_busca').
+resultado_real('202303378097', perde).
+tem('202303378655', turma, 'QUINTA TURMA'). tem('202303378655', relator, 'DANIELA TEIXEIRA'). tem('202303378655', classe, 'HC'). tem('202303378655', objeto, 'p4').
+tem('202303378655', marcador, 'atos_infracionais').
+resultado_real('202303378655', vence).
+tem('202303389282', turma, 'QUINTA TURMA'). tem('202303389282', relator, 'DANIELA TEIXEIRA'). tem('202303389282', classe, 'HC'). tem('202303389282', objeto, 'nulidade_busca').
+tem('202303389282', marcador, 'faccao').
+resultado_real('202303389282', perde).
+tem('202303404974', turma, 'QUINTA TURMA'). tem('202303404974', relator, 'DANIELA TEIXEIRA'). tem('202303404974', classe, 'HC'). tem('202303404974', objeto, 'nulidade_busca').
+tem('202303404974', marcador, 'conhecido_policia').
+tem('202303404974', marcador, 'denuncia_anonima').
+resultado_real('202303404974', perde).
+tem('202303412825', turma, 'QUINTA TURMA'). tem('202303412825', relator, 'DANIELA TEIXEIRA'). tem('202303412825', classe, 'HC'). tem('202303412825', objeto, 'p4').
+resultado_real('202303412825', vence).
+tem('202303489455', turma, 'QUINTA TURMA'). tem('202303489455', relator, 'DANIELA TEIXEIRA'). tem('202303489455', classe, 'HC'). tem('202303489455', objeto, 'nulidade_busca').
+tem('202303489455', marcador, 'faccao').
+resultado_real('202303489455', perde).
+tem('202303608184', turma, 'QUINTA TURMA'). tem('202303608184', relator, 'DANIELA TEIXEIRA'). tem('202303608184', classe, 'HC'). tem('202303608184', objeto, 'nulidade_busca').
+tem('202303608184', marcador, 'fuga_mudanca_direcao').
+tem('202303608184', marcador, 'denuncia_anonima').
+resultado_real('202303608184', perde).
+tem('202303609804', turma, 'QUINTA TURMA'). tem('202303609804', relator, 'DANIELA TEIXEIRA'). tem('202303609804', classe, 'HC'). tem('202303609804', objeto, 'autoria').
+resultado_real('202303609804', perde).
+tem('202303621360', turma, 'QUINTA TURMA'). tem('202303621360', relator, 'DANIELA TEIXEIRA'). tem('202303621360', classe, 'HC'). tem('202303621360', objeto, 'p4').
+resultado_real('202303621360', perde).
+tem('202303645760', turma, 'QUINTA TURMA'). tem('202303645760', relator, 'DANIELA TEIXEIRA'). tem('202303645760', classe, 'HC'). tem('202303645760', objeto, 'p4').
+resultado_real('202303645760', perde).
+tem('202303645723', turma, 'QUINTA TURMA'). tem('202303645723', relator, 'DANIELA TEIXEIRA'). tem('202303645723', classe, 'HC'). tem('202303645723', objeto, 'nulidade_busca').
+tem('202303645723', marcador, 'denuncia_anonima').
+resultado_real('202303645723', perde).
+tem('202303659278', turma, 'QUINTA TURMA'). tem('202303659278', relator, 'DANIELA TEIXEIRA'). tem('202303659278', classe, 'HC'). tem('202303659278', objeto, 'nulidade_busca').
+tem('202303659278', marcador, 'denuncia_anonima').
+resultado_real('202303659278', perde).
+tem('202303688068', turma, 'QUINTA TURMA'). tem('202303688068', relator, 'DANIELA TEIXEIRA'). tem('202303688068', classe, 'HC'). tem('202303688068', objeto, 'dosimetria').
+resultado_real('202303688068', perde).
+tem('202303689560', turma, 'QUINTA TURMA'). tem('202303689560', relator, 'DANIELA TEIXEIRA'). tem('202303689560', classe, 'HC'). tem('202303689560', objeto, 'dosimetria').
+resultado_real('202303689560', perde).
+tem('202303745577', turma, 'QUINTA TURMA'). tem('202303745577', relator, 'DANIELA TEIXEIRA'). tem('202303745577', classe, 'HC'). tem('202303745577', objeto, 'dosimetria').
+resultado_real('202303745577', perde).
+tem('202303759565', turma, 'QUINTA TURMA'). tem('202303759565', relator, 'DANIELA TEIXEIRA'). tem('202303759565', classe, 'HC'). tem('202303759565', objeto, 'nulidade_busca').
+tem('202303759565', marcador, 'local_conhecido').
+resultado_real('202303759565', perde).
+tem('202303765510', turma, 'QUINTA TURMA'). tem('202303765510', relator, 'DANIELA TEIXEIRA'). tem('202303765510', classe, 'HC'). tem('202303765510', objeto, 'outro').
+resultado_real('202303765510', perde).
+tem('202303801926', turma, 'QUINTA TURMA'). tem('202303801926', relator, 'DANIELA TEIXEIRA'). tem('202303801926', classe, 'HC'). tem('202303801926', objeto, 'outro').
+resultado_real('202303801926', perde).
+tem('202303844057', turma, 'QUINTA TURMA'). tem('202303844057', relator, 'DANIELA TEIXEIRA'). tem('202303844057', classe, 'HC'). tem('202303844057', objeto, 'nulidade_busca').
+tem('202303844057', marcador, 'atos_infracionais').
+tem('202303844057', marcador, 'nervosismo').
+resultado_real('202303844057', perde).
+tem('202303863534', turma, 'QUINTA TURMA'). tem('202303863534', relator, 'DANIELA TEIXEIRA'). tem('202303863534', classe, 'HC'). tem('202303863534', objeto, 'dosimetria').
+tem('202303863534', marcador, 'denuncia_anonima').
+resultado_real('202303863534', perde).
+tem('202303878936', turma, 'QUINTA TURMA'). tem('202303878936', relator, 'DANIELA TEIXEIRA'). tem('202303878936', classe, 'HC'). tem('202303878936', objeto, 'p4').
+resultado_real('202303878936', perde).
+tem('202303916374', turma, 'QUINTA TURMA'). tem('202303916374', relator, 'DANIELA TEIXEIRA'). tem('202303916374', classe, 'HC'). tem('202303916374', objeto, 'nulidade_busca').
+resultado_real('202303916374', perde).
+tem('202303960977', turma, 'QUINTA TURMA'). tem('202303960977', relator, 'DANIELA TEIXEIRA'). tem('202303960977', classe, 'HC'). tem('202303960977', objeto, 'nulidade_busca').
+tem('202303960977', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303960977', perde).
+tem('202303990195', turma, 'QUINTA TURMA'). tem('202303990195', relator, 'DANIELA TEIXEIRA'). tem('202303990195', classe, 'HC'). tem('202303990195', objeto, 'p4').
+resultado_real('202303990195', perde).
+tem('202303994810', turma, 'QUINTA TURMA'). tem('202303994810', relator, 'DANIELA TEIXEIRA'). tem('202303994810', classe, 'HC'). tem('202303994810', objeto, 'nulidade_busca').
+tem('202303994810', marcador, 'local_conhecido').
+tem('202303994810', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303994810', vence).
+tem('202304017080', turma, 'QUINTA TURMA'). tem('202304017080', relator, 'DANIELA TEIXEIRA'). tem('202304017080', classe, 'HC'). tem('202304017080', objeto, 'p4').
+resultado_real('202304017080', perde).
+tem('202304074320', turma, 'QUINTA TURMA'). tem('202304074320', relator, 'DANIELA TEIXEIRA'). tem('202304074320', classe, 'HC'). tem('202304074320', objeto, 'nulidade_busca').
+resultado_real('202304074320', vence).
+tem('202304114246', turma, 'QUINTA TURMA'). tem('202304114246', relator, 'DANIELA TEIXEIRA'). tem('202304114246', classe, 'HC'). tem('202304114246', objeto, 'outro').
+tem('202304114246', marcador, 'atos_infracionais').
+resultado_real('202304114246', perde).
+tem('202304127730', turma, 'QUINTA TURMA'). tem('202304127730', relator, 'DANIELA TEIXEIRA'). tem('202304127730', classe, 'HC'). tem('202304127730', objeto, 'desclassificacao').
+resultado_real('202304127730', vence).
+tem('202304128804', turma, 'QUINTA TURMA'). tem('202304128804', relator, 'DANIELA TEIXEIRA'). tem('202304128804', classe, 'HC'). tem('202304128804', objeto, 'p4').
+resultado_real('202304128804', perde).
+tem('202304170235', turma, 'QUINTA TURMA'). tem('202304170235', relator, 'DANIELA TEIXEIRA'). tem('202304170235', classe, 'HC'). tem('202304170235', objeto, 'nulidade_busca').
+tem('202304170235', marcador, 'nervosismo').
+resultado_real('202304170235', perde).
+tem('202304187924', turma, 'QUINTA TURMA'). tem('202304187924', relator, 'DANIELA TEIXEIRA'). tem('202304187924', classe, 'HC'). tem('202304187924', objeto, 'outro').
+tem('202304187924', marcador, 'atos_infracionais').
+resultado_real('202304187924', perde).
+tem('202304221360', turma, 'QUINTA TURMA'). tem('202304221360', relator, 'DANIELA TEIXEIRA'). tem('202304221360', classe, 'HC'). tem('202304221360', objeto, 'dosimetria').
+resultado_real('202304221360', perde).
+tem('202304341182', turma, 'QUINTA TURMA'). tem('202304341182', relator, 'DANIELA TEIXEIRA'). tem('202304341182', classe, 'HC'). tem('202304341182', objeto, 'nulidade_busca').
+tem('202304341182', marcador, 'denuncia_anonima').
+resultado_real('202304341182', perde).
+tem('202304393780', turma, 'QUINTA TURMA'). tem('202304393780', relator, 'DANIELA TEIXEIRA'). tem('202304393780', classe, 'HC'). tem('202304393780', objeto, 'nulidade_busca').
+tem('202304393780', marcador, 'denuncia_anonima').
+resultado_real('202304393780', perde).
+tem('202304422497', turma, 'QUINTA TURMA'). tem('202304422497', relator, 'DANIELA TEIXEIRA'). tem('202304422497', classe, 'HC'). tem('202304422497', objeto, 'dosimetria').
+resultado_real('202304422497', perde).
+tem('202304447188', turma, 'QUINTA TURMA'). tem('202304447188', relator, 'DANIELA TEIXEIRA'). tem('202304447188', classe, 'HC'). tem('202304447188', objeto, 'dosimetria').
+resultado_real('202304447188', vence).
+tem('202304449730', turma, 'QUINTA TURMA'). tem('202304449730', relator, 'DANIELA TEIXEIRA'). tem('202304449730', classe, 'HC'). tem('202304449730', objeto, 'desclassificacao').
+resultado_real('202304449730', vence).
+tem('202304494684', turma, 'QUINTA TURMA'). tem('202304494684', relator, 'DANIELA TEIXEIRA'). tem('202304494684', classe, 'HC'). tem('202304494684', objeto, 'nulidade_busca').
+tem('202304494684', marcador, 'fuga_mudanca_direcao').
+resultado_real('202304494684', perde).
+tem('202304586490', turma, 'QUINTA TURMA'). tem('202304586490', relator, 'DANIELA TEIXEIRA'). tem('202304586490', classe, 'HC'). tem('202304586490', objeto, 'p4').
+resultado_real('202304586490', perde).
+tem('202304627606', turma, 'QUINTA TURMA'). tem('202304627606', relator, 'DANIELA TEIXEIRA'). tem('202304627606', classe, 'HC'). tem('202304627606', objeto, 'p4').
+resultado_real('202304627606', perde).
+tem('202400008540', turma, 'QUINTA TURMA'). tem('202400008540', relator, 'DANIELA TEIXEIRA'). tem('202400008540', classe, 'HC'). tem('202400008540', objeto, 'nulidade_busca').
+tem('202400008540', marcador, 'local_conhecido').
+resultado_real('202400008540', perde).
+tem('202400012079', turma, 'QUINTA TURMA'). tem('202400012079', relator, 'DANIELA TEIXEIRA'). tem('202400012079', classe, 'HC'). tem('202400012079', objeto, 'outro').
+tem('202400012079', marcador, 'atos_infracionais').
+resultado_real('202400012079', perde).
+tem('202400016060', turma, 'QUINTA TURMA'). tem('202400016060', relator, 'DANIELA TEIXEIRA'). tem('202400016060', classe, 'HC'). tem('202400016060', objeto, 'dosimetria').
+resultado_real('202400016060', perde).
+tem('202400018118', turma, 'QUINTA TURMA'). tem('202400018118', relator, 'DANIELA TEIXEIRA'). tem('202400018118', classe, 'HC'). tem('202400018118', objeto, 'nulidade_busca').
+resultado_real('202400018118', vence).
+tem('202400022913', turma, 'QUINTA TURMA'). tem('202400022913', relator, 'DANIELA TEIXEIRA'). tem('202400022913', classe, 'HC'). tem('202400022913', objeto, 'p4').
+resultado_real('202400022913', perde).
+tem('202400044522', turma, 'QUINTA TURMA'). tem('202400044522', relator, 'DANIELA TEIXEIRA'). tem('202400044522', classe, 'HC'). tem('202400044522', objeto, 'dosimetria').
+resultado_real('202400044522', perde).
+tem('202400044672', turma, 'QUINTA TURMA'). tem('202400044672', relator, 'DANIELA TEIXEIRA'). tem('202400044672', classe, 'HC'). tem('202400044672', objeto, 'nulidade_busca').
+tem('202400044672', marcador, 'denuncia_anonima').
+resultado_real('202400044672', perde).
+tem('202400129562', turma, 'QUINTA TURMA'). tem('202400129562', relator, 'DANIELA TEIXEIRA'). tem('202400129562', classe, 'HC'). tem('202400129562', objeto, 'dosimetria').
+resultado_real('202400129562', perde).
+tem('202400131932', turma, 'QUINTA TURMA'). tem('202400131932', relator, 'DANIELA TEIXEIRA'). tem('202400131932', classe, 'HC'). tem('202400131932', objeto, 'p4').
+resultado_real('202400131932', perde).
+tem('202400133786', turma, 'QUINTA TURMA'). tem('202400133786', relator, 'DANIELA TEIXEIRA'). tem('202400133786', classe, 'HC'). tem('202400133786', objeto, 'nulidade_busca').
+resultado_real('202400133786', perde).
+tem('202400174823', turma, 'QUINTA TURMA'). tem('202400174823', relator, 'DANIELA TEIXEIRA'). tem('202400174823', classe, 'HC'). tem('202400174823', objeto, 'p4').
+resultado_real('202400174823', perde).
+tem('202400177586', turma, 'QUINTA TURMA'). tem('202400177586', relator, 'DANIELA TEIXEIRA'). tem('202400177586', classe, 'HC'). tem('202400177586', objeto, 'p4').
+tem('202400177586', marcador, 'faccao').
+resultado_real('202400177586', perde).
+tem('202400187938', turma, 'QUINTA TURMA'). tem('202400187938', relator, 'DANIELA TEIXEIRA'). tem('202400187938', classe, 'HC'). tem('202400187938', objeto, 'desclassificacao').
+resultado_real('202400187938', vence).
+tem('202400236550', turma, 'QUINTA TURMA'). tem('202400236550', relator, 'DANIELA TEIXEIRA'). tem('202400236550', classe, 'HC'). tem('202400236550', objeto, 'dosimetria').
+resultado_real('202400236550', perde).
+tem('202400239198', turma, 'QUINTA TURMA'). tem('202400239198', relator, 'DANIELA TEIXEIRA'). tem('202400239198', classe, 'HC'). tem('202400239198', objeto, 'p4').
+tem('202400239198', marcador, 'faccao').
+resultado_real('202400239198', perde).
+tem('202400254154', turma, 'QUINTA TURMA'). tem('202400254154', relator, 'DANIELA TEIXEIRA'). tem('202400254154', classe, 'HC'). tem('202400254154', objeto, 'p4').
+resultado_real('202400254154', perde).
+tem('202400331860', turma, 'QUINTA TURMA'). tem('202400331860', relator, 'DANIELA TEIXEIRA'). tem('202400331860', classe, 'HC'). tem('202400331860', objeto, 'outro').
+resultado_real('202400331860', perde).
+tem('202400566626', turma, 'QUINTA TURMA'). tem('202400566626', relator, 'DANIELA TEIXEIRA'). tem('202400566626', classe, 'HC'). tem('202400566626', objeto, 'desclassificacao').
+resultado_real('202400566626', vence).
+tem('202400740524', turma, 'QUINTA TURMA'). tem('202400740524', relator, 'DANIELA TEIXEIRA'). tem('202400740524', classe, 'HC'). tem('202400740524', objeto, 'p4').
+tem('202400740524', marcador, 'atos_infracionais').
+resultado_real('202400740524', perde).
+tem('202400835107', turma, 'QUINTA TURMA'). tem('202400835107', relator, 'DANIELA TEIXEIRA'). tem('202400835107', classe, 'HC'). tem('202400835107', objeto, 'outro').
+resultado_real('202400835107', perde).
+tem('202400979750', turma, 'QUINTA TURMA'). tem('202400979750', relator, 'DANIELA TEIXEIRA'). tem('202400979750', classe, 'HC'). tem('202400979750', objeto, 'nulidade_busca').
+resultado_real('202400979750', vence).
+tem('202401059741', turma, 'QUINTA TURMA'). tem('202401059741', relator, 'DANIELA TEIXEIRA'). tem('202401059741', classe, 'HC'). tem('202401059741', objeto, 'p4').
+resultado_real('202401059741', perde).
+tem('202401068145', turma, 'QUINTA TURMA'). tem('202401068145', relator, 'DANIELA TEIXEIRA'). tem('202401068145', classe, 'HC'). tem('202401068145', objeto, 'nulidade_busca').
+tem('202401068145', marcador, 'faccao').
+tem('202401068145', marcador, 'fuga_mudanca_direcao').
+tem('202401068145', marcador, 'denuncia_anonima').
+resultado_real('202401068145', perde).
+tem('202401119863', turma, 'QUINTA TURMA'). tem('202401119863', relator, 'DANIELA TEIXEIRA'). tem('202401119863', classe, 'HC'). tem('202401119863', objeto, 'dosimetria').
+resultado_real('202401119863', perde).
+tem('202401165046', turma, 'QUINTA TURMA'). tem('202401165046', relator, 'DANIELA TEIXEIRA'). tem('202401165046', classe, 'HC'). tem('202401165046', objeto, 'p4').
+resultado_real('202401165046', perde).
+tem('202401338684', turma, 'QUINTA TURMA'). tem('202401338684', relator, 'DANIELA TEIXEIRA'). tem('202401338684', classe, 'HC'). tem('202401338684', objeto, 'dosimetria').
+resultado_real('202401338684', vence).
+tem('202401332106', turma, 'QUINTA TURMA'). tem('202401332106', relator, 'DANIELA TEIXEIRA'). tem('202401332106', classe, 'HC'). tem('202401332106', objeto, 'dosimetria').
+tem('202401332106', marcador, 'faccao').
+resultado_real('202401332106', perde).
+tem('202401442920', turma, 'QUINTA TURMA'). tem('202401442920', relator, 'DANIELA TEIXEIRA'). tem('202401442920', classe, 'HC'). tem('202401442920', objeto, 'dosimetria').
+tem('202401442920', marcador, 'faccao').
+resultado_real('202401442920', perde).
+tem('202401576504', turma, 'QUINTA TURMA'). tem('202401576504', relator, 'DANIELA TEIXEIRA'). tem('202401576504', classe, 'HC'). tem('202401576504', objeto, 'outro').
+resultado_real('202401576504', perde).
+tem('202401577069', turma, 'QUINTA TURMA'). tem('202401577069', relator, 'DANIELA TEIXEIRA'). tem('202401577069', classe, 'HC'). tem('202401577069', objeto, 'desclassificacao').
+resultado_real('202401577069', vence).
+tem('202401580829', turma, 'QUINTA TURMA'). tem('202401580829', relator, 'DANIELA TEIXEIRA'). tem('202401580829', classe, 'HC'). tem('202401580829', objeto, 'outro').
+resultado_real('202401580829', perde).
+tem('202401670942', turma, 'QUINTA TURMA'). tem('202401670942', relator, 'DANIELA TEIXEIRA'). tem('202401670942', classe, 'HC'). tem('202401670942', objeto, 'dosimetria').
+resultado_real('202401670942', perde).
+tem('202401722128', turma, 'QUINTA TURMA'). tem('202401722128', relator, 'DANIELA TEIXEIRA'). tem('202401722128', classe, 'HC'). tem('202401722128', objeto, 'nulidade_busca').
+tem('202401722128', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401722128', perde).
+tem('202401761041', turma, 'QUINTA TURMA'). tem('202401761041', relator, 'DANIELA TEIXEIRA'). tem('202401761041', classe, 'HC'). tem('202401761041', objeto, 'dosimetria').
+resultado_real('202401761041', perde).
+tem('202401820796', turma, 'QUINTA TURMA'). tem('202401820796', relator, 'DANIELA TEIXEIRA'). tem('202401820796', classe, 'HC'). tem('202401820796', objeto, 'outro').
+resultado_real('202401820796', perde).
+tem('202401879545', turma, 'QUINTA TURMA'). tem('202401879545', relator, 'DANIELA TEIXEIRA'). tem('202401879545', classe, 'HC'). tem('202401879545', objeto, 'nulidade_busca').
+tem('202401879545', marcador, 'local_conhecido').
+tem('202401879545', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401879545', perde).
+tem('202401899070', turma, 'QUINTA TURMA'). tem('202401899070', relator, 'DANIELA TEIXEIRA'). tem('202401899070', classe, 'HC'). tem('202401899070', objeto, 'dosimetria').
+resultado_real('202401899070', perde).
+tem('202401930396', turma, 'QUINTA TURMA'). tem('202401930396', relator, 'DANIELA TEIXEIRA'). tem('202401930396', classe, 'HC'). tem('202401930396', objeto, 'desclassificacao').
+resultado_real('202401930396', perde).
+tem('202401947972', turma, 'QUINTA TURMA'). tem('202401947972', relator, 'DANIELA TEIXEIRA'). tem('202401947972', classe, 'HC'). tem('202401947972', objeto, 'nulidade_busca').
+resultado_real('202401947972', vence).
+tem('202402077288', turma, 'QUINTA TURMA'). tem('202402077288', relator, 'DANIELA TEIXEIRA'). tem('202402077288', classe, 'HC'). tem('202402077288', objeto, 'p4').
+tem('202402077288', marcador, 'local_conhecido').
+resultado_real('202402077288', perde).
+tem('202402235653', turma, 'QUINTA TURMA'). tem('202402235653', relator, 'DANIELA TEIXEIRA'). tem('202402235653', classe, 'HC'). tem('202402235653', objeto, 'dosimetria').
+resultado_real('202402235653', perde).
+tem('202402306389', turma, 'QUINTA TURMA'). tem('202402306389', relator, 'DANIELA TEIXEIRA'). tem('202402306389', classe, 'HC'). tem('202402306389', objeto, 'outro').
+tem('202402306389', marcador, 'faccao').
+resultado_real('202402306389', perde).
+tem('202402339425', turma, 'QUINTA TURMA'). tem('202402339425', relator, 'DANIELA TEIXEIRA'). tem('202402339425', classe, 'HC'). tem('202402339425', objeto, 'nulidade_busca').
+resultado_real('202402339425', perde).
+tem('202402402005', turma, 'QUINTA TURMA'). tem('202402402005', relator, 'DANIELA TEIXEIRA'). tem('202402402005', classe, 'HC'). tem('202402402005', objeto, 'p4').
+resultado_real('202402402005', vence).
+tem('202402465759', turma, 'QUINTA TURMA'). tem('202402465759', relator, 'DANIELA TEIXEIRA'). tem('202402465759', classe, 'HC'). tem('202402465759', objeto, 'p4').
+tem('202402465759', marcador, 'atos_infracionais').
+resultado_real('202402465759', vence).
+tem('202402497365', turma, 'QUINTA TURMA'). tem('202402497365', relator, 'DANIELA TEIXEIRA'). tem('202402497365', classe, 'HC'). tem('202402497365', objeto, 'nulidade_busca').
+resultado_real('202402497365', vence).
+tem('202402545774', turma, 'QUINTA TURMA'). tem('202402545774', relator, 'DANIELA TEIXEIRA'). tem('202402545774', classe, 'HC'). tem('202402545774', objeto, 'nulidade_busca').
+tem('202402545774', marcador, 'nervosismo').
+resultado_real('202402545774', perde).
+tem('202402562382', turma, 'QUINTA TURMA'). tem('202402562382', relator, 'DANIELA TEIXEIRA'). tem('202402562382', classe, 'HC'). tem('202402562382', objeto, 'nulidade_busca').
+tem('202402562382', marcador, 'denuncia_anonima').
+resultado_real('202402562382', perde).
+tem('202402583324', turma, 'QUINTA TURMA'). tem('202402583324', relator, 'DANIELA TEIXEIRA'). tem('202402583324', classe, 'HC'). tem('202402583324', objeto, 'nulidade_busca').
+tem('202402583324', marcador, 'denuncia_anonima').
+resultado_real('202402583324', perde).
+tem('202402587768', turma, 'QUINTA TURMA'). tem('202402587768', relator, 'DANIELA TEIXEIRA'). tem('202402587768', classe, 'HC'). tem('202402587768', objeto, 'dosimetria').
+resultado_real('202402587768', perde).
+tem('202402606428', turma, 'QUINTA TURMA'). tem('202402606428', relator, 'DANIELA TEIXEIRA'). tem('202402606428', classe, 'HC'). tem('202402606428', objeto, 'desclassificacao').
+resultado_real('202402606428', perde).
+tem('202402648423', turma, 'QUINTA TURMA'). tem('202402648423', relator, 'DANIELA TEIXEIRA'). tem('202402648423', classe, 'HC'). tem('202402648423', objeto, 'p4').
+tem('202402648423', marcador, 'faccao').
+resultado_real('202402648423', perde).
+tem('202402648472', turma, 'QUINTA TURMA'). tem('202402648472', relator, 'DANIELA TEIXEIRA'). tem('202402648472', classe, 'HC'). tem('202402648472', objeto, 'nulidade_busca').
+tem('202402648472', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402648472', perde).
+tem('202402655398', turma, 'QUINTA TURMA'). tem('202402655398', relator, 'DANIELA TEIXEIRA'). tem('202402655398', classe, 'HC'). tem('202402655398', objeto, 'nulidade_busca').
+tem('202402655398', marcador, 'nervosismo').
+resultado_real('202402655398', vence).
+tem('202402663096', turma, 'QUINTA TURMA'). tem('202402663096', relator, 'DANIELA TEIXEIRA'). tem('202402663096', classe, 'HC'). tem('202402663096', objeto, 'nulidade_busca').
+tem('202402663096', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402663096', vence).
+tem('202402677302', turma, 'QUINTA TURMA'). tem('202402677302', relator, 'DANIELA TEIXEIRA'). tem('202402677302', classe, 'HC'). tem('202402677302', objeto, 'outro').
+tem('202402677302', marcador, 'atos_infracionais').
+resultado_real('202402677302', perde).
+tem('202402731397', turma, 'QUINTA TURMA'). tem('202402731397', relator, 'DANIELA TEIXEIRA'). tem('202402731397', classe, 'HC'). tem('202402731397', objeto, 'p4').
+tem('202402731397', marcador, 'faccao').
+resultado_real('202402731397', perde).
+tem('202402792820', turma, 'QUINTA TURMA'). tem('202402792820', relator, 'DANIELA TEIXEIRA'). tem('202402792820', classe, 'HC'). tem('202402792820', objeto, 'p4').
+resultado_real('202402792820', perde).
+tem('202402805310', turma, 'QUINTA TURMA'). tem('202402805310', relator, 'DANIELA TEIXEIRA'). tem('202402805310', classe, 'HC'). tem('202402805310', objeto, 'nulidade_busca').
+tem('202402805310', marcador, 'local_conhecido').
+tem('202402805310', marcador, 'conhecido_policia').
+tem('202402805310', marcador, 'atos_infracionais').
+tem('202402805310', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402805310', perde).
+tem('202402815420', turma, 'QUINTA TURMA'). tem('202402815420', relator, 'DANIELA TEIXEIRA'). tem('202402815420', classe, 'HC'). tem('202402815420', objeto, 'p4').
+resultado_real('202402815420', perde).
+tem('202402853559', turma, 'QUINTA TURMA'). tem('202402853559', relator, 'DANIELA TEIXEIRA'). tem('202402853559', classe, 'HC'). tem('202402853559', objeto, 'nulidade_busca').
+tem('202402853559', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402853559', vence).
+tem('202402975900', turma, 'QUINTA TURMA'). tem('202402975900', relator, 'DANIELA TEIXEIRA'). tem('202402975900', classe, 'HC'). tem('202402975900', objeto, 'dosimetria').
+resultado_real('202402975900', perde).
+tem('202402998276', turma, 'QUINTA TURMA'). tem('202402998276', relator, 'DANIELA TEIXEIRA'). tem('202402998276', classe, 'HC'). tem('202402998276', objeto, 'dosimetria').
+tem('202402998276', marcador, 'faccao').
+resultado_real('202402998276', perde).
+tem('202403013085', turma, 'QUINTA TURMA'). tem('202403013085', relator, 'DANIELA TEIXEIRA'). tem('202403013085', classe, 'HC'). tem('202403013085', objeto, 'dosimetria').
+resultado_real('202403013085', vence).
+tem('202403032752', turma, 'QUINTA TURMA'). tem('202403032752', relator, 'DANIELA TEIXEIRA'). tem('202403032752', classe, 'HC'). tem('202403032752', objeto, 'dosimetria').
+resultado_real('202403032752', vence).
+tem('202403071373', turma, 'QUINTA TURMA'). tem('202403071373', relator, 'DANIELA TEIXEIRA'). tem('202403071373', classe, 'HC'). tem('202403071373', objeto, 'p4').
+tem('202403071373', marcador, 'faccao').
+resultado_real('202403071373', perde).
+tem('202403076628', turma, 'QUINTA TURMA'). tem('202403076628', relator, 'DANIELA TEIXEIRA'). tem('202403076628', classe, 'HC'). tem('202403076628', objeto, 'dosimetria').
+resultado_real('202403076628', perde).
+tem('202403101582', turma, 'QUINTA TURMA'). tem('202403101582', relator, 'DANIELA TEIXEIRA'). tem('202403101582', classe, 'HC'). tem('202403101582', objeto, 'outro').
+resultado_real('202403101582', perde).
+tem('202403110884', turma, 'QUINTA TURMA'). tem('202403110884', relator, 'DANIELA TEIXEIRA'). tem('202403110884', classe, 'HC'). tem('202403110884', objeto, 'dosimetria').
+resultado_real('202403110884', perde).
+tem('202403117577', turma, 'QUINTA TURMA'). tem('202403117577', relator, 'DANIELA TEIXEIRA'). tem('202403117577', classe, 'HC'). tem('202403117577', objeto, 'nulidade_busca').
+resultado_real('202403117577', perde).
+tem('202403159624', turma, 'QUINTA TURMA'). tem('202403159624', relator, 'DANIELA TEIXEIRA'). tem('202403159624', classe, 'HC'). tem('202403159624', objeto, 'p4').
+resultado_real('202403159624', perde).
+tem('202403218065', turma, 'QUINTA TURMA'). tem('202403218065', relator, 'DANIELA TEIXEIRA'). tem('202403218065', classe, 'HC'). tem('202403218065', objeto, 'outro').
+resultado_real('202403218065', perde).
+tem('202403240097', turma, 'QUINTA TURMA'). tem('202403240097', relator, 'DANIELA TEIXEIRA'). tem('202403240097', classe, 'HC'). tem('202403240097', objeto, 'p4').
+resultado_real('202403240097', perde).
+tem('202403256550', turma, 'QUINTA TURMA'). tem('202403256550', relator, 'DANIELA TEIXEIRA'). tem('202403256550', classe, 'HC'). tem('202403256550', objeto, 'autoria').
+resultado_real('202403256550', perde).
+tem('202403269451', turma, 'QUINTA TURMA'). tem('202403269451', relator, 'DANIELA TEIXEIRA'). tem('202403269451', classe, 'HC'). tem('202403269451', objeto, 'dosimetria').
+resultado_real('202403269451', perde).
+tem('202403390493', turma, 'QUINTA TURMA'). tem('202403390493', relator, 'DANIELA TEIXEIRA'). tem('202403390493', classe, 'HC'). tem('202403390493', objeto, 'autoria').
+resultado_real('202403390493', vence).
+tem('202403470281', turma, 'QUINTA TURMA'). tem('202403470281', relator, 'DANIELA TEIXEIRA'). tem('202403470281', classe, 'HC'). tem('202403470281', objeto, 'nulidade_busca').
+tem('202403470281', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403470281', perde).
+tem('202403496503', turma, 'QUINTA TURMA'). tem('202403496503', relator, 'DANIELA TEIXEIRA'). tem('202403496503', classe, 'HC'). tem('202403496503', objeto, 'outro').
+tem('202403496503', marcador, 'atos_infracionais').
+resultado_real('202403496503', perde).
+tem('202403526558', turma, 'QUINTA TURMA'). tem('202403526558', relator, 'DANIELA TEIXEIRA'). tem('202403526558', classe, 'HC'). tem('202403526558', objeto, 'outro').
+resultado_real('202403526558', perde).
+tem('202403538235', turma, 'QUINTA TURMA'). tem('202403538235', relator, 'DANIELA TEIXEIRA'). tem('202403538235', classe, 'HC'). tem('202403538235', objeto, 'p4').
+tem('202403538235', marcador, 'faccao').
+resultado_real('202403538235', perde).
+tem('202403643618', turma, 'QUINTA TURMA'). tem('202403643618', relator, 'DANIELA TEIXEIRA'). tem('202403643618', classe, 'HC'). tem('202403643618', objeto, 'dosimetria').
+resultado_real('202403643618', perde).
+tem('202403724631', turma, 'QUINTA TURMA'). tem('202403724631', relator, 'DANIELA TEIXEIRA'). tem('202403724631', classe, 'HC'). tem('202403724631', objeto, 'nulidade_busca').
+resultado_real('202403724631', perde).
+tem('202403725818', turma, 'QUINTA TURMA'). tem('202403725818', relator, 'DANIELA TEIXEIRA'). tem('202403725818', classe, 'HC'). tem('202403725818', objeto, 'p4').
+resultado_real('202403725818', perde).
+tem('202403738465', turma, 'QUINTA TURMA'). tem('202403738465', relator, 'DANIELA TEIXEIRA'). tem('202403738465', classe, 'HC'). tem('202403738465', objeto, 'outro').
+tem('202403738465', marcador, 'denuncia_anonima').
+resultado_real('202403738465', perde).
+tem('202403755149', turma, 'QUINTA TURMA'). tem('202403755149', relator, 'DANIELA TEIXEIRA'). tem('202403755149', classe, 'HC'). tem('202403755149', objeto, 'dosimetria').
+resultado_real('202403755149', perde).
+tem('202403757145', turma, 'QUINTA TURMA'). tem('202403757145', relator, 'DANIELA TEIXEIRA'). tem('202403757145', classe, 'HC'). tem('202403757145', objeto, 'outro').
+resultado_real('202403757145', perde).
+tem('202403780923', turma, 'QUINTA TURMA'). tem('202403780923', relator, 'DANIELA TEIXEIRA'). tem('202403780923', classe, 'HC'). tem('202403780923', objeto, 'nulidade_busca').
+tem('202403780923', marcador, 'faccao').
+tem('202403780923', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403780923', perde).
+tem('202403783625', turma, 'QUINTA TURMA'). tem('202403783625', relator, 'DANIELA TEIXEIRA'). tem('202403783625', classe, 'HC'). tem('202403783625', objeto, 'dosimetria').
+resultado_real('202403783625', perde).
+tem('202403882510', turma, 'QUINTA TURMA'). tem('202403882510', relator, 'DANIELA TEIXEIRA'). tem('202403882510', classe, 'HC'). tem('202403882510', objeto, 'nulidade_busca').
+resultado_real('202403882510', perde).
+tem('202403882560', turma, 'QUINTA TURMA'). tem('202403882560', relator, 'DANIELA TEIXEIRA'). tem('202403882560', classe, 'HC'). tem('202403882560', objeto, 'nulidade_busca').
+resultado_real('202403882560', perde).
+tem('202403894082', turma, 'QUINTA TURMA'). tem('202403894082', relator, 'DANIELA TEIXEIRA'). tem('202403894082', classe, 'HC'). tem('202403894082', objeto, 'nulidade_busca').
+resultado_real('202403894082', perde).
+tem('202403907660', turma, 'QUINTA TURMA'). tem('202403907660', relator, 'DANIELA TEIXEIRA'). tem('202403907660', classe, 'HC'). tem('202403907660', objeto, 'p4').
+tem('202403907660', marcador, 'atos_infracionais').
+resultado_real('202403907660', perde).
+tem('202403933152', turma, 'QUINTA TURMA'). tem('202403933152', relator, 'DANIELA TEIXEIRA'). tem('202403933152', classe, 'HC'). tem('202403933152', objeto, 'nulidade_busca').
+resultado_real('202403933152', perde).
+tem('202403941658', turma, 'QUINTA TURMA'). tem('202403941658', relator, 'DANIELA TEIXEIRA'). tem('202403941658', classe, 'HC'). tem('202403941658', objeto, 'outro').
+resultado_real('202403941658', perde).
+tem('202403964900', turma, 'QUINTA TURMA'). tem('202403964900', relator, 'DANIELA TEIXEIRA'). tem('202403964900', classe, 'HC'). tem('202403964900', objeto, 'dosimetria').
+resultado_real('202403964900', perde).
+tem('202403994963', turma, 'QUINTA TURMA'). tem('202403994963', relator, 'DANIELA TEIXEIRA'). tem('202403994963', classe, 'HC'). tem('202403994963', objeto, 'p4').
+resultado_real('202403994963', perde).
+tem('202404004574', turma, 'QUINTA TURMA'). tem('202404004574', relator, 'DANIELA TEIXEIRA'). tem('202404004574', classe, 'HC'). tem('202404004574', objeto, 'desclassificacao').
+resultado_real('202404004574', perde).
+tem('202404017301', turma, 'QUINTA TURMA'). tem('202404017301', relator, 'DANIELA TEIXEIRA'). tem('202404017301', classe, 'HC'). tem('202404017301', objeto, 'p4').
+resultado_real('202404017301', perde).
+tem('202404017250', turma, 'QUINTA TURMA'). tem('202404017250', relator, 'DANIELA TEIXEIRA'). tem('202404017250', classe, 'HC'). tem('202404017250', objeto, 'nulidade_busca').
+tem('202404017250', marcador, 'local_conhecido').
+resultado_real('202404017250', perde).
+tem('202404048398', turma, 'QUINTA TURMA'). tem('202404048398', relator, 'DANIELA TEIXEIRA'). tem('202404048398', classe, 'HC'). tem('202404048398', objeto, 'outro').
+resultado_real('202404048398', perde).
+tem('202404076129', turma, 'QUINTA TURMA'). tem('202404076129', relator, 'DANIELA TEIXEIRA'). tem('202404076129', classe, 'HC'). tem('202404076129', objeto, 'p4').
+resultado_real('202404076129', perde).
+tem('202404088627', turma, 'QUINTA TURMA'). tem('202404088627', relator, 'DANIELA TEIXEIRA'). tem('202404088627', classe, 'HC'). tem('202404088627', objeto, 'nulidade_busca').
+tem('202404088627', marcador, 'atos_infracionais').
+resultado_real('202404088627', perde).
+tem('202404095719', turma, 'QUINTA TURMA'). tem('202404095719', relator, 'DANIELA TEIXEIRA'). tem('202404095719', classe, 'HC'). tem('202404095719', objeto, 'nulidade_busca').
+resultado_real('202404095719', perde).
+tem('202404131744', turma, 'QUINTA TURMA'). tem('202404131744', relator, 'DANIELA TEIXEIRA'). tem('202404131744', classe, 'HC'). tem('202404131744', objeto, 'outro').
+resultado_real('202404131744', perde).
+tem('202404131756', turma, 'QUINTA TURMA'). tem('202404131756', relator, 'DANIELA TEIXEIRA'). tem('202404131756', classe, 'HC'). tem('202404131756', objeto, 'nulidade_busca').
+tem('202404131756', marcador, 'nervosismo').
+tem('202404131756', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404131756', perde).
+tem('202404137185', turma, 'QUINTA TURMA'). tem('202404137185', relator, 'DANIELA TEIXEIRA'). tem('202404137185', classe, 'HC'). tem('202404137185', objeto, 'p4').
+resultado_real('202404137185', perde).
+tem('202404168415', turma, 'QUINTA TURMA'). tem('202404168415', relator, 'DANIELA TEIXEIRA'). tem('202404168415', classe, 'HC'). tem('202404168415', objeto, 'p4').
+resultado_real('202404168415', perde).
+tem('202404151066', turma, 'QUINTA TURMA'). tem('202404151066', relator, 'DANIELA TEIXEIRA'). tem('202404151066', classe, 'HC'). tem('202404151066', objeto, 'outro').
+resultado_real('202404151066', perde).
+tem('202404163337', turma, 'QUINTA TURMA'). tem('202404163337', relator, 'DANIELA TEIXEIRA'). tem('202404163337', classe, 'HC'). tem('202404163337', objeto, 'p4').
+resultado_real('202404163337', perde).
+tem('202404181537', turma, 'QUINTA TURMA'). tem('202404181537', relator, 'DANIELA TEIXEIRA'). tem('202404181537', classe, 'HC'). tem('202404181537', objeto, 'desclassificacao').
+resultado_real('202404181537', perde).
+tem('202404194200', turma, 'QUINTA TURMA'). tem('202404194200', relator, 'DANIELA TEIXEIRA'). tem('202404194200', classe, 'HC'). tem('202404194200', objeto, 'p4').
+tem('202404194200', marcador, 'faccao').
+resultado_real('202404194200', perde).
+tem('202404231828', turma, 'QUINTA TURMA'). tem('202404231828', relator, 'DANIELA TEIXEIRA'). tem('202404231828', classe, 'HC'). tem('202404231828', objeto, 'nulidade_busca').
+tem('202404231828', marcador, 'fuga_mudanca_direcao').
+tem('202404231828', marcador, 'denuncia_anonima').
+resultado_real('202404231828', perde).
+tem('202404217377', turma, 'QUINTA TURMA'). tem('202404217377', relator, 'DANIELA TEIXEIRA'). tem('202404217377', classe, 'HC'). tem('202404217377', objeto, 'dosimetria').
+resultado_real('202404217377', perde).
+tem('202404249617', turma, 'QUINTA TURMA'). tem('202404249617', relator, 'DANIELA TEIXEIRA'). tem('202404249617', classe, 'HC'). tem('202404249617', objeto, 'p4').
+tem('202404249617', marcador, 'faccao').
+resultado_real('202404249617', perde).
+tem('202404332996', turma, 'QUINTA TURMA'). tem('202404332996', relator, 'DANIELA TEIXEIRA'). tem('202404332996', classe, 'HC'). tem('202404332996', objeto, 'nulidade_busca').
+tem('202404332996', marcador, 'denuncia_anonima').
+resultado_real('202404332996', perde).
+tem('202404345557', turma, 'QUINTA TURMA'). tem('202404345557', relator, 'DANIELA TEIXEIRA'). tem('202404345557', classe, 'HC'). tem('202404345557', objeto, 'dosimetria').
+resultado_real('202404345557', perde).
+tem('202404343614', turma, 'QUINTA TURMA'). tem('202404343614', relator, 'DANIELA TEIXEIRA'). tem('202404343614', classe, 'HC'). tem('202404343614', objeto, 'nulidade_busca').
+resultado_real('202404343614', perde).
+tem('202404372821', turma, 'QUINTA TURMA'). tem('202404372821', relator, 'DANIELA TEIXEIRA'). tem('202404372821', classe, 'HC'). tem('202404372821', objeto, 'desclassificacao').
+tem('202404372821', marcador, 'faccao').
+resultado_real('202404372821', perde).
+tem('202404375685', turma, 'QUINTA TURMA'). tem('202404375685', relator, 'DANIELA TEIXEIRA'). tem('202404375685', classe, 'HC'). tem('202404375685', objeto, 'dosimetria').
+resultado_real('202404375685', perde).
+tem('202404421507', turma, 'QUINTA TURMA'). tem('202404421507', relator, 'DANIELA TEIXEIRA'). tem('202404421507', classe, 'HC'). tem('202404421507', objeto, 'p4').
+tem('202404421507', marcador, 'faccao').
+resultado_real('202404421507', perde).
+tem('202404444405', turma, 'QUINTA TURMA'). tem('202404444405', relator, 'DANIELA TEIXEIRA'). tem('202404444405', classe, 'HC'). tem('202404444405', objeto, 'nulidade_busca').
+resultado_real('202404444405', perde).
+tem('202404444923', turma, 'QUINTA TURMA'). tem('202404444923', relator, 'DANIELA TEIXEIRA'). tem('202404444923', classe, 'HC'). tem('202404444923', objeto, 'nulidade_busca').
+tem('202404444923', marcador, 'denuncia_anonima').
+resultado_real('202404444923', perde).
+tem('202404516924', turma, 'QUINTA TURMA'). tem('202404516924', relator, 'DANIELA TEIXEIRA'). tem('202404516924', classe, 'HC'). tem('202404516924', objeto, 'autoria').
+tem('202404516924', marcador, 'atos_infracionais').
+resultado_real('202404516924', perde).
+tem('202404518402', turma, 'QUINTA TURMA'). tem('202404518402', relator, 'DANIELA TEIXEIRA'). tem('202404518402', classe, 'HC'). tem('202404518402', objeto, 'p4').
+resultado_real('202404518402', perde).
+tem('202404613129', turma, 'QUINTA TURMA'). tem('202404613129', relator, 'DANIELA TEIXEIRA'). tem('202404613129', classe, 'HC'). tem('202404613129', objeto, 'p4').
+tem('202404613129', marcador, 'atos_infracionais').
+resultado_real('202404613129', vence).
+tem('202404664398', turma, 'QUINTA TURMA'). tem('202404664398', relator, 'DANIELA TEIXEIRA'). tem('202404664398', classe, 'HC'). tem('202404664398', objeto, 'p4').
+resultado_real('202404664398', perde).
+tem('202404792238', turma, 'QUINTA TURMA'). tem('202404792238', relator, 'DANIELA TEIXEIRA'). tem('202404792238', classe, 'HC'). tem('202404792238', objeto, 'p4').
+resultado_real('202404792238', perde).
+tem('202404861550', turma, 'QUINTA TURMA'). tem('202404861550', relator, 'DANIELA TEIXEIRA'). tem('202404861550', classe, 'HC'). tem('202404861550', objeto, 'outro').
+resultado_real('202404861550', perde).
+tem('202201621644', turma, 'QUINTA TURMA'). tem('202201621644', relator, 'DANIELA TEIXEIRA'). tem('202201621644', classe, 'REsp'). tem('202201621644', objeto, 'nulidade_busca').
+tem('202201621644', marcador, 'denuncia_anonima').
+resultado_real('202201621644', perde).
+tem('202201727715', turma, 'QUINTA TURMA'). tem('202201727715', relator, 'DANIELA TEIXEIRA'). tem('202201727715', classe, 'REsp'). tem('202201727715', objeto, 'p4').
+resultado_real('202201727715', vence).
+tem('202201785534', turma, 'QUINTA TURMA'). tem('202201785534', relator, 'DANIELA TEIXEIRA'). tem('202201785534', classe, 'REsp'). tem('202201785534', objeto, 'nulidade_busca').
+tem('202201785534', marcador, 'faccao').
+tem('202201785534', marcador, 'fuga_mudanca_direcao').
+tem('202201785534', marcador, 'denuncia_anonima').
+resultado_real('202201785534', perde).
+tem('202202011330', turma, 'QUINTA TURMA'). tem('202202011330', relator, 'DANIELA TEIXEIRA'). tem('202202011330', classe, 'REsp'). tem('202202011330', objeto, 'nulidade_busca').
+resultado_real('202202011330', perde).
+tem('202202048845', turma, 'QUINTA TURMA'). tem('202202048845', relator, 'DANIELA TEIXEIRA'). tem('202202048845', classe, 'REsp'). tem('202202048845', objeto, 'desclassificacao').
+resultado_real('202202048845', vence).
+tem('202202176190', turma, 'QUINTA TURMA'). tem('202202176190', relator, 'DANIELA TEIXEIRA'). tem('202202176190', classe, 'REsp'). tem('202202176190', objeto, 'nulidade_busca').
+tem('202202176190', marcador, 'denuncia_anonima').
+resultado_real('202202176190', perde).
+tem('202202239748', turma, 'QUINTA TURMA'). tem('202202239748', relator, 'DANIELA TEIXEIRA'). tem('202202239748', classe, 'REsp'). tem('202202239748', objeto, 'p4').
+resultado_real('202202239748', vence).
+tem('202202358830', turma, 'QUINTA TURMA'). tem('202202358830', relator, 'DANIELA TEIXEIRA'). tem('202202358830', classe, 'REsp'). tem('202202358830', objeto, 'p4').
+tem('202202358830', marcador, 'faccao').
+resultado_real('202202358830', vence).
+tem('202202511088', turma, 'QUINTA TURMA'). tem('202202511088', relator, 'DANIELA TEIXEIRA'). tem('202202511088', classe, 'REsp'). tem('202202511088', objeto, 'p4').
+resultado_real('202202511088', vence).
+tem('202202619281', turma, 'QUINTA TURMA'). tem('202202619281', relator, 'DANIELA TEIXEIRA'). tem('202202619281', classe, 'REsp'). tem('202202619281', objeto, 'p4').
+resultado_real('202202619281', vence).
+tem('202202638871', turma, 'QUINTA TURMA'). tem('202202638871', relator, 'DANIELA TEIXEIRA'). tem('202202638871', classe, 'REsp'). tem('202202638871', objeto, 'p4').
+tem('202202638871', marcador, 'faccao').
+resultado_real('202202638871', perde).
+tem('202202891299', turma, 'QUINTA TURMA'). tem('202202891299', relator, 'DANIELA TEIXEIRA'). tem('202202891299', classe, 'REsp'). tem('202202891299', objeto, 'p4').
+resultado_real('202202891299', vence).
+tem('202202921484', turma, 'QUINTA TURMA'). tem('202202921484', relator, 'DANIELA TEIXEIRA'). tem('202202921484', classe, 'REsp'). tem('202202921484', objeto, 'nulidade_busca').
+tem('202202921484', marcador, 'denuncia_anonima').
+resultado_real('202202921484', perde).
+tem('202202977074', turma, 'QUINTA TURMA'). tem('202202977074', relator, 'DANIELA TEIXEIRA'). tem('202202977074', classe, 'REsp'). tem('202202977074', objeto, 'nulidade_busca').
+tem('202202977074', marcador, 'fuga_mudanca_direcao').
+resultado_real('202202977074', perde).
+tem('202203038665', turma, 'QUINTA TURMA'). tem('202203038665', relator, 'DANIELA TEIXEIRA'). tem('202203038665', classe, 'REsp'). tem('202203038665', objeto, 'p4').
+resultado_real('202203038665', vence).
+tem('202203115698', turma, 'QUINTA TURMA'). tem('202203115698', relator, 'DANIELA TEIXEIRA'). tem('202203115698', classe, 'REsp'). tem('202203115698', objeto, 'nulidade_busca').
+tem('202203115698', marcador, 'fuga_mudanca_direcao').
+tem('202203115698', marcador, 'denuncia_anonima').
+resultado_real('202203115698', perde).
+tem('202203212906', turma, 'QUINTA TURMA'). tem('202203212906', relator, 'DANIELA TEIXEIRA'). tem('202203212906', classe, 'REsp'). tem('202203212906', objeto, 'p4').
+tem('202203212906', marcador, 'atos_infracionais').
+resultado_real('202203212906', vence).
+tem('202203282981', turma, 'QUINTA TURMA'). tem('202203282981', relator, 'DANIELA TEIXEIRA'). tem('202203282981', classe, 'REsp'). tem('202203282981', objeto, 'nulidade_busca').
+resultado_real('202203282981', perde).
+tem('202203334762', turma, 'QUINTA TURMA'). tem('202203334762', relator, 'DANIELA TEIXEIRA'). tem('202203334762', classe, 'REsp'). tem('202203334762', objeto, 'nulidade_busca').
+tem('202203334762', marcador, 'denuncia_anonima').
+resultado_real('202203334762', vence).
+tem('202203335897', turma, 'QUINTA TURMA'). tem('202203335897', relator, 'DANIELA TEIXEIRA'). tem('202203335897', classe, 'REsp'). tem('202203335897', objeto, 'dosimetria').
+resultado_real('202203335897', vence).
+tem('202203359315', turma, 'QUINTA TURMA'). tem('202203359315', relator, 'DANIELA TEIXEIRA'). tem('202203359315', classe, 'REsp'). tem('202203359315', objeto, 'p4').
+tem('202203359315', marcador, 'faccao').
+resultado_real('202203359315', vence).
+tem('202203377576', turma, 'QUINTA TURMA'). tem('202203377576', relator, 'DANIELA TEIXEIRA'). tem('202203377576', classe, 'REsp'). tem('202203377576', objeto, 'dosimetria').
+resultado_real('202203377576', vence).
+tem('202203424600', turma, 'QUINTA TURMA'). tem('202203424600', relator, 'DANIELA TEIXEIRA'). tem('202203424600', classe, 'REsp'). tem('202203424600', objeto, 'p4').
+tem('202203424600', marcador, 'local_conhecido').
+tem('202203424600', marcador, 'fuga_mudanca_direcao').
+resultado_real('202203424600', perde).
+tem('202203488995', turma, 'QUINTA TURMA'). tem('202203488995', relator, 'DANIELA TEIXEIRA'). tem('202203488995', classe, 'REsp'). tem('202203488995', objeto, 'p4').
+resultado_real('202203488995', vence).
+tem('202203568140', turma, 'QUINTA TURMA'). tem('202203568140', relator, 'DANIELA TEIXEIRA'). tem('202203568140', classe, 'REsp'). tem('202203568140', objeto, 'p4').
+resultado_real('202203568140', perde).
+tem('202203585164', turma, 'QUINTA TURMA'). tem('202203585164', relator, 'DANIELA TEIXEIRA'). tem('202203585164', classe, 'REsp'). tem('202203585164', objeto, 'p4').
+tem('202203585164', marcador, 'atos_infracionais').
+resultado_real('202203585164', vence).
+tem('202203652520', turma, 'QUINTA TURMA'). tem('202203652520', relator, 'DANIELA TEIXEIRA'). tem('202203652520', classe, 'REsp'). tem('202203652520', objeto, 'p4').
+tem('202203652520', marcador, 'faccao').
+resultado_real('202203652520', vence).
+tem('202203678346', turma, 'QUINTA TURMA'). tem('202203678346', relator, 'DANIELA TEIXEIRA'). tem('202203678346', classe, 'REsp'). tem('202203678346', objeto, 'p4').
+tem('202203678346', marcador, 'local_conhecido').
+resultado_real('202203678346', vence).
+tem('202203713300', turma, 'QUINTA TURMA'). tem('202203713300', relator, 'DANIELA TEIXEIRA'). tem('202203713300', classe, 'REsp'). tem('202203713300', objeto, 'p4').
+resultado_real('202203713300', perde).
+tem('202203733694', turma, 'QUINTA TURMA'). tem('202203733694', relator, 'DANIELA TEIXEIRA'). tem('202203733694', classe, 'REsp'). tem('202203733694', objeto, 'nulidade_busca').
+resultado_real('202203733694', perde).
+tem('202203739580', turma, 'QUINTA TURMA'). tem('202203739580', relator, 'DANIELA TEIXEIRA'). tem('202203739580', classe, 'REsp'). tem('202203739580', objeto, 'p4').
+resultado_real('202203739580', perde).
+tem('202203772217', turma, 'QUINTA TURMA'). tem('202203772217', relator, 'DANIELA TEIXEIRA'). tem('202203772217', classe, 'REsp'). tem('202203772217', objeto, 'nulidade_busca').
+tem('202203772217', marcador, 'fuga_mudanca_direcao').
+resultado_real('202203772217', perde).
+tem('202300182440', turma, 'QUINTA TURMA'). tem('202300182440', relator, 'DANIELA TEIXEIRA'). tem('202300182440', classe, 'REsp'). tem('202300182440', objeto, 'nulidade_busca').
+tem('202300182440', marcador, 'local_conhecido').
+resultado_real('202300182440', perde).
+tem('202300367499', turma, 'QUINTA TURMA'). tem('202300367499', relator, 'DANIELA TEIXEIRA'). tem('202300367499', classe, 'REsp'). tem('202300367499', objeto, 'p4').
+tem('202300367499', marcador, 'faccao').
+resultado_real('202300367499', vence).
+tem('202300455480', turma, 'QUINTA TURMA'). tem('202300455480', relator, 'DANIELA TEIXEIRA'). tem('202300455480', classe, 'REsp'). tem('202300455480', objeto, 'outro').
+resultado_real('202300455480', vence).
+tem('202300452752', turma, 'QUINTA TURMA'). tem('202300452752', relator, 'DANIELA TEIXEIRA'). tem('202300452752', classe, 'REsp'). tem('202300452752', objeto, 'nulidade_busca').
+tem('202300452752', marcador, 'denuncia_anonima').
+resultado_real('202300452752', perde).
+tem('202300462469', turma, 'QUINTA TURMA'). tem('202300462469', relator, 'DANIELA TEIXEIRA'). tem('202300462469', classe, 'REsp'). tem('202300462469', objeto, 'dosimetria').
+resultado_real('202300462469', perde).
+tem('202300512344', turma, 'QUINTA TURMA'). tem('202300512344', relator, 'DANIELA TEIXEIRA'). tem('202300512344', classe, 'REsp'). tem('202300512344', objeto, 'p4').
+resultado_real('202300512344', perde).
+tem('202300468420', turma, 'QUINTA TURMA'). tem('202300468420', relator, 'DANIELA TEIXEIRA'). tem('202300468420', classe, 'REsp'). tem('202300468420', objeto, 'nulidade_busca').
+resultado_real('202300468420', perde).
+tem('202300667122', turma, 'QUINTA TURMA'). tem('202300667122', relator, 'DANIELA TEIXEIRA'). tem('202300667122', classe, 'REsp'). tem('202300667122', objeto, 'nulidade_busca').
+resultado_real('202300667122', perde).
+tem('202300667312', turma, 'QUINTA TURMA'). tem('202300667312', relator, 'DANIELA TEIXEIRA'). tem('202300667312', classe, 'REsp'). tem('202300667312', objeto, 'nulidade_busca').
+tem('202300667312', marcador, 'local_conhecido').
+tem('202300667312', marcador, 'nervosismo').
+resultado_real('202300667312', vence).
+tem('202300793800', turma, 'QUINTA TURMA'). tem('202300793800', relator, 'DANIELA TEIXEIRA'). tem('202300793800', classe, 'REsp'). tem('202300793800', objeto, 'p4').
+resultado_real('202300793800', perde).
+tem('202300667272', turma, 'QUINTA TURMA'). tem('202300667272', relator, 'DANIELA TEIXEIRA'). tem('202300667272', classe, 'REsp'). tem('202300667272', objeto, 'dosimetria').
+resultado_real('202300667272', vence).
+tem('202300928500', turma, 'QUINTA TURMA'). tem('202300928500', relator, 'DANIELA TEIXEIRA'). tem('202300928500', classe, 'REsp'). tem('202300928500', objeto, 'dosimetria').
+resultado_real('202300928500', perde).
+tem('202300968725', turma, 'QUINTA TURMA'). tem('202300968725', relator, 'DANIELA TEIXEIRA'). tem('202300968725', classe, 'REsp'). tem('202300968725', objeto, 'p4').
+resultado_real('202300968725', vence).
+tem('202301114430', turma, 'QUINTA TURMA'). tem('202301114430', relator, 'DANIELA TEIXEIRA'). tem('202301114430', classe, 'REsp'). tem('202301114430', objeto, 'dosimetria').
+resultado_real('202301114430', perde).
+tem('202301036636', turma, 'QUINTA TURMA'). tem('202301036636', relator, 'DANIELA TEIXEIRA'). tem('202301036636', classe, 'REsp'). tem('202301036636', objeto, 'p4').
+tem('202301036636', marcador, 'atos_infracionais').
+resultado_real('202301036636', perde).
+tem('202301123351', turma, 'QUINTA TURMA'). tem('202301123351', relator, 'DANIELA TEIXEIRA'). tem('202301123351', classe, 'REsp'). tem('202301123351', objeto, 'dosimetria').
+resultado_real('202301123351', vence).
+tem('202301092484', turma, 'QUINTA TURMA'). tem('202301092484', relator, 'DANIELA TEIXEIRA'). tem('202301092484', classe, 'REsp'). tem('202301092484', objeto, 'nulidade_busca').
+resultado_real('202301092484', perde).
+tem('202301240310', turma, 'QUINTA TURMA'). tem('202301240310', relator, 'DANIELA TEIXEIRA'). tem('202301240310', classe, 'REsp'). tem('202301240310', objeto, 'p4').
+resultado_real('202301240310', perde).
+tem('202301291376', turma, 'QUINTA TURMA'). tem('202301291376', relator, 'DANIELA TEIXEIRA'). tem('202301291376', classe, 'REsp'). tem('202301291376', objeto, 'nulidade_busca').
+tem('202301291376', marcador, 'local_conhecido').
+tem('202301291376', marcador, 'nervosismo').
+resultado_real('202301291376', perde).
+tem('202301189230', turma, 'QUINTA TURMA'). tem('202301189230', relator, 'DANIELA TEIXEIRA'). tem('202301189230', classe, 'REsp'). tem('202301189230', objeto, 'nulidade_busca').
+tem('202301189230', marcador, 'denuncia_anonima').
+resultado_real('202301189230', vence).
+tem('202301438157', turma, 'QUINTA TURMA'). tem('202301438157', relator, 'DANIELA TEIXEIRA'). tem('202301438157', classe, 'REsp'). tem('202301438157', objeto, 'dosimetria').
+resultado_real('202301438157', vence).
+tem('202301478233', turma, 'QUINTA TURMA'). tem('202301478233', relator, 'DANIELA TEIXEIRA'). tem('202301478233', classe, 'REsp'). tem('202301478233', objeto, 'p4').
+resultado_real('202301478233', vence).
+tem('202301491003', turma, 'QUINTA TURMA'). tem('202301491003', relator, 'DANIELA TEIXEIRA'). tem('202301491003', classe, 'REsp'). tem('202301491003', objeto, 'nulidade_busca').
+resultado_real('202301491003', perde).
+tem('202300667348', turma, 'QUINTA TURMA'). tem('202300667348', relator, 'DANIELA TEIXEIRA'). tem('202300667348', classe, 'REsp'). tem('202300667348', objeto, 'nulidade_busca').
+tem('202300667348', marcador, 'denuncia_anonima').
+resultado_real('202300667348', perde).
+tem('202301684291', turma, 'QUINTA TURMA'). tem('202301684291', relator, 'DANIELA TEIXEIRA'). tem('202301684291', classe, 'REsp'). tem('202301684291', objeto, 'desclassificacao').
+resultado_real('202301684291', perde).
+tem('202301927521', turma, 'QUINTA TURMA'). tem('202301927521', relator, 'DANIELA TEIXEIRA'). tem('202301927521', classe, 'REsp'). tem('202301927521', objeto, 'nulidade_busca').
+tem('202301927521', marcador, 'nervosismo').
+resultado_real('202301927521', perde).
+tem('202301931632', turma, 'QUINTA TURMA'). tem('202301931632', relator, 'DANIELA TEIXEIRA'). tem('202301931632', classe, 'REsp'). tem('202301931632', objeto, 'p4').
+tem('202301931632', marcador, 'faccao').
+resultado_real('202301931632', perde).
+tem('202302142860', turma, 'QUINTA TURMA'). tem('202302142860', relator, 'DANIELA TEIXEIRA'). tem('202302142860', classe, 'REsp'). tem('202302142860', objeto, 'nulidade_busca').
+tem('202302142860', marcador, 'fuga_mudanca_direcao').
+resultado_real('202302142860', perde).
+tem('202302226360', turma, 'QUINTA TURMA'). tem('202302226360', relator, 'DANIELA TEIXEIRA'). tem('202302226360', classe, 'REsp'). tem('202302226360', objeto, 'nulidade_busca').
+tem('202302226360', marcador, 'fuga_mudanca_direcao').
+tem('202302226360', marcador, 'denuncia_anonima').
+resultado_real('202302226360', perde).
+tem('202302251663', turma, 'QUINTA TURMA'). tem('202302251663', relator, 'DANIELA TEIXEIRA'). tem('202302251663', classe, 'REsp'). tem('202302251663', objeto, 'nulidade_busca').
+tem('202302251663', marcador, 'fuga_mudanca_direcao').
+tem('202302251663', marcador, 'denuncia_anonima').
+resultado_real('202302251663', perde).
+tem('202302253998', turma, 'QUINTA TURMA'). tem('202302253998', relator, 'DANIELA TEIXEIRA'). tem('202302253998', classe, 'REsp'). tem('202302253998', objeto, 'nulidade_busca').
+tem('202302253998', marcador, 'local_conhecido').
+tem('202302253998', marcador, 'fuga_mudanca_direcao').
+resultado_real('202302253998', perde).
+tem('202302292750', turma, 'QUINTA TURMA'). tem('202302292750', relator, 'DANIELA TEIXEIRA'). tem('202302292750', classe, 'REsp'). tem('202302292750', objeto, 'nulidade_busca').
+tem('202302292750', marcador, 'nervosismo').
+resultado_real('202302292750', vence).
+tem('202302382392', turma, 'QUINTA TURMA'). tem('202302382392', relator, 'DANIELA TEIXEIRA'). tem('202302382392', classe, 'REsp'). tem('202302382392', objeto, 'nulidade_busca').
+tem('202302382392', marcador, 'nervosismo').
+resultado_real('202302382392', perde).
+tem('202302410872', turma, 'QUINTA TURMA'). tem('202302410872', relator, 'DANIELA TEIXEIRA'). tem('202302410872', classe, 'REsp'). tem('202302410872', objeto, 'nulidade_busca').
+tem('202302410872', marcador, 'fuga_mudanca_direcao').
+resultado_real('202302410872', perde).
+tem('202302421401', turma, 'QUINTA TURMA'). tem('202302421401', relator, 'DANIELA TEIXEIRA'). tem('202302421401', classe, 'REsp'). tem('202302421401', objeto, 'dosimetria').
+resultado_real('202302421401', perde).
+tem('202302480569', turma, 'QUINTA TURMA'). tem('202302480569', relator, 'DANIELA TEIXEIRA'). tem('202302480569', classe, 'REsp'). tem('202302480569', objeto, 'nulidade_busca').
+resultado_real('202302480569', perde).
+tem('202302493762', turma, 'QUINTA TURMA'). tem('202302493762', relator, 'DANIELA TEIXEIRA'). tem('202302493762', classe, 'REsp'). tem('202302493762', objeto, 'p4').
+resultado_real('202302493762', perde).
+tem('202302617811', turma, 'QUINTA TURMA'). tem('202302617811', relator, 'DANIELA TEIXEIRA'). tem('202302617811', classe, 'REsp'). tem('202302617811', objeto, 'p4').
+tem('202302617811', marcador, 'local_conhecido').
+tem('202302617811', marcador, 'faccao').
+resultado_real('202302617811', vence).
+tem('202302653981', turma, 'QUINTA TURMA'). tem('202302653981', relator, 'DANIELA TEIXEIRA'). tem('202302653981', classe, 'REsp'). tem('202302653981', objeto, 'nulidade_busca').
+tem('202302653981', marcador, 'denuncia_anonima').
+resultado_real('202302653981', vence).
+tem('202302692642', turma, 'QUINTA TURMA'). tem('202302692642', relator, 'DANIELA TEIXEIRA'). tem('202302692642', classe, 'REsp'). tem('202302692642', objeto, 'dosimetria').
+resultado_real('202302692642', perde).
+tem('202302719927', turma, 'QUINTA TURMA'). tem('202302719927', relator, 'DANIELA TEIXEIRA'). tem('202302719927', classe, 'REsp'). tem('202302719927', objeto, 'p4').
+resultado_real('202302719927', perde).
+tem('202302841880', turma, 'QUINTA TURMA'). tem('202302841880', relator, 'DANIELA TEIXEIRA'). tem('202302841880', classe, 'REsp'). tem('202302841880', objeto, 'nulidade_busca').
+resultado_real('202302841880', vence).
+tem('202302982304', turma, 'QUINTA TURMA'). tem('202302982304', relator, 'DANIELA TEIXEIRA'). tem('202302982304', classe, 'REsp'). tem('202302982304', objeto, 'p4').
+resultado_real('202302982304', vence).
+tem('202303042720', turma, 'QUINTA TURMA'). tem('202303042720', relator, 'DANIELA TEIXEIRA'). tem('202303042720', classe, 'REsp'). tem('202303042720', objeto, 'dosimetria').
+resultado_real('202303042720', vence).
+tem('202303294650', turma, 'QUINTA TURMA'). tem('202303294650', relator, 'DANIELA TEIXEIRA'). tem('202303294650', classe, 'REsp'). tem('202303294650', objeto, 'nulidade_busca').
+resultado_real('202303294650', perde).
+tem('202303314660', turma, 'QUINTA TURMA'). tem('202303314660', relator, 'DANIELA TEIXEIRA'). tem('202303314660', classe, 'REsp'). tem('202303314660', objeto, 'nulidade_busca').
+tem('202303314660', marcador, 'fuga_mudanca_direcao').
+tem('202303314660', marcador, 'denuncia_anonima').
+resultado_real('202303314660', perde).
+tem('202303375447', turma, 'QUINTA TURMA'). tem('202303375447', relator, 'DANIELA TEIXEIRA'). tem('202303375447', classe, 'REsp'). tem('202303375447', objeto, 'nulidade_busca').
+tem('202303375447', marcador, 'fuga_mudanca_direcao').
+tem('202303375447', marcador, 'denuncia_anonima').
+resultado_real('202303375447', perde).
+tem('202303411170', turma, 'QUINTA TURMA'). tem('202303411170', relator, 'DANIELA TEIXEIRA'). tem('202303411170', classe, 'REsp'). tem('202303411170', objeto, 'p4').
+resultado_real('202303411170', vence).
+tem('202303416525', turma, 'QUINTA TURMA'). tem('202303416525', relator, 'DANIELA TEIXEIRA'). tem('202303416525', classe, 'REsp'). tem('202303416525', objeto, 'outro').
+resultado_real('202303416525', perde).
+tem('202303585107', turma, 'QUINTA TURMA'). tem('202303585107', relator, 'DANIELA TEIXEIRA'). tem('202303585107', classe, 'REsp'). tem('202303585107', objeto, 'outro').
+resultado_real('202303585107', perde).
+tem('202303586344', turma, 'QUINTA TURMA'). tem('202303586344', relator, 'DANIELA TEIXEIRA'). tem('202303586344', classe, 'REsp'). tem('202303586344', objeto, 'desclassificacao').
+resultado_real('202303586344', vence).
+tem('202303752188', turma, 'QUINTA TURMA'). tem('202303752188', relator, 'DANIELA TEIXEIRA'). tem('202303752188', classe, 'REsp'). tem('202303752188', objeto, 'dosimetria').
+resultado_real('202303752188', vence).
+tem('202303760836', turma, 'QUINTA TURMA'). tem('202303760836', relator, 'DANIELA TEIXEIRA'). tem('202303760836', classe, 'REsp'). tem('202303760836', objeto, 'nulidade_busca').
+resultado_real('202303760836', vence).
+tem('202303882554', turma, 'QUINTA TURMA'). tem('202303882554', relator, 'DANIELA TEIXEIRA'). tem('202303882554', classe, 'REsp'). tem('202303882554', objeto, 'p4').
+tem('202303882554', marcador, 'faccao').
+tem('202303882554', marcador, 'atos_infracionais').
+resultado_real('202303882554', vence).
+tem('202303995539', turma, 'QUINTA TURMA'). tem('202303995539', relator, 'DANIELA TEIXEIRA'). tem('202303995539', classe, 'REsp'). tem('202303995539', objeto, 'p4').
+resultado_real('202303995539', perde).
+tem('202304104488', turma, 'QUINTA TURMA'). tem('202304104488', relator, 'DANIELA TEIXEIRA'). tem('202304104488', classe, 'REsp'). tem('202304104488', objeto, 'nulidade_busca').
+tem('202304104488', marcador, 'fuga_mudanca_direcao').
+resultado_real('202304104488', perde).
+tem('202304187420', turma, 'QUINTA TURMA'). tem('202304187420', relator, 'DANIELA TEIXEIRA'). tem('202304187420', classe, 'REsp'). tem('202304187420', objeto, 'desclassificacao').
+resultado_real('202304187420', perde).
+tem('202304189729', turma, 'QUINTA TURMA'). tem('202304189729', relator, 'DANIELA TEIXEIRA'). tem('202304189729', classe, 'REsp'). tem('202304189729', objeto, 'nulidade_busca').
+tem('202304189729', marcador, 'denuncia_anonima').
+resultado_real('202304189729', perde).
+tem('202304307978', turma, 'QUINTA TURMA'). tem('202304307978', relator, 'DANIELA TEIXEIRA'). tem('202304307978', classe, 'REsp'). tem('202304307978', objeto, 'p4').
+resultado_real('202304307978', perde).
+tem('202304320292', turma, 'QUINTA TURMA'). tem('202304320292', relator, 'DANIELA TEIXEIRA'). tem('202304320292', classe, 'REsp'). tem('202304320292', objeto, 'nulidade_busca').
+resultado_real('202304320292', perde).
+tem('202304322465', turma, 'QUINTA TURMA'). tem('202304322465', relator, 'DANIELA TEIXEIRA'). tem('202304322465', classe, 'REsp'). tem('202304322465', objeto, 'nulidade_busca').
+resultado_real('202304322465', vence).
+tem('202304422271', turma, 'QUINTA TURMA'). tem('202304422271', relator, 'DANIELA TEIXEIRA'). tem('202304422271', classe, 'REsp'). tem('202304422271', objeto, 'nulidade_busca').
+resultado_real('202304422271', perde).
+tem('202304424420', turma, 'QUINTA TURMA'). tem('202304424420', relator, 'DANIELA TEIXEIRA'). tem('202304424420', classe, 'REsp'). tem('202304424420', objeto, 'nulidade_busca').
+tem('202304424420', marcador, 'fuga_mudanca_direcao').
+resultado_real('202304424420', perde).
+tem('202304393298', turma, 'QUINTA TURMA'). tem('202304393298', relator, 'DANIELA TEIXEIRA'). tem('202304393298', classe, 'REsp'). tem('202304393298', objeto, 'p4').
+resultado_real('202304393298', vence).
+tem('202304454798', turma, 'QUINTA TURMA'). tem('202304454798', relator, 'DANIELA TEIXEIRA'). tem('202304454798', classe, 'REsp'). tem('202304454798', objeto, 'dosimetria').
+resultado_real('202304454798', perde).
+tem('202304532061', turma, 'QUINTA TURMA'). tem('202304532061', relator, 'DANIELA TEIXEIRA'). tem('202304532061', classe, 'REsp'). tem('202304532061', objeto, 'p4').
+resultado_real('202304532061', perde).
+tem('202304564487', turma, 'QUINTA TURMA'). tem('202304564487', relator, 'DANIELA TEIXEIRA'). tem('202304564487', classe, 'REsp'). tem('202304564487', objeto, 'nulidade_busca').
+tem('202304564487', marcador, 'local_conhecido').
+tem('202304564487', marcador, 'nervosismo').
+resultado_real('202304564487', perde).
+tem('202304571138', turma, 'QUINTA TURMA'). tem('202304571138', relator, 'DANIELA TEIXEIRA'). tem('202304571138', classe, 'REsp'). tem('202304571138', objeto, 'nulidade_busca').
+resultado_real('202304571138', perde).
+tem('202400071769', turma, 'QUINTA TURMA'). tem('202400071769', relator, 'DANIELA TEIXEIRA'). tem('202400071769', classe, 'REsp'). tem('202400071769', objeto, 'p4').
+resultado_real('202400071769', perde).
+tem('202400076811', turma, 'QUINTA TURMA'). tem('202400076811', relator, 'DANIELA TEIXEIRA'). tem('202400076811', classe, 'REsp'). tem('202400076811', objeto, 'nulidade_busca').
+resultado_real('202400076811', perde).
+tem('202400076290', turma, 'QUINTA TURMA'). tem('202400076290', relator, 'DANIELA TEIXEIRA'). tem('202400076290', classe, 'REsp'). tem('202400076290', objeto, 'nulidade_busca').
+tem('202400076290', marcador, 'denuncia_anonima').
+resultado_real('202400076290', vence).
+tem('202400083357', turma, 'QUINTA TURMA'). tem('202400083357', relator, 'DANIELA TEIXEIRA'). tem('202400083357', classe, 'REsp'). tem('202400083357', objeto, 'p4').
+resultado_real('202400083357', vence).
+tem('202400087563', turma, 'QUINTA TURMA'). tem('202400087563', relator, 'DANIELA TEIXEIRA'). tem('202400087563', classe, 'REsp'). tem('202400087563', objeto, 'nulidade_busca').
+resultado_real('202400087563', perde).
+tem('202400114196', turma, 'QUINTA TURMA'). tem('202400114196', relator, 'DANIELA TEIXEIRA'). tem('202400114196', classe, 'REsp'). tem('202400114196', objeto, 'nulidade_busca').
+resultado_real('202400114196', perde).
+tem('202400142344', turma, 'QUINTA TURMA'). tem('202400142344', relator, 'DANIELA TEIXEIRA'). tem('202400142344', classe, 'REsp'). tem('202400142344', objeto, 'p4').
+tem('202400142344', marcador, 'faccao').
+resultado_real('202400142344', perde).
+tem('202400197579', turma, 'QUINTA TURMA'). tem('202400197579', relator, 'DANIELA TEIXEIRA'). tem('202400197579', classe, 'REsp'). tem('202400197579', objeto, 'dosimetria').
+resultado_real('202400197579', vence).
+tem('202400276990', turma, 'QUINTA TURMA'). tem('202400276990', relator, 'DANIELA TEIXEIRA'). tem('202400276990', classe, 'REsp'). tem('202400276990', objeto, 'nulidade_busca').
+tem('202400276990', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400276990', perde).
+tem('202400278276', turma, 'QUINTA TURMA'). tem('202400278276', relator, 'DANIELA TEIXEIRA'). tem('202400278276', classe, 'REsp'). tem('202400278276', objeto, 'nulidade_busca').
+tem('202400278276', marcador, 'local_conhecido').
+resultado_real('202400278276', vence).
+tem('202400391268', turma, 'QUINTA TURMA'). tem('202400391268', relator, 'DANIELA TEIXEIRA'). tem('202400391268', classe, 'REsp'). tem('202400391268', objeto, 'p4').
+tem('202400391268', marcador, 'denuncia_anonima').
+resultado_real('202400391268', perde).
+tem('202400517349', turma, 'QUINTA TURMA'). tem('202400517349', relator, 'DANIELA TEIXEIRA'). tem('202400517349', classe, 'REsp'). tem('202400517349', objeto, 'outro').
+resultado_real('202400517349', perde).
+tem('202400729802', turma, 'QUINTA TURMA'). tem('202400729802', relator, 'DANIELA TEIXEIRA'). tem('202400729802', classe, 'REsp'). tem('202400729802', objeto, 'nulidade_busca').
+tem('202400729802', marcador, 'local_conhecido').
+tem('202400729802', marcador, 'fuga_mudanca_direcao').
+tem('202400729802', marcador, 'denuncia_anonima').
+resultado_real('202400729802', perde).
+tem('202400997847', turma, 'QUINTA TURMA'). tem('202400997847', relator, 'DANIELA TEIXEIRA'). tem('202400997847', classe, 'REsp'). tem('202400997847', objeto, 'nulidade_busca').
+tem('202400997847', marcador, 'local_conhecido').
+tem('202400997847', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400997847', perde).
+tem('202401018910', turma, 'QUINTA TURMA'). tem('202401018910', relator, 'DANIELA TEIXEIRA'). tem('202401018910', classe, 'REsp'). tem('202401018910', objeto, 'nulidade_busca').
+tem('202401018910', marcador, 'denuncia_anonima').
+resultado_real('202401018910', vence).
+tem('202401057049', turma, 'QUINTA TURMA'). tem('202401057049', relator, 'DANIELA TEIXEIRA'). tem('202401057049', classe, 'REsp'). tem('202401057049', objeto, 'nulidade_busca').
+tem('202401057049', marcador, 'denuncia_anonima').
+resultado_real('202401057049', perde).
+tem('202401057520', turma, 'QUINTA TURMA'). tem('202401057520', relator, 'DANIELA TEIXEIRA'). tem('202401057520', classe, 'REsp'). tem('202401057520', objeto, 'nulidade_busca').
+tem('202401057520', marcador, 'local_conhecido').
+tem('202401057520', marcador, 'nervosismo').
+tem('202401057520', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401057520', perde).
+tem('202401122814', turma, 'QUINTA TURMA'). tem('202401122814', relator, 'DANIELA TEIXEIRA'). tem('202401122814', classe, 'REsp'). tem('202401122814', objeto, 'p4').
+tem('202401122814', marcador, 'faccao').
+resultado_real('202401122814', perde).
+tem('202401178882', turma, 'QUINTA TURMA'). tem('202401178882', relator, 'DANIELA TEIXEIRA'). tem('202401178882', classe, 'REsp'). tem('202401178882', objeto, 'p4').
+tem('202401178882', marcador, 'faccao').
+resultado_real('202401178882', perde).
+tem('202401215196', turma, 'QUINTA TURMA'). tem('202401215196', relator, 'DANIELA TEIXEIRA'). tem('202401215196', classe, 'REsp'). tem('202401215196', objeto, 'outro').
+resultado_real('202401215196', perde).
+tem('202401309894', turma, 'QUINTA TURMA'). tem('202401309894', relator, 'DANIELA TEIXEIRA'). tem('202401309894', classe, 'REsp'). tem('202401309894', objeto, 'p4').
+tem('202401309894', marcador, 'denuncia_anonima').
+resultado_real('202401309894', perde).
+tem('202401320050', turma, 'QUINTA TURMA'). tem('202401320050', relator, 'DANIELA TEIXEIRA'). tem('202401320050', classe, 'REsp'). tem('202401320050', objeto, 'nulidade_busca').
+tem('202401320050', marcador, 'denuncia_anonima').
+resultado_real('202401320050', vence).
+tem('202401485014', turma, 'QUINTA TURMA'). tem('202401485014', relator, 'DANIELA TEIXEIRA'). tem('202401485014', classe, 'REsp'). tem('202401485014', objeto, 'p4').
+resultado_real('202401485014', perde).
+tem('202401530721', turma, 'QUINTA TURMA'). tem('202401530721', relator, 'DANIELA TEIXEIRA'). tem('202401530721', classe, 'REsp'). tem('202401530721', objeto, 'nulidade_busca').
+tem('202401530721', marcador, 'nervosismo').
+resultado_real('202401530721', vence).
+tem('202401566608', turma, 'QUINTA TURMA'). tem('202401566608', relator, 'DANIELA TEIXEIRA'). tem('202401566608', classe, 'REsp'). tem('202401566608', objeto, 'p4').
+resultado_real('202401566608', perde).
+tem('202401834622', turma, 'QUINTA TURMA'). tem('202401834622', relator, 'DANIELA TEIXEIRA'). tem('202401834622', classe, 'REsp'). tem('202401834622', objeto, 'dosimetria').
+resultado_real('202401834622', vence).
+tem('202401860216', turma, 'QUINTA TURMA'). tem('202401860216', relator, 'DANIELA TEIXEIRA'). tem('202401860216', classe, 'REsp'). tem('202401860216', objeto, 'nulidade_busca').
+resultado_real('202401860216', vence).
+tem('202401932634', turma, 'QUINTA TURMA'). tem('202401932634', relator, 'DANIELA TEIXEIRA'). tem('202401932634', classe, 'REsp'). tem('202401932634', objeto, 'nulidade_busca').
+tem('202401932634', marcador, 'vulgo').
+tem('202401932634', marcador, 'denuncia_anonima').
+resultado_real('202401932634', perde).
+tem('202401940028', turma, 'QUINTA TURMA'). tem('202401940028', relator, 'DANIELA TEIXEIRA'). tem('202401940028', classe, 'REsp'). tem('202401940028', objeto, 'p4').
+resultado_real('202401940028', vence).
+tem('202401946609', turma, 'QUINTA TURMA'). tem('202401946609', relator, 'DANIELA TEIXEIRA'). tem('202401946609', classe, 'REsp'). tem('202401946609', objeto, 'nulidade_busca').
+resultado_real('202401946609', perde).
+tem('202401979060', turma, 'QUINTA TURMA'). tem('202401979060', relator, 'DANIELA TEIXEIRA'). tem('202401979060', classe, 'REsp'). tem('202401979060', objeto, 'p4').
+tem('202401979060', marcador, 'faccao').
+resultado_real('202401979060', perde).
+tem('202402038050', turma, 'QUINTA TURMA'). tem('202402038050', relator, 'DANIELA TEIXEIRA'). tem('202402038050', classe, 'REsp'). tem('202402038050', objeto, 'p4').
+tem('202402038050', marcador, 'denuncia_anonima').
+resultado_real('202402038050', perde).
+tem('202402120065', turma, 'QUINTA TURMA'). tem('202402120065', relator, 'DANIELA TEIXEIRA'). tem('202402120065', classe, 'REsp'). tem('202402120065', objeto, 'p4').
+resultado_real('202402120065', vence).
+tem('202402306858', turma, 'QUINTA TURMA'). tem('202402306858', relator, 'DANIELA TEIXEIRA'). tem('202402306858', classe, 'REsp'). tem('202402306858', objeto, 'p4').
+tem('202402306858', marcador, 'faccao').
+resultado_real('202402306858', vence).
+tem('202402334954', turma, 'QUINTA TURMA'). tem('202402334954', relator, 'DANIELA TEIXEIRA'). tem('202402334954', classe, 'REsp'). tem('202402334954', objeto, 'nulidade_busca').
+tem('202402334954', marcador, 'denuncia_anonima').
+resultado_real('202402334954', perde).
+tem('202402347250', turma, 'QUINTA TURMA'). tem('202402347250', relator, 'DANIELA TEIXEIRA'). tem('202402347250', classe, 'REsp'). tem('202402347250', objeto, 'nulidade_busca').
+tem('202402347250', marcador, 'faccao').
+tem('202402347250', marcador, 'denuncia_anonima').
+resultado_real('202402347250', perde).
+tem('202402408356', turma, 'QUINTA TURMA'). tem('202402408356', relator, 'DANIELA TEIXEIRA'). tem('202402408356', classe, 'REsp'). tem('202402408356', objeto, 'nulidade_busca').
+tem('202402408356', marcador, 'local_conhecido').
+tem('202402408356', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402408356', perde).
+tem('202402492137', turma, 'QUINTA TURMA'). tem('202402492137', relator, 'DANIELA TEIXEIRA'). tem('202402492137', classe, 'REsp'). tem('202402492137', objeto, 'nulidade_busca').
+resultado_real('202402492137', perde).
+tem('202402506509', turma, 'QUINTA TURMA'). tem('202402506509', relator, 'DANIELA TEIXEIRA'). tem('202402506509', classe, 'REsp'). tem('202402506509', objeto, 'nulidade_busca').
+tem('202402506509', marcador, 'conhecido_policia').
+tem('202402506509', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402506509', perde).
+tem('202402598890', turma, 'QUINTA TURMA'). tem('202402598890', relator, 'DANIELA TEIXEIRA'). tem('202402598890', classe, 'REsp'). tem('202402598890', objeto, 'nulidade_busca').
+tem('202402598890', marcador, 'fuga_mudanca_direcao').
+tem('202402598890', marcador, 'denuncia_anonima').
+resultado_real('202402598890', perde).
+tem('202402680197', turma, 'QUINTA TURMA'). tem('202402680197', relator, 'DANIELA TEIXEIRA'). tem('202402680197', classe, 'REsp'). tem('202402680197', objeto, 'nulidade_busca').
+tem('202402680197', marcador, 'local_conhecido').
+resultado_real('202402680197', vence).
+tem('202402709984', turma, 'QUINTA TURMA'). tem('202402709984', relator, 'DANIELA TEIXEIRA'). tem('202402709984', classe, 'REsp'). tem('202402709984', objeto, 'p4').
+tem('202402709984', marcador, 'faccao').
+resultado_real('202402709984', perde).
+tem('202402795065', turma, 'QUINTA TURMA'). tem('202402795065', relator, 'DANIELA TEIXEIRA'). tem('202402795065', classe, 'REsp'). tem('202402795065', objeto, 'p4').
+resultado_real('202402795065', vence).
+tem('202402964194', turma, 'QUINTA TURMA'). tem('202402964194', relator, 'DANIELA TEIXEIRA'). tem('202402964194', classe, 'REsp'). tem('202402964194', objeto, 'nulidade_busca').
+tem('202402964194', marcador, 'nervosismo').
+resultado_real('202402964194', vence).
+tem('202402989103', turma, 'QUINTA TURMA'). tem('202402989103', relator, 'DANIELA TEIXEIRA'). tem('202402989103', classe, 'REsp'). tem('202402989103', objeto, 'nulidade_busca').
+tem('202402989103', marcador, 'nervosismo').
+tem('202402989103', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402989103', vence).
+tem('202403071158', turma, 'QUINTA TURMA'). tem('202403071158', relator, 'DANIELA TEIXEIRA'). tem('202403071158', classe, 'REsp'). tem('202403071158', objeto, 'p4').
+tem('202403071158', marcador, 'local_conhecido').
+tem('202403071158', marcador, 'faccao').
+resultado_real('202403071158', perde).
+tem('202403180759', turma, 'QUINTA TURMA'). tem('202403180759', relator, 'DANIELA TEIXEIRA'). tem('202403180759', classe, 'REsp'). tem('202403180759', objeto, 'nulidade_busca').
+resultado_real('202403180759', perde).
+tem('202403230331', turma, 'QUINTA TURMA'). tem('202403230331', relator, 'DANIELA TEIXEIRA'). tem('202403230331', classe, 'REsp'). tem('202403230331', objeto, 'dosimetria').
+resultado_real('202403230331', perde).
+tem('202403352578', turma, 'QUINTA TURMA'). tem('202403352578', relator, 'DANIELA TEIXEIRA'). tem('202403352578', classe, 'REsp'). tem('202403352578', objeto, 'nulidade_busca').
+tem('202403352578', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403352578', vence).
+tem('202403495894', turma, 'QUINTA TURMA'). tem('202403495894', relator, 'DANIELA TEIXEIRA'). tem('202403495894', classe, 'REsp'). tem('202403495894', objeto, 'autoria').
+resultado_real('202403495894', vence).
+tem('202403550776', turma, 'QUINTA TURMA'). tem('202403550776', relator, 'DANIELA TEIXEIRA'). tem('202403550776', classe, 'REsp'). tem('202403550776', objeto, 'nulidade_busca').
+tem('202403550776', marcador, 'denuncia_anonima').
+resultado_real('202403550776', perde).
+tem('202403560255', turma, 'QUINTA TURMA'). tem('202403560255', relator, 'DANIELA TEIXEIRA'). tem('202403560255', classe, 'REsp'). tem('202403560255', objeto, 'nulidade_busca').
+resultado_real('202403560255', perde).
+tem('202403565701', turma, 'QUINTA TURMA'). tem('202403565701', relator, 'DANIELA TEIXEIRA'). tem('202403565701', classe, 'REsp'). tem('202403565701', objeto, 'nulidade_busca').
+tem('202403565701', marcador, 'faccao').
+resultado_real('202403565701', perde).
+tem('202403573132', turma, 'QUINTA TURMA'). tem('202403573132', relator, 'DANIELA TEIXEIRA'). tem('202403573132', classe, 'REsp'). tem('202403573132', objeto, 'p4').
+tem('202403573132', marcador, 'faccao').
+resultado_real('202403573132', vence).
+tem('202403669470', turma, 'QUINTA TURMA'). tem('202403669470', relator, 'DANIELA TEIXEIRA'). tem('202403669470', classe, 'REsp'). tem('202403669470', objeto, 'dosimetria').
+tem('202403669470', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403669470', perde).
+tem('202403681343', turma, 'QUINTA TURMA'). tem('202403681343', relator, 'DANIELA TEIXEIRA'). tem('202403681343', classe, 'REsp'). tem('202403681343', objeto, 'outro').
+resultado_real('202403681343', perde).
+tem('202403852924', turma, 'QUINTA TURMA'). tem('202403852924', relator, 'DANIELA TEIXEIRA'). tem('202403852924', classe, 'REsp'). tem('202403852924', objeto, 'p4').
+resultado_real('202403852924', perde).
+tem('202403906382', turma, 'QUINTA TURMA'). tem('202403906382', relator, 'DANIELA TEIXEIRA'). tem('202403906382', classe, 'REsp'). tem('202403906382', objeto, 'nulidade_busca').
+tem('202403906382', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403906382', vence).
+tem('202403963696', turma, 'QUINTA TURMA'). tem('202403963696', relator, 'DANIELA TEIXEIRA'). tem('202403963696', classe, 'REsp'). tem('202403963696', objeto, 'p4').
+resultado_real('202403963696', vence).
+tem('202404019636', turma, 'QUINTA TURMA'). tem('202404019636', relator, 'DANIELA TEIXEIRA'). tem('202404019636', classe, 'REsp'). tem('202404019636', objeto, 'nulidade_busca').
+tem('202404019636', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404019636', vence).
+tem('202302292077', turma, 'QUINTA TURMA'). tem('202302292077', relator, 'DANIELA TEIXEIRA'). tem('202302292077', classe, 'RHC'). tem('202302292077', objeto, 'desclassificacao').
+resultado_real('202302292077', perde).
+tem('202302297192', turma, 'QUINTA TURMA'). tem('202302297192', relator, 'DANIELA TEIXEIRA'). tem('202302297192', classe, 'RHC'). tem('202302297192', objeto, 'p4').
+resultado_real('202302297192', vence).
+tem('202401904587', turma, 'QUINTA TURMA'). tem('202401904587', relator, 'DANIELA TEIXEIRA'). tem('202401904587', classe, 'RHC'). tem('202401904587', objeto, 'outro').
+resultado_real('202401904587', perde).
+tem('202402768978', turma, 'QUINTA TURMA'). tem('202402768978', relator, 'DANIELA TEIXEIRA'). tem('202402768978', classe, 'RHC'). tem('202402768978', objeto, 'outro').
+resultado_real('202402768978', perde).
+tem('202403382746', turma, 'QUINTA TURMA'). tem('202403382746', relator, 'DANIELA TEIXEIRA'). tem('202403382746', classe, 'RHC'). tem('202403382746', objeto, 'outro').
+resultado_real('202403382746', vence).
+tem('202403420438', turma, 'QUINTA TURMA'). tem('202403420438', relator, 'DANIELA TEIXEIRA'). tem('202403420438', classe, 'RHC'). tem('202403420438', objeto, 'dosimetria').
+resultado_real('202403420438', perde).
+tem('202403667652', turma, 'QUINTA TURMA'). tem('202403667652', relator, 'DANIELA TEIXEIRA'). tem('202403667652', classe, 'RHC'). tem('202403667652', objeto, 'nulidade_busca').
+tem('202403667652', marcador, 'fuga_mudanca_direcao').
+tem('202403667652', marcador, 'denuncia_anonima').
+resultado_real('202403667652', perde).
+tem('202403859488', turma, 'QUINTA TURMA'). tem('202403859488', relator, 'DANIELA TEIXEIRA'). tem('202403859488', classe, 'RHC'). tem('202403859488', objeto, 'outro').
+resultado_real('202403859488', perde).
+tem('202404209680', turma, 'QUINTA TURMA'). tem('202404209680', relator, 'DANIELA TEIXEIRA'). tem('202404209680', classe, 'RHC'). tem('202404209680', objeto, 'nulidade_busca').
+resultado_real('202404209680', perde).
+tem('202404283161', turma, 'QUINTA TURMA'). tem('202404283161', relator, 'DANIELA TEIXEIRA'). tem('202404283161', classe, 'RHC'). tem('202404283161', objeto, 'nulidade_busca').
+resultado_real('202404283161', perde).
+tem('202301893774', turma, 'QUINTA TURMA'). tem('202301893774', relator, 'JOEL ILAN'). tem('202301893774', classe, 'AREsp'). tem('202301893774', objeto, 'p4').
+resultado_real('202301893774', perde).
+tem('202302548827', turma, 'QUINTA TURMA'). tem('202302548827', relator, 'JOEL ILAN'). tem('202302548827', classe, 'AREsp'). tem('202302548827', objeto, 'nulidade_busca').
+resultado_real('202302548827', perde).
+tem('202302577630', turma, 'QUINTA TURMA'). tem('202302577630', relator, 'JOEL ILAN'). tem('202302577630', classe, 'AREsp'). tem('202302577630', objeto, 'nulidade_busca').
+resultado_real('202302577630', perde).
+tem('202302637396', turma, 'QUINTA TURMA'). tem('202302637396', relator, 'JOEL ILAN'). tem('202302637396', classe, 'AREsp'). tem('202302637396', objeto, 'nulidade_busca').
+tem('202302637396', marcador, 'fuga_mudanca_direcao').
+resultado_real('202302637396', perde).
+tem('202302883950', turma, 'QUINTA TURMA'). tem('202302883950', relator, 'JOEL ILAN'). tem('202302883950', classe, 'AREsp'). tem('202302883950', objeto, 'desclassificacao').
+resultado_real('202302883950', perde).
+tem('202302869437', turma, 'QUINTA TURMA'). tem('202302869437', relator, 'JOEL ILAN'). tem('202302869437', classe, 'AREsp'). tem('202302869437', objeto, 'dosimetria').
+tem('202302869437', marcador, 'comunidade_bairro').
+resultado_real('202302869437', perde).
+tem('202302879382', turma, 'QUINTA TURMA'). tem('202302879382', relator, 'JOEL ILAN'). tem('202302879382', classe, 'AREsp'). tem('202302879382', objeto, 'desclassificacao').
+resultado_real('202302879382', perde).
+tem('202303113723', turma, 'QUINTA TURMA'). tem('202303113723', relator, 'JOEL ILAN'). tem('202303113723', classe, 'AREsp'). tem('202303113723', objeto, 'outro').
+resultado_real('202303113723', perde).
+tem('202303121571', turma, 'QUINTA TURMA'). tem('202303121571', relator, 'JOEL ILAN'). tem('202303121571', classe, 'AREsp'). tem('202303121571', objeto, 'outro').
+resultado_real('202303121571', perde).
+tem('202303245082', turma, 'QUINTA TURMA'). tem('202303245082', relator, 'JOEL ILAN'). tem('202303245082', classe, 'AREsp'). tem('202303245082', objeto, 'dosimetria').
+tem('202303245082', marcador, 'faccao').
+resultado_real('202303245082', perde).
+tem('202303436126', turma, 'QUINTA TURMA'). tem('202303436126', relator, 'JOEL ILAN'). tem('202303436126', classe, 'AREsp'). tem('202303436126', objeto, 'dosimetria').
+resultado_real('202303436126', perde).
+tem('202304042839', turma, 'QUINTA TURMA'). tem('202304042839', relator, 'JOEL ILAN'). tem('202304042839', classe, 'AREsp'). tem('202304042839', objeto, 'dosimetria').
+tem('202304042839', marcador, 'faccao').
+resultado_real('202304042839', perde).
+tem('202304055538', turma, 'QUINTA TURMA'). tem('202304055538', relator, 'JOEL ILAN'). tem('202304055538', classe, 'AREsp'). tem('202304055538', objeto, 'dosimetria').
+resultado_real('202304055538', vence).
+tem('202304128905', turma, 'QUINTA TURMA'). tem('202304128905', relator, 'JOEL ILAN'). tem('202304128905', classe, 'AREsp'). tem('202304128905', objeto, 'p4').
+resultado_real('202304128905', perde).
+tem('202304134708', turma, 'QUINTA TURMA'). tem('202304134708', relator, 'JOEL ILAN'). tem('202304134708', classe, 'AREsp'). tem('202304134708', objeto, 'nulidade_busca').
+tem('202304134708', marcador, 'fuga_mudanca_direcao').
+tem('202304134708', marcador, 'denuncia_anonima').
+resultado_real('202304134708', perde).
+tem('202304431282', turma, 'QUINTA TURMA'). tem('202304431282', relator, 'JOEL ILAN'). tem('202304431282', classe, 'AREsp'). tem('202304431282', objeto, 'autoria').
+resultado_real('202304431282', perde).
+tem('202400354299', turma, 'QUINTA TURMA'). tem('202400354299', relator, 'JOEL ILAN'). tem('202400354299', classe, 'AREsp'). tem('202400354299', objeto, 'nulidade_busca').
+tem('202400354299', marcador, 'denuncia_anonima').
+resultado_real('202400354299', perde).
+tem('202400481534', turma, 'QUINTA TURMA'). tem('202400481534', relator, 'JOEL ILAN'). tem('202400481534', classe, 'AREsp'). tem('202400481534', objeto, 'p4').
+tem('202400481534', marcador, 'faccao').
+resultado_real('202400481534', perde).
+tem('202400597359', turma, 'QUINTA TURMA'). tem('202400597359', relator, 'JOEL ILAN'). tem('202400597359', classe, 'AREsp'). tem('202400597359', objeto, 'dosimetria').
+tem('202400597359', marcador, 'comunidade_bairro').
+tem('202400597359', marcador, 'faccao').
+resultado_real('202400597359', perde).
+tem('202400663855', turma, 'QUINTA TURMA'). tem('202400663855', relator, 'JOEL ILAN'). tem('202400663855', classe, 'AREsp'). tem('202400663855', objeto, 'outro').
+resultado_real('202400663855', perde).
+tem('202400795481', turma, 'QUINTA TURMA'). tem('202400795481', relator, 'JOEL ILAN'). tem('202400795481', classe, 'AREsp'). tem('202400795481', objeto, 'desclassificacao').
+tem('202400795481', marcador, 'comunidade_bairro').
+tem('202400795481', marcador, 'faccao').
+resultado_real('202400795481', perde).
+tem('202400908256', turma, 'QUINTA TURMA'). tem('202400908256', relator, 'JOEL ILAN'). tem('202400908256', classe, 'AREsp'). tem('202400908256', objeto, 'dosimetria').
+resultado_real('202400908256', perde).
+tem('202400936113', turma, 'QUINTA TURMA'). tem('202400936113', relator, 'JOEL ILAN'). tem('202400936113', classe, 'AREsp'). tem('202400936113', objeto, 'dosimetria').
+resultado_real('202400936113', perde).
+tem('202401004606', turma, 'QUINTA TURMA'). tem('202401004606', relator, 'JOEL ILAN'). tem('202401004606', classe, 'AREsp'). tem('202401004606', objeto, 'nulidade_busca').
+tem('202401004606', marcador, 'denuncia_anonima').
+resultado_real('202401004606', perde).
 tem('202401049085', turma, 'QUINTA TURMA'). tem('202401049085', relator, 'JOEL ILAN'). tem('202401049085', classe, 'AREsp'). tem('202401049085', objeto, 'p4').
 resultado_real('202401049085', perde).
+tem('202401100433', turma, 'QUINTA TURMA'). tem('202401100433', relator, 'JOEL ILAN'). tem('202401100433', classe, 'AREsp'). tem('202401100433', objeto, 'dosimetria').
+resultado_real('202401100433', perde).
+tem('202401363042', turma, 'QUINTA TURMA'). tem('202401363042', relator, 'JOEL ILAN'). tem('202401363042', classe, 'AREsp'). tem('202401363042', objeto, 'desclassificacao').
+resultado_real('202401363042', perde).
+tem('202401414582', turma, 'QUINTA TURMA'). tem('202401414582', relator, 'JOEL ILAN'). tem('202401414582', classe, 'AREsp'). tem('202401414582', objeto, 'desclassificacao').
+resultado_real('202401414582', perde).
+tem('202401633378', turma, 'QUINTA TURMA'). tem('202401633378', relator, 'JOEL ILAN'). tem('202401633378', classe, 'AREsp'). tem('202401633378', objeto, 'dosimetria').
+resultado_real('202401633378', perde).
+tem('202401805642', turma, 'QUINTA TURMA'). tem('202401805642', relator, 'JOEL ILAN'). tem('202401805642', classe, 'AREsp'). tem('202401805642', objeto, 'p4').
+resultado_real('202401805642', perde).
+tem('202401817950', turma, 'QUINTA TURMA'). tem('202401817950', relator, 'JOEL ILAN'). tem('202401817950', classe, 'AREsp'). tem('202401817950', objeto, 'p4').
+tem('202401817950', marcador, 'faccao').
+resultado_real('202401817950', perde).
+tem('202401823842', turma, 'QUINTA TURMA'). tem('202401823842', relator, 'JOEL ILAN'). tem('202401823842', classe, 'AREsp'). tem('202401823842', objeto, 'desclassificacao').
+resultado_real('202401823842', perde).
+tem('202401870893', turma, 'QUINTA TURMA'). tem('202401870893', relator, 'JOEL ILAN'). tem('202401870893', classe, 'AREsp'). tem('202401870893', objeto, 'desclassificacao').
+tem('202401870893', marcador, 'faccao').
+resultado_real('202401870893', perde).
+tem('202401876729', turma, 'QUINTA TURMA'). tem('202401876729', relator, 'JOEL ILAN'). tem('202401876729', classe, 'AREsp'). tem('202401876729', objeto, 'p4').
+tem('202401876729', marcador, 'faccao').
+resultado_real('202401876729', perde).
+tem('202401912111', turma, 'QUINTA TURMA'). tem('202401912111', relator, 'JOEL ILAN'). tem('202401912111', classe, 'AREsp'). tem('202401912111', objeto, 'p4').
+tem('202401912111', marcador, 'faccao').
+resultado_real('202401912111', perde).
+tem('202402033185', turma, 'QUINTA TURMA'). tem('202402033185', relator, 'JOEL ILAN'). tem('202402033185', classe, 'AREsp'). tem('202402033185', objeto, 'p4').
+resultado_real('202402033185', perde).
+tem('202402253954', turma, 'QUINTA TURMA'). tem('202402253954', relator, 'JOEL ILAN'). tem('202402253954', classe, 'AREsp'). tem('202402253954', objeto, 'nulidade_busca').
+tem('202402253954', marcador, 'denuncia_anonima').
+resultado_real('202402253954', perde).
+tem('202402255468', turma, 'QUINTA TURMA'). tem('202402255468', relator, 'JOEL ILAN'). tem('202402255468', classe, 'AREsp'). tem('202402255468', objeto, 'p4').
+resultado_real('202402255468', perde).
+tem('202402284068', turma, 'QUINTA TURMA'). tem('202402284068', relator, 'JOEL ILAN'). tem('202402284068', classe, 'AREsp'). tem('202402284068', objeto, 'desclassificacao').
+resultado_real('202402284068', perde).
+tem('202402292615', turma, 'QUINTA TURMA'). tem('202402292615', relator, 'JOEL ILAN'). tem('202402292615', classe, 'AREsp'). tem('202402292615', objeto, 'desclassificacao').
+resultado_real('202402292615', perde).
+tem('202402303070', turma, 'QUINTA TURMA'). tem('202402303070', relator, 'JOEL ILAN'). tem('202402303070', classe, 'AREsp'). tem('202402303070', objeto, 'p4').
+tem('202402303070', marcador, 'faccao').
+resultado_real('202402303070', perde).
+tem('202402314164', turma, 'QUINTA TURMA'). tem('202402314164', relator, 'JOEL ILAN'). tem('202402314164', classe, 'AREsp'). tem('202402314164', objeto, 'p4').
+tem('202402314164', marcador, 'faccao').
+resultado_real('202402314164', perde).
+tem('202402416511', turma, 'QUINTA TURMA'). tem('202402416511', relator, 'JOEL ILAN'). tem('202402416511', classe, 'AREsp'). tem('202402416511', objeto, 'nulidade_busca').
+resultado_real('202402416511', perde).
+tem('202402441840', turma, 'QUINTA TURMA'). tem('202402441840', relator, 'JOEL ILAN'). tem('202402441840', classe, 'AREsp'). tem('202402441840', objeto, 'nulidade_busca').
+tem('202402441840', marcador, 'denuncia_anonima').
+resultado_real('202402441840', perde).
+tem('202402588778', turma, 'QUINTA TURMA'). tem('202402588778', relator, 'JOEL ILAN'). tem('202402588778', classe, 'AREsp'). tem('202402588778', objeto, 'desclassificacao').
+resultado_real('202402588778', perde).
+tem('202402687424', turma, 'QUINTA TURMA'). tem('202402687424', relator, 'JOEL ILAN'). tem('202402687424', classe, 'AREsp'). tem('202402687424', objeto, 'p4').
+resultado_real('202402687424', perde).
+tem('202402694185', turma, 'QUINTA TURMA'). tem('202402694185', relator, 'JOEL ILAN'). tem('202402694185', classe, 'AREsp'). tem('202402694185', objeto, 'p4').
+tem('202402694185', marcador, 'faccao').
+resultado_real('202402694185', perde).
+tem('202402698924', turma, 'QUINTA TURMA'). tem('202402698924', relator, 'JOEL ILAN'). tem('202402698924', classe, 'AREsp'). tem('202402698924', objeto, 'p4').
+resultado_real('202402698924', perde).
+tem('202402769179', turma, 'QUINTA TURMA'). tem('202402769179', relator, 'JOEL ILAN'). tem('202402769179', classe, 'AREsp'). tem('202402769179', objeto, 'desclassificacao').
+resultado_real('202402769179', perde).
+tem('202402784540', turma, 'QUINTA TURMA'). tem('202402784540', relator, 'JOEL ILAN'). tem('202402784540', classe, 'AREsp'). tem('202402784540', objeto, 'dosimetria').
+resultado_real('202402784540', perde).
+tem('202402855543', turma, 'QUINTA TURMA'). tem('202402855543', relator, 'JOEL ILAN'). tem('202402855543', classe, 'AREsp'). tem('202402855543', objeto, 'p4').
+resultado_real('202402855543', perde).
+tem('202402859672', turma, 'QUINTA TURMA'). tem('202402859672', relator, 'JOEL ILAN'). tem('202402859672', classe, 'AREsp'). tem('202402859672', objeto, 'autoria').
+resultado_real('202402859672', perde).
+tem('202402949318', turma, 'QUINTA TURMA'). tem('202402949318', relator, 'JOEL ILAN'). tem('202402949318', classe, 'AREsp'). tem('202402949318', objeto, 'dosimetria').
+resultado_real('202402949318', perde).
+tem('202402974370', turma, 'QUINTA TURMA'). tem('202402974370', relator, 'JOEL ILAN'). tem('202402974370', classe, 'AREsp'). tem('202402974370', objeto, 'desclassificacao').
+resultado_real('202402974370', perde).
+tem('202403172127', turma, 'QUINTA TURMA'). tem('202403172127', relator, 'JOEL ILAN'). tem('202403172127', classe, 'AREsp'). tem('202403172127', objeto, 'desclassificacao').
+tem('202403172127', marcador, 'comunidade_bairro').
+resultado_real('202403172127', perde).
+tem('202403196642', turma, 'QUINTA TURMA'). tem('202403196642', relator, 'JOEL ILAN'). tem('202403196642', classe, 'AREsp'). tem('202403196642', objeto, 'nulidade_busca').
+tem('202403196642', marcador, 'denuncia_anonima').
+resultado_real('202403196642', perde).
+tem('202403205479', turma, 'QUINTA TURMA'). tem('202403205479', relator, 'JOEL ILAN'). tem('202403205479', classe, 'AREsp'). tem('202403205479', objeto, 'p4').
+resultado_real('202403205479', perde).
+tem('202403336576', turma, 'QUINTA TURMA'). tem('202403336576', relator, 'JOEL ILAN'). tem('202403336576', classe, 'AREsp'). tem('202403336576', objeto, 'nulidade_busca').
+resultado_real('202403336576', perde).
+tem('202403419673', turma, 'QUINTA TURMA'). tem('202403419673', relator, 'JOEL ILAN'). tem('202403419673', classe, 'AREsp'). tem('202403419673', objeto, 'desclassificacao').
+resultado_real('202403419673', perde).
+tem('202403476546', turma, 'QUINTA TURMA'). tem('202403476546', relator, 'JOEL ILAN'). tem('202403476546', classe, 'AREsp'). tem('202403476546', objeto, 'dosimetria').
+resultado_real('202403476546', perde).
+tem('202403580297', turma, 'QUINTA TURMA'). tem('202403580297', relator, 'JOEL ILAN'). tem('202403580297', classe, 'AREsp'). tem('202403580297', objeto, 'p4').
+resultado_real('202403580297', perde).
+tem('202403919400', turma, 'QUINTA TURMA'). tem('202403919400', relator, 'JOEL ILAN'). tem('202403919400', classe, 'AREsp'). tem('202403919400', objeto, 'p4').
+resultado_real('202403919400', perde).
+tem('202403985572', turma, 'QUINTA TURMA'). tem('202403985572', relator, 'JOEL ILAN'). tem('202403985572', classe, 'AREsp'). tem('202403985572', objeto, 'p4').
+resultado_real('202403985572', perde).
+tem('202404011969', turma, 'QUINTA TURMA'). tem('202404011969', relator, 'JOEL ILAN'). tem('202404011969', classe, 'AREsp'). tem('202404011969', objeto, 'p4').
+resultado_real('202404011969', perde).
+tem('202404182802', turma, 'QUINTA TURMA'). tem('202404182802', relator, 'JOEL ILAN'). tem('202404182802', classe, 'AREsp'). tem('202404182802', objeto, 'nulidade_busca').
+resultado_real('202404182802', perde).
+tem('202404270741', turma, 'QUINTA TURMA'). tem('202404270741', relator, 'JOEL ILAN'). tem('202404270741', classe, 'AREsp'). tem('202404270741', objeto, 'p4').
+resultado_real('202404270741', perde).
+tem('202404288870', turma, 'QUINTA TURMA'). tem('202404288870', relator, 'JOEL ILAN'). tem('202404288870', classe, 'AREsp'). tem('202404288870', objeto, 'dosimetria').
+resultado_real('202404288870', perde).
+tem('202404328027', turma, 'QUINTA TURMA'). tem('202404328027', relator, 'JOEL ILAN'). tem('202404328027', classe, 'AREsp'). tem('202404328027', objeto, 'p4').
+resultado_real('202404328027', perde).
+tem('202404366714', turma, 'QUINTA TURMA'). tem('202404366714', relator, 'JOEL ILAN'). tem('202404366714', classe, 'AREsp'). tem('202404366714', objeto, 'autoria').
+resultado_real('202404366714', perde).
+tem('202404356778', turma, 'QUINTA TURMA'). tem('202404356778', relator, 'JOEL ILAN'). tem('202404356778', classe, 'AREsp'). tem('202404356778', objeto, 'autoria').
+tem('202404356778', marcador, 'denuncia_anonima').
+resultado_real('202404356778', perde).
+tem('202404502519', turma, 'QUINTA TURMA'). tem('202404502519', relator, 'JOEL ILAN'). tem('202404502519', classe, 'AREsp'). tem('202404502519', objeto, 'p4').
+tem('202404502519', marcador, 'faccao').
+resultado_real('202404502519', perde).
+tem('202404410260', turma, 'QUINTA TURMA'). tem('202404410260', relator, 'JOEL ILAN'). tem('202404410260', classe, 'AREsp'). tem('202404410260', objeto, 'desclassificacao').
+resultado_real('202404410260', perde).
+tem('202404429450', turma, 'QUINTA TURMA'). tem('202404429450', relator, 'JOEL ILAN'). tem('202404429450', classe, 'AREsp'). tem('202404429450', objeto, 'p4').
+resultado_real('202404429450', perde).
+tem('202404441790', turma, 'QUINTA TURMA'). tem('202404441790', relator, 'JOEL ILAN'). tem('202404441790', classe, 'AREsp'). tem('202404441790', objeto, 'p4').
+resultado_real('202404441790', perde).
+tem('202404543112', turma, 'QUINTA TURMA'). tem('202404543112', relator, 'JOEL ILAN'). tem('202404543112', classe, 'AREsp'). tem('202404543112', objeto, 'outro').
+resultado_real('202404543112', perde).
+tem('202404627825', turma, 'QUINTA TURMA'). tem('202404627825', relator, 'JOEL ILAN'). tem('202404627825', classe, 'AREsp'). tem('202404627825', objeto, 'dosimetria').
+resultado_real('202404627825', perde).
+tem('202404664196', turma, 'QUINTA TURMA'). tem('202404664196', relator, 'JOEL ILAN'). tem('202404664196', classe, 'AREsp'). tem('202404664196', objeto, 'outro').
+resultado_real('202404664196', perde).
+tem('202404745590', turma, 'QUINTA TURMA'). tem('202404745590', relator, 'JOEL ILAN'). tem('202404745590', classe, 'AREsp'). tem('202404745590', objeto, 'p4').
+resultado_real('202404745590', perde).
+tem('202404810985', turma, 'QUINTA TURMA'). tem('202404810985', relator, 'JOEL ILAN'). tem('202404810985', classe, 'AREsp'). tem('202404810985', objeto, 'p4').
+resultado_real('202404810985', perde).
+tem('202404825226', turma, 'QUINTA TURMA'). tem('202404825226', relator, 'JOEL ILAN'). tem('202404825226', classe, 'AREsp'). tem('202404825226', objeto, 'p4').
+tem('202404825226', marcador, 'denuncia_anonima').
+resultado_real('202404825226', perde).
+tem('202404903613', turma, 'QUINTA TURMA'). tem('202404903613', relator, 'JOEL ILAN'). tem('202404903613', classe, 'AREsp'). tem('202404903613', objeto, 'p4').
+tem('202404903613', marcador, 'atos_infracionais').
+resultado_real('202404903613', perde).
+tem('202500006964', turma, 'QUINTA TURMA'). tem('202500006964', relator, 'JOEL ILAN'). tem('202500006964', classe, 'AREsp'). tem('202500006964', objeto, 'desclassificacao').
+tem('202500006964', marcador, 'faccao').
+resultado_real('202500006964', perde).
+tem('202500063813', turma, 'QUINTA TURMA'). tem('202500063813', relator, 'JOEL ILAN'). tem('202500063813', classe, 'AREsp'). tem('202500063813', objeto, 'nulidade_busca').
+tem('202500063813', marcador, 'faccao').
+resultado_real('202500063813', perde).
+tem('202500089753', turma, 'QUINTA TURMA'). tem('202500089753', relator, 'JOEL ILAN'). tem('202500089753', classe, 'AREsp'). tem('202500089753', objeto, 'desclassificacao').
+resultado_real('202500089753', perde).
+tem('202500104030', turma, 'QUINTA TURMA'). tem('202500104030', relator, 'JOEL ILAN'). tem('202500104030', classe, 'AREsp'). tem('202500104030', objeto, 'outro').
+resultado_real('202500104030', perde).
+tem('202500188763', turma, 'QUINTA TURMA'). tem('202500188763', relator, 'JOEL ILAN'). tem('202500188763', classe, 'AREsp'). tem('202500188763', objeto, 'dosimetria').
+resultado_real('202500188763', perde).
+tem('202500257492', turma, 'QUINTA TURMA'). tem('202500257492', relator, 'JOEL ILAN'). tem('202500257492', classe, 'AREsp'). tem('202500257492', objeto, 'p4').
+resultado_real('202500257492', perde).
+tem('202500331650', turma, 'QUINTA TURMA'). tem('202500331650', relator, 'JOEL ILAN'). tem('202500331650', classe, 'AREsp'). tem('202500331650', objeto, 'dosimetria').
+resultado_real('202500331650', perde).
+tem('202500423340', turma, 'QUINTA TURMA'). tem('202500423340', relator, 'JOEL ILAN'). tem('202500423340', classe, 'AREsp'). tem('202500423340', objeto, 'desclassificacao').
+resultado_real('202500423340', perde).
+tem('202500441184', turma, 'QUINTA TURMA'). tem('202500441184', relator, 'JOEL ILAN'). tem('202500441184', classe, 'AREsp'). tem('202500441184', objeto, 'nulidade_busca').
+resultado_real('202500441184', perde).
+tem('202500541091', turma, 'QUINTA TURMA'). tem('202500541091', relator, 'JOEL ILAN'). tem('202500541091', classe, 'AREsp'). tem('202500541091', objeto, 'outro').
+resultado_real('202500541091', perde).
+tem('202500570398', turma, 'QUINTA TURMA'). tem('202500570398', relator, 'JOEL ILAN'). tem('202500570398', classe, 'AREsp'). tem('202500570398', objeto, 'p4').
+resultado_real('202500570398', perde).
+tem('202500748750', turma, 'QUINTA TURMA'). tem('202500748750', relator, 'JOEL ILAN'). tem('202500748750', classe, 'AREsp'). tem('202500748750', objeto, 'outro').
+resultado_real('202500748750', perde).
+tem('202500825608', turma, 'QUINTA TURMA'). tem('202500825608', relator, 'JOEL ILAN'). tem('202500825608', classe, 'AREsp'). tem('202500825608', objeto, 'p4').
+resultado_real('202500825608', perde).
+tem('202500909562', turma, 'QUINTA TURMA'). tem('202500909562', relator, 'JOEL ILAN'). tem('202500909562', classe, 'AREsp'). tem('202500909562', objeto, 'p4').
+resultado_real('202500909562', perde).
+tem('202500943966', turma, 'QUINTA TURMA'). tem('202500943966', relator, 'JOEL ILAN'). tem('202500943966', classe, 'AREsp'). tem('202500943966', objeto, 'nulidade_busca').
+resultado_real('202500943966', perde).
+tem('202501085404', turma, 'QUINTA TURMA'). tem('202501085404', relator, 'JOEL ILAN'). tem('202501085404', classe, 'AREsp'). tem('202501085404', objeto, 'p4').
+tem('202501085404', marcador, 'atos_infracionais').
+resultado_real('202501085404', perde).
+tem('202501173784', turma, 'QUINTA TURMA'). tem('202501173784', relator, 'JOEL ILAN'). tem('202501173784', classe, 'AREsp'). tem('202501173784', objeto, 'nulidade_busca').
+resultado_real('202501173784', perde).
+tem('202501399779', turma, 'QUINTA TURMA'). tem('202501399779', relator, 'JOEL ILAN'). tem('202501399779', classe, 'AREsp'). tem('202501399779', objeto, 'p4').
+resultado_real('202501399779', perde).
+tem('202501463207', turma, 'QUINTA TURMA'). tem('202501463207', relator, 'JOEL ILAN'). tem('202501463207', classe, 'AREsp'). tem('202501463207', objeto, 'p4').
+tem('202501463207', marcador, 'faccao').
+resultado_real('202501463207', perde).
+tem('202501528824', turma, 'QUINTA TURMA'). tem('202501528824', relator, 'JOEL ILAN'). tem('202501528824', classe, 'AREsp'). tem('202501528824', objeto, 'desclassificacao').
+tem('202501528824', marcador, 'faccao').
+resultado_real('202501528824', perde).
+tem('202501548401', turma, 'QUINTA TURMA'). tem('202501548401', relator, 'JOEL ILAN'). tem('202501548401', classe, 'AREsp'). tem('202501548401', objeto, 'dosimetria').
+tem('202501548401', marcador, 'faccao').
+resultado_real('202501548401', perde).
+tem('202501503603', turma, 'QUINTA TURMA'). tem('202501503603', relator, 'JOEL ILAN'). tem('202501503603', classe, 'AREsp'). tem('202501503603', objeto, 'nulidade_busca').
+tem('202501503603', marcador, 'atos_infracionais').
+tem('202501503603', marcador, 'fuga_mudanca_direcao').
+tem('202501503603', marcador, 'denuncia_anonima').
+resultado_real('202501503603', perde).
+tem('202501582324', turma, 'QUINTA TURMA'). tem('202501582324', relator, 'JOEL ILAN'). tem('202501582324', classe, 'AREsp'). tem('202501582324', objeto, 'p4').
+resultado_real('202501582324', perde).
+tem('202501736890', turma, 'QUINTA TURMA'). tem('202501736890', relator, 'JOEL ILAN'). tem('202501736890', classe, 'AREsp'). tem('202501736890', objeto, 'desclassificacao').
+resultado_real('202501736890', perde).
+tem('202501774982', turma, 'QUINTA TURMA'). tem('202501774982', relator, 'JOEL ILAN'). tem('202501774982', classe, 'AREsp'). tem('202501774982', objeto, 'autoria').
+resultado_real('202501774982', perde).
+tem('202501811312', turma, 'QUINTA TURMA'). tem('202501811312', relator, 'JOEL ILAN'). tem('202501811312', classe, 'AREsp'). tem('202501811312', objeto, 'p4').
+resultado_real('202501811312', perde).
+tem('202501860395', turma, 'QUINTA TURMA'). tem('202501860395', relator, 'JOEL ILAN'). tem('202501860395', classe, 'AREsp'). tem('202501860395', objeto, 'p4').
+tem('202501860395', marcador, 'faccao').
+resultado_real('202501860395', perde).
+tem('202501897988', turma, 'QUINTA TURMA'). tem('202501897988', relator, 'JOEL ILAN'). tem('202501897988', classe, 'AREsp'). tem('202501897988', objeto, 'p4').
+tem('202501897988', marcador, 'faccao').
+resultado_real('202501897988', perde).
+tem('202501949102', turma, 'QUINTA TURMA'). tem('202501949102', relator, 'JOEL ILAN'). tem('202501949102', classe, 'AREsp'). tem('202501949102', objeto, 'p4').
+resultado_real('202501949102', perde).
+tem('202502171657', turma, 'QUINTA TURMA'). tem('202502171657', relator, 'JOEL ILAN'). tem('202502171657', classe, 'AREsp'). tem('202502171657', objeto, 'dosimetria').
+tem('202502171657', marcador, 'faccao').
+resultado_real('202502171657', perde).
+tem('202502144029', turma, 'QUINTA TURMA'). tem('202502144029', relator, 'JOEL ILAN'). tem('202502144029', classe, 'AREsp'). tem('202502144029', objeto, 'p4').
+tem('202502144029', marcador, 'faccao').
+resultado_real('202502144029', perde).
+tem('202502499972', turma, 'QUINTA TURMA'). tem('202502499972', relator, 'JOEL ILAN'). tem('202502499972', classe, 'AREsp'). tem('202502499972', objeto, 'desclassificacao').
+resultado_real('202502499972', perde).
+tem('202502679286', turma, 'QUINTA TURMA'). tem('202502679286', relator, 'JOEL ILAN'). tem('202502679286', classe, 'AREsp'). tem('202502679286', objeto, 'desclassificacao').
+resultado_real('202502679286', perde).
+tem('202502704292', turma, 'QUINTA TURMA'). tem('202502704292', relator, 'JOEL ILAN'). tem('202502704292', classe, 'AREsp'). tem('202502704292', objeto, 'p4').
+tem('202502704292', marcador, 'atos_infracionais').
+resultado_real('202502704292', perde).
+tem('202502784621', turma, 'QUINTA TURMA'). tem('202502784621', relator, 'JOEL ILAN'). tem('202502784621', classe, 'AREsp'). tem('202502784621', objeto, 'p4').
+resultado_real('202502784621', perde).
+tem('202502855535', turma, 'QUINTA TURMA'). tem('202502855535', relator, 'JOEL ILAN'). tem('202502855535', classe, 'AREsp'). tem('202502855535', objeto, 'p4').
+tem('202502855535', marcador, 'faccao').
+resultado_real('202502855535', perde).
 tem('202503833488', turma, 'QUINTA TURMA'). tem('202503833488', relator, 'JOEL ILAN'). tem('202503833488', classe, 'AREsp'). tem('202503833488', objeto, 'nulidade_busca').
 tem('202503833488', marcador, 'local_conhecido').
 resultado_real('202503833488', perde).
@@ -87,10 +2555,61 @@ resultado_real('202601021272', perde).
 tem('202601877470', turma, 'QUINTA TURMA'). tem('202601877470', relator, 'JOEL ILAN'). tem('202601877470', classe, 'AREsp'). tem('202601877470', objeto, 'nulidade_busca').
 tem('202601877470', marcador, 'fuga_mudanca_direcao').
 resultado_real('202601877470', perde).
+tem('202501530192', turma, 'QUINTA TURMA'). tem('202501530192', relator, 'JOEL ILAN'). tem('202501530192', classe, 'HC'). tem('202501530192', objeto, 'dosimetria').
+resultado_real('202501530192', perde).
+tem('202501553849', turma, 'QUINTA TURMA'). tem('202501553849', relator, 'JOEL ILAN'). tem('202501553849', classe, 'HC'). tem('202501553849', objeto, 'dosimetria').
+resultado_real('202501553849', perde).
+tem('202501590818', turma, 'QUINTA TURMA'). tem('202501590818', relator, 'JOEL ILAN'). tem('202501590818', classe, 'HC'). tem('202501590818', objeto, 'p4').
+resultado_real('202501590818', perde).
+tem('202501599570', turma, 'QUINTA TURMA'). tem('202501599570', relator, 'JOEL ILAN'). tem('202501599570', classe, 'HC'). tem('202501599570', objeto, 'p4').
+tem('202501599570', marcador, 'atos_infracionais').
+resultado_real('202501599570', perde).
+tem('202501663502', turma, 'QUINTA TURMA'). tem('202501663502', relator, 'JOEL ILAN'). tem('202501663502', classe, 'HC'). tem('202501663502', objeto, 'outro').
+resultado_real('202501663502', perde).
+tem('202501663514', turma, 'QUINTA TURMA'). tem('202501663514', relator, 'JOEL ILAN'). tem('202501663514', classe, 'HC'). tem('202501663514', objeto, 'outro').
+resultado_real('202501663514', perde).
+tem('202501750758', turma, 'QUINTA TURMA'). tem('202501750758', relator, 'JOEL ILAN'). tem('202501750758', classe, 'HC'). tem('202501750758', objeto, 'p4').
+tem('202501750758', marcador, 'faccao').
+resultado_real('202501750758', perde).
+tem('202501825195', turma, 'QUINTA TURMA'). tem('202501825195', relator, 'JOEL ILAN'). tem('202501825195', classe, 'HC'). tem('202501825195', objeto, 'p4').
+resultado_real('202501825195', perde).
+tem('202501831103', turma, 'QUINTA TURMA'). tem('202501831103', relator, 'JOEL ILAN'). tem('202501831103', classe, 'HC'). tem('202501831103', objeto, 'p4').
+resultado_real('202501831103', perde).
+tem('202501839134', turma, 'QUINTA TURMA'). tem('202501839134', relator, 'JOEL ILAN'). tem('202501839134', classe, 'HC'). tem('202501839134', objeto, 'p4').
+tem('202501839134', marcador, 'faccao').
+resultado_real('202501839134', perde).
+tem('202501860119', turma, 'QUINTA TURMA'). tem('202501860119', relator, 'JOEL ILAN'). tem('202501860119', classe, 'HC'). tem('202501860119', objeto, 'autoria').
+resultado_real('202501860119', perde).
+tem('202502005943', turma, 'QUINTA TURMA'). tem('202502005943', relator, 'JOEL ILAN'). tem('202502005943', classe, 'HC'). tem('202502005943', objeto, 'p4').
+resultado_real('202502005943', perde).
+tem('202502101114', turma, 'QUINTA TURMA'). tem('202502101114', relator, 'JOEL ILAN'). tem('202502101114', classe, 'HC'). tem('202502101114', objeto, 'dosimetria').
+resultado_real('202502101114', perde).
 tem('202502201741', turma, 'QUINTA TURMA'). tem('202502201741', relator, 'JOEL ILAN'). tem('202502201741', classe, 'HC'). tem('202502201741', objeto, 'nulidade_busca').
 resultado_real('202502201741', perde).
+tem('202502249948', turma, 'QUINTA TURMA'). tem('202502249948', relator, 'JOEL ILAN'). tem('202502249948', classe, 'HC'). tem('202502249948', objeto, 'p4').
+resultado_real('202502249948', perde).
+tem('202502250107', turma, 'QUINTA TURMA'). tem('202502250107', relator, 'JOEL ILAN'). tem('202502250107', classe, 'HC'). tem('202502250107', objeto, 'p4').
+resultado_real('202502250107', perde).
+tem('202502277652', turma, 'QUINTA TURMA'). tem('202502277652', relator, 'JOEL ILAN'). tem('202502277652', classe, 'HC'). tem('202502277652', objeto, 'p4').
+resultado_real('202502277652', perde).
+tem('202502283289', turma, 'QUINTA TURMA'). tem('202502283289', relator, 'JOEL ILAN'). tem('202502283289', classe, 'HC'). tem('202502283289', objeto, 'p4').
+tem('202502283289', marcador, 'faccao').
+resultado_real('202502283289', perde).
+tem('202502320680', turma, 'QUINTA TURMA'). tem('202502320680', relator, 'JOEL ILAN'). tem('202502320680', classe, 'HC'). tem('202502320680', objeto, 'desclassificacao').
+resultado_real('202502320680', perde).
+tem('202502331411', turma, 'QUINTA TURMA'). tem('202502331411', relator, 'JOEL ILAN'). tem('202502331411', classe, 'HC'). tem('202502331411', objeto, 'desclassificacao').
+resultado_real('202502331411', perde).
+tem('202502579901', turma, 'QUINTA TURMA'). tem('202502579901', relator, 'JOEL ILAN'). tem('202502579901', classe, 'HC'). tem('202502579901', objeto, 'p4').
+resultado_real('202502579901', perde).
+tem('202502653698', turma, 'QUINTA TURMA'). tem('202502653698', relator, 'JOEL ILAN'). tem('202502653698', classe, 'HC'). tem('202502653698', objeto, 'p4').
+resultado_real('202502653698', perde).
 tem('202502809710', turma, 'QUINTA TURMA'). tem('202502809710', relator, 'JOEL ILAN'). tem('202502809710', classe, 'HC'). tem('202502809710', objeto, 'autoria').
 resultado_real('202502809710', perde).
+tem('202502866857', turma, 'QUINTA TURMA'). tem('202502866857', relator, 'JOEL ILAN'). tem('202502866857', classe, 'HC'). tem('202502866857', objeto, 'p4').
+tem('202502866857', marcador, 'faccao').
+resultado_real('202502866857', perde).
+tem('202502905725', turma, 'QUINTA TURMA'). tem('202502905725', relator, 'JOEL ILAN'). tem('202502905725', classe, 'HC'). tem('202502905725', objeto, 'p4').
+resultado_real('202502905725', perde).
 tem('202503449894', turma, 'QUINTA TURMA'). tem('202503449894', relator, 'JOEL ILAN'). tem('202503449894', classe, 'HC'). tem('202503449894', objeto, 'p4').
 tem('202503449894', marcador, 'faccao').
 resultado_real('202503449894', perde).
@@ -226,12 +2745,545 @@ tem('202601658547', turma, 'QUINTA TURMA'). tem('202601658547', relator, 'JOEL I
 resultado_real('202601658547', perde).
 tem('202601835576', turma, 'QUINTA TURMA'). tem('202601835576', relator, 'JOEL ILAN'). tem('202601835576', classe, 'HC'). tem('202601835576', objeto, 'outro').
 resultado_real('202601835576', perde).
+tem('202202225509', turma, 'QUINTA TURMA'). tem('202202225509', relator, 'JOEL ILAN'). tem('202202225509', classe, 'HC'). tem('202202225509', objeto, 'p4').
+resultado_real('202202225509', perde).
+tem('202301332935', turma, 'QUINTA TURMA'). tem('202301332935', relator, 'JOEL ILAN'). tem('202301332935', classe, 'HC'). tem('202301332935', objeto, 'desclassificacao').
+resultado_real('202301332935', perde).
+tem('202301723312', turma, 'QUINTA TURMA'). tem('202301723312', relator, 'JOEL ILAN'). tem('202301723312', classe, 'HC'). tem('202301723312', objeto, 'p4').
+resultado_real('202301723312', perde).
+tem('202302721550', turma, 'QUINTA TURMA'). tem('202302721550', relator, 'JOEL ILAN'). tem('202302721550', classe, 'HC'). tem('202302721550', objeto, 'p4').
+tem('202302721550', marcador, 'faccao').
+resultado_real('202302721550', perde).
+tem('202302865207', turma, 'QUINTA TURMA'). tem('202302865207', relator, 'JOEL ILAN'). tem('202302865207', classe, 'HC'). tem('202302865207', objeto, 'outro').
+tem('202302865207', marcador, 'faccao').
+tem('202302865207', marcador, 'denuncia_anonima').
+resultado_real('202302865207', perde).
+tem('202303357010', turma, 'QUINTA TURMA'). tem('202303357010', relator, 'JOEL ILAN'). tem('202303357010', classe, 'HC'). tem('202303357010', objeto, 'nulidade_busca').
+resultado_real('202303357010', perde).
+tem('202304249334', turma, 'QUINTA TURMA'). tem('202304249334', relator, 'JOEL ILAN'). tem('202304249334', classe, 'HC'). tem('202304249334', objeto, 'outro').
+tem('202304249334', marcador, 'atos_infracionais').
+resultado_real('202304249334', perde).
+tem('202304290690', turma, 'QUINTA TURMA'). tem('202304290690', relator, 'JOEL ILAN'). tem('202304290690', classe, 'HC'). tem('202304290690', objeto, 'dosimetria').
+resultado_real('202304290690', perde).
+tem('202304341574', turma, 'QUINTA TURMA'). tem('202304341574', relator, 'JOEL ILAN'). tem('202304341574', classe, 'HC'). tem('202304341574', objeto, 'p4').
+resultado_real('202304341574', perde).
+tem('202304430195', turma, 'QUINTA TURMA'). tem('202304430195', relator, 'JOEL ILAN'). tem('202304430195', classe, 'HC'). tem('202304430195', objeto, 'p4').
+resultado_real('202304430195', perde).
+tem('202304479137', turma, 'QUINTA TURMA'). tem('202304479137', relator, 'JOEL ILAN'). tem('202304479137', classe, 'HC'). tem('202304479137', objeto, 'nulidade_busca').
+tem('202304479137', marcador, 'denuncia_anonima').
+resultado_real('202304479137', perde).
+tem('202400015620', turma, 'QUINTA TURMA'). tem('202400015620', relator, 'JOEL ILAN'). tem('202400015620', classe, 'HC'). tem('202400015620', objeto, 'p4').
+tem('202400015620', marcador, 'denuncia_anonima').
+resultado_real('202400015620', vence).
+tem('202400125191', turma, 'QUINTA TURMA'). tem('202400125191', relator, 'JOEL ILAN'). tem('202400125191', classe, 'HC'). tem('202400125191', objeto, 'nulidade_busca').
+tem('202400125191', marcador, 'nervosismo').
+tem('202400125191', marcador, 'denuncia_anonima').
+resultado_real('202400125191', perde).
+tem('202400357483', turma, 'QUINTA TURMA'). tem('202400357483', relator, 'JOEL ILAN'). tem('202400357483', classe, 'HC'). tem('202400357483', objeto, 'p4').
+tem('202400357483', marcador, 'faccao').
+resultado_real('202400357483', perde).
+tem('202400498932', turma, 'QUINTA TURMA'). tem('202400498932', relator, 'JOEL ILAN'). tem('202400498932', classe, 'HC'). tem('202400498932', objeto, 'nulidade_busca').
+tem('202400498932', marcador, 'nervosismo').
+resultado_real('202400498932', perde).
+tem('202400554104', turma, 'QUINTA TURMA'). tem('202400554104', relator, 'JOEL ILAN'). tem('202400554104', classe, 'HC'). tem('202400554104', objeto, 'nulidade_busca').
+resultado_real('202400554104', perde).
+tem('202400884898', turma, 'QUINTA TURMA'). tem('202400884898', relator, 'JOEL ILAN'). tem('202400884898', classe, 'HC'). tem('202400884898', objeto, 'dosimetria').
+resultado_real('202400884898', perde).
+tem('202400970275', turma, 'QUINTA TURMA'). tem('202400970275', relator, 'JOEL ILAN'). tem('202400970275', classe, 'HC'). tem('202400970275', objeto, 'nulidade_busca').
+resultado_real('202400970275', perde).
+tem('202401131231', turma, 'QUINTA TURMA'). tem('202401131231', relator, 'JOEL ILAN'). tem('202401131231', classe, 'HC'). tem('202401131231', objeto, 'nulidade_busca').
+tem('202401131231', marcador, 'local_conhecido').
+resultado_real('202401131231', perde).
+tem('202401158334', turma, 'QUINTA TURMA'). tem('202401158334', relator, 'JOEL ILAN'). tem('202401158334', classe, 'HC'). tem('202401158334', objeto, 'nulidade_busca').
+resultado_real('202401158334', perde).
+tem('202401159837', turma, 'QUINTA TURMA'). tem('202401159837', relator, 'JOEL ILAN'). tem('202401159837', classe, 'HC'). tem('202401159837', objeto, 'outro').
+tem('202401159837', marcador, 'denuncia_anonima').
+resultado_real('202401159837', perde).
+tem('202401343909', turma, 'QUINTA TURMA'). tem('202401343909', relator, 'JOEL ILAN'). tem('202401343909', classe, 'HC'). tem('202401343909', objeto, 'nulidade_busca').
+resultado_real('202401343909', perde).
+tem('202401405914', turma, 'QUINTA TURMA'). tem('202401405914', relator, 'JOEL ILAN'). tem('202401405914', classe, 'HC'). tem('202401405914', objeto, 'dosimetria').
+resultado_real('202401405914', perde).
+tem('202401459229', turma, 'QUINTA TURMA'). tem('202401459229', relator, 'JOEL ILAN'). tem('202401459229', classe, 'HC'). tem('202401459229', objeto, 'nulidade_busca').
+tem('202401459229', marcador, 'local_conhecido').
+tem('202401459229', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401459229', perde).
+tem('202401468265', turma, 'QUINTA TURMA'). tem('202401468265', relator, 'JOEL ILAN'). tem('202401468265', classe, 'HC'). tem('202401468265', objeto, 'nulidade_busca').
+resultado_real('202401468265', perde).
+tem('202401515728', turma, 'QUINTA TURMA'). tem('202401515728', relator, 'JOEL ILAN'). tem('202401515728', classe, 'HC'). tem('202401515728', objeto, 'desclassificacao').
+resultado_real('202401515728', perde).
+tem('202401563878', turma, 'QUINTA TURMA'). tem('202401563878', relator, 'JOEL ILAN'). tem('202401563878', classe, 'HC'). tem('202401563878', objeto, 'nulidade_busca').
+resultado_real('202401563878', perde).
+tem('202401583795', turma, 'QUINTA TURMA'). tem('202401583795', relator, 'JOEL ILAN'). tem('202401583795', classe, 'HC'). tem('202401583795', objeto, 'p4').
+resultado_real('202401583795', perde).
+tem('202401621944', turma, 'QUINTA TURMA'). tem('202401621944', relator, 'JOEL ILAN'). tem('202401621944', classe, 'HC'). tem('202401621944', objeto, 'dosimetria').
+resultado_real('202401621944', perde).
+tem('202401743156', turma, 'QUINTA TURMA'). tem('202401743156', relator, 'JOEL ILAN'). tem('202401743156', classe, 'HC'). tem('202401743156', objeto, 'p4').
+resultado_real('202401743156', perde).
+tem('202401769439', turma, 'QUINTA TURMA'). tem('202401769439', relator, 'JOEL ILAN'). tem('202401769439', classe, 'HC'). tem('202401769439', objeto, 'outro').
+resultado_real('202401769439', perde).
+tem('202401802446', turma, 'QUINTA TURMA'). tem('202401802446', relator, 'JOEL ILAN'). tem('202401802446', classe, 'HC'). tem('202401802446', objeto, 'nulidade_busca').
+resultado_real('202401802446', perde).
 tem('202401810840', turma, 'QUINTA TURMA'). tem('202401810840', relator, 'JOEL ILAN'). tem('202401810840', classe, 'HC'). tem('202401810840', objeto, 'dosimetria').
 resultado_real('202401810840', perde).
+tem('202401878434', turma, 'QUINTA TURMA'). tem('202401878434', relator, 'JOEL ILAN'). tem('202401878434', classe, 'HC'). tem('202401878434', objeto, 'p4').
+resultado_real('202401878434', perde).
+tem('202401903338', turma, 'QUINTA TURMA'). tem('202401903338', relator, 'JOEL ILAN'). tem('202401903338', classe, 'HC'). tem('202401903338', objeto, 'outro').
+tem('202401903338', marcador, 'local_conhecido').
+tem('202401903338', marcador, 'conhecido_policia').
+resultado_real('202401903338', perde).
+tem('202401936447', turma, 'QUINTA TURMA'). tem('202401936447', relator, 'JOEL ILAN'). tem('202401936447', classe, 'HC'). tem('202401936447', objeto, 'nulidade_busca').
+tem('202401936447', marcador, 'local_conhecido').
+tem('202401936447', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401936447', perde).
 tem('202401955152', turma, 'QUINTA TURMA'). tem('202401955152', relator, 'JOEL ILAN'). tem('202401955152', classe, 'HC'). tem('202401955152', objeto, 'nulidade_busca').
 tem('202401955152', marcador, 'local_conhecido').
 tem('202401955152', marcador, 'nervosismo').
 resultado_real('202401955152', perde).
+tem('202401947923', turma, 'QUINTA TURMA'). tem('202401947923', relator, 'JOEL ILAN'). tem('202401947923', classe, 'HC'). tem('202401947923', objeto, 'p4').
+tem('202401947923', marcador, 'faccao').
+resultado_real('202401947923', perde).
+tem('202401959600', turma, 'QUINTA TURMA'). tem('202401959600', relator, 'JOEL ILAN'). tem('202401959600', classe, 'HC'). tem('202401959600', objeto, 'nulidade_busca').
+tem('202401959600', marcador, 'denuncia_anonima').
+resultado_real('202401959600', perde).
+tem('202401969216', turma, 'QUINTA TURMA'). tem('202401969216', relator, 'JOEL ILAN'). tem('202401969216', classe, 'HC'). tem('202401969216', objeto, 'p4').
+resultado_real('202401969216', perde).
+tem('202402036938', turma, 'QUINTA TURMA'). tem('202402036938', relator, 'JOEL ILAN'). tem('202402036938', classe, 'HC'). tem('202402036938', objeto, 'nulidade_busca').
+tem('202402036938', marcador, 'comunidade_bairro').
+tem('202402036938', marcador, 'faccao').
+tem('202402036938', marcador, 'conhecido_policia').
+tem('202402036938', marcador, 'atos_infracionais').
+resultado_real('202402036938', perde).
+tem('202402091108', turma, 'QUINTA TURMA'). tem('202402091108', relator, 'JOEL ILAN'). tem('202402091108', classe, 'HC'). tem('202402091108', objeto, 'autoria').
+resultado_real('202402091108', perde).
+tem('202402277457', turma, 'QUINTA TURMA'). tem('202402277457', relator, 'JOEL ILAN'). tem('202402277457', classe, 'HC'). tem('202402277457', objeto, 'autoria').
+resultado_real('202402277457', perde).
+tem('202402285270', turma, 'QUINTA TURMA'). tem('202402285270', relator, 'JOEL ILAN'). tem('202402285270', classe, 'HC'). tem('202402285270', objeto, 'dosimetria').
+resultado_real('202402285270', perde).
+tem('202402315340', turma, 'QUINTA TURMA'). tem('202402315340', relator, 'JOEL ILAN'). tem('202402315340', classe, 'HC'). tem('202402315340', objeto, 'outro').
+resultado_real('202402315340', perde).
+tem('202402364552', turma, 'QUINTA TURMA'). tem('202402364552', relator, 'JOEL ILAN'). tem('202402364552', classe, 'HC'). tem('202402364552', objeto, 'p4').
+resultado_real('202402364552', perde).
+tem('202402403331', turma, 'QUINTA TURMA'). tem('202402403331', relator, 'JOEL ILAN'). tem('202402403331', classe, 'HC'). tem('202402403331', objeto, 'p4').
+tem('202402403331', marcador, 'faccao').
+resultado_real('202402403331', perde).
+tem('202402398217', turma, 'QUINTA TURMA'). tem('202402398217', relator, 'JOEL ILAN'). tem('202402398217', classe, 'HC'). tem('202402398217', objeto, 'nulidade_busca').
+tem('202402398217', marcador, 'faccao').
+resultado_real('202402398217', perde).
+tem('202402512100', turma, 'QUINTA TURMA'). tem('202402512100', relator, 'JOEL ILAN'). tem('202402512100', classe, 'HC'). tem('202402512100', objeto, 'dosimetria').
+resultado_real('202402512100', perde).
+tem('202402527145', turma, 'QUINTA TURMA'). tem('202402527145', relator, 'JOEL ILAN'). tem('202402527145', classe, 'HC'). tem('202402527145', objeto, 'p4').
+tem('202402527145', marcador, 'faccao').
+resultado_real('202402527145', perde).
+tem('202402543944', turma, 'QUINTA TURMA'). tem('202402543944', relator, 'JOEL ILAN'). tem('202402543944', classe, 'HC'). tem('202402543944', objeto, 'nulidade_busca').
+resultado_real('202402543944', perde).
+tem('202402550693', turma, 'QUINTA TURMA'). tem('202402550693', relator, 'JOEL ILAN'). tem('202402550693', classe, 'HC'). tem('202402550693', objeto, 'p4').
+resultado_real('202402550693', perde).
+tem('202402583891', turma, 'QUINTA TURMA'). tem('202402583891', relator, 'JOEL ILAN'). tem('202402583891', classe, 'HC'). tem('202402583891', objeto, 'p4').
+tem('202402583891', marcador, 'faccao').
+tem('202402583891', marcador, 'ocupacao').
+resultado_real('202402583891', perde).
+tem('202402611295', turma, 'QUINTA TURMA'). tem('202402611295', relator, 'JOEL ILAN'). tem('202402611295', classe, 'HC'). tem('202402611295', objeto, 'outro').
+resultado_real('202402611295', perde).
+tem('202402690234', turma, 'QUINTA TURMA'). tem('202402690234', relator, 'JOEL ILAN'). tem('202402690234', classe, 'HC'). tem('202402690234', objeto, 'p4').
+resultado_real('202402690234', perde).
+tem('202402883436', turma, 'QUINTA TURMA'). tem('202402883436', relator, 'JOEL ILAN'). tem('202402883436', classe, 'HC'). tem('202402883436', objeto, 'nulidade_busca').
+tem('202402883436', marcador, 'denuncia_anonima').
+resultado_real('202402883436', perde).
+tem('202402939144', turma, 'QUINTA TURMA'). tem('202402939144', relator, 'JOEL ILAN'). tem('202402939144', classe, 'HC'). tem('202402939144', objeto, 'desclassificacao').
+resultado_real('202402939144', perde).
+tem('202402980402', turma, 'QUINTA TURMA'). tem('202402980402', relator, 'JOEL ILAN'). tem('202402980402', classe, 'HC'). tem('202402980402', objeto, 'nulidade_busca').
+resultado_real('202402980402', perde).
+tem('202402985464', turma, 'QUINTA TURMA'). tem('202402985464', relator, 'JOEL ILAN'). tem('202402985464', classe, 'HC'). tem('202402985464', objeto, 'p4').
+tem('202402985464', marcador, 'faccao').
+resultado_real('202402985464', perde).
+tem('202403010625', turma, 'QUINTA TURMA'). tem('202403010625', relator, 'JOEL ILAN'). tem('202403010625', classe, 'HC'). tem('202403010625', objeto, 'p4').
+resultado_real('202403010625', perde).
+tem('202403038726', turma, 'QUINTA TURMA'). tem('202403038726', relator, 'JOEL ILAN'). tem('202403038726', classe, 'HC'). tem('202403038726', objeto, 'nulidade_busca').
+resultado_real('202403038726', perde).
+tem('202403068336', turma, 'QUINTA TURMA'). tem('202403068336', relator, 'JOEL ILAN'). tem('202403068336', classe, 'HC'). tem('202403068336', objeto, 'nulidade_busca').
+tem('202403068336', marcador, 'local_conhecido').
+tem('202403068336', marcador, 'nervosismo').
+resultado_real('202403068336', perde).
+tem('202403077816', turma, 'QUINTA TURMA'). tem('202403077816', relator, 'JOEL ILAN'). tem('202403077816', classe, 'HC'). tem('202403077816', objeto, 'outro').
+resultado_real('202403077816', perde).
+tem('202403109590', turma, 'QUINTA TURMA'). tem('202403109590', relator, 'JOEL ILAN'). tem('202403109590', classe, 'HC'). tem('202403109590', objeto, 'nulidade_busca').
+tem('202403109590', marcador, 'local_conhecido').
+tem('202403109590', marcador, 'nervosismo').
+tem('202403109590', marcador, 'denuncia_anonima').
+resultado_real('202403109590', perde).
+tem('202403108125', turma, 'QUINTA TURMA'). tem('202403108125', relator, 'JOEL ILAN'). tem('202403108125', classe, 'HC'). tem('202403108125', objeto, 'p4').
+resultado_real('202403108125', perde).
+tem('202403175384', turma, 'QUINTA TURMA'). tem('202403175384', relator, 'JOEL ILAN'). tem('202403175384', classe, 'HC'). tem('202403175384', objeto, 'autoria').
+resultado_real('202403175384', perde).
+tem('202403204220', turma, 'QUINTA TURMA'). tem('202403204220', relator, 'JOEL ILAN'). tem('202403204220', classe, 'HC'). tem('202403204220', objeto, 'nulidade_busca').
+tem('202403204220', marcador, 'denuncia_anonima').
+resultado_real('202403204220', perde).
+tem('202403219709', turma, 'QUINTA TURMA'). tem('202403219709', relator, 'JOEL ILAN'). tem('202403219709', classe, 'HC'). tem('202403219709', objeto, 'dosimetria').
+resultado_real('202403219709', perde).
+tem('202403267570', turma, 'QUINTA TURMA'). tem('202403267570', relator, 'JOEL ILAN'). tem('202403267570', classe, 'HC'). tem('202403267570', objeto, 'p4').
+tem('202403267570', marcador, 'faccao').
+resultado_real('202403267570', perde).
+tem('202403267722', turma, 'QUINTA TURMA'). tem('202403267722', relator, 'JOEL ILAN'). tem('202403267722', classe, 'HC'). tem('202403267722', objeto, 'p4').
+tem('202403267722', marcador, 'faccao').
+resultado_real('202403267722', perde).
+tem('202403288120', turma, 'QUINTA TURMA'). tem('202403288120', relator, 'JOEL ILAN'). tem('202403288120', classe, 'HC'). tem('202403288120', objeto, 'p4').
+tem('202403288120', marcador, 'faccao').
+resultado_real('202403288120', perde).
+tem('202403313326', turma, 'QUINTA TURMA'). tem('202403313326', relator, 'JOEL ILAN'). tem('202403313326', classe, 'HC'). tem('202403313326', objeto, 'outro').
+resultado_real('202403313326', perde).
+tem('202403331247', turma, 'QUINTA TURMA'). tem('202403331247', relator, 'JOEL ILAN'). tem('202403331247', classe, 'HC'). tem('202403331247', objeto, 'p4').
+tem('202403331247', marcador, 'atos_infracionais').
+resultado_real('202403331247', perde).
+tem('202403357175', turma, 'QUINTA TURMA'). tem('202403357175', relator, 'JOEL ILAN'). tem('202403357175', classe, 'HC'). tem('202403357175', objeto, 'p4').
+tem('202403357175', marcador, 'faccao').
+resultado_real('202403357175', perde).
+tem('202403367463', turma, 'QUINTA TURMA'). tem('202403367463', relator, 'JOEL ILAN'). tem('202403367463', classe, 'HC'). tem('202403367463', objeto, 'nulidade_busca').
+resultado_real('202403367463', perde).
+tem('202403448402', turma, 'QUINTA TURMA'). tem('202403448402', relator, 'JOEL ILAN'). tem('202403448402', classe, 'HC'). tem('202403448402', objeto, 'p4').
+tem('202403448402', marcador, 'atos_infracionais').
+resultado_real('202403448402', perde).
+tem('202403447922', turma, 'QUINTA TURMA'). tem('202403447922', relator, 'JOEL ILAN'). tem('202403447922', classe, 'HC'). tem('202403447922', objeto, 'nulidade_busca').
+tem('202403447922', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403447922', perde).
+tem('202403459999', turma, 'QUINTA TURMA'). tem('202403459999', relator, 'JOEL ILAN'). tem('202403459999', classe, 'HC'). tem('202403459999', objeto, 'p4').
+tem('202403459999', marcador, 'faccao').
+resultado_real('202403459999', perde).
+tem('202403482818', turma, 'QUINTA TURMA'). tem('202403482818', relator, 'JOEL ILAN'). tem('202403482818', classe, 'HC'). tem('202403482818', objeto, 'nulidade_busca').
+tem('202403482818', marcador, 'nervosismo').
+tem('202403482818', marcador, 'fuga_mudanca_direcao').
+tem('202403482818', marcador, 'denuncia_anonima').
+resultado_real('202403482818', perde).
+tem('202403485015', turma, 'QUINTA TURMA'). tem('202403485015', relator, 'JOEL ILAN'). tem('202403485015', classe, 'HC'). tem('202403485015', objeto, 'dosimetria').
+resultado_real('202403485015', perde).
+tem('202403492435', turma, 'QUINTA TURMA'). tem('202403492435', relator, 'JOEL ILAN'). tem('202403492435', classe, 'HC'). tem('202403492435', objeto, 'dosimetria').
+resultado_real('202403492435', perde).
+tem('202403515261', turma, 'QUINTA TURMA'). tem('202403515261', relator, 'JOEL ILAN'). tem('202403515261', classe, 'HC'). tem('202403515261', objeto, 'p4').
+resultado_real('202403515261', perde).
+tem('202403596903', turma, 'QUINTA TURMA'). tem('202403596903', relator, 'JOEL ILAN'). tem('202403596903', classe, 'HC'). tem('202403596903', objeto, 'nulidade_busca').
+tem('202403596903', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403596903', perde).
+tem('202403646167', turma, 'QUINTA TURMA'). tem('202403646167', relator, 'JOEL ILAN'). tem('202403646167', classe, 'HC'). tem('202403646167', objeto, 'nulidade_busca').
+tem('202403646167', marcador, 'denuncia_anonima').
+resultado_real('202403646167', perde).
+tem('202403673900', turma, 'QUINTA TURMA'). tem('202403673900', relator, 'JOEL ILAN'). tem('202403673900', classe, 'HC'). tem('202403673900', objeto, 'nulidade_busca').
+tem('202403673900', marcador, 'nervosismo').
+resultado_real('202403673900', perde).
+tem('202403680091', turma, 'QUINTA TURMA'). tem('202403680091', relator, 'JOEL ILAN'). tem('202403680091', classe, 'HC'). tem('202403680091', objeto, 'nulidade_busca').
+tem('202403680091', marcador, 'local_conhecido').
+tem('202403680091', marcador, 'fuga_mudanca_direcao').
+tem('202403680091', marcador, 'denuncia_anonima').
+resultado_real('202403680091', perde).
+tem('202403683124', turma, 'QUINTA TURMA'). tem('202403683124', relator, 'JOEL ILAN'). tem('202403683124', classe, 'HC'). tem('202403683124', objeto, 'nulidade_busca').
+resultado_real('202403683124', perde).
+tem('202403737645', turma, 'QUINTA TURMA'). tem('202403737645', relator, 'JOEL ILAN'). tem('202403737645', classe, 'HC'). tem('202403737645', objeto, 'p4').
+resultado_real('202403737645', perde).
+tem('202403763996', turma, 'QUINTA TURMA'). tem('202403763996', relator, 'JOEL ILAN'). tem('202403763996', classe, 'HC'). tem('202403763996', objeto, 'dosimetria').
+tem('202403763996', marcador, 'faccao').
+resultado_real('202403763996', perde).
+tem('202403768795', turma, 'QUINTA TURMA'). tem('202403768795', relator, 'JOEL ILAN'). tem('202403768795', classe, 'HC'). tem('202403768795', objeto, 'autoria').
+tem('202403768795', marcador, 'faccao').
+resultado_real('202403768795', perde).
+tem('202403787438', turma, 'QUINTA TURMA'). tem('202403787438', relator, 'JOEL ILAN'). tem('202403787438', classe, 'HC'). tem('202403787438', objeto, 'p4').
+resultado_real('202403787438', perde).
+tem('202403850360', turma, 'QUINTA TURMA'). tem('202403850360', relator, 'JOEL ILAN'). tem('202403850360', classe, 'HC'). tem('202403850360', objeto, 'p4').
+resultado_real('202403850360', perde).
+tem('202403901600', turma, 'QUINTA TURMA'). tem('202403901600', relator, 'JOEL ILAN'). tem('202403901600', classe, 'HC'). tem('202403901600', objeto, 'autoria').
+tem('202403901600', marcador, 'faccao').
+resultado_real('202403901600', perde).
+tem('202403905513', turma, 'QUINTA TURMA'). tem('202403905513', relator, 'JOEL ILAN'). tem('202403905513', classe, 'HC'). tem('202403905513', objeto, 'nulidade_busca').
+tem('202403905513', marcador, 'fuga_mudanca_direcao').
+tem('202403905513', marcador, 'denuncia_anonima').
+resultado_real('202403905513', perde).
+tem('202403918071', turma, 'QUINTA TURMA'). tem('202403918071', relator, 'JOEL ILAN'). tem('202403918071', classe, 'HC'). tem('202403918071', objeto, 'nulidade_busca').
+tem('202403918071', marcador, 'denuncia_anonima').
+resultado_real('202403918071', perde).
+tem('202403960530', turma, 'QUINTA TURMA'). tem('202403960530', relator, 'JOEL ILAN'). tem('202403960530', classe, 'HC'). tem('202403960530', objeto, 'p4').
+resultado_real('202403960530', perde).
+tem('202403961450', turma, 'QUINTA TURMA'). tem('202403961450', relator, 'JOEL ILAN'). tem('202403961450', classe, 'HC'). tem('202403961450', objeto, 'autoria').
+resultado_real('202403961450', perde).
+tem('202403962990', turma, 'QUINTA TURMA'). tem('202403962990', relator, 'JOEL ILAN'). tem('202403962990', classe, 'HC'). tem('202403962990', objeto, 'dosimetria').
+resultado_real('202403962990', perde).
+tem('202403978884', turma, 'QUINTA TURMA'). tem('202403978884', relator, 'JOEL ILAN'). tem('202403978884', classe, 'HC'). tem('202403978884', objeto, 'desclassificacao').
+resultado_real('202403978884', perde).
+tem('202403993411', turma, 'QUINTA TURMA'). tem('202403993411', relator, 'JOEL ILAN'). tem('202403993411', classe, 'HC'). tem('202403993411', objeto, 'desclassificacao').
+resultado_real('202403993411', perde).
+tem('202404016995', turma, 'QUINTA TURMA'). tem('202404016995', relator, 'JOEL ILAN'). tem('202404016995', classe, 'HC'). tem('202404016995', objeto, 'p4').
+resultado_real('202404016995', perde).
+tem('202404022422', turma, 'QUINTA TURMA'). tem('202404022422', relator, 'JOEL ILAN'). tem('202404022422', classe, 'HC'). tem('202404022422', objeto, 'nulidade_busca').
+tem('202404022422', marcador, 'nervosismo').
+resultado_real('202404022422', perde).
+tem('202404062938', turma, 'QUINTA TURMA'). tem('202404062938', relator, 'JOEL ILAN'). tem('202404062938', classe, 'HC'). tem('202404062938', objeto, 'p4').
+resultado_real('202404062938', perde).
+tem('202404111650', turma, 'QUINTA TURMA'). tem('202404111650', relator, 'JOEL ILAN'). tem('202404111650', classe, 'HC'). tem('202404111650', objeto, 'nulidade_busca').
+resultado_real('202404111650', perde).
+tem('202404120054', turma, 'QUINTA TURMA'). tem('202404120054', relator, 'JOEL ILAN'). tem('202404120054', classe, 'HC'). tem('202404120054', objeto, 'nulidade_busca').
+resultado_real('202404120054', perde).
+tem('202404183557', turma, 'QUINTA TURMA'). tem('202404183557', relator, 'JOEL ILAN'). tem('202404183557', classe, 'HC'). tem('202404183557', objeto, 'nulidade_busca').
+resultado_real('202404183557', perde).
+tem('202404184592', turma, 'QUINTA TURMA'). tem('202404184592', relator, 'JOEL ILAN'). tem('202404184592', classe, 'HC'). tem('202404184592', objeto, 'p4').
+tem('202404184592', marcador, 'faccao').
+resultado_real('202404184592', perde).
+tem('202404198390', turma, 'QUINTA TURMA'). tem('202404198390', relator, 'JOEL ILAN'). tem('202404198390', classe, 'HC'). tem('202404198390', objeto, 'nulidade_busca').
+resultado_real('202404198390', perde).
+tem('202404218072', turma, 'QUINTA TURMA'). tem('202404218072', relator, 'JOEL ILAN'). tem('202404218072', classe, 'HC'). tem('202404218072', objeto, 'p4').
+resultado_real('202404218072', perde).
+tem('202404240168', turma, 'QUINTA TURMA'). tem('202404240168', relator, 'JOEL ILAN'). tem('202404240168', classe, 'HC'). tem('202404240168', objeto, 'nulidade_busca').
+tem('202404240168', marcador, 'nervosismo').
+tem('202404240168', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404240168', perde).
+tem('202404271208', turma, 'QUINTA TURMA'). tem('202404271208', relator, 'JOEL ILAN'). tem('202404271208', classe, 'HC'). tem('202404271208', objeto, 'nulidade_busca').
+tem('202404271208', marcador, 'nervosismo').
+tem('202404271208', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404271208', perde).
+tem('202404286393', turma, 'QUINTA TURMA'). tem('202404286393', relator, 'JOEL ILAN'). tem('202404286393', classe, 'HC'). tem('202404286393', objeto, 'dosimetria').
+resultado_real('202404286393', perde).
+tem('202404340366', turma, 'QUINTA TURMA'). tem('202404340366', relator, 'JOEL ILAN'). tem('202404340366', classe, 'HC'). tem('202404340366', objeto, 'outro').
+tem('202404340366', marcador, 'atos_infracionais').
+resultado_real('202404340366', perde).
+tem('202404362052', turma, 'QUINTA TURMA'). tem('202404362052', relator, 'JOEL ILAN'). tem('202404362052', classe, 'HC'). tem('202404362052', objeto, 'p4').
+resultado_real('202404362052', perde).
+tem('202404367940', turma, 'QUINTA TURMA'). tem('202404367940', relator, 'JOEL ILAN'). tem('202404367940', classe, 'HC'). tem('202404367940', objeto, 'p4').
+resultado_real('202404367940', perde).
+tem('202404371342', turma, 'QUINTA TURMA'). tem('202404371342', relator, 'JOEL ILAN'). tem('202404371342', classe, 'HC'). tem('202404371342', objeto, 'p4').
+tem('202404371342', marcador, 'faccao').
+resultado_real('202404371342', perde).
+tem('202404477730', turma, 'QUINTA TURMA'). tem('202404477730', relator, 'JOEL ILAN'). tem('202404477730', classe, 'HC'). tem('202404477730', objeto, 'nulidade_busca').
+resultado_real('202404477730', perde).
+tem('202404480842', turma, 'QUINTA TURMA'). tem('202404480842', relator, 'JOEL ILAN'). tem('202404480842', classe, 'HC'). tem('202404480842', objeto, 'p4').
+tem('202404480842', marcador, 'atos_infracionais').
+resultado_real('202404480842', perde).
+tem('202404505360', turma, 'QUINTA TURMA'). tem('202404505360', relator, 'JOEL ILAN'). tem('202404505360', classe, 'HC'). tem('202404505360', objeto, 'p4').
+resultado_real('202404505360', perde).
+tem('202404603828', turma, 'QUINTA TURMA'). tem('202404603828', relator, 'JOEL ILAN'). tem('202404603828', classe, 'HC'). tem('202404603828', objeto, 'outro').
+tem('202404603828', marcador, 'ocupacao').
+resultado_real('202404603828', perde).
+tem('202404621661', turma, 'QUINTA TURMA'). tem('202404621661', relator, 'JOEL ILAN'). tem('202404621661', classe, 'HC'). tem('202404621661', objeto, 'outro').
+tem('202404621661', marcador, 'faccao').
+resultado_real('202404621661', perde).
+tem('202404734913', turma, 'QUINTA TURMA'). tem('202404734913', relator, 'JOEL ILAN'). tem('202404734913', classe, 'HC'). tem('202404734913', objeto, 'nulidade_busca').
+resultado_real('202404734913', perde).
+tem('202404741459', turma, 'QUINTA TURMA'). tem('202404741459', relator, 'JOEL ILAN'). tem('202404741459', classe, 'HC'). tem('202404741459', objeto, 'p4').
+tem('202404741459', marcador, 'faccao').
+resultado_real('202404741459', perde).
+tem('202404779925', turma, 'QUINTA TURMA'). tem('202404779925', relator, 'JOEL ILAN'). tem('202404779925', classe, 'HC'). tem('202404779925', objeto, 'autoria').
+tem('202404779925', marcador, 'faccao').
+resultado_real('202404779925', perde).
+tem('202404779456', turma, 'QUINTA TURMA'). tem('202404779456', relator, 'JOEL ILAN'). tem('202404779456', classe, 'HC'). tem('202404779456', objeto, 'dosimetria').
+resultado_real('202404779456', perde).
+tem('202404802834', turma, 'QUINTA TURMA'). tem('202404802834', relator, 'JOEL ILAN'). tem('202404802834', classe, 'HC'). tem('202404802834', objeto, 'nulidade_busca').
+resultado_real('202404802834', perde).
+tem('202404808845', turma, 'QUINTA TURMA'). tem('202404808845', relator, 'JOEL ILAN'). tem('202404808845', classe, 'HC'). tem('202404808845', objeto, 'p4').
+resultado_real('202404808845', perde).
+tem('202404811490', turma, 'QUINTA TURMA'). tem('202404811490', relator, 'JOEL ILAN'). tem('202404811490', classe, 'HC'). tem('202404811490', objeto, 'p4').
+resultado_real('202404811490', perde).
+tem('202404812261', turma, 'QUINTA TURMA'). tem('202404812261', relator, 'JOEL ILAN'). tem('202404812261', classe, 'HC'). tem('202404812261', objeto, 'p4').
+resultado_real('202404812261', perde).
+tem('202404832582', turma, 'QUINTA TURMA'). tem('202404832582', relator, 'JOEL ILAN'). tem('202404832582', classe, 'HC'). tem('202404832582', objeto, 'nulidade_busca').
+resultado_real('202404832582', perde).
+tem('202404881607', turma, 'QUINTA TURMA'). tem('202404881607', relator, 'JOEL ILAN'). tem('202404881607', classe, 'HC'). tem('202404881607', objeto, 'p4').
+tem('202404881607', marcador, 'faccao').
+resultado_real('202404881607', perde).
+tem('202500001583', turma, 'QUINTA TURMA'). tem('202500001583', relator, 'JOEL ILAN'). tem('202500001583', classe, 'HC'). tem('202500001583', objeto, 'outro').
+resultado_real('202500001583', perde).
+tem('202500019614', turma, 'QUINTA TURMA'). tem('202500019614', relator, 'JOEL ILAN'). tem('202500019614', classe, 'HC'). tem('202500019614', objeto, 'nulidade_busca').
+resultado_real('202500019614', perde).
+tem('202500021616', turma, 'QUINTA TURMA'). tem('202500021616', relator, 'JOEL ILAN'). tem('202500021616', classe, 'HC'). tem('202500021616', objeto, 'p4').
+resultado_real('202500021616', perde).
+tem('202500037091', turma, 'QUINTA TURMA'). tem('202500037091', relator, 'JOEL ILAN'). tem('202500037091', classe, 'HC'). tem('202500037091', objeto, 'nulidade_busca').
+resultado_real('202500037091', perde).
+tem('202500068293', turma, 'QUINTA TURMA'). tem('202500068293', relator, 'JOEL ILAN'). tem('202500068293', classe, 'HC'). tem('202500068293', objeto, 'nulidade_busca').
+resultado_real('202500068293', perde).
+tem('202500076674', turma, 'QUINTA TURMA'). tem('202500076674', relator, 'JOEL ILAN'). tem('202500076674', classe, 'HC'). tem('202500076674', objeto, 'p4').
+tem('202500076674', marcador, 'local_conhecido').
+tem('202500076674', marcador, 'atos_infracionais').
+resultado_real('202500076674', perde).
+tem('202500083689', turma, 'QUINTA TURMA'). tem('202500083689', relator, 'JOEL ILAN'). tem('202500083689', classe, 'HC'). tem('202500083689', objeto, 'p4').
+resultado_real('202500083689', perde).
+tem('202500108021', turma, 'QUINTA TURMA'). tem('202500108021', relator, 'JOEL ILAN'). tem('202500108021', classe, 'HC'). tem('202500108021', objeto, 'p4').
+tem('202500108021', marcador, 'faccao').
+resultado_real('202500108021', vence).
+tem('202500130220', turma, 'QUINTA TURMA'). tem('202500130220', relator, 'JOEL ILAN'). tem('202500130220', classe, 'HC'). tem('202500130220', objeto, 'desclassificacao').
+resultado_real('202500130220', perde).
+tem('202500144090', turma, 'QUINTA TURMA'). tem('202500144090', relator, 'JOEL ILAN'). tem('202500144090', classe, 'HC'). tem('202500144090', objeto, 'p4').
+resultado_real('202500144090', perde).
+tem('202500147451', turma, 'QUINTA TURMA'). tem('202500147451', relator, 'JOEL ILAN'). tem('202500147451', classe, 'HC'). tem('202500147451', objeto, 'p4').
+resultado_real('202500147451', perde).
+tem('202500161142', turma, 'QUINTA TURMA'). tem('202500161142', relator, 'JOEL ILAN'). tem('202500161142', classe, 'HC'). tem('202500161142', objeto, 'desclassificacao').
+resultado_real('202500161142', perde).
+tem('202500182169', turma, 'QUINTA TURMA'). tem('202500182169', relator, 'JOEL ILAN'). tem('202500182169', classe, 'HC'). tem('202500182169', objeto, 'dosimetria').
+resultado_real('202500182169', perde).
+tem('202500187805', turma, 'QUINTA TURMA'). tem('202500187805', relator, 'JOEL ILAN'). tem('202500187805', classe, 'HC'). tem('202500187805', objeto, 'outro').
+resultado_real('202500187805', perde).
+tem('202500202976', turma, 'QUINTA TURMA'). tem('202500202976', relator, 'JOEL ILAN'). tem('202500202976', classe, 'HC'). tem('202500202976', objeto, 'nulidade_busca').
+resultado_real('202500202976', perde).
+tem('202500289390', turma, 'QUINTA TURMA'). tem('202500289390', relator, 'JOEL ILAN'). tem('202500289390', classe, 'HC'). tem('202500289390', objeto, 'p4').
+tem('202500289390', marcador, 'faccao').
+resultado_real('202500289390', perde).
+tem('202500298718', turma, 'QUINTA TURMA'). tem('202500298718', relator, 'JOEL ILAN'). tem('202500298718', classe, 'HC'). tem('202500298718', objeto, 'p4').
+resultado_real('202500298718', perde).
+tem('202500298213', turma, 'QUINTA TURMA'). tem('202500298213', relator, 'JOEL ILAN'). tem('202500298213', classe, 'HC'). tem('202500298213', objeto, 'p4').
+tem('202500298213', marcador, 'faccao').
+resultado_real('202500298213', perde).
+tem('202500306421', turma, 'QUINTA TURMA'). tem('202500306421', relator, 'JOEL ILAN'). tem('202500306421', classe, 'HC'). tem('202500306421', objeto, 'desclassificacao').
+tem('202500306421', marcador, 'local_conhecido').
+resultado_real('202500306421', perde).
+tem('202500323090', turma, 'QUINTA TURMA'). tem('202500323090', relator, 'JOEL ILAN'). tem('202500323090', classe, 'HC'). tem('202500323090', objeto, 'outro').
+resultado_real('202500323090', perde).
+tem('202500373240', turma, 'QUINTA TURMA'). tem('202500373240', relator, 'JOEL ILAN'). tem('202500373240', classe, 'HC'). tem('202500373240', objeto, 'p4').
+resultado_real('202500373240', perde).
+tem('202500393369', turma, 'QUINTA TURMA'). tem('202500393369', relator, 'JOEL ILAN'). tem('202500393369', classe, 'HC'). tem('202500393369', objeto, 'p4').
+tem('202500393369', marcador, 'faccao').
+resultado_real('202500393369', perde).
+tem('202500399647', turma, 'QUINTA TURMA'). tem('202500399647', relator, 'JOEL ILAN'). tem('202500399647', classe, 'HC'). tem('202500399647', objeto, 'p4').
+resultado_real('202500399647', perde).
+tem('202500456007', turma, 'QUINTA TURMA'). tem('202500456007', relator, 'JOEL ILAN'). tem('202500456007', classe, 'HC'). tem('202500456007', objeto, 'p4').
+tem('202500456007', marcador, 'local_conhecido').
+tem('202500456007', marcador, 'faccao').
+resultado_real('202500456007', perde).
+tem('202500493960', turma, 'QUINTA TURMA'). tem('202500493960', relator, 'JOEL ILAN'). tem('202500493960', classe, 'HC'). tem('202500493960', objeto, 'p4').
+resultado_real('202500493960', perde).
+tem('202500555725', turma, 'QUINTA TURMA'). tem('202500555725', relator, 'JOEL ILAN'). tem('202500555725', classe, 'HC'). tem('202500555725', objeto, 'nulidade_busca').
+resultado_real('202500555725', perde).
+tem('202500610543', turma, 'QUINTA TURMA'). tem('202500610543', relator, 'JOEL ILAN'). tem('202500610543', classe, 'HC'). tem('202500610543', objeto, 'outro').
+tem('202500610543', marcador, 'denuncia_anonima').
+resultado_real('202500610543', perde).
+tem('202500623015', turma, 'QUINTA TURMA'). tem('202500623015', relator, 'JOEL ILAN'). tem('202500623015', classe, 'HC'). tem('202500623015', objeto, 'p4').
+tem('202500623015', marcador, 'faccao').
+resultado_real('202500623015', perde).
+tem('202500688931', turma, 'QUINTA TURMA'). tem('202500688931', relator, 'JOEL ILAN'). tem('202500688931', classe, 'HC'). tem('202500688931', objeto, 'p4').
+resultado_real('202500688931', perde).
+tem('202500713985', turma, 'QUINTA TURMA'). tem('202500713985', relator, 'JOEL ILAN'). tem('202500713985', classe, 'HC'). tem('202500713985', objeto, 'p4').
+resultado_real('202500713985', perde).
+tem('202500733890', turma, 'QUINTA TURMA'). tem('202500733890', relator, 'JOEL ILAN'). tem('202500733890', classe, 'HC'). tem('202500733890', objeto, 'desclassificacao').
+resultado_real('202500733890', perde).
+tem('202500771779', turma, 'QUINTA TURMA'). tem('202500771779', relator, 'JOEL ILAN'). tem('202500771779', classe, 'HC'). tem('202500771779', objeto, 'p4').
+resultado_real('202500771779', perde).
+tem('202500831804', turma, 'QUINTA TURMA'). tem('202500831804', relator, 'JOEL ILAN'). tem('202500831804', classe, 'HC'). tem('202500831804', objeto, 'p4').
+tem('202500831804', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500831804', perde).
+tem('202500855090', turma, 'QUINTA TURMA'). tem('202500855090', relator, 'JOEL ILAN'). tem('202500855090', classe, 'HC'). tem('202500855090', objeto, 'p4').
+resultado_real('202500855090', perde).
+tem('202500886546', turma, 'QUINTA TURMA'). tem('202500886546', relator, 'JOEL ILAN'). tem('202500886546', classe, 'HC'). tem('202500886546', objeto, 'p4').
+tem('202500886546', marcador, 'atos_infracionais').
+resultado_real('202500886546', perde).
+tem('202500914784', turma, 'QUINTA TURMA'). tem('202500914784', relator, 'JOEL ILAN'). tem('202500914784', classe, 'HC'). tem('202500914784', objeto, 'p4').
+tem('202500914784', marcador, 'atos_infracionais').
+resultado_real('202500914784', perde).
+tem('202500967368', turma, 'QUINTA TURMA'). tem('202500967368', relator, 'JOEL ILAN'). tem('202500967368', classe, 'HC'). tem('202500967368', objeto, 'dosimetria').
+resultado_real('202500967368', perde).
+tem('202501008157', turma, 'QUINTA TURMA'). tem('202501008157', relator, 'JOEL ILAN'). tem('202501008157', classe, 'HC'). tem('202501008157', objeto, 'outro').
+resultado_real('202501008157', perde).
+tem('202501057192', turma, 'QUINTA TURMA'). tem('202501057192', relator, 'JOEL ILAN'). tem('202501057192', classe, 'HC'). tem('202501057192', objeto, 'desclassificacao').
+resultado_real('202501057192', perde).
+tem('202501096775', turma, 'QUINTA TURMA'). tem('202501096775', relator, 'JOEL ILAN'). tem('202501096775', classe, 'HC'). tem('202501096775', objeto, 'dosimetria').
+resultado_real('202501096775', perde).
+tem('202501109935', turma, 'QUINTA TURMA'). tem('202501109935', relator, 'JOEL ILAN'). tem('202501109935', classe, 'HC'). tem('202501109935', objeto, 'nulidade_busca').
+tem('202501109935', marcador, 'nervosismo').
+tem('202501109935', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501109935', perde).
+tem('202501129953', turma, 'QUINTA TURMA'). tem('202501129953', relator, 'JOEL ILAN'). tem('202501129953', classe, 'HC'). tem('202501129953', objeto, 'desclassificacao').
+resultado_real('202501129953', perde).
+tem('202501191895', turma, 'QUINTA TURMA'). tem('202501191895', relator, 'JOEL ILAN'). tem('202501191895', classe, 'HC'). tem('202501191895', objeto, 'outro').
+tem('202501191895', marcador, 'ocupacao').
+resultado_real('202501191895', perde).
+tem('202501197137', turma, 'QUINTA TURMA'). tem('202501197137', relator, 'JOEL ILAN'). tem('202501197137', classe, 'HC'). tem('202501197137', objeto, 'p4').
+tem('202501197137', marcador, 'faccao').
+resultado_real('202501197137', vence).
+tem('202501213193', turma, 'QUINTA TURMA'). tem('202501213193', relator, 'JOEL ILAN'). tem('202501213193', classe, 'HC'). tem('202501213193', objeto, 'p4').
+resultado_real('202501213193', perde).
+tem('202501215305', turma, 'QUINTA TURMA'). tem('202501215305', relator, 'JOEL ILAN'). tem('202501215305', classe, 'HC'). tem('202501215305', objeto, 'desclassificacao').
+resultado_real('202501215305', perde).
+tem('202501323150', turma, 'QUINTA TURMA'). tem('202501323150', relator, 'JOEL ILAN'). tem('202501323150', classe, 'HC'). tem('202501323150', objeto, 'dosimetria').
+resultado_real('202501323150', perde).
+tem('202501335189', turma, 'QUINTA TURMA'). tem('202501335189', relator, 'JOEL ILAN'). tem('202501335189', classe, 'HC'). tem('202501335189', objeto, 'desclassificacao').
+resultado_real('202501335189', perde).
+tem('202501352190', turma, 'QUINTA TURMA'). tem('202501352190', relator, 'JOEL ILAN'). tem('202501352190', classe, 'HC'). tem('202501352190', objeto, 'p4').
+resultado_real('202501352190', perde).
+tem('202501356674', turma, 'QUINTA TURMA'). tem('202501356674', relator, 'JOEL ILAN'). tem('202501356674', classe, 'HC'). tem('202501356674', objeto, 'dosimetria').
+resultado_real('202501356674', perde).
+tem('202501390383', turma, 'QUINTA TURMA'). tem('202501390383', relator, 'JOEL ILAN'). tem('202501390383', classe, 'HC'). tem('202501390383', objeto, 'desclassificacao').
+resultado_real('202501390383', perde).
+tem('202501408593', turma, 'QUINTA TURMA'). tem('202501408593', relator, 'JOEL ILAN'). tem('202501408593', classe, 'HC'). tem('202501408593', objeto, 'dosimetria').
+resultado_real('202501408593', perde).
+tem('202501472030', turma, 'QUINTA TURMA'). tem('202501472030', relator, 'JOEL ILAN'). tem('202501472030', classe, 'HC'). tem('202501472030', objeto, 'autoria').
+resultado_real('202501472030', perde).
+tem('202501471738', turma, 'QUINTA TURMA'). tem('202501471738', relator, 'JOEL ILAN'). tem('202501471738', classe, 'HC'). tem('202501471738', objeto, 'nulidade_busca').
+tem('202501471738', marcador, 'faccao').
+resultado_real('202501471738', perde).
+tem('202501487985', turma, 'QUINTA TURMA'). tem('202501487985', relator, 'JOEL ILAN'). tem('202501487985', classe, 'HC'). tem('202501487985', objeto, 'dosimetria').
+resultado_real('202501487985', perde).
+tem('202101437984', turma, 'QUINTA TURMA'). tem('202101437984', relator, 'JOEL ILAN'). tem('202101437984', classe, 'REsp'). tem('202101437984', objeto, 'outro').
+resultado_real('202101437984', perde).
+tem('202300628246', turma, 'QUINTA TURMA'). tem('202300628246', relator, 'JOEL ILAN'). tem('202300628246', classe, 'REsp'). tem('202300628246', objeto, 'dosimetria').
+tem('202300628246', marcador, 'comunidade_bairro').
+resultado_real('202300628246', perde).
+tem('202302034849', turma, 'QUINTA TURMA'). tem('202302034849', relator, 'JOEL ILAN'). tem('202302034849', classe, 'REsp'). tem('202302034849', objeto, 'p4').
+resultado_real('202302034849', perde).
+tem('202302047132', turma, 'QUINTA TURMA'). tem('202302047132', relator, 'JOEL ILAN'). tem('202302047132', classe, 'REsp'). tem('202302047132', objeto, 'dosimetria').
+resultado_real('202302047132', perde).
+tem('202302193322', turma, 'QUINTA TURMA'). tem('202302193322', relator, 'JOEL ILAN'). tem('202302193322', classe, 'REsp'). tem('202302193322', objeto, 'desclassificacao').
+resultado_real('202302193322', perde).
+tem('202302468862', turma, 'QUINTA TURMA'). tem('202302468862', relator, 'JOEL ILAN'). tem('202302468862', classe, 'REsp'). tem('202302468862', objeto, 'p4').
+resultado_real('202302468862', perde).
+tem('202302564110', turma, 'QUINTA TURMA'). tem('202302564110', relator, 'JOEL ILAN'). tem('202302564110', classe, 'REsp'). tem('202302564110', objeto, 'nulidade_busca').
+tem('202302564110', marcador, 'denuncia_anonima').
+resultado_real('202302564110', perde).
+tem('202303440982', turma, 'QUINTA TURMA'). tem('202303440982', relator, 'JOEL ILAN'). tem('202303440982', classe, 'REsp'). tem('202303440982', objeto, 'nulidade_busca').
+tem('202303440982', marcador, 'faccao').
+resultado_real('202303440982', perde).
+tem('202304127968', turma, 'QUINTA TURMA'). tem('202304127968', relator, 'JOEL ILAN'). tem('202304127968', classe, 'REsp'). tem('202304127968', objeto, 'desclassificacao').
+resultado_real('202304127968', perde).
+tem('202400738130', turma, 'QUINTA TURMA'). tem('202400738130', relator, 'JOEL ILAN'). tem('202400738130', classe, 'REsp'). tem('202400738130', objeto, 'outro').
+resultado_real('202400738130', perde).
+tem('202401480996', turma, 'QUINTA TURMA'). tem('202401480996', relator, 'JOEL ILAN'). tem('202401480996', classe, 'REsp'). tem('202401480996', objeto, 'dosimetria').
+resultado_real('202401480996', perde).
+tem('202401578322', turma, 'QUINTA TURMA'). tem('202401578322', relator, 'JOEL ILAN'). tem('202401578322', classe, 'REsp'). tem('202401578322', objeto, 'nulidade_busca').
+tem('202401578322', marcador, 'local_conhecido').
+resultado_real('202401578322', perde).
+tem('202401735596', turma, 'QUINTA TURMA'). tem('202401735596', relator, 'JOEL ILAN'). tem('202401735596', classe, 'REsp'). tem('202401735596', objeto, 'nulidade_busca').
+resultado_real('202401735596', perde).
+tem('202401880359', turma, 'QUINTA TURMA'). tem('202401880359', relator, 'JOEL ILAN'). tem('202401880359', classe, 'REsp'). tem('202401880359', objeto, 'nulidade_busca').
+tem('202401880359', marcador, 'denuncia_anonima').
+resultado_real('202401880359', perde).
+tem('202402590352', turma, 'QUINTA TURMA'). tem('202402590352', relator, 'JOEL ILAN'). tem('202402590352', classe, 'REsp'). tem('202402590352', objeto, 'nulidade_busca').
+resultado_real('202402590352', perde).
+tem('202402775541', turma, 'QUINTA TURMA'). tem('202402775541', relator, 'JOEL ILAN'). tem('202402775541', classe, 'REsp'). tem('202402775541', objeto, 'nulidade_busca').
+resultado_real('202402775541', perde).
+tem('202403456112', turma, 'QUINTA TURMA'). tem('202403456112', relator, 'JOEL ILAN'). tem('202403456112', classe, 'REsp'). tem('202403456112', objeto, 'nulidade_busca').
+tem('202403456112', marcador, 'local_conhecido').
+resultado_real('202403456112', perde).
+tem('202403647711', turma, 'QUINTA TURMA'). tem('202403647711', relator, 'JOEL ILAN'). tem('202403647711', classe, 'REsp'). tem('202403647711', objeto, 'p4').
+tem('202403647711', marcador, 'atos_infracionais').
+resultado_real('202403647711', perde).
+tem('202403658337', turma, 'QUINTA TURMA'). tem('202403658337', relator, 'JOEL ILAN'). tem('202403658337', classe, 'REsp'). tem('202403658337', objeto, 'desclassificacao').
+resultado_real('202403658337', perde).
+tem('202403750957', turma, 'QUINTA TURMA'). tem('202403750957', relator, 'JOEL ILAN'). tem('202403750957', classe, 'REsp'). tem('202403750957', objeto, 'p4').
+resultado_real('202403750957', perde).
+tem('202403851510', turma, 'QUINTA TURMA'). tem('202403851510', relator, 'JOEL ILAN'). tem('202403851510', classe, 'REsp'). tem('202403851510', objeto, 'p4').
+resultado_real('202403851510', perde).
+tem('202404437689', turma, 'QUINTA TURMA'). tem('202404437689', relator, 'JOEL ILAN'). tem('202404437689', classe, 'REsp'). tem('202404437689', objeto, 'nulidade_busca').
+tem('202404437689', marcador, 'denuncia_anonima').
+resultado_real('202404437689', perde).
+tem('202404605076', turma, 'QUINTA TURMA'). tem('202404605076', relator, 'JOEL ILAN'). tem('202404605076', classe, 'REsp'). tem('202404605076', objeto, 'dosimetria').
+resultado_real('202404605076', perde).
+tem('202500186630', turma, 'QUINTA TURMA'). tem('202500186630', relator, 'JOEL ILAN'). tem('202500186630', classe, 'REsp'). tem('202500186630', objeto, 'p4').
+resultado_real('202500186630', perde).
+tem('202500312337', turma, 'QUINTA TURMA'). tem('202500312337', relator, 'JOEL ILAN'). tem('202500312337', classe, 'REsp'). tem('202500312337', objeto, 'nulidade_busca').
+tem('202500312337', marcador, 'local_conhecido').
+tem('202500312337', marcador, 'nervosismo').
+resultado_real('202500312337', perde).
+tem('202501305782', turma, 'QUINTA TURMA'). tem('202501305782', relator, 'JOEL ILAN'). tem('202501305782', classe, 'REsp'). tem('202501305782', objeto, 'nulidade_busca').
+resultado_real('202501305782', perde).
+tem('202501322607', turma, 'QUINTA TURMA'). tem('202501322607', relator, 'JOEL ILAN'). tem('202501322607', classe, 'REsp'). tem('202501322607', objeto, 'p4').
+resultado_real('202501322607', perde).
+tem('202501445485', turma, 'QUINTA TURMA'). tem('202501445485', relator, 'JOEL ILAN'). tem('202501445485', classe, 'REsp'). tem('202501445485', objeto, 'p4').
+tem('202501445485', marcador, 'faccao').
+resultado_real('202501445485', perde).
+tem('202501607905', turma, 'QUINTA TURMA'). tem('202501607905', relator, 'JOEL ILAN'). tem('202501607905', classe, 'REsp'). tem('202501607905', objeto, 'nulidade_busca').
+tem('202501607905', marcador, 'faccao').
+resultado_real('202501607905', perde).
+tem('202501684428', turma, 'QUINTA TURMA'). tem('202501684428', relator, 'JOEL ILAN'). tem('202501684428', classe, 'REsp'). tem('202501684428', objeto, 'outro').
+resultado_real('202501684428', perde).
 tem('202502726357', turma, 'QUINTA TURMA'). tem('202502726357', relator, 'JOEL ILAN'). tem('202502726357', classe, 'REsp'). tem('202502726357', objeto, 'dosimetria').
 tem('202502726357', marcador, 'faccao').
 resultado_real('202502726357', perde).
@@ -270,12 +3322,38 @@ tem('202601614986', turma, 'QUINTA TURMA'). tem('202601614986', relator, 'JOEL I
 tem('202601614986', marcador, 'fuga_mudanca_direcao').
 tem('202601614986', marcador, 'denuncia_anonima').
 resultado_real('202601614986', perde).
+tem('202303980113', turma, 'QUINTA TURMA'). tem('202303980113', relator, 'JOEL ILAN'). tem('202303980113', classe, 'RHC'). tem('202303980113', objeto, 'outro').
+resultado_real('202303980113', perde).
+tem('202400651713', turma, 'QUINTA TURMA'). tem('202400651713', relator, 'JOEL ILAN'). tem('202400651713', classe, 'RHC'). tem('202400651713', objeto, 'nulidade_busca').
+resultado_real('202400651713', perde).
+tem('202401026972', turma, 'QUINTA TURMA'). tem('202401026972', relator, 'JOEL ILAN'). tem('202401026972', classe, 'RHC'). tem('202401026972', objeto, 'outro').
+resultado_real('202401026972', perde).
+tem('202402141991', turma, 'QUINTA TURMA'). tem('202402141991', relator, 'JOEL ILAN'). tem('202402141991', classe, 'RHC'). tem('202402141991', objeto, 'nulidade_busca').
+tem('202402141991', marcador, 'nervosismo').
+resultado_real('202402141991', perde).
+tem('202402281783', turma, 'QUINTA TURMA'). tem('202402281783', relator, 'JOEL ILAN'). tem('202402281783', classe, 'RHC'). tem('202402281783', objeto, 'nulidade_busca').
+resultado_real('202402281783', perde).
+tem('202402792439', turma, 'QUINTA TURMA'). tem('202402792439', relator, 'JOEL ILAN'). tem('202402792439', classe, 'RHC'). tem('202402792439', objeto, 'nulidade_busca').
+tem('202402792439', marcador, 'denuncia_anonima').
+resultado_real('202402792439', perde).
+tem('202404577926', turma, 'QUINTA TURMA'). tem('202404577926', relator, 'JOEL ILAN'). tem('202404577926', classe, 'RHC'). tem('202404577926', objeto, 'nulidade_busca').
+resultado_real('202404577926', perde).
+tem('202502403271', turma, 'QUINTA TURMA'). tem('202502403271', relator, 'JOEL ILAN'). tem('202502403271', classe, 'RHC'). tem('202502403271', objeto, 'nulidade_busca').
+resultado_real('202502403271', perde).
 tem('202600056091', turma, 'QUINTA TURMA'). tem('202600056091', relator, 'JOEL ILAN'). tem('202600056091', classe, 'RHC'). tem('202600056091', objeto, 'outro').
 resultado_real('202600056091', perde).
 tem('202601021296', turma, 'QUINTA TURMA'). tem('202601021296', relator, 'JOEL ILAN'). tem('202601021296', classe, 'RHC'). tem('202601021296', objeto, 'desclassificacao').
 resultado_real('202601021296', perde).
 tem('202301996170', turma, 'QUINTA TURMA'). tem('202301996170', relator, 'MARIA MARLUCE'). tem('202301996170', classe, 'AREsp'). tem('202301996170', objeto, 'p4').
 resultado_real('202301996170', perde).
+tem('202500189089', turma, 'QUINTA TURMA'). tem('202500189089', relator, 'MARIA MARLUCE'). tem('202500189089', classe, 'AREsp'). tem('202500189089', objeto, 'p4').
+resultado_real('202500189089', perde).
+tem('202500896466', turma, 'QUINTA TURMA'). tem('202500896466', relator, 'MARIA MARLUCE'). tem('202500896466', classe, 'AREsp'). tem('202500896466', objeto, 'p4').
+resultado_real('202500896466', perde).
+tem('202501786836', turma, 'QUINTA TURMA'). tem('202501786836', relator, 'MARIA MARLUCE'). tem('202501786836', classe, 'AREsp'). tem('202501786836', objeto, 'dosimetria').
+resultado_real('202501786836', perde).
+tem('202501831896', turma, 'QUINTA TURMA'). tem('202501831896', relator, 'MARIA MARLUCE'). tem('202501831896', classe, 'AREsp'). tem('202501831896', objeto, 'p4').
+resultado_real('202501831896', perde).
 tem('202502387341', turma, 'QUINTA TURMA'). tem('202502387341', relator, 'MARIA MARLUCE'). tem('202502387341', classe, 'AREsp'). tem('202502387341', objeto, 'nulidade_busca').
 resultado_real('202502387341', perde).
 tem('202502835416', turma, 'QUINTA TURMA'). tem('202502835416', relator, 'MARIA MARLUCE'). tem('202502835416', classe, 'AREsp'). tem('202502835416', objeto, 'outro').
@@ -730,37 +3808,283 @@ tem('202600575622', marcador, 'faccao').
 resultado_real('202600575622', perde).
 tem('202600992653', turma, 'QUINTA TURMA'). tem('202600992653', relator, 'MARIA MARLUCE'). tem('202600992653', classe, 'RHC'). tem('202600992653', objeto, 'outro').
 resultado_real('202600992653', perde).
+tem('202103538300', turma, 'QUINTA TURMA'). tem('202103538300', relator, 'MESSOD AZULAY'). tem('202103538300', classe, 'AREsp'). tem('202103538300', objeto, 'p4').
+tem('202103538300', marcador, 'faccao').
+resultado_real('202103538300', perde).
+tem('202200383638', turma, 'QUINTA TURMA'). tem('202200383638', relator, 'MESSOD AZULAY'). tem('202200383638', classe, 'AREsp'). tem('202200383638', objeto, 'desclassificacao').
+tem('202200383638', marcador, 'denuncia_anonima').
+resultado_real('202200383638', vence).
+tem('202203276178', turma, 'QUINTA TURMA'). tem('202203276178', relator, 'MESSOD AZULAY'). tem('202203276178', classe, 'AREsp'). tem('202203276178', objeto, 'outro').
+resultado_real('202203276178', perde).
+tem('202301403696', turma, 'QUINTA TURMA'). tem('202301403696', relator, 'MESSOD AZULAY'). tem('202301403696', classe, 'AREsp'). tem('202301403696', objeto, 'outro').
+resultado_real('202301403696', perde).
+tem('202301489745', turma, 'QUINTA TURMA'). tem('202301489745', relator, 'MESSOD AZULAY'). tem('202301489745', classe, 'AREsp'). tem('202301489745', objeto, 'autoria').
+resultado_real('202301489745', perde).
+tem('202301502669', turma, 'QUINTA TURMA'). tem('202301502669', relator, 'MESSOD AZULAY'). tem('202301502669', classe, 'AREsp'). tem('202301502669', objeto, 'nulidade_busca').
+tem('202301502669', marcador, 'nervosismo').
+tem('202301502669', marcador, 'fuga_mudanca_direcao').
+resultado_real('202301502669', perde).
+tem('202301730137', turma, 'QUINTA TURMA'). tem('202301730137', relator, 'MESSOD AZULAY'). tem('202301730137', classe, 'AREsp'). tem('202301730137', objeto, 'outro').
+resultado_real('202301730137', perde).
+tem('202301937744', turma, 'QUINTA TURMA'). tem('202301937744', relator, 'MESSOD AZULAY'). tem('202301937744', classe, 'AREsp'). tem('202301937744', objeto, 'p4').
+resultado_real('202301937744', perde).
+tem('202302059100', turma, 'QUINTA TURMA'). tem('202302059100', relator, 'MESSOD AZULAY'). tem('202302059100', classe, 'AREsp'). tem('202302059100', objeto, 'p4').
+resultado_real('202302059100', perde).
+tem('202302246073', turma, 'QUINTA TURMA'). tem('202302246073', relator, 'MESSOD AZULAY'). tem('202302246073', classe, 'AREsp'). tem('202302246073', objeto, 'nulidade_busca').
+resultado_real('202302246073', perde).
+tem('202302589039', turma, 'QUINTA TURMA'). tem('202302589039', relator, 'MESSOD AZULAY'). tem('202302589039', classe, 'AREsp'). tem('202302589039', objeto, 'p4').
+resultado_real('202302589039', perde).
+tem('202302730423', turma, 'QUINTA TURMA'). tem('202302730423', relator, 'MESSOD AZULAY'). tem('202302730423', classe, 'AREsp'). tem('202302730423', objeto, 'nulidade_busca').
+tem('202302730423', marcador, 'nervosismo').
+resultado_real('202302730423', perde).
+tem('202302889455', turma, 'QUINTA TURMA'). tem('202302889455', relator, 'MESSOD AZULAY'). tem('202302889455', classe, 'AREsp'). tem('202302889455', objeto, 'autoria').
+resultado_real('202302889455', perde).
+tem('202302990519', turma, 'QUINTA TURMA'). tem('202302990519', relator, 'MESSOD AZULAY'). tem('202302990519', classe, 'AREsp'). tem('202302990519', objeto, 'p4').
+tem('202302990519', marcador, 'ocupacao').
+resultado_real('202302990519', perde).
+tem('202302904678', turma, 'QUINTA TURMA'). tem('202302904678', relator, 'MESSOD AZULAY'). tem('202302904678', classe, 'AREsp'). tem('202302904678', objeto, 'dosimetria').
+resultado_real('202302904678', perde).
+tem('202302862428', turma, 'QUINTA TURMA'). tem('202302862428', relator, 'MESSOD AZULAY'). tem('202302862428', classe, 'AREsp'). tem('202302862428', objeto, 'nulidade_busca').
+tem('202302862428', marcador, 'denuncia_anonima').
+resultado_real('202302862428', perde).
+tem('202302802727', turma, 'QUINTA TURMA'). tem('202302802727', relator, 'MESSOD AZULAY'). tem('202302802727', classe, 'AREsp'). tem('202302802727', objeto, 'dosimetria').
+resultado_real('202302802727', perde).
+tem('202303101970', turma, 'QUINTA TURMA'). tem('202303101970', relator, 'MESSOD AZULAY'). tem('202303101970', classe, 'AREsp'). tem('202303101970', objeto, 'p4').
+resultado_real('202303101970', perde).
+tem('202303134751', turma, 'QUINTA TURMA'). tem('202303134751', relator, 'MESSOD AZULAY'). tem('202303134751', classe, 'AREsp'). tem('202303134751', objeto, 'desclassificacao').
+resultado_real('202303134751', perde).
 tem('202303201132', turma, 'QUINTA TURMA'). tem('202303201132', relator, 'MESSOD AZULAY'). tem('202303201132', classe, 'AREsp'). tem('202303201132', objeto, 'nulidade_busca').
 tem('202303201132', marcador, 'local_conhecido').
 tem('202303201132', marcador, 'nervosismo').
 resultado_real('202303201132', perde).
+tem('202303239306', turma, 'QUINTA TURMA'). tem('202303239306', relator, 'MESSOD AZULAY'). tem('202303239306', classe, 'AREsp'). tem('202303239306', objeto, 'desclassificacao').
+resultado_real('202303239306', perde).
+tem('202303252150', turma, 'QUINTA TURMA'). tem('202303252150', relator, 'MESSOD AZULAY'). tem('202303252150', classe, 'AREsp'). tem('202303252150', objeto, 'p4').
+resultado_real('202303252150', perde).
+tem('202303520466', turma, 'QUINTA TURMA'). tem('202303520466', relator, 'MESSOD AZULAY'). tem('202303520466', classe, 'AREsp'). tem('202303520466', objeto, 'dosimetria').
+resultado_real('202303520466', perde).
+tem('202303577394', turma, 'QUINTA TURMA'). tem('202303577394', relator, 'MESSOD AZULAY'). tem('202303577394', classe, 'AREsp'). tem('202303577394', objeto, 'desclassificacao').
+tem('202303577394', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303577394', perde).
 tem('202303632203', turma, 'QUINTA TURMA'). tem('202303632203', relator, 'MESSOD AZULAY'). tem('202303632203', classe, 'AREsp'). tem('202303632203', objeto, 'outro').
 resultado_real('202303632203', perde).
+tem('202303788242', turma, 'QUINTA TURMA'). tem('202303788242', relator, 'MESSOD AZULAY'). tem('202303788242', classe, 'AREsp'). tem('202303788242', objeto, 'p4').
+tem('202303788242', marcador, 'faccao').
+resultado_real('202303788242', perde).
 tem('202303825757', turma, 'QUINTA TURMA'). tem('202303825757', relator, 'MESSOD AZULAY'). tem('202303825757', classe, 'AREsp'). tem('202303825757', objeto, 'nulidade_busca').
 tem('202303825757', marcador, 'nervosismo').
 resultado_real('202303825757', perde).
+tem('202303910589', turma, 'QUINTA TURMA'). tem('202303910589', relator, 'MESSOD AZULAY'). tem('202303910589', classe, 'AREsp'). tem('202303910589', objeto, 'p4').
+resultado_real('202303910589', vence).
+tem('202304052901', turma, 'QUINTA TURMA'). tem('202304052901', relator, 'MESSOD AZULAY'). tem('202304052901', classe, 'AREsp'). tem('202304052901', objeto, 'outro').
+resultado_real('202304052901', perde).
 tem('202304094630', turma, 'QUINTA TURMA'). tem('202304094630', relator, 'MESSOD AZULAY'). tem('202304094630', classe, 'AREsp'). tem('202304094630', objeto, 'nulidade_busca').
 resultado_real('202304094630', perde).
+tem('202304143505', turma, 'QUINTA TURMA'). tem('202304143505', relator, 'MESSOD AZULAY'). tem('202304143505', classe, 'AREsp'). tem('202304143505', objeto, 'dosimetria').
+resultado_real('202304143505', perde).
+tem('202304150432', turma, 'QUINTA TURMA'). tem('202304150432', relator, 'MESSOD AZULAY'). tem('202304150432', classe, 'AREsp'). tem('202304150432', objeto, 'dosimetria').
+resultado_real('202304150432', perde).
+tem('202304217664', turma, 'QUINTA TURMA'). tem('202304217664', relator, 'MESSOD AZULAY'). tem('202304217664', classe, 'AREsp'). tem('202304217664', objeto, 'p4').
+resultado_real('202304217664', perde).
+tem('202304350257', turma, 'QUINTA TURMA'). tem('202304350257', relator, 'MESSOD AZULAY'). tem('202304350257', classe, 'AREsp'). tem('202304350257', objeto, 'nulidade_busca').
+tem('202304350257', marcador, 'nervosismo').
+resultado_real('202304350257', perde).
+tem('202304502273', turma, 'QUINTA TURMA'). tem('202304502273', relator, 'MESSOD AZULAY'). tem('202304502273', classe, 'AREsp'). tem('202304502273', objeto, 'p4').
+resultado_real('202304502273', perde).
+tem('202304552321', turma, 'QUINTA TURMA'). tem('202304552321', relator, 'MESSOD AZULAY'). tem('202304552321', classe, 'AREsp'). tem('202304552321', objeto, 'p4').
+resultado_real('202304552321', perde).
+tem('202304472622', turma, 'QUINTA TURMA'). tem('202304472622', relator, 'MESSOD AZULAY'). tem('202304472622', classe, 'AREsp'). tem('202304472622', objeto, 'autoria').
+tem('202304472622', marcador, 'faccao').
+resultado_real('202304472622', perde).
+tem('202400051614', turma, 'QUINTA TURMA'). tem('202400051614', relator, 'MESSOD AZULAY'). tem('202400051614', classe, 'AREsp'). tem('202400051614', objeto, 'nulidade_busca').
+resultado_real('202400051614', perde).
+tem('202400071708', turma, 'QUINTA TURMA'). tem('202400071708', relator, 'MESSOD AZULAY'). tem('202400071708', classe, 'AREsp'). tem('202400071708', objeto, 'dosimetria').
+resultado_real('202400071708', perde).
+tem('202400096283', turma, 'QUINTA TURMA'). tem('202400096283', relator, 'MESSOD AZULAY'). tem('202400096283', classe, 'AREsp'). tem('202400096283', objeto, 'p4').
+resultado_real('202400096283', perde).
+tem('202400123676', turma, 'QUINTA TURMA'). tem('202400123676', relator, 'MESSOD AZULAY'). tem('202400123676', classe, 'AREsp'). tem('202400123676', objeto, 'nulidade_busca').
+tem('202400123676', marcador, 'local_conhecido').
+tem('202400123676', marcador, 'nervosismo').
+tem('202400123676', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400123676', perde).
+tem('202400240408', turma, 'QUINTA TURMA'). tem('202400240408', relator, 'MESSOD AZULAY'). tem('202400240408', classe, 'AREsp'). tem('202400240408', objeto, 'nulidade_busca').
+tem('202400240408', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400240408', perde).
+tem('202400392986', turma, 'QUINTA TURMA'). tem('202400392986', relator, 'MESSOD AZULAY'). tem('202400392986', classe, 'AREsp'). tem('202400392986', objeto, 'p4').
+tem('202400392986', marcador, 'faccao').
+resultado_real('202400392986', perde).
+tem('202400471450', turma, 'QUINTA TURMA'). tem('202400471450', relator, 'MESSOD AZULAY'). tem('202400471450', classe, 'AREsp'). tem('202400471450', objeto, 'nulidade_busca').
+tem('202400471450', marcador, 'fuga_mudanca_direcao').
+tem('202400471450', marcador, 'denuncia_anonima').
+resultado_real('202400471450', perde).
+tem('202400495647', turma, 'QUINTA TURMA'). tem('202400495647', relator, 'MESSOD AZULAY'). tem('202400495647', classe, 'AREsp'). tem('202400495647', objeto, 'p4').
+resultado_real('202400495647', perde).
 tem('202400768524', turma, 'QUINTA TURMA'). tem('202400768524', relator, 'MESSOD AZULAY'). tem('202400768524', classe, 'AREsp'). tem('202400768524', objeto, 'p4').
 resultado_real('202400768524', perde).
+tem('202400795784', turma, 'QUINTA TURMA'). tem('202400795784', relator, 'MESSOD AZULAY'). tem('202400795784', classe, 'AREsp'). tem('202400795784', objeto, 'p4').
+resultado_real('202400795784', perde).
+tem('202401024725', turma, 'QUINTA TURMA'). tem('202401024725', relator, 'MESSOD AZULAY'). tem('202401024725', classe, 'AREsp'). tem('202401024725', objeto, 'nulidade_busca').
+resultado_real('202401024725', perde).
+tem('202401200946', turma, 'QUINTA TURMA'). tem('202401200946', relator, 'MESSOD AZULAY'). tem('202401200946', classe, 'AREsp'). tem('202401200946', objeto, 'desclassificacao').
+resultado_real('202401200946', perde).
+tem('202401249570', turma, 'QUINTA TURMA'). tem('202401249570', relator, 'MESSOD AZULAY'). tem('202401249570', classe, 'AREsp'). tem('202401249570', objeto, 'outro').
+resultado_real('202401249570', perde).
+tem('202401570315', turma, 'QUINTA TURMA'). tem('202401570315', relator, 'MESSOD AZULAY'). tem('202401570315', classe, 'AREsp'). tem('202401570315', objeto, 'p4').
+tem('202401570315', marcador, 'faccao').
+resultado_real('202401570315', perde).
+tem('202401768138', turma, 'QUINTA TURMA'). tem('202401768138', relator, 'MESSOD AZULAY'). tem('202401768138', classe, 'AREsp'). tem('202401768138', objeto, 'p4').
+resultado_real('202401768138', perde).
+tem('202401918094', turma, 'QUINTA TURMA'). tem('202401918094', relator, 'MESSOD AZULAY'). tem('202401918094', classe, 'AREsp'). tem('202401918094', objeto, 'dosimetria').
+tem('202401918094', marcador, 'faccao').
+resultado_real('202401918094', perde).
+tem('202401945179', turma, 'QUINTA TURMA'). tem('202401945179', relator, 'MESSOD AZULAY'). tem('202401945179', classe, 'AREsp'). tem('202401945179', objeto, 'dosimetria').
+resultado_real('202401945179', perde).
+tem('202401973667', turma, 'QUINTA TURMA'). tem('202401973667', relator, 'MESSOD AZULAY'). tem('202401973667', classe, 'AREsp'). tem('202401973667', objeto, 'p4').
+resultado_real('202401973667', perde).
+tem('202401990958', turma, 'QUINTA TURMA'). tem('202401990958', relator, 'MESSOD AZULAY'). tem('202401990958', classe, 'AREsp'). tem('202401990958', objeto, 'dosimetria').
+tem('202401990958', marcador, 'faccao').
+resultado_real('202401990958', perde).
+tem('202402031088', turma, 'QUINTA TURMA'). tem('202402031088', relator, 'MESSOD AZULAY'). tem('202402031088', classe, 'AREsp'). tem('202402031088', objeto, 'p4').
+resultado_real('202402031088', perde).
+tem('202402049740', turma, 'QUINTA TURMA'). tem('202402049740', relator, 'MESSOD AZULAY'). tem('202402049740', classe, 'AREsp'). tem('202402049740', objeto, 'nulidade_busca').
+tem('202402049740', marcador, 'local_conhecido').
+resultado_real('202402049740', perde).
+tem('202402096866', turma, 'QUINTA TURMA'). tem('202402096866', relator, 'MESSOD AZULAY'). tem('202402096866', classe, 'AREsp'). tem('202402096866', objeto, 'nulidade_busca').
+resultado_real('202402096866', perde).
+tem('202402211947', turma, 'QUINTA TURMA'). tem('202402211947', relator, 'MESSOD AZULAY'). tem('202402211947', classe, 'AREsp'). tem('202402211947', objeto, 'p4').
+tem('202402211947', marcador, 'atos_infracionais').
+resultado_real('202402211947', perde).
+tem('202402303954', turma, 'QUINTA TURMA'). tem('202402303954', relator, 'MESSOD AZULAY'). tem('202402303954', classe, 'AREsp'). tem('202402303954', objeto, 'p4').
+resultado_real('202402303954', perde).
 tem('202402437817', turma, 'QUINTA TURMA'). tem('202402437817', relator, 'MESSOD AZULAY'). tem('202402437817', classe, 'AREsp'). tem('202402437817', objeto, 'dosimetria').
 resultado_real('202402437817', perde).
+tem('202402472864', turma, 'QUINTA TURMA'). tem('202402472864', relator, 'MESSOD AZULAY'). tem('202402472864', classe, 'AREsp'). tem('202402472864', objeto, 'outro').
+resultado_real('202402472864', perde).
+tem('202402517427', turma, 'QUINTA TURMA'). tem('202402517427', relator, 'MESSOD AZULAY'). tem('202402517427', classe, 'AREsp'). tem('202402517427', objeto, 'p4').
+resultado_real('202402517427', perde).
+tem('202402613090', turma, 'QUINTA TURMA'). tem('202402613090', relator, 'MESSOD AZULAY'). tem('202402613090', classe, 'AREsp'). tem('202402613090', objeto, 'nulidade_busca').
+resultado_real('202402613090', perde).
+tem('202402727720', turma, 'QUINTA TURMA'). tem('202402727720', relator, 'MESSOD AZULAY'). tem('202402727720', classe, 'AREsp'). tem('202402727720', objeto, 'p4').
+tem('202402727720', marcador, 'denuncia_anonima').
+resultado_real('202402727720', perde).
+tem('202402792274', turma, 'QUINTA TURMA'). tem('202402792274', relator, 'MESSOD AZULAY'). tem('202402792274', classe, 'AREsp'). tem('202402792274', objeto, 'outro').
+resultado_real('202402792274', perde).
+tem('202403055916', turma, 'QUINTA TURMA'). tem('202403055916', relator, 'MESSOD AZULAY'). tem('202403055916', classe, 'AREsp'). tem('202403055916', objeto, 'nulidade_busca').
+tem('202403055916', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403055916', perde).
+tem('202403159120', turma, 'QUINTA TURMA'). tem('202403159120', relator, 'MESSOD AZULAY'). tem('202403159120', classe, 'AREsp'). tem('202403159120', objeto, 'desclassificacao').
+resultado_real('202403159120', perde).
+tem('202403180367', turma, 'QUINTA TURMA'). tem('202403180367', relator, 'MESSOD AZULAY'). tem('202403180367', classe, 'AREsp'). tem('202403180367', objeto, 'outro').
+resultado_real('202403180367', perde).
+tem('202403220803', turma, 'QUINTA TURMA'). tem('202403220803', relator, 'MESSOD AZULAY'). tem('202403220803', classe, 'AREsp'). tem('202403220803', objeto, 'nulidade_busca').
+tem('202403220803', marcador, 'denuncia_anonima').
+resultado_real('202403220803', perde).
+tem('202403258104', turma, 'QUINTA TURMA'). tem('202403258104', relator, 'MESSOD AZULAY'). tem('202403258104', classe, 'AREsp'). tem('202403258104', objeto, 'outro').
+resultado_real('202403258104', perde).
+tem('202403280326', turma, 'QUINTA TURMA'). tem('202403280326', relator, 'MESSOD AZULAY'). tem('202403280326', classe, 'AREsp'). tem('202403280326', objeto, 'nulidade_busca').
+tem('202403280326', marcador, 'denuncia_anonima').
+resultado_real('202403280326', perde).
+tem('202403434325', turma, 'QUINTA TURMA'). tem('202403434325', relator, 'MESSOD AZULAY'). tem('202403434325', classe, 'AREsp'). tem('202403434325', objeto, 'dosimetria').
+resultado_real('202403434325', perde).
+tem('202403484422', turma, 'QUINTA TURMA'). tem('202403484422', relator, 'MESSOD AZULAY'). tem('202403484422', classe, 'AREsp'). tem('202403484422', objeto, 'p4').
+resultado_real('202403484422', perde).
+tem('202403525989', turma, 'QUINTA TURMA'). tem('202403525989', relator, 'MESSOD AZULAY'). tem('202403525989', classe, 'AREsp'). tem('202403525989', objeto, 'p4').
+tem('202403525989', marcador, 'faccao').
+resultado_real('202403525989', perde).
+tem('202403684842', turma, 'QUINTA TURMA'). tem('202403684842', relator, 'MESSOD AZULAY'). tem('202403684842', classe, 'AREsp'). tem('202403684842', objeto, 'nulidade_busca').
+resultado_real('202403684842', perde).
 tem('202403685282', turma, 'QUINTA TURMA'). tem('202403685282', relator, 'MESSOD AZULAY'). tem('202403685282', classe, 'AREsp'). tem('202403685282', objeto, 'dosimetria').
 resultado_real('202403685282', perde).
+tem('202403694600', turma, 'QUINTA TURMA'). tem('202403694600', relator, 'MESSOD AZULAY'). tem('202403694600', classe, 'AREsp'). tem('202403694600', objeto, 'nulidade_busca').
+tem('202403694600', marcador, 'nervosismo').
+resultado_real('202403694600', perde).
+tem('202403717211', turma, 'QUINTA TURMA'). tem('202403717211', relator, 'MESSOD AZULAY'). tem('202403717211', classe, 'AREsp'). tem('202403717211', objeto, 'nulidade_busca').
+tem('202403717211', marcador, 'nervosismo').
+resultado_real('202403717211', perde).
+tem('202403747553', turma, 'QUINTA TURMA'). tem('202403747553', relator, 'MESSOD AZULAY'). tem('202403747553', classe, 'AREsp'). tem('202403747553', objeto, 'dosimetria').
+tem('202403747553', marcador, 'conhecido_policia').
+resultado_real('202403747553', perde).
+tem('202403909476', turma, 'QUINTA TURMA'). tem('202403909476', relator, 'MESSOD AZULAY'). tem('202403909476', classe, 'AREsp'). tem('202403909476', objeto, 'desclassificacao').
+tem('202403909476', marcador, 'atos_infracionais').
+resultado_real('202403909476', perde).
+tem('202403914953', turma, 'QUINTA TURMA'). tem('202403914953', relator, 'MESSOD AZULAY'). tem('202403914953', classe, 'AREsp'). tem('202403914953', objeto, 'p4').
+resultado_real('202403914953', perde).
+tem('202403950329', turma, 'QUINTA TURMA'). tem('202403950329', relator, 'MESSOD AZULAY'). tem('202403950329', classe, 'AREsp'). tem('202403950329', objeto, 'nulidade_busca').
+resultado_real('202403950329', perde).
+tem('202404081428', turma, 'QUINTA TURMA'). tem('202404081428', relator, 'MESSOD AZULAY'). tem('202404081428', classe, 'AREsp'). tem('202404081428', objeto, 'desclassificacao').
+resultado_real('202404081428', perde).
+tem('202404082665', turma, 'QUINTA TURMA'). tem('202404082665', relator, 'MESSOD AZULAY'). tem('202404082665', classe, 'AREsp'). tem('202404082665', objeto, 'p4').
+tem('202404082665', marcador, 'local_conhecido').
+tem('202404082665', marcador, 'faccao').
+resultado_real('202404082665', perde).
+tem('202404316476', turma, 'QUINTA TURMA'). tem('202404316476', relator, 'MESSOD AZULAY'). tem('202404316476', classe, 'AREsp'). tem('202404316476', objeto, 'desclassificacao').
+resultado_real('202404316476', perde).
+tem('202404366020', turma, 'QUINTA TURMA'). tem('202404366020', relator, 'MESSOD AZULAY'). tem('202404366020', classe, 'AREsp'). tem('202404366020', objeto, 'p4').
+resultado_real('202404366020', perde).
+tem('202404575069', turma, 'QUINTA TURMA'). tem('202404575069', relator, 'MESSOD AZULAY'). tem('202404575069', classe, 'AREsp'). tem('202404575069', objeto, 'desclassificacao').
+resultado_real('202404575069', perde).
+tem('202404821704', turma, 'QUINTA TURMA'). tem('202404821704', relator, 'MESSOD AZULAY'). tem('202404821704', classe, 'AREsp'). tem('202404821704', objeto, 'nulidade_busca').
+resultado_real('202404821704', perde).
+tem('202500032410', turma, 'QUINTA TURMA'). tem('202500032410', relator, 'MESSOD AZULAY'). tem('202500032410', classe, 'AREsp'). tem('202500032410', objeto, 'p4').
+resultado_real('202500032410', perde).
+tem('202500102628', turma, 'QUINTA TURMA'). tem('202500102628', relator, 'MESSOD AZULAY'). tem('202500102628', classe, 'AREsp'). tem('202500102628', objeto, 'nulidade_busca').
+tem('202500102628', marcador, 'local_conhecido').
+resultado_real('202500102628', perde).
+tem('202500112500', turma, 'QUINTA TURMA'). tem('202500112500', relator, 'MESSOD AZULAY'). tem('202500112500', classe, 'AREsp'). tem('202500112500', objeto, 'dosimetria').
+resultado_real('202500112500', perde).
+tem('202500163162', turma, 'QUINTA TURMA'). tem('202500163162', relator, 'MESSOD AZULAY'). tem('202500163162', classe, 'AREsp'). tem('202500163162', objeto, 'nulidade_busca').
+resultado_real('202500163162', perde).
+tem('202500185126', turma, 'QUINTA TURMA'). tem('202500185126', relator, 'MESSOD AZULAY'). tem('202500185126', classe, 'AREsp'). tem('202500185126', objeto, 'nulidade_busca').
+tem('202500185126', marcador, 'nervosismo').
+tem('202500185126', marcador, 'denuncia_anonima').
+resultado_real('202500185126', perde).
+tem('202500271906', turma, 'QUINTA TURMA'). tem('202500271906', relator, 'MESSOD AZULAY'). tem('202500271906', classe, 'AREsp'). tem('202500271906', objeto, 'p4').
+tem('202500271906', marcador, 'faccao').
+resultado_real('202500271906', perde).
+tem('202500376572', turma, 'QUINTA TURMA'). tem('202500376572', relator, 'MESSOD AZULAY'). tem('202500376572', classe, 'AREsp'). tem('202500376572', objeto, 'p4').
+resultado_real('202500376572', perde).
+tem('202500438402', turma, 'QUINTA TURMA'). tem('202500438402', relator, 'MESSOD AZULAY'). tem('202500438402', classe, 'AREsp'). tem('202500438402', objeto, 'autoria').
+resultado_real('202500438402', perde).
 tem('202500456865', turma, 'QUINTA TURMA'). tem('202500456865', relator, 'MESSOD AZULAY'). tem('202500456865', classe, 'AREsp'). tem('202500456865', objeto, 'desclassificacao').
 resultado_real('202500456865', perde).
+tem('202500549477', turma, 'QUINTA TURMA'). tem('202500549477', relator, 'MESSOD AZULAY'). tem('202500549477', classe, 'AREsp'). tem('202500549477', objeto, 'p4').
+resultado_real('202500549477', perde).
+tem('202500843821', turma, 'QUINTA TURMA'). tem('202500843821', relator, 'MESSOD AZULAY'). tem('202500843821', classe, 'AREsp'). tem('202500843821', objeto, 'p4').
+resultado_real('202500843821', perde).
+tem('202501023453', turma, 'QUINTA TURMA'). tem('202501023453', relator, 'MESSOD AZULAY'). tem('202501023453', classe, 'AREsp'). tem('202501023453', objeto, 'p4').
+resultado_real('202501023453', perde).
+tem('202501085732', turma, 'QUINTA TURMA'). tem('202501085732', relator, 'MESSOD AZULAY'). tem('202501085732', classe, 'AREsp'). tem('202501085732', objeto, 'p4').
+resultado_real('202501085732', perde).
 tem('202501152024', turma, 'QUINTA TURMA'). tem('202501152024', relator, 'MESSOD AZULAY'). tem('202501152024', classe, 'AREsp'). tem('202501152024', objeto, 'nulidade_busca').
 tem('202501152024', marcador, 'denuncia_anonima').
 resultado_real('202501152024', perde).
+tem('202501161832', turma, 'QUINTA TURMA'). tem('202501161832', relator, 'MESSOD AZULAY'). tem('202501161832', classe, 'AREsp'). tem('202501161832', objeto, 'outro').
+resultado_real('202501161832', perde).
+tem('202501184754', turma, 'QUINTA TURMA'). tem('202501184754', relator, 'MESSOD AZULAY'). tem('202501184754', classe, 'AREsp'). tem('202501184754', objeto, 'outro').
+resultado_real('202501184754', perde).
 tem('202501185020', turma, 'QUINTA TURMA'). tem('202501185020', relator, 'MESSOD AZULAY'). tem('202501185020', classe, 'AREsp'). tem('202501185020', objeto, 'outro').
 resultado_real('202501185020', perde).
+tem('202501201948', turma, 'QUINTA TURMA'). tem('202501201948', relator, 'MESSOD AZULAY'). tem('202501201948', classe, 'AREsp'). tem('202501201948', objeto, 'dosimetria').
+resultado_real('202501201948', perde).
+tem('202501266830', turma, 'QUINTA TURMA'). tem('202501266830', relator, 'MESSOD AZULAY'). tem('202501266830', classe, 'AREsp'). tem('202501266830', objeto, 'p4').
+resultado_real('202501266830', perde).
+tem('202501497185', turma, 'QUINTA TURMA'). tem('202501497185', relator, 'MESSOD AZULAY'). tem('202501497185', classe, 'AREsp'). tem('202501497185', objeto, 'outro').
+resultado_real('202501497185', perde).
 tem('202501537075', turma, 'QUINTA TURMA'). tem('202501537075', relator, 'MESSOD AZULAY'). tem('202501537075', classe, 'AREsp'). tem('202501537075', objeto, 'outro').
 resultado_real('202501537075', perde).
 tem('202501502060', turma, 'QUINTA TURMA'). tem('202501502060', relator, 'MESSOD AZULAY'). tem('202501502060', classe, 'AREsp'). tem('202501502060', objeto, 'p4').
 resultado_real('202501502060', perde).
+tem('202501800431', turma, 'QUINTA TURMA'). tem('202501800431', relator, 'MESSOD AZULAY'). tem('202501800431', classe, 'AREsp'). tem('202501800431', objeto, 'desclassificacao').
+resultado_real('202501800431', perde).
+tem('202501810565', turma, 'QUINTA TURMA'). tem('202501810565', relator, 'MESSOD AZULAY'). tem('202501810565', classe, 'AREsp'). tem('202501810565', objeto, 'nulidade_busca').
+tem('202501810565', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501810565', perde).
 tem('202501883939', turma, 'QUINTA TURMA'). tem('202501883939', relator, 'MESSOD AZULAY'). tem('202501883939', classe, 'AREsp'). tem('202501883939', objeto, 'p4').
 tem('202501883939', marcador, 'faccao').
 resultado_real('202501883939', perde).
+tem('202501867088', turma, 'QUINTA TURMA'). tem('202501867088', relator, 'MESSOD AZULAY'). tem('202501867088', classe, 'AREsp'). tem('202501867088', objeto, 'p4').
+tem('202501867088', marcador, 'faccao').
+resultado_real('202501867088', perde).
 tem('202501885567', turma, 'QUINTA TURMA'). tem('202501885567', relator, 'MESSOD AZULAY'). tem('202501885567', classe, 'AREsp'). tem('202501885567', objeto, 'nulidade_busca').
 tem('202501885567', marcador, 'fuga_mudanca_direcao').
 resultado_real('202501885567', perde).
@@ -769,17 +4093,27 @@ tem('202501881261', marcador, 'faccao').
 resultado_real('202501881261', perde).
 tem('202501999627', turma, 'QUINTA TURMA'). tem('202501999627', relator, 'MESSOD AZULAY'). tem('202501999627', classe, 'AREsp'). tem('202501999627', objeto, 'dosimetria').
 resultado_real('202501999627', perde).
+tem('202502069231', turma, 'QUINTA TURMA'). tem('202502069231', relator, 'MESSOD AZULAY'). tem('202502069231', classe, 'AREsp'). tem('202502069231', objeto, 'p4').
+resultado_real('202502069231', perde).
 tem('202502185038', turma, 'QUINTA TURMA'). tem('202502185038', relator, 'MESSOD AZULAY'). tem('202502185038', classe, 'AREsp'). tem('202502185038', objeto, 'p4').
 tem('202502185038', marcador, 'faccao').
 resultado_real('202502185038', perde).
+tem('202502210663', turma, 'QUINTA TURMA'). tem('202502210663', relator, 'MESSOD AZULAY'). tem('202502210663', classe, 'AREsp'). tem('202502210663', objeto, 'desclassificacao').
+resultado_real('202502210663', perde).
 tem('202502288493', turma, 'QUINTA TURMA'). tem('202502288493', relator, 'MESSOD AZULAY'). tem('202502288493', classe, 'AREsp'). tem('202502288493', objeto, 'dosimetria').
 tem('202502288493', marcador, 'faccao').
 resultado_real('202502288493', perde).
 tem('202502500729', turma, 'QUINTA TURMA'). tem('202502500729', relator, 'MESSOD AZULAY'). tem('202502500729', classe, 'AREsp'). tem('202502500729', objeto, 'autoria').
 resultado_real('202502500729', perde).
+tem('202502497596', turma, 'QUINTA TURMA'). tem('202502497596', relator, 'MESSOD AZULAY'). tem('202502497596', classe, 'AREsp'). tem('202502497596', objeto, 'p4').
+resultado_real('202502497596', perde).
+tem('202502531285', turma, 'QUINTA TURMA'). tem('202502531285', relator, 'MESSOD AZULAY'). tem('202502531285', classe, 'AREsp'). tem('202502531285', objeto, 'desclassificacao').
+resultado_real('202502531285', perde).
 tem('202502597290', turma, 'QUINTA TURMA'). tem('202502597290', relator, 'MESSOD AZULAY'). tem('202502597290', classe, 'AREsp'). tem('202502597290', objeto, 'nulidade_busca').
 tem('202502597290', marcador, 'fuga_mudanca_direcao').
 resultado_real('202502597290', perde).
+tem('202502635247', turma, 'QUINTA TURMA'). tem('202502635247', relator, 'MESSOD AZULAY'). tem('202502635247', classe, 'AREsp'). tem('202502635247', objeto, 'desclassificacao').
+resultado_real('202502635247', perde).
 tem('202502818489', turma, 'QUINTA TURMA'). tem('202502818489', relator, 'MESSOD AZULAY'). tem('202502818489', classe, 'AREsp'). tem('202502818489', objeto, 'nulidade_busca').
 tem('202502818489', marcador, 'fuga_mudanca_direcao').
 resultado_real('202502818489', perde).
@@ -949,11 +4283,79 @@ tem('202601713592', turma, 'QUINTA TURMA'). tem('202601713592', relator, 'MESSOD
 resultado_real('202601713592', perde).
 tem('202602033889', turma, 'QUINTA TURMA'). tem('202602033889', relator, 'MESSOD AZULAY'). tem('202602033889', classe, 'AREsp'). tem('202602033889', objeto, 'desclassificacao').
 resultado_real('202602033889', perde).
+tem('202501564590', turma, 'QUINTA TURMA'). tem('202501564590', relator, 'MESSOD AZULAY'). tem('202501564590', classe, 'HC'). tem('202501564590', objeto, 'outro').
+resultado_real('202501564590', perde).
+tem('202501597257', turma, 'QUINTA TURMA'). tem('202501597257', relator, 'MESSOD AZULAY'). tem('202501597257', classe, 'HC'). tem('202501597257', objeto, 'nulidade_busca').
+resultado_real('202501597257', perde).
+tem('202501597459', turma, 'QUINTA TURMA'). tem('202501597459', relator, 'MESSOD AZULAY'). tem('202501597459', classe, 'HC'). tem('202501597459', objeto, 'p4').
+resultado_real('202501597459', perde).
+tem('202501693820', turma, 'QUINTA TURMA'). tem('202501693820', relator, 'MESSOD AZULAY'). tem('202501693820', classe, 'HC'). tem('202501693820', objeto, 'outro').
+resultado_real('202501693820', perde).
+tem('202501728637', turma, 'QUINTA TURMA'). tem('202501728637', relator, 'MESSOD AZULAY'). tem('202501728637', classe, 'HC'). tem('202501728637', objeto, 'p4').
+tem('202501728637', marcador, 'atos_infracionais').
+resultado_real('202501728637', perde).
+tem('202501756405', turma, 'QUINTA TURMA'). tem('202501756405', relator, 'MESSOD AZULAY'). tem('202501756405', classe, 'HC'). tem('202501756405', objeto, 'p4').
+tem('202501756405', marcador, 'faccao').
+resultado_real('202501756405', perde).
+tem('202501823822', turma, 'QUINTA TURMA'). tem('202501823822', relator, 'MESSOD AZULAY'). tem('202501823822', classe, 'HC'). tem('202501823822', objeto, 'p4').
+resultado_real('202501823822', perde).
+tem('202501899592', turma, 'QUINTA TURMA'). tem('202501899592', relator, 'MESSOD AZULAY'). tem('202501899592', classe, 'HC'). tem('202501899592', objeto, 'dosimetria').
+resultado_real('202501899592', perde).
+tem('202501943099', turma, 'QUINTA TURMA'). tem('202501943099', relator, 'MESSOD AZULAY'). tem('202501943099', classe, 'HC'). tem('202501943099', objeto, 'p4').
+tem('202501943099', marcador, 'faccao').
+resultado_real('202501943099', perde).
+tem('202501949520', turma, 'QUINTA TURMA'). tem('202501949520', relator, 'MESSOD AZULAY'). tem('202501949520', classe, 'HC'). tem('202501949520', objeto, 'nulidade_busca').
+resultado_real('202501949520', perde).
+tem('202501960190', turma, 'QUINTA TURMA'). tem('202501960190', relator, 'MESSOD AZULAY'). tem('202501960190', classe, 'HC'). tem('202501960190', objeto, 'dosimetria').
+resultado_real('202501960190', perde).
+tem('202501989618', turma, 'QUINTA TURMA'). tem('202501989618', relator, 'MESSOD AZULAY'). tem('202501989618', classe, 'HC'). tem('202501989618', objeto, 'p4').
+resultado_real('202501989618', perde).
+tem('202501989643', turma, 'QUINTA TURMA'). tem('202501989643', relator, 'MESSOD AZULAY'). tem('202501989643', classe, 'HC'). tem('202501989643', objeto, 'desclassificacao').
+tem('202501989643', marcador, 'denuncia_anonima').
+resultado_real('202501989643', perde).
+tem('202502008366', turma, 'QUINTA TURMA'). tem('202502008366', relator, 'MESSOD AZULAY'). tem('202502008366', classe, 'HC'). tem('202502008366', objeto, 'p4').
+tem('202502008366', marcador, 'faccao').
+resultado_real('202502008366', perde).
+tem('202502054079', turma, 'QUINTA TURMA'). tem('202502054079', relator, 'MESSOD AZULAY'). tem('202502054079', classe, 'HC'). tem('202502054079', objeto, 'nulidade_busca').
+resultado_real('202502054079', perde).
+tem('202502139628', turma, 'QUINTA TURMA'). tem('202502139628', relator, 'MESSOD AZULAY'). tem('202502139628', classe, 'HC'). tem('202502139628', objeto, 'desclassificacao').
+resultado_real('202502139628', perde).
+tem('202502187046', turma, 'QUINTA TURMA'). tem('202502187046', relator, 'MESSOD AZULAY'). tem('202502187046', classe, 'HC'). tem('202502187046', objeto, 'desclassificacao').
+resultado_real('202502187046', perde).
+tem('202502224246', turma, 'QUINTA TURMA'). tem('202502224246', relator, 'MESSOD AZULAY'). tem('202502224246', classe, 'HC'). tem('202502224246', objeto, 'p4').
+resultado_real('202502224246', perde).
+tem('202502267174', turma, 'QUINTA TURMA'). tem('202502267174', relator, 'MESSOD AZULAY'). tem('202502267174', classe, 'HC'). tem('202502267174', objeto, 'p4').
+resultado_real('202502267174', perde).
+tem('202502288064', turma, 'QUINTA TURMA'). tem('202502288064', relator, 'MESSOD AZULAY'). tem('202502288064', classe, 'HC'). tem('202502288064', objeto, 'dosimetria').
+resultado_real('202502288064', perde).
+tem('202502324594', turma, 'QUINTA TURMA'). tem('202502324594', relator, 'MESSOD AZULAY'). tem('202502324594', classe, 'HC'). tem('202502324594', objeto, 'p4').
+tem('202502324594', marcador, 'faccao').
+resultado_real('202502324594', perde).
+tem('202502357807', turma, 'QUINTA TURMA'). tem('202502357807', relator, 'MESSOD AZULAY'). tem('202502357807', classe, 'HC'). tem('202502357807', objeto, 'p4').
+resultado_real('202502357807', perde).
+tem('202502390138', turma, 'QUINTA TURMA'). tem('202502390138', relator, 'MESSOD AZULAY'). tem('202502390138', classe, 'HC'). tem('202502390138', objeto, 'desclassificacao').
+resultado_real('202502390138', perde).
+tem('202502421976', turma, 'QUINTA TURMA'). tem('202502421976', relator, 'MESSOD AZULAY'). tem('202502421976', classe, 'HC'). tem('202502421976', objeto, 'p4').
+resultado_real('202502421976', perde).
 tem('202502572726', turma, 'QUINTA TURMA'). tem('202502572726', relator, 'MESSOD AZULAY'). tem('202502572726', classe, 'HC'). tem('202502572726', objeto, 'p4').
 tem('202502572726', marcador, 'faccao').
 resultado_real('202502572726', perde).
 tem('202502599300', turma, 'QUINTA TURMA'). tem('202502599300', relator, 'MESSOD AZULAY'). tem('202502599300', classe, 'HC'). tem('202502599300', objeto, 'p4').
 resultado_real('202502599300', perde).
+tem('202502829763', turma, 'QUINTA TURMA'). tem('202502829763', relator, 'MESSOD AZULAY'). tem('202502829763', classe, 'HC'). tem('202502829763', objeto, 'dosimetria').
+resultado_real('202502829763', perde).
+tem('202502870426', turma, 'QUINTA TURMA'). tem('202502870426', relator, 'MESSOD AZULAY'). tem('202502870426', classe, 'HC'). tem('202502870426', objeto, 'p4').
+resultado_real('202502870426', perde).
+tem('202502937570', turma, 'QUINTA TURMA'). tem('202502937570', relator, 'MESSOD AZULAY'). tem('202502937570', classe, 'HC'). tem('202502937570', objeto, 'p4').
+resultado_real('202502937570', perde).
+tem('202502991716', turma, 'QUINTA TURMA'). tem('202502991716', relator, 'MESSOD AZULAY'). tem('202502991716', classe, 'HC'). tem('202502991716', objeto, 'p4').
+resultado_real('202502991716', perde).
+tem('202502992928', turma, 'QUINTA TURMA'). tem('202502992928', relator, 'MESSOD AZULAY'). tem('202502992928', classe, 'HC'). tem('202502992928', objeto, 'p4').
+resultado_real('202502992928', perde).
+tem('202503007642', turma, 'QUINTA TURMA'). tem('202503007642', relator, 'MESSOD AZULAY'). tem('202503007642', classe, 'HC'). tem('202503007642', objeto, 'dosimetria').
+resultado_real('202503007642', perde).
+tem('202503131248', turma, 'QUINTA TURMA'). tem('202503131248', relator, 'MESSOD AZULAY'). tem('202503131248', classe, 'HC'). tem('202503131248', objeto, 'dosimetria').
+resultado_real('202503131248', perde).
 tem('202503233001', turma, 'QUINTA TURMA'). tem('202503233001', relator, 'MESSOD AZULAY'). tem('202503233001', classe, 'HC'). tem('202503233001', objeto, 'desclassificacao').
 tem('202503233001', marcador, 'local_conhecido').
 tem('202503233001', marcador, 'atos_infracionais').
@@ -1225,16 +4627,412 @@ tem('202601933440', turma, 'QUINTA TURMA'). tem('202601933440', relator, 'MESSOD
 resultado_real('202601933440', perde).
 tem('202602045667', turma, 'QUINTA TURMA'). tem('202602045667', relator, 'MESSOD AZULAY'). tem('202602045667', classe, 'HC'). tem('202602045667', objeto, 'nulidade_busca').
 resultado_real('202602045667', perde).
+tem('202200366169', turma, 'QUINTA TURMA'). tem('202200366169', relator, 'MESSOD AZULAY'). tem('202200366169', classe, 'HC'). tem('202200366169', objeto, 'nulidade_busca').
+resultado_real('202200366169', perde).
 tem('202202159103', turma, 'QUINTA TURMA'). tem('202202159103', relator, 'MESSOD AZULAY'). tem('202202159103', classe, 'HC'). tem('202202159103', objeto, 'outro').
 resultado_real('202202159103', perde).
+tem('202300132695', turma, 'QUINTA TURMA'). tem('202300132695', relator, 'MESSOD AZULAY'). tem('202300132695', classe, 'HC'). tem('202300132695', objeto, 'nulidade_busca').
+resultado_real('202300132695', perde).
+tem('202300159471', turma, 'QUINTA TURMA'). tem('202300159471', relator, 'MESSOD AZULAY'). tem('202300159471', classe, 'HC'). tem('202300159471', objeto, 'dosimetria').
+resultado_real('202300159471', perde).
+tem('202300159483', turma, 'QUINTA TURMA'). tem('202300159483', relator, 'MESSOD AZULAY'). tem('202300159483', classe, 'HC'). tem('202300159483', objeto, 'p4').
+resultado_real('202300159483', perde).
+tem('202300822530', turma, 'QUINTA TURMA'). tem('202300822530', relator, 'MESSOD AZULAY'). tem('202300822530', classe, 'HC'). tem('202300822530', objeto, 'outro').
+resultado_real('202300822530', perde).
+tem('202301266970', turma, 'QUINTA TURMA'). tem('202301266970', relator, 'MESSOD AZULAY'). tem('202301266970', classe, 'HC'). tem('202301266970', objeto, 'outro').
+tem('202301266970', marcador, 'fuga_mudanca_direcao').
+resultado_real('202301266970', vence).
+tem('202301796861', turma, 'QUINTA TURMA'). tem('202301796861', relator, 'MESSOD AZULAY'). tem('202301796861', classe, 'HC'). tem('202301796861', objeto, 'nulidade_busca').
+resultado_real('202301796861', perde).
+tem('202301971061', turma, 'QUINTA TURMA'). tem('202301971061', relator, 'MESSOD AZULAY'). tem('202301971061', classe, 'HC'). tem('202301971061', objeto, 'nulidade_busca').
+resultado_real('202301971061', perde).
+tem('202302038602', turma, 'QUINTA TURMA'). tem('202302038602', relator, 'MESSOD AZULAY'). tem('202302038602', classe, 'HC'). tem('202302038602', objeto, 'dosimetria').
+resultado_real('202302038602', perde).
+tem('202302147099', turma, 'QUINTA TURMA'). tem('202302147099', relator, 'MESSOD AZULAY'). tem('202302147099', classe, 'HC'). tem('202302147099', objeto, 'nulidade_busca').
+tem('202302147099', marcador, 'denuncia_anonima').
+resultado_real('202302147099', perde).
+tem('202302610357', turma, 'QUINTA TURMA'). tem('202302610357', relator, 'MESSOD AZULAY'). tem('202302610357', classe, 'HC'). tem('202302610357', objeto, 'outro').
+resultado_real('202302610357', perde).
+tem('202302783360', turma, 'QUINTA TURMA'). tem('202302783360', relator, 'MESSOD AZULAY'). tem('202302783360', classe, 'HC'). tem('202302783360', objeto, 'outro').
+resultado_real('202302783360', perde).
+tem('202302868642', turma, 'QUINTA TURMA'). tem('202302868642', relator, 'MESSOD AZULAY'). tem('202302868642', classe, 'HC'). tem('202302868642', objeto, 'nulidade_busca').
+tem('202302868642', marcador, 'denuncia_anonima').
+resultado_real('202302868642', perde).
+tem('202302959258', turma, 'QUINTA TURMA'). tem('202302959258', relator, 'MESSOD AZULAY'). tem('202302959258', classe, 'HC'). tem('202302959258', objeto, 'autoria').
+tem('202302959258', marcador, 'atos_infracionais').
+resultado_real('202302959258', perde).
+tem('202303309397', turma, 'QUINTA TURMA'). tem('202303309397', relator, 'MESSOD AZULAY'). tem('202303309397', classe, 'HC'). tem('202303309397', objeto, 'nulidade_busca').
+tem('202303309397', marcador, 'denuncia_anonima').
+resultado_real('202303309397', perde).
+tem('202303443522', turma, 'QUINTA TURMA'). tem('202303443522', relator, 'MESSOD AZULAY'). tem('202303443522', classe, 'HC'). tem('202303443522', objeto, 'p4').
+resultado_real('202303443522', perde).
+tem('202304132798', turma, 'QUINTA TURMA'). tem('202304132798', relator, 'MESSOD AZULAY'). tem('202304132798', classe, 'HC'). tem('202304132798', objeto, 'p4').
+tem('202304132798', marcador, 'faccao').
+resultado_real('202304132798', perde).
+tem('202304149504', turma, 'QUINTA TURMA'). tem('202304149504', relator, 'MESSOD AZULAY'). tem('202304149504', classe, 'HC'). tem('202304149504', objeto, 'nulidade_busca').
+resultado_real('202304149504', perde).
+tem('202304149516', turma, 'QUINTA TURMA'). tem('202304149516', relator, 'MESSOD AZULAY'). tem('202304149516', classe, 'HC'). tem('202304149516', objeto, 'nulidade_busca').
+resultado_real('202304149516', perde).
+tem('202304271277', turma, 'QUINTA TURMA'). tem('202304271277', relator, 'MESSOD AZULAY'). tem('202304271277', classe, 'HC'). tem('202304271277', objeto, 'outro').
+resultado_real('202304271277', perde).
+tem('202304422598', turma, 'QUINTA TURMA'). tem('202304422598', relator, 'MESSOD AZULAY'). tem('202304422598', classe, 'HC'). tem('202304422598', objeto, 'nulidade_busca').
+tem('202304422598', marcador, 'local_conhecido').
+tem('202304422598', marcador, 'faccao').
+resultado_real('202304422598', perde).
+tem('202304557395', turma, 'QUINTA TURMA'). tem('202304557395', relator, 'MESSOD AZULAY'). tem('202304557395', classe, 'HC'). tem('202304557395', objeto, 'dosimetria').
+resultado_real('202304557395', perde).
+tem('202304610400', turma, 'QUINTA TURMA'). tem('202304610400', relator, 'MESSOD AZULAY'). tem('202304610400', classe, 'HC'). tem('202304610400', objeto, 'outro').
+resultado_real('202304610400', perde).
+tem('202400012840', turma, 'QUINTA TURMA'). tem('202400012840', relator, 'MESSOD AZULAY'). tem('202400012840', classe, 'HC'). tem('202400012840', objeto, 'desclassificacao').
+resultado_real('202400012840', perde).
+tem('202400021005', turma, 'QUINTA TURMA'). tem('202400021005', relator, 'MESSOD AZULAY'). tem('202400021005', classe, 'HC'). tem('202400021005', objeto, 'nulidade_busca').
+resultado_real('202400021005', perde).
+tem('202400596588', turma, 'QUINTA TURMA'). tem('202400596588', relator, 'MESSOD AZULAY'). tem('202400596588', classe, 'HC'). tem('202400596588', objeto, 'nulidade_busca').
+resultado_real('202400596588', perde).
+tem('202400832227', turma, 'QUINTA TURMA'). tem('202400832227', relator, 'MESSOD AZULAY'). tem('202400832227', classe, 'HC'). tem('202400832227', objeto, 'nulidade_busca').
+tem('202400832227', marcador, 'local_conhecido').
+tem('202400832227', marcador, 'faccao').
+tem('202400832227', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400832227', perde).
+tem('202400997317', turma, 'QUINTA TURMA'). tem('202400997317', relator, 'MESSOD AZULAY'). tem('202400997317', classe, 'HC'). tem('202400997317', objeto, 'nulidade_busca').
+tem('202400997317', marcador, 'fuga_mudanca_direcao').
+tem('202400997317', marcador, 'denuncia_anonima').
+resultado_real('202400997317', perde).
+tem('202401191639', turma, 'QUINTA TURMA'). tem('202401191639', relator, 'MESSOD AZULAY'). tem('202401191639', classe, 'HC'). tem('202401191639', objeto, 'p4').
+resultado_real('202401191639', perde).
+tem('202401295991', turma, 'QUINTA TURMA'). tem('202401295991', relator, 'MESSOD AZULAY'). tem('202401295991', classe, 'HC'). tem('202401295991', objeto, 'p4').
+resultado_real('202401295991', perde).
+tem('202401400343', turma, 'QUINTA TURMA'). tem('202401400343', relator, 'MESSOD AZULAY'). tem('202401400343', classe, 'HC'). tem('202401400343', objeto, 'p4').
+resultado_real('202401400343', perde).
+tem('202401488170', turma, 'QUINTA TURMA'). tem('202401488170', relator, 'MESSOD AZULAY'). tem('202401488170', classe, 'HC'). tem('202401488170', objeto, 'outro').
+resultado_real('202401488170', perde).
+tem('202401887938', turma, 'QUINTA TURMA'). tem('202401887938', relator, 'MESSOD AZULAY'). tem('202401887938', classe, 'HC'). tem('202401887938', objeto, 'autoria').
+resultado_real('202401887938', perde).
+tem('202402101627', turma, 'QUINTA TURMA'). tem('202402101627', relator, 'MESSOD AZULAY'). tem('202402101627', classe, 'HC'). tem('202402101627', objeto, 'dosimetria').
+resultado_real('202402101627', perde).
+tem('202402263623', turma, 'QUINTA TURMA'). tem('202402263623', relator, 'MESSOD AZULAY'). tem('202402263623', classe, 'HC'). tem('202402263623', objeto, 'dosimetria').
+resultado_real('202402263623', perde).
+tem('202402351626', turma, 'QUINTA TURMA'). tem('202402351626', relator, 'MESSOD AZULAY'). tem('202402351626', classe, 'HC'). tem('202402351626', objeto, 'nulidade_busca').
+tem('202402351626', marcador, 'denuncia_anonima').
+resultado_real('202402351626', perde).
+tem('202402367291', turma, 'QUINTA TURMA'). tem('202402367291', relator, 'MESSOD AZULAY'). tem('202402367291', classe, 'HC'). tem('202402367291', objeto, 'nulidade_busca').
+resultado_real('202402367291', perde).
+tem('202402409973', turma, 'QUINTA TURMA'). tem('202402409973', relator, 'MESSOD AZULAY'). tem('202402409973', classe, 'HC'). tem('202402409973', objeto, 'p4').
+resultado_real('202402409973', perde).
+tem('202402432877', turma, 'QUINTA TURMA'). tem('202402432877', relator, 'MESSOD AZULAY'). tem('202402432877', classe, 'HC'). tem('202402432877', objeto, 'nulidade_busca').
+resultado_real('202402432877', perde).
+tem('202402618370', turma, 'QUINTA TURMA'). tem('202402618370', relator, 'MESSOD AZULAY'). tem('202402618370', classe, 'HC'). tem('202402618370', objeto, 'nulidade_busca').
+resultado_real('202402618370', perde).
+tem('202402720670', turma, 'QUINTA TURMA'). tem('202402720670', relator, 'MESSOD AZULAY'). tem('202402720670', classe, 'HC'). tem('202402720670', objeto, 'autoria').
+resultado_real('202402720670', perde).
+tem('202402881870', turma, 'QUINTA TURMA'). tem('202402881870', relator, 'MESSOD AZULAY'). tem('202402881870', classe, 'HC'). tem('202402881870', objeto, 'desclassificacao').
+resultado_real('202402881870', perde).
+tem('202403087433', turma, 'QUINTA TURMA'). tem('202403087433', relator, 'MESSOD AZULAY'). tem('202403087433', classe, 'HC'). tem('202403087433', objeto, 'outro').
+resultado_real('202403087433', perde).
+tem('202403097670', turma, 'QUINTA TURMA'). tem('202403097670', relator, 'MESSOD AZULAY'). tem('202403097670', classe, 'HC'). tem('202403097670', objeto, 'dosimetria').
+resultado_real('202403097670', perde).
+tem('202403164215', turma, 'QUINTA TURMA'). tem('202403164215', relator, 'MESSOD AZULAY'). tem('202403164215', classe, 'HC'). tem('202403164215', objeto, 'nulidade_busca').
+resultado_real('202403164215', perde).
+tem('202403165100', turma, 'QUINTA TURMA'). tem('202403165100', relator, 'MESSOD AZULAY'). tem('202403165100', classe, 'HC'). tem('202403165100', objeto, 'p4').
+resultado_real('202403165100', perde).
+tem('202403523617', turma, 'QUINTA TURMA'). tem('202403523617', relator, 'MESSOD AZULAY'). tem('202403523617', classe, 'HC'). tem('202403523617', objeto, 'p4').
+tem('202403523617', marcador, 'faccao').
+resultado_real('202403523617', perde).
+tem('202403678723', turma, 'QUINTA TURMA'). tem('202403678723', relator, 'MESSOD AZULAY'). tem('202403678723', classe, 'HC'). tem('202403678723', objeto, 'p4').
+resultado_real('202403678723', perde).
+tem('202403704674', turma, 'QUINTA TURMA'). tem('202403704674', relator, 'MESSOD AZULAY'). tem('202403704674', classe, 'HC'). tem('202403704674', objeto, 'outro').
+resultado_real('202403704674', perde).
+tem('202403794858', turma, 'QUINTA TURMA'). tem('202403794858', relator, 'MESSOD AZULAY'). tem('202403794858', classe, 'HC'). tem('202403794858', objeto, 'p4').
+tem('202403794858', marcador, 'faccao').
+resultado_real('202403794858', perde).
+tem('202403810450', turma, 'QUINTA TURMA'). tem('202403810450', relator, 'MESSOD AZULAY'). tem('202403810450', classe, 'HC'). tem('202403810450', objeto, 'p4').
+resultado_real('202403810450', perde).
+tem('202403814910', turma, 'QUINTA TURMA'). tem('202403814910', relator, 'MESSOD AZULAY'). tem('202403814910', classe, 'HC'). tem('202403814910', objeto, 'p4').
+resultado_real('202403814910', perde).
+tem('202403823172', turma, 'QUINTA TURMA'). tem('202403823172', relator, 'MESSOD AZULAY'). tem('202403823172', classe, 'HC'). tem('202403823172', objeto, 'nulidade_busca').
+tem('202403823172', marcador, 'denuncia_anonima').
+resultado_real('202403823172', perde).
+tem('202403838853', turma, 'QUINTA TURMA'). tem('202403838853', relator, 'MESSOD AZULAY'). tem('202403838853', classe, 'HC'). tem('202403838853', objeto, 'dosimetria').
+resultado_real('202403838853', perde).
+tem('202404002882', turma, 'QUINTA TURMA'). tem('202404002882', relator, 'MESSOD AZULAY'). tem('202404002882', classe, 'HC'). tem('202404002882', objeto, 'p4').
+tem('202404002882', marcador, 'conhecido_policia').
+resultado_real('202404002882', perde).
+tem('202404060920', turma, 'QUINTA TURMA'). tem('202404060920', relator, 'MESSOD AZULAY'). tem('202404060920', classe, 'HC'). tem('202404060920', objeto, 'p4').
+resultado_real('202404060920', perde).
+tem('202404084434', turma, 'QUINTA TURMA'). tem('202404084434', relator, 'MESSOD AZULAY'). tem('202404084434', classe, 'HC'). tem('202404084434', objeto, 'p4').
+resultado_real('202404084434', perde).
+tem('202404087832', turma, 'QUINTA TURMA'). tem('202404087832', relator, 'MESSOD AZULAY'). tem('202404087832', classe, 'HC'). tem('202404087832', objeto, 'p4').
+resultado_real('202404087832', perde).
+tem('202404112089', turma, 'QUINTA TURMA'). tem('202404112089', relator, 'MESSOD AZULAY'). tem('202404112089', classe, 'HC'). tem('202404112089', objeto, 'dosimetria').
+resultado_real('202404112089', perde).
+tem('202404168490', turma, 'QUINTA TURMA'). tem('202404168490', relator, 'MESSOD AZULAY'). tem('202404168490', classe, 'HC'). tem('202404168490', objeto, 'outro').
+tem('202404168490', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404168490', perde).
+tem('202404172805', turma, 'QUINTA TURMA'). tem('202404172805', relator, 'MESSOD AZULAY'). tem('202404172805', classe, 'HC'). tem('202404172805', objeto, 'p4').
+resultado_real('202404172805', perde).
+tem('202404182927', turma, 'QUINTA TURMA'). tem('202404182927', relator, 'MESSOD AZULAY'). tem('202404182927', classe, 'HC'). tem('202404182927', objeto, 'outro').
+resultado_real('202404182927', perde).
+tem('202404194172', turma, 'QUINTA TURMA'). tem('202404194172', relator, 'MESSOD AZULAY'). tem('202404194172', classe, 'HC'). tem('202404194172', objeto, 'nulidade_busca').
+resultado_real('202404194172', perde).
+tem('202404204691', turma, 'QUINTA TURMA'). tem('202404204691', relator, 'MESSOD AZULAY'). tem('202404204691', classe, 'HC'). tem('202404204691', objeto, 'p4').
+resultado_real('202404204691', perde).
+tem('202404225709', turma, 'QUINTA TURMA'). tem('202404225709', relator, 'MESSOD AZULAY'). tem('202404225709', classe, 'HC'). tem('202404225709', objeto, 'desclassificacao').
+resultado_real('202404225709', perde).
+tem('202404386922', turma, 'QUINTA TURMA'). tem('202404386922', relator, 'MESSOD AZULAY'). tem('202404386922', classe, 'HC'). tem('202404386922', objeto, 'p4').
+resultado_real('202404386922', perde).
+tem('202404389192', turma, 'QUINTA TURMA'). tem('202404389192', relator, 'MESSOD AZULAY'). tem('202404389192', classe, 'HC'). tem('202404389192', objeto, 'nulidade_busca').
+resultado_real('202404389192', perde).
+tem('202404399418', turma, 'QUINTA TURMA'). tem('202404399418', relator, 'MESSOD AZULAY'). tem('202404399418', classe, 'HC'). tem('202404399418', objeto, 'dosimetria').
+resultado_real('202404399418', perde).
+tem('202404417421', turma, 'QUINTA TURMA'). tem('202404417421', relator, 'MESSOD AZULAY'). tem('202404417421', classe, 'HC'). tem('202404417421', objeto, 'p4').
+resultado_real('202404417421', perde).
+tem('202404436416', turma, 'QUINTA TURMA'). tem('202404436416', relator, 'MESSOD AZULAY'). tem('202404436416', classe, 'HC'). tem('202404436416', objeto, 'outro').
+resultado_real('202404436416', perde).
+tem('202404461126', turma, 'QUINTA TURMA'). tem('202404461126', relator, 'MESSOD AZULAY'). tem('202404461126', classe, 'HC'). tem('202404461126', objeto, 'desclassificacao').
+tem('202404461126', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404461126', perde).
+tem('202404483608', turma, 'QUINTA TURMA'). tem('202404483608', relator, 'MESSOD AZULAY'). tem('202404483608', classe, 'HC'). tem('202404483608', objeto, 'dosimetria').
+resultado_real('202404483608', perde).
+tem('202404657702', turma, 'QUINTA TURMA'). tem('202404657702', relator, 'MESSOD AZULAY'). tem('202404657702', classe, 'HC'). tem('202404657702', objeto, 'dosimetria').
+tem('202404657702', marcador, 'faccao').
+resultado_real('202404657702', perde).
+tem('202404680376', turma, 'QUINTA TURMA'). tem('202404680376', relator, 'MESSOD AZULAY'). tem('202404680376', classe, 'HC'). tem('202404680376', objeto, 'p4').
+resultado_real('202404680376', perde).
+tem('202404700034', turma, 'QUINTA TURMA'). tem('202404700034', relator, 'MESSOD AZULAY'). tem('202404700034', classe, 'HC'). tem('202404700034', objeto, 'p4').
+resultado_real('202404700034', perde).
+tem('202404761430', turma, 'QUINTA TURMA'). tem('202404761430', relator, 'MESSOD AZULAY'). tem('202404761430', classe, 'HC'). tem('202404761430', objeto, 'p4').
+tem('202404761430', marcador, 'faccao').
+resultado_real('202404761430', perde).
+tem('202404869973', turma, 'QUINTA TURMA'). tem('202404869973', relator, 'MESSOD AZULAY'). tem('202404869973', classe, 'HC'). tem('202404869973', objeto, 'p4').
+tem('202404869973', marcador, 'faccao').
+resultado_real('202404869973', perde).
+tem('202404893762', turma, 'QUINTA TURMA'). tem('202404893762', relator, 'MESSOD AZULAY'). tem('202404893762', classe, 'HC'). tem('202404893762', objeto, 'p4').
+resultado_real('202404893762', perde).
+tem('202404894800', turma, 'QUINTA TURMA'). tem('202404894800', relator, 'MESSOD AZULAY'). tem('202404894800', classe, 'HC'). tem('202404894800', objeto, 'nulidade_busca').
+tem('202404894800', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404894800', perde).
+tem('202500002610', turma, 'QUINTA TURMA'). tem('202500002610', relator, 'MESSOD AZULAY'). tem('202500002610', classe, 'HC'). tem('202500002610', objeto, 'desclassificacao').
+resultado_real('202500002610', perde).
+tem('202500028585', turma, 'QUINTA TURMA'). tem('202500028585', relator, 'MESSOD AZULAY'). tem('202500028585', classe, 'HC'). tem('202500028585', objeto, 'dosimetria').
+resultado_real('202500028585', perde).
+tem('202500081936', turma, 'QUINTA TURMA'). tem('202500081936', relator, 'MESSOD AZULAY'). tem('202500081936', classe, 'HC'). tem('202500081936', objeto, 'p4').
+resultado_real('202500081936', perde).
+tem('202500091213', turma, 'QUINTA TURMA'). tem('202500091213', relator, 'MESSOD AZULAY'). tem('202500091213', classe, 'HC'). tem('202500091213', objeto, 'p4').
+resultado_real('202500091213', perde).
+tem('202500099863', turma, 'QUINTA TURMA'). tem('202500099863', relator, 'MESSOD AZULAY'). tem('202500099863', classe, 'HC'). tem('202500099863', objeto, 'p4').
+tem('202500099863', marcador, 'faccao').
+resultado_real('202500099863', perde).
+tem('202500127154', turma, 'QUINTA TURMA'). tem('202500127154', relator, 'MESSOD AZULAY'). tem('202500127154', classe, 'HC'). tem('202500127154', objeto, 'desclassificacao').
+resultado_real('202500127154', perde).
+tem('202500144030', turma, 'QUINTA TURMA'). tem('202500144030', relator, 'MESSOD AZULAY'). tem('202500144030', classe, 'HC'). tem('202500144030', objeto, 'nulidade_busca').
+resultado_real('202500144030', perde).
+tem('202500246133', turma, 'QUINTA TURMA'). tem('202500246133', relator, 'MESSOD AZULAY'). tem('202500246133', classe, 'HC'). tem('202500246133', objeto, 'desclassificacao').
+resultado_real('202500246133', perde).
+tem('202500270375', turma, 'QUINTA TURMA'). tem('202500270375', relator, 'MESSOD AZULAY'). tem('202500270375', classe, 'HC'). tem('202500270375', objeto, 'p4').
+resultado_real('202500270375', perde).
+tem('202500288710', turma, 'QUINTA TURMA'). tem('202500288710', relator, 'MESSOD AZULAY'). tem('202500288710', classe, 'HC'). tem('202500288710', objeto, 'p4').
+resultado_real('202500288710', perde).
+tem('202500298780', turma, 'QUINTA TURMA'). tem('202500298780', relator, 'MESSOD AZULAY'). tem('202500298780', classe, 'HC'). tem('202500298780', objeto, 'p4').
+resultado_real('202500298780', perde).
+tem('202500357552', turma, 'QUINTA TURMA'). tem('202500357552', relator, 'MESSOD AZULAY'). tem('202500357552', classe, 'HC'). tem('202500357552', objeto, 'p4').
+tem('202500357552', marcador, 'faccao').
+resultado_real('202500357552', perde).
+tem('202500399154', turma, 'QUINTA TURMA'). tem('202500399154', relator, 'MESSOD AZULAY'). tem('202500399154', classe, 'HC'). tem('202500399154', objeto, 'desclassificacao').
+resultado_real('202500399154', perde).
+tem('202500451294', turma, 'QUINTA TURMA'). tem('202500451294', relator, 'MESSOD AZULAY'). tem('202500451294', classe, 'HC'). tem('202500451294', objeto, 'nulidade_busca').
+resultado_real('202500451294', perde).
+tem('202500457495', turma, 'QUINTA TURMA'). tem('202500457495', relator, 'MESSOD AZULAY'). tem('202500457495', classe, 'HC'). tem('202500457495', objeto, 'dosimetria').
+resultado_real('202500457495', perde).
+tem('202500604473', turma, 'QUINTA TURMA'). tem('202500604473', relator, 'MESSOD AZULAY'). tem('202500604473', classe, 'HC'). tem('202500604473', objeto, 'outro').
+tem('202500604473', marcador, 'atos_infracionais').
+resultado_real('202500604473', perde).
+tem('202500603843', turma, 'QUINTA TURMA'). tem('202500603843', relator, 'MESSOD AZULAY'). tem('202500603843', classe, 'HC'). tem('202500603843', objeto, 'p4').
+tem('202500603843', marcador, 'atos_infracionais').
+resultado_real('202500603843', perde).
+tem('202500603993', turma, 'QUINTA TURMA'). tem('202500603993', relator, 'MESSOD AZULAY'). tem('202500603993', classe, 'HC'). tem('202500603993', objeto, 'nulidade_busca').
+tem('202500603993', marcador, 'faccao').
+resultado_real('202500603993', perde).
+tem('202500613031', turma, 'QUINTA TURMA'). tem('202500613031', relator, 'MESSOD AZULAY'). tem('202500613031', classe, 'HC'). tem('202500613031', objeto, 'desclassificacao').
+tem('202500613031', marcador, 'faccao').
+resultado_real('202500613031', perde).
+tem('202500732325', turma, 'QUINTA TURMA'). tem('202500732325', relator, 'MESSOD AZULAY'). tem('202500732325', classe, 'HC'). tem('202500732325', objeto, 'p4').
+resultado_real('202500732325', perde).
+tem('202500748851', turma, 'QUINTA TURMA'). tem('202500748851', relator, 'MESSOD AZULAY'). tem('202500748851', classe, 'HC'). tem('202500748851', objeto, 'desclassificacao').
+resultado_real('202500748851', perde).
+tem('202500759036', turma, 'QUINTA TURMA'). tem('202500759036', relator, 'MESSOD AZULAY'). tem('202500759036', classe, 'HC'). tem('202500759036', objeto, 'p4').
+resultado_real('202500759036', perde).
+tem('202500784276', turma, 'QUINTA TURMA'). tem('202500784276', relator, 'MESSOD AZULAY'). tem('202500784276', classe, 'HC'). tem('202500784276', objeto, 'dosimetria').
+resultado_real('202500784276', perde).
+tem('202500828614', turma, 'QUINTA TURMA'). tem('202500828614', relator, 'MESSOD AZULAY'). tem('202500828614', classe, 'HC'). tem('202500828614', objeto, 'desclassificacao').
+resultado_real('202500828614', perde).
+tem('202500876485', turma, 'QUINTA TURMA'). tem('202500876485', relator, 'MESSOD AZULAY'). tem('202500876485', classe, 'HC'). tem('202500876485', objeto, 'p4').
+resultado_real('202500876485', perde).
+tem('202500901721', turma, 'QUINTA TURMA'). tem('202500901721', relator, 'MESSOD AZULAY'). tem('202500901721', classe, 'HC'). tem('202500901721', objeto, 'p4').
+resultado_real('202500901721', perde).
+tem('202500905837', turma, 'QUINTA TURMA'). tem('202500905837', relator, 'MESSOD AZULAY'). tem('202500905837', classe, 'HC'). tem('202500905837', objeto, 'nulidade_busca').
+resultado_real('202500905837', perde).
+tem('202500922849', turma, 'QUINTA TURMA'). tem('202500922849', relator, 'MESSOD AZULAY'). tem('202500922849', classe, 'HC'). tem('202500922849', objeto, 'dosimetria').
+resultado_real('202500922849', perde).
+tem('202500958192', turma, 'QUINTA TURMA'). tem('202500958192', relator, 'MESSOD AZULAY'). tem('202500958192', classe, 'HC'). tem('202500958192', objeto, 'p4').
+resultado_real('202500958192', perde).
+tem('202500976897', turma, 'QUINTA TURMA'). tem('202500976897', relator, 'MESSOD AZULAY'). tem('202500976897', classe, 'HC'). tem('202500976897', objeto, 'p4').
+tem('202500976897', marcador, 'faccao').
+resultado_real('202500976897', perde).
+tem('202500981338', turma, 'QUINTA TURMA'). tem('202500981338', relator, 'MESSOD AZULAY'). tem('202500981338', classe, 'HC'). tem('202500981338', objeto, 'p4').
+resultado_real('202500981338', perde).
+tem('202500973970', turma, 'QUINTA TURMA'). tem('202500973970', relator, 'MESSOD AZULAY'). tem('202500973970', classe, 'HC'). tem('202500973970', objeto, 'dosimetria').
+tem('202500973970', marcador, 'denuncia_anonima').
+resultado_real('202500973970', perde).
+tem('202501009054', turma, 'QUINTA TURMA'). tem('202501009054', relator, 'MESSOD AZULAY'). tem('202501009054', classe, 'HC'). tem('202501009054', objeto, 'p4').
+resultado_real('202501009054', perde).
+tem('202501014390', turma, 'QUINTA TURMA'). tem('202501014390', relator, 'MESSOD AZULAY'). tem('202501014390', classe, 'HC'). tem('202501014390', objeto, 'p4').
+resultado_real('202501014390', perde).
+tem('202501052975', turma, 'QUINTA TURMA'). tem('202501052975', relator, 'MESSOD AZULAY'). tem('202501052975', classe, 'HC'). tem('202501052975', objeto, 'nulidade_busca').
+resultado_real('202501052975', perde).
+tem('202501118489', turma, 'QUINTA TURMA'). tem('202501118489', relator, 'MESSOD AZULAY'). tem('202501118489', classe, 'HC'). tem('202501118489', objeto, 'nulidade_busca').
+tem('202501118489', marcador, 'denuncia_anonima').
+resultado_real('202501118489', perde).
+tem('202501126316', turma, 'QUINTA TURMA'). tem('202501126316', relator, 'MESSOD AZULAY'). tem('202501126316', classe, 'HC'). tem('202501126316', objeto, 'p4').
+resultado_real('202501126316', perde).
+tem('202501177601', turma, 'QUINTA TURMA'). tem('202501177601', relator, 'MESSOD AZULAY'). tem('202501177601', classe, 'HC'). tem('202501177601', objeto, 'p4').
+resultado_real('202501177601', perde).
+tem('202501206003', turma, 'QUINTA TURMA'). tem('202501206003', relator, 'MESSOD AZULAY'). tem('202501206003', classe, 'HC'). tem('202501206003', objeto, 'p4').
+resultado_real('202501206003', perde).
+tem('202501216299', turma, 'QUINTA TURMA'). tem('202501216299', relator, 'MESSOD AZULAY'). tem('202501216299', classe, 'HC'). tem('202501216299', objeto, 'dosimetria').
+resultado_real('202501216299', perde).
+tem('202501219976', turma, 'QUINTA TURMA'). tem('202501219976', relator, 'MESSOD AZULAY'). tem('202501219976', classe, 'HC'). tem('202501219976', objeto, 'nulidade_busca').
+resultado_real('202501219976', perde).
+tem('202501220944', turma, 'QUINTA TURMA'). tem('202501220944', relator, 'MESSOD AZULAY'). tem('202501220944', classe, 'HC'). tem('202501220944', objeto, 'dosimetria').
+resultado_real('202501220944', perde).
+tem('202501245469', turma, 'QUINTA TURMA'). tem('202501245469', relator, 'MESSOD AZULAY'). tem('202501245469', classe, 'HC'). tem('202501245469', objeto, 'desclassificacao').
+resultado_real('202501245469', perde).
+tem('202501256250', turma, 'QUINTA TURMA'). tem('202501256250', relator, 'MESSOD AZULAY'). tem('202501256250', classe, 'HC'). tem('202501256250', objeto, 'outro').
+resultado_real('202501256250', perde).
+tem('202501268432', turma, 'QUINTA TURMA'). tem('202501268432', relator, 'MESSOD AZULAY'). tem('202501268432', classe, 'HC'). tem('202501268432', objeto, 'nulidade_busca').
+tem('202501268432', marcador, 'denuncia_anonima').
+resultado_real('202501268432', perde).
+tem('202501274753', turma, 'QUINTA TURMA'). tem('202501274753', relator, 'MESSOD AZULAY'). tem('202501274753', classe, 'HC'). tem('202501274753', objeto, 'dosimetria').
+resultado_real('202501274753', perde).
+tem('202501356698', turma, 'QUINTA TURMA'). tem('202501356698', relator, 'MESSOD AZULAY'). tem('202501356698', classe, 'HC'). tem('202501356698', objeto, 'p4').
+resultado_real('202501356698', perde).
+tem('202501358038', turma, 'QUINTA TURMA'). tem('202501358038', relator, 'MESSOD AZULAY'). tem('202501358038', classe, 'HC'). tem('202501358038', objeto, 'outro').
+resultado_real('202501358038', perde).
+tem('202501397950', turma, 'QUINTA TURMA'). tem('202501397950', relator, 'MESSOD AZULAY'). tem('202501397950', classe, 'HC'). tem('202501397950', objeto, 'p4').
+resultado_real('202501397950', perde).
+tem('202501408973', turma, 'QUINTA TURMA'). tem('202501408973', relator, 'MESSOD AZULAY'). tem('202501408973', classe, 'HC'). tem('202501408973', objeto, 'dosimetria').
+resultado_real('202501408973', perde).
+tem('202501428828', turma, 'QUINTA TURMA'). tem('202501428828', relator, 'MESSOD AZULAY'). tem('202501428828', classe, 'HC'). tem('202501428828', objeto, 'outro').
+resultado_real('202501428828', perde).
+tem('202501444386', turma, 'QUINTA TURMA'). tem('202501444386', relator, 'MESSOD AZULAY'). tem('202501444386', classe, 'HC'). tem('202501444386', objeto, 'outro').
+resultado_real('202501444386', perde).
+tem('202501478582', turma, 'QUINTA TURMA'). tem('202501478582', relator, 'MESSOD AZULAY'). tem('202501478582', classe, 'HC'). tem('202501478582', objeto, 'dosimetria').
+resultado_real('202501478582', perde).
+tem('201901878000', turma, 'QUINTA TURMA'). tem('201901878000', relator, 'MESSOD AZULAY'). tem('201901878000', classe, 'REsp'). tem('201901878000', objeto, 'dosimetria').
+resultado_real('201901878000', perde).
+tem('202103133894', turma, 'QUINTA TURMA'). tem('202103133894', relator, 'MESSOD AZULAY'). tem('202103133894', classe, 'REsp'). tem('202103133894', objeto, 'p4').
+resultado_real('202103133894', perde).
+tem('202203774298', turma, 'QUINTA TURMA'). tem('202203774298', relator, 'MESSOD AZULAY'). tem('202203774298', classe, 'REsp'). tem('202203774298', objeto, 'p4').
+tem('202203774298', marcador, 'faccao').
+resultado_real('202203774298', perde).
+tem('202300046788', turma, 'QUINTA TURMA'). tem('202300046788', relator, 'MESSOD AZULAY'). tem('202300046788', classe, 'REsp'). tem('202300046788', objeto, 'p4').
+resultado_real('202300046788', perde).
+tem('202300264397', turma, 'QUINTA TURMA'). tem('202300264397', relator, 'MESSOD AZULAY'). tem('202300264397', classe, 'REsp'). tem('202300264397', objeto, 'nulidade_busca').
+tem('202300264397', marcador, 'fuga_mudanca_direcao').
+resultado_real('202300264397', perde).
+tem('202300445999', turma, 'QUINTA TURMA'). tem('202300445999', relator, 'MESSOD AZULAY'). tem('202300445999', classe, 'REsp'). tem('202300445999', objeto, 'nulidade_busca').
+resultado_real('202300445999', perde).
+tem('202300686307', turma, 'QUINTA TURMA'). tem('202300686307', relator, 'MESSOD AZULAY'). tem('202300686307', classe, 'REsp'). tem('202300686307', objeto, 'p4').
+resultado_real('202300686307', perde).
+tem('202301091753', turma, 'QUINTA TURMA'). tem('202301091753', relator, 'MESSOD AZULAY'). tem('202301091753', classe, 'REsp'). tem('202301091753', objeto, 'p4').
+resultado_real('202301091753', perde).
+tem('202301359796', turma, 'QUINTA TURMA'). tem('202301359796', relator, 'MESSOD AZULAY'). tem('202301359796', classe, 'REsp'). tem('202301359796', objeto, 'autoria').
+resultado_real('202301359796', perde).
+tem('202301470946', turma, 'QUINTA TURMA'). tem('202301470946', relator, 'MESSOD AZULAY'). tem('202301470946', classe, 'REsp'). tem('202301470946', objeto, 'p4').
+tem('202301470946', marcador, 'atos_infracionais').
+resultado_real('202301470946', perde).
+tem('202301490434', turma, 'QUINTA TURMA'). tem('202301490434', relator, 'MESSOD AZULAY'). tem('202301490434', classe, 'REsp'). tem('202301490434', objeto, 'p4').
+resultado_real('202301490434', perde).
+tem('202301719933', turma, 'QUINTA TURMA'). tem('202301719933', relator, 'MESSOD AZULAY'). tem('202301719933', classe, 'REsp'). tem('202301719933', objeto, 'outro').
+resultado_real('202301719933', perde).
 tem('202302217485', turma, 'QUINTA TURMA'). tem('202302217485', relator, 'MESSOD AZULAY'). tem('202302217485', classe, 'REsp'). tem('202302217485', objeto, 'nulidade_busca').
 resultado_real('202302217485', perde).
+tem('202303559121', turma, 'QUINTA TURMA'). tem('202303559121', relator, 'MESSOD AZULAY'). tem('202303559121', classe, 'REsp'). tem('202303559121', objeto, 'nulidade_busca').
+tem('202303559121', marcador, 'local_conhecido').
+resultado_real('202303559121', perde).
+tem('202304046398', turma, 'QUINTA TURMA'). tem('202304046398', relator, 'MESSOD AZULAY'). tem('202304046398', classe, 'REsp'). tem('202304046398', objeto, 'autoria').
+resultado_real('202304046398', vence).
+tem('202304136599', turma, 'QUINTA TURMA'). tem('202304136599', relator, 'MESSOD AZULAY'). tem('202304136599', classe, 'REsp'). tem('202304136599', objeto, 'desclassificacao').
+resultado_real('202304136599', perde).
+tem('202304196670', turma, 'QUINTA TURMA'). tem('202304196670', relator, 'MESSOD AZULAY'). tem('202304196670', classe, 'REsp'). tem('202304196670', objeto, 'outro').
+resultado_real('202304196670', perde).
+tem('202400012020', turma, 'QUINTA TURMA'). tem('202400012020', relator, 'MESSOD AZULAY'). tem('202400012020', classe, 'REsp'). tem('202400012020', objeto, 'nulidade_busca').
+tem('202400012020', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400012020', perde).
+tem('202400907170', turma, 'QUINTA TURMA'). tem('202400907170', relator, 'MESSOD AZULAY'). tem('202400907170', classe, 'REsp'). tem('202400907170', objeto, 'nulidade_busca').
+tem('202400907170', marcador, 'local_conhecido').
+tem('202400907170', marcador, 'nervosismo').
+tem('202400907170', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400907170', perde).
+tem('202401767039', turma, 'QUINTA TURMA'). tem('202401767039', relator, 'MESSOD AZULAY'). tem('202401767039', classe, 'REsp'). tem('202401767039', objeto, 'p4').
+resultado_real('202401767039', perde).
 tem('202402034300', turma, 'QUINTA TURMA'). tem('202402034300', relator, 'MESSOD AZULAY'). tem('202402034300', classe, 'REsp'). tem('202402034300', objeto, 'p4').
 resultado_real('202402034300', perde).
+tem('202402409507', turma, 'QUINTA TURMA'). tem('202402409507', relator, 'MESSOD AZULAY'). tem('202402409507', classe, 'REsp'). tem('202402409507', objeto, 'p4').
+tem('202402409507', marcador, 'faccao').
+resultado_real('202402409507', perde).
+tem('202403403426', turma, 'QUINTA TURMA'). tem('202403403426', relator, 'MESSOD AZULAY'). tem('202403403426', classe, 'REsp'). tem('202403403426', objeto, 'nulidade_busca').
+resultado_real('202403403426', perde).
+tem('202403720010', turma, 'QUINTA TURMA'). tem('202403720010', relator, 'MESSOD AZULAY'). tem('202403720010', classe, 'REsp'). tem('202403720010', objeto, 'nulidade_busca').
+tem('202403720010', marcador, 'conhecido_policia').
+resultado_real('202403720010', perde).
 tem('202403806766', turma, 'QUINTA TURMA'). tem('202403806766', relator, 'MESSOD AZULAY'). tem('202403806766', classe, 'REsp'). tem('202403806766', objeto, 'p4').
 resultado_real('202403806766', perde).
+tem('202403950115', turma, 'QUINTA TURMA'). tem('202403950115', relator, 'MESSOD AZULAY'). tem('202403950115', classe, 'REsp'). tem('202403950115', objeto, 'p4').
+resultado_real('202403950115', perde).
+tem('202404000509', turma, 'QUINTA TURMA'). tem('202404000509', relator, 'MESSOD AZULAY'). tem('202404000509', classe, 'REsp'). tem('202404000509', objeto, 'nulidade_busca').
+resultado_real('202404000509', perde).
+tem('202404267021', turma, 'QUINTA TURMA'). tem('202404267021', relator, 'MESSOD AZULAY'). tem('202404267021', classe, 'REsp'). tem('202404267021', objeto, 'dosimetria').
+resultado_real('202404267021', perde).
+tem('202404524784', turma, 'QUINTA TURMA'). tem('202404524784', relator, 'MESSOD AZULAY'). tem('202404524784', classe, 'REsp'). tem('202404524784', objeto, 'nulidade_busca').
+tem('202404524784', marcador, 'denuncia_anonima').
+resultado_real('202404524784', perde).
+tem('202404725231', turma, 'QUINTA TURMA'). tem('202404725231', relator, 'MESSOD AZULAY'). tem('202404725231', classe, 'REsp'). tem('202404725231', objeto, 'nulidade_busca').
+tem('202404725231', marcador, 'denuncia_anonima').
+resultado_real('202404725231', perde).
+tem('202404862308', turma, 'QUINTA TURMA'). tem('202404862308', relator, 'MESSOD AZULAY'). tem('202404862308', classe, 'REsp'). tem('202404862308', objeto, 'p4').
+resultado_real('202404862308', perde).
+tem('202500032672', turma, 'QUINTA TURMA'). tem('202500032672', relator, 'MESSOD AZULAY'). tem('202500032672', classe, 'REsp'). tem('202500032672', objeto, 'p4').
+resultado_real('202500032672', perde).
+tem('202500244352', turma, 'QUINTA TURMA'). tem('202500244352', relator, 'MESSOD AZULAY'). tem('202500244352', classe, 'REsp'). tem('202500244352', objeto, 'dosimetria').
+resultado_real('202500244352', perde).
+tem('202500280830', turma, 'QUINTA TURMA'). tem('202500280830', relator, 'MESSOD AZULAY'). tem('202500280830', classe, 'REsp'). tem('202500280830', objeto, 'dosimetria').
+resultado_real('202500280830', perde).
+tem('202500301205', turma, 'QUINTA TURMA'). tem('202500301205', relator, 'MESSOD AZULAY'). tem('202500301205', classe, 'REsp'). tem('202500301205', objeto, 'dosimetria').
+resultado_real('202500301205', perde).
+tem('202500429363', turma, 'QUINTA TURMA'). tem('202500429363', relator, 'MESSOD AZULAY'). tem('202500429363', classe, 'REsp'). tem('202500429363', objeto, 'outro').
+resultado_real('202500429363', perde).
 tem('202500463314', turma, 'QUINTA TURMA'). tem('202500463314', relator, 'MESSOD AZULAY'). tem('202500463314', classe, 'REsp'). tem('202500463314', objeto, 'nulidade_busca').
 resultado_real('202500463314', perde).
+tem('202500511177', turma, 'QUINTA TURMA'). tem('202500511177', relator, 'MESSOD AZULAY'). tem('202500511177', classe, 'REsp'). tem('202500511177', objeto, 'p4').
+resultado_real('202500511177', perde).
+tem('202501258144', turma, 'QUINTA TURMA'). tem('202501258144', relator, 'MESSOD AZULAY'). tem('202501258144', classe, 'REsp'). tem('202501258144', objeto, 'nulidade_busca').
+tem('202501258144', marcador, 'faccao').
+resultado_real('202501258144', perde).
+tem('202501344800', turma, 'QUINTA TURMA'). tem('202501344800', relator, 'MESSOD AZULAY'). tem('202501344800', classe, 'REsp'). tem('202501344800', objeto, 'outro').
+resultado_real('202501344800', perde).
+tem('202501410166', turma, 'QUINTA TURMA'). tem('202501410166', relator, 'MESSOD AZULAY'). tem('202501410166', classe, 'REsp'). tem('202501410166', objeto, 'p4').
+resultado_real('202501410166', perde).
+tem('202501449201', turma, 'QUINTA TURMA'). tem('202501449201', relator, 'MESSOD AZULAY'). tem('202501449201', classe, 'REsp'). tem('202501449201', objeto, 'dosimetria').
+resultado_real('202501449201', perde).
+tem('202501543436', turma, 'QUINTA TURMA'). tem('202501543436', relator, 'MESSOD AZULAY'). tem('202501543436', classe, 'REsp'). tem('202501543436', objeto, 'nulidade_busca').
+tem('202501543436', marcador, 'fuga_mudanca_direcao').
+tem('202501543436', marcador, 'denuncia_anonima').
+resultado_real('202501543436', perde).
+tem('202501587212', turma, 'QUINTA TURMA'). tem('202501587212', relator, 'MESSOD AZULAY'). tem('202501587212', classe, 'REsp'). tem('202501587212', objeto, 'p4').
+tem('202501587212', marcador, 'faccao').
+resultado_real('202501587212', perde).
+tem('202501954401', turma, 'QUINTA TURMA'). tem('202501954401', relator, 'MESSOD AZULAY'). tem('202501954401', classe, 'REsp'). tem('202501954401', objeto, 'p4').
+resultado_real('202501954401', perde).
 tem('202502377571', turma, 'QUINTA TURMA'). tem('202502377571', relator, 'MESSOD AZULAY'). tem('202502377571', classe, 'REsp'). tem('202502377571', objeto, 'nulidade_busca').
 tem('202502377571', marcador, 'denuncia_anonima').
 resultado_real('202502377571', perde).
@@ -1277,6 +5075,23 @@ tem('202600774640', marcador, 'denuncia_anonima').
 resultado_real('202600774640', perde).
 tem('202601586028', turma, 'QUINTA TURMA'). tem('202601586028', relator, 'MESSOD AZULAY'). tem('202601586028', classe, 'REsp'). tem('202601586028', objeto, 'nulidade_busca').
 resultado_real('202601586028', perde).
+tem('202303825960', turma, 'QUINTA TURMA'). tem('202303825960', relator, 'MESSOD AZULAY'). tem('202303825960', classe, 'RHC'). tem('202303825960', objeto, 'nulidade_busca').
+resultado_real('202303825960', perde).
+tem('202400419248', turma, 'QUINTA TURMA'). tem('202400419248', relator, 'MESSOD AZULAY'). tem('202400419248', classe, 'RHC'). tem('202400419248', objeto, 'dosimetria').
+resultado_real('202400419248', perde).
+tem('202401312770', turma, 'QUINTA TURMA'). tem('202401312770', relator, 'MESSOD AZULAY'). tem('202401312770', classe, 'RHC'). tem('202401312770', objeto, 'outro').
+resultado_real('202401312770', perde).
+tem('202401609023', turma, 'QUINTA TURMA'). tem('202401609023', relator, 'MESSOD AZULAY'). tem('202401609023', classe, 'RHC'). tem('202401609023', objeto, 'outro').
+resultado_real('202401609023', perde).
+tem('202402889132', turma, 'QUINTA TURMA'). tem('202402889132', relator, 'MESSOD AZULAY'). tem('202402889132', classe, 'RHC'). tem('202402889132', objeto, 'outro').
+tem('202402889132', marcador, 'faccao').
+resultado_real('202402889132', perde).
+tem('202403753761', turma, 'QUINTA TURMA'). tem('202403753761', relator, 'MESSOD AZULAY'). tem('202403753761', classe, 'RHC'). tem('202403753761', objeto, 'outro').
+resultado_real('202403753761', perde).
+tem('202500386985', turma, 'QUINTA TURMA'). tem('202500386985', relator, 'MESSOD AZULAY'). tem('202500386985', classe, 'RHC'). tem('202500386985', objeto, 'outro').
+resultado_real('202500386985', perde).
+tem('202500569078', turma, 'QUINTA TURMA'). tem('202500569078', relator, 'MESSOD AZULAY'). tem('202500569078', classe, 'RHC'). tem('202500569078', objeto, 'desclassificacao').
+resultado_real('202500569078', perde).
 tem('202504820456', turma, 'QUINTA TURMA'). tem('202504820456', relator, 'MESSOD AZULAY'). tem('202504820456', classe, 'RHC'). tem('202504820456', objeto, 'autoria').
 tem('202504820456', marcador, 'faccao').
 resultado_real('202504820456', perde).
@@ -1284,23 +5099,335 @@ tem('202504896986', turma, 'QUINTA TURMA'). tem('202504896986', relator, 'MESSOD
 resultado_real('202504896986', perde).
 tem('202600607851', turma, 'QUINTA TURMA'). tem('202600607851', relator, 'MESSOD AZULAY'). tem('202600607851', classe, 'RHC'). tem('202600607851', objeto, 'outro').
 resultado_real('202600607851', perde).
+tem('202203351460', turma, 'QUINTA TURMA'). tem('202203351460', relator, 'REYNALDO SOARES'). tem('202203351460', classe, 'AREsp'). tem('202203351460', objeto, 'nulidade_busca').
+resultado_real('202203351460', perde).
+tem('202303221781', turma, 'QUINTA TURMA'). tem('202303221781', relator, 'REYNALDO SOARES'). tem('202303221781', classe, 'AREsp'). tem('202303221781', objeto, 'nulidade_busca').
+tem('202303221781', marcador, 'nervosismo').
+tem('202303221781', marcador, 'fuga_mudanca_direcao').
+tem('202303221781', marcador, 'denuncia_anonima').
+resultado_real('202303221781', perde).
+tem('202303459606', turma, 'QUINTA TURMA'). tem('202303459606', relator, 'REYNALDO SOARES'). tem('202303459606', classe, 'AREsp'). tem('202303459606', objeto, 'p4').
+resultado_real('202303459606', perde).
+tem('202303695011', turma, 'QUINTA TURMA'). tem('202303695011', relator, 'REYNALDO SOARES'). tem('202303695011', classe, 'AREsp'). tem('202303695011', objeto, 'p4').
+resultado_real('202303695011', perde).
 tem('202303717672', turma, 'QUINTA TURMA'). tem('202303717672', relator, 'REYNALDO SOARES'). tem('202303717672', classe, 'AREsp'). tem('202303717672', objeto, 'dosimetria').
 resultado_real('202303717672', perde).
+tem('202304096180', turma, 'QUINTA TURMA'). tem('202304096180', relator, 'REYNALDO SOARES'). tem('202304096180', classe, 'AREsp'). tem('202304096180', objeto, 'p4').
+resultado_real('202304096180', perde).
+tem('202304110963', turma, 'QUINTA TURMA'). tem('202304110963', relator, 'REYNALDO SOARES'). tem('202304110963', classe, 'AREsp'). tem('202304110963', objeto, 'p4').
+resultado_real('202304110963', perde).
+tem('202304519594', turma, 'QUINTA TURMA'). tem('202304519594', relator, 'REYNALDO SOARES'). tem('202304519594', classe, 'AREsp'). tem('202304519594', objeto, 'desclassificacao').
+resultado_real('202304519594', perde).
+tem('202400219018', turma, 'QUINTA TURMA'). tem('202400219018', relator, 'REYNALDO SOARES'). tem('202400219018', classe, 'AREsp'). tem('202400219018', objeto, 'p4').
+resultado_real('202400219018', perde).
+tem('202400427096', turma, 'QUINTA TURMA'). tem('202400427096', relator, 'REYNALDO SOARES'). tem('202400427096', classe, 'AREsp'). tem('202400427096', objeto, 'p4').
+resultado_real('202400427096', perde).
+tem('202400856843', turma, 'QUINTA TURMA'). tem('202400856843', relator, 'REYNALDO SOARES'). tem('202400856843', classe, 'AREsp'). tem('202400856843', objeto, 'p4').
+resultado_real('202400856843', perde).
 tem('202400905554', turma, 'QUINTA TURMA'). tem('202400905554', relator, 'REYNALDO SOARES'). tem('202400905554', classe, 'AREsp'). tem('202400905554', objeto, 'outro').
 resultado_real('202400905554', perde).
+tem('202400976100', turma, 'QUINTA TURMA'). tem('202400976100', relator, 'REYNALDO SOARES'). tem('202400976100', classe, 'AREsp'). tem('202400976100', objeto, 'autoria').
+resultado_real('202400976100', perde).
+tem('202401114850', turma, 'QUINTA TURMA'). tem('202401114850', relator, 'REYNALDO SOARES'). tem('202401114850', classe, 'AREsp'). tem('202401114850', objeto, 'dosimetria').
+resultado_real('202401114850', perde).
+tem('202401266015', turma, 'QUINTA TURMA'). tem('202401266015', relator, 'REYNALDO SOARES'). tem('202401266015', classe, 'AREsp'). tem('202401266015', objeto, 'p4').
+resultado_real('202401266015', perde).
+tem('202401460640', turma, 'QUINTA TURMA'). tem('202401460640', relator, 'REYNALDO SOARES'). tem('202401460640', classe, 'AREsp'). tem('202401460640', objeto, 'outro').
+resultado_real('202401460640', perde).
+tem('202401558037', turma, 'QUINTA TURMA'). tem('202401558037', relator, 'REYNALDO SOARES'). tem('202401558037', classe, 'AREsp'). tem('202401558037', objeto, 'dosimetria').
+resultado_real('202401558037', perde).
+tem('202401782234', turma, 'QUINTA TURMA'). tem('202401782234', relator, 'REYNALDO SOARES'). tem('202401782234', classe, 'AREsp'). tem('202401782234', objeto, 'p4').
+resultado_real('202401782234', perde).
+tem('202401957880', turma, 'QUINTA TURMA'). tem('202401957880', relator, 'REYNALDO SOARES'). tem('202401957880', classe, 'AREsp'). tem('202401957880', objeto, 'outro').
+resultado_real('202401957880', perde).
+tem('202402180728', turma, 'QUINTA TURMA'). tem('202402180728', relator, 'REYNALDO SOARES'). tem('202402180728', classe, 'AREsp'). tem('202402180728', objeto, 'outro').
+resultado_real('202402180728', perde).
+tem('202402406134', turma, 'QUINTA TURMA'). tem('202402406134', relator, 'REYNALDO SOARES'). tem('202402406134', classe, 'AREsp'). tem('202402406134', objeto, 'dosimetria').
+tem('202402406134', marcador, 'faccao').
+resultado_real('202402406134', perde).
+tem('202402519132', turma, 'QUINTA TURMA'). tem('202402519132', relator, 'REYNALDO SOARES'). tem('202402519132', classe, 'AREsp'). tem('202402519132', objeto, 'dosimetria').
+resultado_real('202402519132', perde).
+tem('202402534921', turma, 'QUINTA TURMA'). tem('202402534921', relator, 'REYNALDO SOARES'). tem('202402534921', classe, 'AREsp'). tem('202402534921', objeto, 'dosimetria').
+resultado_real('202402534921', perde).
+tem('202402866032', turma, 'QUINTA TURMA'). tem('202402866032', relator, 'REYNALDO SOARES'). tem('202402866032', classe, 'AREsp'). tem('202402866032', objeto, 'autoria').
+resultado_real('202402866032', perde).
+tem('202402881894', turma, 'QUINTA TURMA'). tem('202402881894', relator, 'REYNALDO SOARES'). tem('202402881894', classe, 'AREsp'). tem('202402881894', objeto, 'p4').
+tem('202402881894', marcador, 'faccao').
+resultado_real('202402881894', perde).
+tem('202402890201', turma, 'QUINTA TURMA'). tem('202402890201', relator, 'REYNALDO SOARES'). tem('202402890201', classe, 'AREsp'). tem('202402890201', objeto, 'nulidade_busca').
+resultado_real('202402890201', perde).
+tem('202403039028', turma, 'QUINTA TURMA'). tem('202403039028', relator, 'REYNALDO SOARES'). tem('202403039028', classe, 'AREsp'). tem('202403039028', objeto, 'nulidade_busca').
+tem('202403039028', marcador, 'nervosismo').
+resultado_real('202403039028', perde).
+tem('202403051885', turma, 'QUINTA TURMA'). tem('202403051885', relator, 'REYNALDO SOARES'). tem('202403051885', classe, 'AREsp'). tem('202403051885', objeto, 'p4').
+tem('202403051885', marcador, 'faccao').
+resultado_real('202403051885', perde).
+tem('202403101003', turma, 'QUINTA TURMA'). tem('202403101003', relator, 'REYNALDO SOARES'). tem('202403101003', classe, 'AREsp'). tem('202403101003', objeto, 'p4').
+resultado_real('202403101003', perde).
+tem('202403101052', turma, 'QUINTA TURMA'). tem('202403101052', relator, 'REYNALDO SOARES'). tem('202403101052', classe, 'AREsp'). tem('202403101052', objeto, 'nulidade_busca').
+tem('202403101052', marcador, 'faccao').
+resultado_real('202403101052', perde).
+tem('202403362195', turma, 'QUINTA TURMA'). tem('202403362195', relator, 'REYNALDO SOARES'). tem('202403362195', classe, 'AREsp'). tem('202403362195', objeto, 'nulidade_busca').
+tem('202403362195', marcador, 'faccao').
+resultado_real('202403362195', perde).
+tem('202403395344', turma, 'QUINTA TURMA'). tem('202403395344', relator, 'REYNALDO SOARES'). tem('202403395344', classe, 'AREsp'). tem('202403395344', objeto, 'outro').
+resultado_real('202403395344', perde).
+tem('202403440998', turma, 'QUINTA TURMA'). tem('202403440998', relator, 'REYNALDO SOARES'). tem('202403440998', classe, 'AREsp'). tem('202403440998', objeto, 'p4').
+tem('202403440998', marcador, 'faccao').
+resultado_real('202403440998', perde).
+tem('202403540530', turma, 'QUINTA TURMA'). tem('202403540530', relator, 'REYNALDO SOARES'). tem('202403540530', classe, 'AREsp'). tem('202403540530', objeto, 'nulidade_busca').
+tem('202403540530', marcador, 'comunidade_bairro').
+tem('202403540530', marcador, 'denuncia_anonima').
+resultado_real('202403540530', perde).
+tem('202403623977', turma, 'QUINTA TURMA'). tem('202403623977', relator, 'REYNALDO SOARES'). tem('202403623977', classe, 'AREsp'). tem('202403623977', objeto, 'outro').
+resultado_real('202403623977', perde).
+tem('202403666490', turma, 'QUINTA TURMA'). tem('202403666490', relator, 'REYNALDO SOARES'). tem('202403666490', classe, 'AREsp'). tem('202403666490', objeto, 'p4').
+tem('202403666490', marcador, 'faccao').
+resultado_real('202403666490', perde).
+tem('202403780430', turma, 'QUINTA TURMA'). tem('202403780430', relator, 'REYNALDO SOARES'). tem('202403780430', classe, 'AREsp'). tem('202403780430', objeto, 'p4').
+resultado_real('202403780430', perde).
+tem('202403856976', turma, 'QUINTA TURMA'). tem('202403856976', relator, 'REYNALDO SOARES'). tem('202403856976', classe, 'AREsp'). tem('202403856976', objeto, 'nulidade_busca').
+tem('202403856976', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403856976', perde).
+tem('202403863259', turma, 'QUINTA TURMA'). tem('202403863259', relator, 'REYNALDO SOARES'). tem('202403863259', classe, 'AREsp'). tem('202403863259', objeto, 'nulidade_busca').
+resultado_real('202403863259', perde).
+tem('202403926225', turma, 'QUINTA TURMA'). tem('202403926225', relator, 'REYNALDO SOARES'). tem('202403926225', classe, 'AREsp'). tem('202403926225', objeto, 'p4').
+tem('202403926225', marcador, 'faccao').
+resultado_real('202403926225', perde).
+tem('202403941594', turma, 'QUINTA TURMA'). tem('202403941594', relator, 'REYNALDO SOARES'). tem('202403941594', classe, 'AREsp'). tem('202403941594', objeto, 'p4').
+tem('202403941594', marcador, 'faccao').
+resultado_real('202403941594', perde).
+tem('202404025767', turma, 'QUINTA TURMA'). tem('202404025767', relator, 'REYNALDO SOARES'). tem('202404025767', classe, 'AREsp'). tem('202404025767', objeto, 'p4').
+tem('202404025767', marcador, 'faccao').
+resultado_real('202404025767', perde).
+tem('202404044650', turma, 'QUINTA TURMA'). tem('202404044650', relator, 'REYNALDO SOARES'). tem('202404044650', classe, 'AREsp'). tem('202404044650', objeto, 'dosimetria').
+tem('202404044650', marcador, 'faccao').
+resultado_real('202404044650', perde).
+tem('202403998740', turma, 'QUINTA TURMA'). tem('202403998740', relator, 'REYNALDO SOARES'). tem('202403998740', classe, 'AREsp'). tem('202403998740', objeto, 'autoria').
+tem('202403998740', marcador, 'comunidade_bairro').
+tem('202403998740', marcador, 'faccao').
+tem('202403998740', marcador, 'conhecido_policia').
+tem('202403998740', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403998740', perde).
+tem('202403996477', turma, 'QUINTA TURMA'). tem('202403996477', relator, 'REYNALDO SOARES'). tem('202403996477', classe, 'AREsp'). tem('202403996477', objeto, 'desclassificacao').
+resultado_real('202403996477', perde).
+tem('202404070988', turma, 'QUINTA TURMA'). tem('202404070988', relator, 'REYNALDO SOARES'). tem('202404070988', classe, 'AREsp'). tem('202404070988', objeto, 'p4').
+resultado_real('202404070988', perde).
+tem('202404157797', turma, 'QUINTA TURMA'). tem('202404157797', relator, 'REYNALDO SOARES'). tem('202404157797', classe, 'AREsp'). tem('202404157797', objeto, 'nulidade_busca').
+tem('202404157797', marcador, 'vulgo').
+tem('202404157797', marcador, 'faccao').
+tem('202404157797', marcador, 'conhecido_policia').
+tem('202404157797', marcador, 'denuncia_anonima').
+resultado_real('202404157797', perde).
+tem('202404166456', turma, 'QUINTA TURMA'). tem('202404166456', relator, 'REYNALDO SOARES'). tem('202404166456', classe, 'AREsp'). tem('202404166456', objeto, 'outro').
+resultado_real('202404166456', perde).
+tem('202404180301', turma, 'QUINTA TURMA'). tem('202404180301', relator, 'REYNALDO SOARES'). tem('202404180301', classe, 'AREsp'). tem('202404180301', objeto, 'p4').
+resultado_real('202404180301', perde).
+tem('202404291162', turma, 'QUINTA TURMA'). tem('202404291162', relator, 'REYNALDO SOARES'). tem('202404291162', classe, 'AREsp'). tem('202404291162', objeto, 'nulidade_busca').
+tem('202404291162', marcador, 'denuncia_anonima').
+resultado_real('202404291162', perde).
+tem('202404303728', turma, 'QUINTA TURMA'). tem('202404303728', relator, 'REYNALDO SOARES'). tem('202404303728', classe, 'AREsp'). tem('202404303728', objeto, 'p4').
+resultado_real('202404303728', perde).
+tem('202404324517', turma, 'QUINTA TURMA'). tem('202404324517', relator, 'REYNALDO SOARES'). tem('202404324517', classe, 'AREsp'). tem('202404324517', objeto, 'p4').
+tem('202404324517', marcador, 'faccao').
+resultado_real('202404324517', perde).
+tem('202404350706', turma, 'QUINTA TURMA'). tem('202404350706', relator, 'REYNALDO SOARES'). tem('202404350706', classe, 'AREsp'). tem('202404350706', objeto, 'nulidade_busca').
+resultado_real('202404350706', perde).
+tem('202404404783', turma, 'QUINTA TURMA'). tem('202404404783', relator, 'REYNALDO SOARES'). tem('202404404783', classe, 'AREsp'). tem('202404404783', objeto, 'desclassificacao').
+resultado_real('202404404783', perde).
+tem('202404406540', turma, 'QUINTA TURMA'). tem('202404406540', relator, 'REYNALDO SOARES'). tem('202404406540', classe, 'AREsp'). tem('202404406540', objeto, 'p4').
+resultado_real('202404406540', perde).
+tem('202404490281', turma, 'QUINTA TURMA'). tem('202404490281', relator, 'REYNALDO SOARES'). tem('202404490281', classe, 'AREsp'). tem('202404490281', objeto, 'outro').
+tem('202404490281', marcador, 'faccao').
+resultado_real('202404490281', perde).
+tem('202404490270', turma, 'QUINTA TURMA'). tem('202404490270', relator, 'REYNALDO SOARES'). tem('202404490270', classe, 'AREsp'). tem('202404490270', objeto, 'p4').
+tem('202404490270', marcador, 'faccao').
+resultado_real('202404490270', perde).
+tem('202404509136', turma, 'QUINTA TURMA'). tem('202404509136', relator, 'REYNALDO SOARES'). tem('202404509136', classe, 'AREsp'). tem('202404509136', objeto, 'p4').
+resultado_real('202404509136', perde).
+tem('202404541470', turma, 'QUINTA TURMA'). tem('202404541470', relator, 'REYNALDO SOARES'). tem('202404541470', classe, 'AREsp'). tem('202404541470', objeto, 'p4').
+tem('202404541470', marcador, 'faccao').
+resultado_real('202404541470', perde).
+tem('202404590480', turma, 'QUINTA TURMA'). tem('202404590480', relator, 'REYNALDO SOARES'). tem('202404590480', classe, 'AREsp'). tem('202404590480', objeto, 'nulidade_busca').
+resultado_real('202404590480', perde).
+tem('202404601680', turma, 'QUINTA TURMA'). tem('202404601680', relator, 'REYNALDO SOARES'). tem('202404601680', classe, 'AREsp'). tem('202404601680', objeto, 'p4').
+tem('202404601680', marcador, 'faccao').
+resultado_real('202404601680', perde).
+tem('202404606175', turma, 'QUINTA TURMA'). tem('202404606175', relator, 'REYNALDO SOARES'). tem('202404606175', classe, 'AREsp'). tem('202404606175', objeto, 'p4').
+resultado_real('202404606175', perde).
+tem('202404663909', turma, 'QUINTA TURMA'). tem('202404663909', relator, 'REYNALDO SOARES'). tem('202404663909', classe, 'AREsp'). tem('202404663909', objeto, 'outro').
+resultado_real('202404663909', perde).
+tem('202404687587', turma, 'QUINTA TURMA'). tem('202404687587', relator, 'REYNALDO SOARES'). tem('202404687587', classe, 'AREsp'). tem('202404687587', objeto, 'autoria').
+resultado_real('202404687587', perde).
+tem('202404705136', turma, 'QUINTA TURMA'). tem('202404705136', relator, 'REYNALDO SOARES'). tem('202404705136', classe, 'AREsp'). tem('202404705136', objeto, 'outro').
+tem('202404705136', marcador, 'faccao').
+resultado_real('202404705136', vence).
+tem('202404785615', turma, 'QUINTA TURMA'). tem('202404785615', relator, 'REYNALDO SOARES'). tem('202404785615', classe, 'AREsp'). tem('202404785615', objeto, 'p4').
+tem('202404785615', marcador, 'faccao').
+tem('202404785615', marcador, 'conhecido_policia').
+resultado_real('202404785615', perde).
+tem('202404800394', turma, 'QUINTA TURMA'). tem('202404800394', relator, 'REYNALDO SOARES'). tem('202404800394', classe, 'AREsp'). tem('202404800394', objeto, 'dosimetria').
+resultado_real('202404800394', perde).
 tem('202404824040', turma, 'QUINTA TURMA'). tem('202404824040', relator, 'REYNALDO SOARES'). tem('202404824040', classe, 'AREsp'). tem('202404824040', objeto, 'dosimetria').
 resultado_real('202404824040', perde).
+tem('202500007027', turma, 'QUINTA TURMA'). tem('202500007027', relator, 'REYNALDO SOARES'). tem('202500007027', classe, 'AREsp'). tem('202500007027', objeto, 'dosimetria').
+resultado_real('202500007027', perde).
+tem('202500042984', turma, 'QUINTA TURMA'). tem('202500042984', relator, 'REYNALDO SOARES'). tem('202500042984', classe, 'AREsp'). tem('202500042984', objeto, 'dosimetria').
+resultado_real('202500042984', vence).
+tem('202500045839', turma, 'QUINTA TURMA'). tem('202500045839', relator, 'REYNALDO SOARES'). tem('202500045839', classe, 'AREsp'). tem('202500045839', objeto, 'p4').
+tem('202500045839', marcador, 'atos_infracionais').
+resultado_real('202500045839', perde).
+tem('202500086481', turma, 'QUINTA TURMA'). tem('202500086481', relator, 'REYNALDO SOARES'). tem('202500086481', classe, 'AREsp'). tem('202500086481', objeto, 'p4').
+resultado_real('202500086481', perde).
+tem('202500089160', turma, 'QUINTA TURMA'). tem('202500089160', relator, 'REYNALDO SOARES'). tem('202500089160', classe, 'AREsp'). tem('202500089160', objeto, 'desclassificacao').
+resultado_real('202500089160', perde).
+tem('202500096085', turma, 'QUINTA TURMA'). tem('202500096085', relator, 'REYNALDO SOARES'). tem('202500096085', classe, 'AREsp'). tem('202500096085', objeto, 'dosimetria').
+resultado_real('202500096085', perde).
+tem('202500104281', turma, 'QUINTA TURMA'). tem('202500104281', relator, 'REYNALDO SOARES'). tem('202500104281', classe, 'AREsp'). tem('202500104281', objeto, 'p4').
+resultado_real('202500104281', perde).
+tem('202500104559', turma, 'QUINTA TURMA'). tem('202500104559', relator, 'REYNALDO SOARES'). tem('202500104559', classe, 'AREsp'). tem('202500104559', objeto, 'p4').
+resultado_real('202500104559', perde).
+tem('202500128002', turma, 'QUINTA TURMA'). tem('202500128002', relator, 'REYNALDO SOARES'). tem('202500128002', classe, 'AREsp'). tem('202500128002', objeto, 'nulidade_busca').
+tem('202500128002', marcador, 'faccao').
+resultado_real('202500128002', perde).
+tem('202500191120', turma, 'QUINTA TURMA'). tem('202500191120', relator, 'REYNALDO SOARES'). tem('202500191120', classe, 'AREsp'). tem('202500191120', objeto, 'p4').
+tem('202500191120', marcador, 'faccao').
+resultado_real('202500191120', perde).
+tem('202500250078', turma, 'QUINTA TURMA'). tem('202500250078', relator, 'REYNALDO SOARES'). tem('202500250078', classe, 'AREsp'). tem('202500250078', objeto, 'p4').
+resultado_real('202500250078', perde).
+tem('202500278471', turma, 'QUINTA TURMA'). tem('202500278471', relator, 'REYNALDO SOARES'). tem('202500278471', classe, 'AREsp'). tem('202500278471', objeto, 'nulidade_busca').
+resultado_real('202500278471', perde).
+tem('202500317150', turma, 'QUINTA TURMA'). tem('202500317150', relator, 'REYNALDO SOARES'). tem('202500317150', classe, 'AREsp'). tem('202500317150', objeto, 'p4').
+resultado_real('202500317150', perde).
+tem('202500333276', turma, 'QUINTA TURMA'). tem('202500333276', relator, 'REYNALDO SOARES'). tem('202500333276', classe, 'AREsp'). tem('202500333276', objeto, 'p4').
+tem('202500333276', marcador, 'faccao').
+resultado_real('202500333276', perde).
+tem('202500365173', turma, 'QUINTA TURMA'). tem('202500365173', relator, 'REYNALDO SOARES'). tem('202500365173', classe, 'AREsp'). tem('202500365173', objeto, 'nulidade_busca').
+resultado_real('202500365173', perde).
 tem('202500508735', turma, 'QUINTA TURMA'). tem('202500508735', relator, 'REYNALDO SOARES'). tem('202500508735', classe, 'AREsp'). tem('202500508735', objeto, 'nulidade_busca').
 tem('202500508735', marcador, 'local_conhecido').
 tem('202500508735', marcador, 'nervosismo').
 resultado_real('202500508735', perde).
+tem('202500513136', turma, 'QUINTA TURMA'). tem('202500513136', relator, 'REYNALDO SOARES'). tem('202500513136', classe, 'AREsp'). tem('202500513136', objeto, 'p4').
+tem('202500513136', marcador, 'faccao').
+resultado_real('202500513136', perde).
+tem('202500423287', turma, 'QUINTA TURMA'). tem('202500423287', relator, 'REYNALDO SOARES'). tem('202500423287', classe, 'AREsp'). tem('202500423287', objeto, 'p4').
+tem('202500423287', marcador, 'faccao').
+tem('202500423287', marcador, 'atos_infracionais').
+resultado_real('202500423287', perde).
+tem('202500477933', turma, 'QUINTA TURMA'). tem('202500477933', relator, 'REYNALDO SOARES'). tem('202500477933', classe, 'AREsp'). tem('202500477933', objeto, 'dosimetria').
+resultado_real('202500477933', perde).
+tem('202500479698', turma, 'QUINTA TURMA'). tem('202500479698', relator, 'REYNALDO SOARES'). tem('202500479698', classe, 'AREsp'). tem('202500479698', objeto, 'outro').
+resultado_real('202500479698', vence).
+tem('202500610086', turma, 'QUINTA TURMA'). tem('202500610086', relator, 'REYNALDO SOARES'). tem('202500610086', classe, 'AREsp'). tem('202500610086', objeto, 'autoria').
+resultado_real('202500610086', perde).
+tem('202500664174', turma, 'QUINTA TURMA'). tem('202500664174', relator, 'REYNALDO SOARES'). tem('202500664174', classe, 'AREsp'). tem('202500664174', objeto, 'autoria').
+resultado_real('202500664174', perde).
+tem('202500736531', turma, 'QUINTA TURMA'). tem('202500736531', relator, 'REYNALDO SOARES'). tem('202500736531', classe, 'AREsp'). tem('202500736531', objeto, 'p4').
+tem('202500736531', marcador, 'faccao').
+resultado_real('202500736531', perde).
+tem('202500752254', turma, 'QUINTA TURMA'). tem('202500752254', relator, 'REYNALDO SOARES'). tem('202500752254', classe, 'AREsp'). tem('202500752254', objeto, 'desclassificacao').
+tem('202500752254', marcador, 'faccao').
+resultado_real('202500752254', vence).
+tem('202500755716', turma, 'QUINTA TURMA'). tem('202500755716', relator, 'REYNALDO SOARES'). tem('202500755716', classe, 'AREsp'). tem('202500755716', objeto, 'nulidade_busca').
+tem('202500755716', marcador, 'faccao').
+resultado_real('202500755716', perde).
+tem('202500783950', turma, 'QUINTA TURMA'). tem('202500783950', relator, 'REYNALDO SOARES'). tem('202500783950', classe, 'AREsp'). tem('202500783950', objeto, 'p4').
+resultado_real('202500783950', perde).
+tem('202500941580', turma, 'QUINTA TURMA'). tem('202500941580', relator, 'REYNALDO SOARES'). tem('202500941580', classe, 'AREsp'). tem('202500941580', objeto, 'nulidade_busca').
+tem('202500941580', marcador, 'denuncia_anonima').
+resultado_real('202500941580', perde).
+tem('202500952210', turma, 'QUINTA TURMA'). tem('202500952210', relator, 'REYNALDO SOARES'). tem('202500952210', classe, 'AREsp'). tem('202500952210', objeto, 'desclassificacao').
+resultado_real('202500952210', perde).
+tem('202500965284', turma, 'QUINTA TURMA'). tem('202500965284', relator, 'REYNALDO SOARES'). tem('202500965284', classe, 'AREsp'). tem('202500965284', objeto, 'p4').
+tem('202500965284', marcador, 'faccao').
+resultado_real('202500965284', perde).
+tem('202501026167', turma, 'QUINTA TURMA'). tem('202501026167', relator, 'REYNALDO SOARES'). tem('202501026167', classe, 'AREsp'). tem('202501026167', objeto, 'p4').
+resultado_real('202501026167', perde).
+tem('202501091434', turma, 'QUINTA TURMA'). tem('202501091434', relator, 'REYNALDO SOARES'). tem('202501091434', classe, 'AREsp'). tem('202501091434', objeto, 'p4').
+tem('202501091434', marcador, 'faccao').
+resultado_real('202501091434', perde).
+tem('202501122248', turma, 'QUINTA TURMA'). tem('202501122248', relator, 'REYNALDO SOARES'). tem('202501122248', classe, 'AREsp'). tem('202501122248', objeto, 'p4').
+resultado_real('202501122248', perde).
+tem('202501138840', turma, 'QUINTA TURMA'). tem('202501138840', relator, 'REYNALDO SOARES'). tem('202501138840', classe, 'AREsp'). tem('202501138840', objeto, 'dosimetria').
+tem('202501138840', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501138840', perde).
+tem('202501270915', turma, 'QUINTA TURMA'). tem('202501270915', relator, 'REYNALDO SOARES'). tem('202501270915', classe, 'AREsp'). tem('202501270915', objeto, 'p4').
+tem('202501270915', marcador, 'faccao').
+resultado_real('202501270915', perde).
+tem('202501311309', turma, 'QUINTA TURMA'). tem('202501311309', relator, 'REYNALDO SOARES'). tem('202501311309', classe, 'AREsp'). tem('202501311309', objeto, 'outro').
+resultado_real('202501311309', perde).
+tem('202501331101', turma, 'QUINTA TURMA'). tem('202501331101', relator, 'REYNALDO SOARES'). tem('202501331101', classe, 'AREsp'). tem('202501331101', objeto, 'p4').
+tem('202501331101', marcador, 'faccao').
+resultado_real('202501331101', perde).
+tem('202501433040', turma, 'QUINTA TURMA'). tem('202501433040', relator, 'REYNALDO SOARES'). tem('202501433040', classe, 'AREsp'). tem('202501433040', objeto, 'p4').
+tem('202501433040', marcador, 'faccao').
+resultado_real('202501433040', perde).
+tem('202501449957', turma, 'QUINTA TURMA'). tem('202501449957', relator, 'REYNALDO SOARES'). tem('202501449957', classe, 'AREsp'). tem('202501449957', objeto, 'p4').
+resultado_real('202501449957', perde).
+tem('202501466755', turma, 'QUINTA TURMA'). tem('202501466755', relator, 'REYNALDO SOARES'). tem('202501466755', classe, 'AREsp'). tem('202501466755', objeto, 'autoria').
+tem('202501466755', marcador, 'faccao').
+resultado_real('202501466755', perde).
+tem('202501495747', turma, 'QUINTA TURMA'). tem('202501495747', relator, 'REYNALDO SOARES'). tem('202501495747', classe, 'AREsp'). tem('202501495747', objeto, 'outro').
+resultado_real('202501495747', perde).
+tem('202501470146', turma, 'QUINTA TURMA'). tem('202501470146', relator, 'REYNALDO SOARES'). tem('202501470146', classe, 'AREsp'). tem('202501470146', objeto, 'p4').
+tem('202501470146', marcador, 'faccao').
+resultado_real('202501470146', perde).
+tem('202501506800', turma, 'QUINTA TURMA'). tem('202501506800', relator, 'REYNALDO SOARES'). tem('202501506800', classe, 'AREsp'). tem('202501506800', objeto, 'p4').
+resultado_real('202501506800', perde).
+tem('202501655853', turma, 'QUINTA TURMA'). tem('202501655853', relator, 'REYNALDO SOARES'). tem('202501655853', classe, 'AREsp'). tem('202501655853', objeto, 'p4').
+resultado_real('202501655853', perde).
+tem('202501607068', turma, 'QUINTA TURMA'). tem('202501607068', relator, 'REYNALDO SOARES'). tem('202501607068', classe, 'AREsp'). tem('202501607068', objeto, 'p4').
+tem('202501607068', marcador, 'faccao').
+tem('202501607068', marcador, 'conhecido_policia').
+resultado_real('202501607068', vence).
+tem('202501743589', turma, 'QUINTA TURMA'). tem('202501743589', relator, 'REYNALDO SOARES'). tem('202501743589', classe, 'AREsp'). tem('202501743589', objeto, 'p4').
+resultado_real('202501743589', vence).
+tem('202501743298', turma, 'QUINTA TURMA'). tem('202501743298', relator, 'REYNALDO SOARES'). tem('202501743298', classe, 'AREsp'). tem('202501743298', objeto, 'p4').
+resultado_real('202501743298', perde).
+tem('202501791011', turma, 'QUINTA TURMA'). tem('202501791011', relator, 'REYNALDO SOARES'). tem('202501791011', classe, 'AREsp'). tem('202501791011', objeto, 'dosimetria').
+tem('202501791011', marcador, 'faccao').
+resultado_real('202501791011', perde).
+tem('202501833843', turma, 'QUINTA TURMA'). tem('202501833843', relator, 'REYNALDO SOARES'). tem('202501833843', classe, 'AREsp'). tem('202501833843', objeto, 'nulidade_busca').
+resultado_real('202501833843', perde).
 tem('202501814608', turma, 'QUINTA TURMA'). tem('202501814608', relator, 'REYNALDO SOARES'). tem('202501814608', classe, 'AREsp'). tem('202501814608', objeto, 'outro').
 resultado_real('202501814608', perde).
 tem('202501927517', turma, 'QUINTA TURMA'). tem('202501927517', relator, 'REYNALDO SOARES'). tem('202501927517', classe, 'AREsp'). tem('202501927517', objeto, 'p4').
 resultado_real('202501927517', perde).
+tem('202501933458', turma, 'QUINTA TURMA'). tem('202501933458', relator, 'REYNALDO SOARES'). tem('202501933458', classe, 'AREsp'). tem('202501933458', objeto, 'desclassificacao').
+resultado_real('202501933458', perde).
+tem('202502028424', turma, 'QUINTA TURMA'). tem('202502028424', relator, 'REYNALDO SOARES'). tem('202502028424', classe, 'AREsp'). tem('202502028424', objeto, 'p4').
+resultado_real('202502028424', vence).
+tem('202502067575', turma, 'QUINTA TURMA'). tem('202502067575', relator, 'REYNALDO SOARES'). tem('202502067575', classe, 'AREsp'). tem('202502067575', objeto, 'outro').
+resultado_real('202502067575', perde).
+tem('202502091404', turma, 'QUINTA TURMA'). tem('202502091404', relator, 'REYNALDO SOARES'). tem('202502091404', classe, 'AREsp'). tem('202502091404', objeto, 'p4').
+tem('202502091404', marcador, 'faccao').
+resultado_real('202502091404', perde).
+tem('202502135702', turma, 'QUINTA TURMA'). tem('202502135702', relator, 'REYNALDO SOARES'). tem('202502135702', classe, 'AREsp'). tem('202502135702', objeto, 'autoria').
+resultado_real('202502135702', perde).
+tem('202502160740', turma, 'QUINTA TURMA'). tem('202502160740', relator, 'REYNALDO SOARES'). tem('202502160740', classe, 'AREsp'). tem('202502160740', objeto, 'p4').
+tem('202502160740', marcador, 'faccao').
+resultado_real('202502160740', perde).
+tem('202502180102', turma, 'QUINTA TURMA'). tem('202502180102', relator, 'REYNALDO SOARES'). tem('202502180102', classe, 'AREsp'). tem('202502180102', objeto, 'p4').
+tem('202502180102', marcador, 'faccao').
+resultado_real('202502180102', perde).
+tem('202502211964', turma, 'QUINTA TURMA'). tem('202502211964', relator, 'REYNALDO SOARES'). tem('202502211964', classe, 'AREsp'). tem('202502211964', objeto, 'p4').
+tem('202502211964', marcador, 'faccao').
+resultado_real('202502211964', perde).
 tem('202502318285', turma, 'QUINTA TURMA'). tem('202502318285', relator, 'REYNALDO SOARES'). tem('202502318285', classe, 'AREsp'). tem('202502318285', objeto, 'nulidade_busca').
 tem('202502318285', marcador, 'fuga_mudanca_direcao').
 resultado_real('202502318285', perde).
+tem('202502300852', turma, 'QUINTA TURMA'). tem('202502300852', relator, 'REYNALDO SOARES'). tem('202502300852', classe, 'AREsp'). tem('202502300852', objeto, 'nulidade_busca').
+tem('202502300852', marcador, 'faccao').
+resultado_real('202502300852', perde).
+tem('202502351958', turma, 'QUINTA TURMA'). tem('202502351958', relator, 'REYNALDO SOARES'). tem('202502351958', classe, 'AREsp'). tem('202502351958', objeto, 'p4').
+tem('202502351958', marcador, 'faccao').
+resultado_real('202502351958', perde).
+tem('202502543610', turma, 'QUINTA TURMA'). tem('202502543610', relator, 'REYNALDO SOARES'). tem('202502543610', classe, 'AREsp'). tem('202502543610', objeto, 'desclassificacao').
+resultado_real('202502543610', perde).
+tem('202502575530', turma, 'QUINTA TURMA'). tem('202502575530', relator, 'REYNALDO SOARES'). tem('202502575530', classe, 'AREsp'). tem('202502575530', objeto, 'p4').
+tem('202502575530', marcador, 'faccao').
+resultado_real('202502575530', perde).
 tem('202502841624', turma, 'QUINTA TURMA'). tem('202502841624', relator, 'REYNALDO SOARES'). tem('202502841624', classe, 'AREsp'). tem('202502841624', objeto, 'dosimetria').
 resultado_real('202502841624', perde).
 tem('202502913447', turma, 'QUINTA TURMA'). tem('202502913447', relator, 'REYNALDO SOARES'). tem('202502913447', classe, 'AREsp'). tem('202502913447', objeto, 'desclassificacao').
@@ -1433,6 +5560,188 @@ tem('202601896125', turma, 'QUINTA TURMA'). tem('202601896125', relator, 'REYNAL
 tem('202601896125', marcador, 'fuga_mudanca_direcao').
 tem('202601896125', marcador, 'denuncia_anonima').
 resultado_real('202601896125', perde).
+tem('202501550819', turma, 'QUINTA TURMA'). tem('202501550819', relator, 'REYNALDO SOARES'). tem('202501550819', classe, 'HC'). tem('202501550819', objeto, 'nulidade_busca').
+tem('202501550819', marcador, 'faccao').
+resultado_real('202501550819', perde).
+tem('202501536089', turma, 'QUINTA TURMA'). tem('202501536089', relator, 'REYNALDO SOARES'). tem('202501536089', classe, 'HC'). tem('202501536089', objeto, 'p4').
+tem('202501536089', marcador, 'faccao').
+resultado_real('202501536089', perde).
+tem('202501594454', turma, 'QUINTA TURMA'). tem('202501594454', relator, 'REYNALDO SOARES'). tem('202501594454', classe, 'HC'). tem('202501594454', objeto, 'dosimetria').
+resultado_real('202501594454', perde).
+tem('202501599418', turma, 'QUINTA TURMA'). tem('202501599418', relator, 'REYNALDO SOARES'). tem('202501599418', classe, 'HC'). tem('202501599418', objeto, 'autoria').
+tem('202501599418', marcador, 'faccao').
+resultado_real('202501599418', perde).
+tem('202501677401', turma, 'QUINTA TURMA'). tem('202501677401', relator, 'REYNALDO SOARES'). tem('202501677401', classe, 'HC'). tem('202501677401', objeto, 'desclassificacao').
+tem('202501677401', marcador, 'denuncia_anonima').
+resultado_real('202501677401', perde).
+tem('202501684340', turma, 'QUINTA TURMA'). tem('202501684340', relator, 'REYNALDO SOARES'). tem('202501684340', classe, 'HC'). tem('202501684340', objeto, 'p4').
+resultado_real('202501684340', perde).
+tem('202501686169', turma, 'QUINTA TURMA'). tem('202501686169', relator, 'REYNALDO SOARES'). tem('202501686169', classe, 'HC'). tem('202501686169', objeto, 'p4').
+tem('202501686169', marcador, 'faccao').
+resultado_real('202501686169', perde).
+tem('202501733758', turma, 'QUINTA TURMA'). tem('202501733758', relator, 'REYNALDO SOARES'). tem('202501733758', classe, 'HC'). tem('202501733758', objeto, 'nulidade_busca').
+tem('202501733758', marcador, 'comunidade_bairro').
+tem('202501733758', marcador, 'nervosismo').
+resultado_real('202501733758', perde).
+tem('202501796620', turma, 'QUINTA TURMA'). tem('202501796620', relator, 'REYNALDO SOARES'). tem('202501796620', classe, 'HC'). tem('202501796620', objeto, 'outro').
+resultado_real('202501796620', perde).
+tem('202501784210', turma, 'QUINTA TURMA'). tem('202501784210', relator, 'REYNALDO SOARES'). tem('202501784210', classe, 'HC'). tem('202501784210', objeto, 'dosimetria').
+resultado_real('202501784210', perde).
+tem('202501842437', turma, 'QUINTA TURMA'). tem('202501842437', relator, 'REYNALDO SOARES'). tem('202501842437', classe, 'HC'). tem('202501842437', objeto, 'p4').
+tem('202501842437', marcador, 'faccao').
+resultado_real('202501842437', perde).
+tem('202501847616', turma, 'QUINTA TURMA'). tem('202501847616', relator, 'REYNALDO SOARES'). tem('202501847616', classe, 'HC'). tem('202501847616', objeto, 'p4').
+tem('202501847616', marcador, 'faccao').
+resultado_real('202501847616', perde).
+tem('202501876406', turma, 'QUINTA TURMA'). tem('202501876406', relator, 'REYNALDO SOARES'). tem('202501876406', classe, 'HC'). tem('202501876406', objeto, 'dosimetria').
+resultado_real('202501876406', perde).
+tem('202501878261', turma, 'QUINTA TURMA'). tem('202501878261', relator, 'REYNALDO SOARES'). tem('202501878261', classe, 'HC'). tem('202501878261', objeto, 'dosimetria').
+resultado_real('202501878261', perde).
+tem('202501908089', turma, 'QUINTA TURMA'). tem('202501908089', relator, 'REYNALDO SOARES'). tem('202501908089', classe, 'HC'). tem('202501908089', objeto, 'outro').
+resultado_real('202501908089', perde).
+tem('202501965165', turma, 'QUINTA TURMA'). tem('202501965165', relator, 'REYNALDO SOARES'). tem('202501965165', classe, 'HC'). tem('202501965165', objeto, 'p4').
+resultado_real('202501965165', perde).
+tem('202501994513', turma, 'QUINTA TURMA'). tem('202501994513', relator, 'REYNALDO SOARES'). tem('202501994513', classe, 'HC'). tem('202501994513', objeto, 'p4').
+tem('202501994513', marcador, 'faccao').
+resultado_real('202501994513', perde).
+tem('202502012186', turma, 'QUINTA TURMA'). tem('202502012186', relator, 'REYNALDO SOARES'). tem('202502012186', classe, 'HC'). tem('202502012186', objeto, 'nulidade_busca').
+tem('202502012186', marcador, 'faccao').
+resultado_real('202502012186', perde).
+tem('202502013616', turma, 'QUINTA TURMA'). tem('202502013616', relator, 'REYNALDO SOARES'). tem('202502013616', classe, 'HC'). tem('202502013616', objeto, 'p4').
+resultado_real('202502013616', perde).
+tem('202502039795', turma, 'QUINTA TURMA'). tem('202502039795', relator, 'REYNALDO SOARES'). tem('202502039795', classe, 'HC'). tem('202502039795', objeto, 'outro').
+resultado_real('202502039795', perde).
+tem('202502038583', turma, 'QUINTA TURMA'). tem('202502038583', relator, 'REYNALDO SOARES'). tem('202502038583', classe, 'HC'). tem('202502038583', objeto, 'nulidade_busca').
+resultado_real('202502038583', perde).
+tem('202502045347', turma, 'QUINTA TURMA'). tem('202502045347', relator, 'REYNALDO SOARES'). tem('202502045347', classe, 'HC'). tem('202502045347', objeto, 'p4').
+tem('202502045347', marcador, 'faccao').
+resultado_real('202502045347', perde).
+tem('202502056277', turma, 'QUINTA TURMA'). tem('202502056277', relator, 'REYNALDO SOARES'). tem('202502056277', classe, 'HC'). tem('202502056277', objeto, 'nulidade_busca').
+tem('202502056277', marcador, 'nervosismo').
+resultado_real('202502056277', perde).
+tem('202502079001', turma, 'QUINTA TURMA'). tem('202502079001', relator, 'REYNALDO SOARES'). tem('202502079001', classe, 'HC'). tem('202502079001', objeto, 'nulidade_busca').
+resultado_real('202502079001', perde).
+tem('202502094976', turma, 'QUINTA TURMA'). tem('202502094976', relator, 'REYNALDO SOARES'). tem('202502094976', classe, 'HC'). tem('202502094976', objeto, 'p4').
+tem('202502094976', marcador, 'faccao').
+tem('202502094976', marcador, 'ocupacao').
+resultado_real('202502094976', perde).
+tem('202502096895', turma, 'QUINTA TURMA'). tem('202502096895', relator, 'REYNALDO SOARES'). tem('202502096895', classe, 'HC'). tem('202502096895', objeto, 'dosimetria').
+resultado_real('202502096895', perde).
+tem('202502097969', turma, 'QUINTA TURMA'). tem('202502097969', relator, 'REYNALDO SOARES'). tem('202502097969', classe, 'HC'). tem('202502097969', objeto, 'nulidade_busca').
+resultado_real('202502097969', perde).
+tem('202502099334', turma, 'QUINTA TURMA'). tem('202502099334', relator, 'REYNALDO SOARES'). tem('202502099334', classe, 'HC'). tem('202502099334', objeto, 'nulidade_busca').
+resultado_real('202502099334', perde).
+tem('202502125071', turma, 'QUINTA TURMA'). tem('202502125071', relator, 'REYNALDO SOARES'). tem('202502125071', classe, 'HC'). tem('202502125071', objeto, 'p4').
+tem('202502125071', marcador, 'faccao').
+resultado_real('202502125071', perde).
+tem('202502139843', turma, 'QUINTA TURMA'). tem('202502139843', relator, 'REYNALDO SOARES'). tem('202502139843', classe, 'HC'). tem('202502139843', objeto, 'p4').
+tem('202502139843', marcador, 'faccao').
+resultado_real('202502139843', perde).
+tem('202502228820', turma, 'QUINTA TURMA'). tem('202502228820', relator, 'REYNALDO SOARES'). tem('202502228820', classe, 'HC'). tem('202502228820', objeto, 'nulidade_busca').
+resultado_real('202502228820', perde).
+tem('202502228654', turma, 'QUINTA TURMA'). tem('202502228654', relator, 'REYNALDO SOARES'). tem('202502228654', classe, 'HC'). tem('202502228654', objeto, 'p4').
+tem('202502228654', marcador, 'faccao').
+resultado_real('202502228654', perde).
+tem('202502228792', turma, 'QUINTA TURMA'). tem('202502228792', relator, 'REYNALDO SOARES'). tem('202502228792', classe, 'HC'). tem('202502228792', objeto, 'nulidade_busca').
+tem('202502228792', marcador, 'nervosismo').
+tem('202502228792', marcador, 'fuga_mudanca_direcao').
+resultado_real('202502228792', perde).
+tem('202502233840', turma, 'QUINTA TURMA'). tem('202502233840', relator, 'REYNALDO SOARES'). tem('202502233840', classe, 'HC'). tem('202502233840', objeto, 'p4').
+tem('202502233840', marcador, 'faccao').
+resultado_real('202502233840', perde).
+tem('202502253529', turma, 'QUINTA TURMA'). tem('202502253529', relator, 'REYNALDO SOARES'). tem('202502253529', classe, 'HC'). tem('202502253529', objeto, 'nulidade_busca').
+resultado_real('202502253529', perde).
+tem('202502256915', turma, 'QUINTA TURMA'). tem('202502256915', relator, 'REYNALDO SOARES'). tem('202502256915', classe, 'HC'). tem('202502256915', objeto, 'p4').
+tem('202502256915', marcador, 'faccao').
+resultado_real('202502256915', perde).
+tem('202502261074', turma, 'QUINTA TURMA'). tem('202502261074', relator, 'REYNALDO SOARES'). tem('202502261074', classe, 'HC'). tem('202502261074', objeto, 'desclassificacao').
+tem('202502261074', marcador, 'vulgo').
+tem('202502261074', marcador, 'faccao').
+resultado_real('202502261074', perde).
+tem('202502266216', turma, 'QUINTA TURMA'). tem('202502266216', relator, 'REYNALDO SOARES'). tem('202502266216', classe, 'HC'). tem('202502266216', objeto, 'p4').
+tem('202502266216', marcador, 'local_conhecido').
+tem('202502266216', marcador, 'faccao').
+tem('202502266216', marcador, 'conhecido_policia').
+tem('202502266216', marcador, 'denuncia_anonima').
+resultado_real('202502266216', perde).
+tem('202502292846', turma, 'QUINTA TURMA'). tem('202502292846', relator, 'REYNALDO SOARES'). tem('202502292846', classe, 'HC'). tem('202502292846', objeto, 'outro').
+tem('202502292846', marcador, 'atos_infracionais').
+resultado_real('202502292846', perde).
+tem('202502284922', turma, 'QUINTA TURMA'). tem('202502284922', relator, 'REYNALDO SOARES'). tem('202502284922', classe, 'HC'). tem('202502284922', objeto, 'dosimetria').
+resultado_real('202502284922', perde).
+tem('202502294599', turma, 'QUINTA TURMA'). tem('202502294599', relator, 'REYNALDO SOARES'). tem('202502294599', classe, 'HC'). tem('202502294599', objeto, 'outro').
+tem('202502294599', marcador, 'faccao').
+resultado_real('202502294599', perde).
+tem('202502329874', turma, 'QUINTA TURMA'). tem('202502329874', relator, 'REYNALDO SOARES'). tem('202502329874', classe, 'HC'). tem('202502329874', objeto, 'nulidade_busca').
+tem('202502329874', marcador, 'fuga_mudanca_direcao').
+resultado_real('202502329874', perde).
+tem('202502380724', turma, 'QUINTA TURMA'). tem('202502380724', relator, 'REYNALDO SOARES'). tem('202502380724', classe, 'HC'). tem('202502380724', objeto, 'p4').
+resultado_real('202502380724', perde).
+tem('202502420121', turma, 'QUINTA TURMA'). tem('202502420121', relator, 'REYNALDO SOARES'). tem('202502420121', classe, 'HC'). tem('202502420121', objeto, 'p4').
+resultado_real('202502420121', perde).
+tem('202502425211', turma, 'QUINTA TURMA'). tem('202502425211', relator, 'REYNALDO SOARES'). tem('202502425211', classe, 'HC'). tem('202502425211', objeto, 'desclassificacao').
+resultado_real('202502425211', perde).
+tem('202502461813', turma, 'QUINTA TURMA'). tem('202502461813', relator, 'REYNALDO SOARES'). tem('202502461813', classe, 'HC'). tem('202502461813', objeto, 'p4').
+tem('202502461813', marcador, 'faccao').
+resultado_real('202502461813', perde).
+tem('202502482246', turma, 'QUINTA TURMA'). tem('202502482246', relator, 'REYNALDO SOARES'). tem('202502482246', classe, 'HC'). tem('202502482246', objeto, 'dosimetria').
+resultado_real('202502482246', perde).
+tem('202502512645', turma, 'QUINTA TURMA'). tem('202502512645', relator, 'REYNALDO SOARES'). tem('202502512645', classe, 'HC'). tem('202502512645', objeto, 'nulidade_busca').
+resultado_real('202502512645', perde).
+tem('202502512556', turma, 'QUINTA TURMA'). tem('202502512556', relator, 'REYNALDO SOARES'). tem('202502512556', classe, 'HC'). tem('202502512556', objeto, 'outro').
+tem('202502512556', marcador, 'faccao').
+resultado_real('202502512556', perde).
+tem('202502520141', turma, 'QUINTA TURMA'). tem('202502520141', relator, 'REYNALDO SOARES'). tem('202502520141', classe, 'HC'). tem('202502520141', objeto, 'nulidade_busca').
+resultado_real('202502520141', perde).
+tem('202502553249', turma, 'QUINTA TURMA'). tem('202502553249', relator, 'REYNALDO SOARES'). tem('202502553249', classe, 'HC'). tem('202502553249', objeto, 'p4').
+tem('202502553249', marcador, 'local_conhecido').
+tem('202502553249', marcador, 'faccao').
+resultado_real('202502553249', perde).
+tem('202502664900', turma, 'QUINTA TURMA'). tem('202502664900', relator, 'REYNALDO SOARES'). tem('202502664900', classe, 'HC'). tem('202502664900', objeto, 'outro').
+resultado_real('202502664900', perde).
+tem('202502723810', turma, 'QUINTA TURMA'). tem('202502723810', relator, 'REYNALDO SOARES'). tem('202502723810', classe, 'HC'). tem('202502723810', objeto, 'dosimetria').
+resultado_real('202502723810', perde).
+tem('202502757851', turma, 'QUINTA TURMA'). tem('202502757851', relator, 'REYNALDO SOARES'). tem('202502757851', classe, 'HC'). tem('202502757851', objeto, 'p4').
+tem('202502757851', marcador, 'faccao').
+resultado_real('202502757851', perde).
+tem('202502806271', turma, 'QUINTA TURMA'). tem('202502806271', relator, 'REYNALDO SOARES'). tem('202502806271', classe, 'HC'). tem('202502806271', objeto, 'autoria').
+tem('202502806271', marcador, 'denuncia_anonima').
+resultado_real('202502806271', perde).
+tem('202502814300', turma, 'QUINTA TURMA'). tem('202502814300', relator, 'REYNALDO SOARES'). tem('202502814300', classe, 'HC'). tem('202502814300', objeto, 'dosimetria').
+resultado_real('202502814300', perde).
+tem('202502845401', turma, 'QUINTA TURMA'). tem('202502845401', relator, 'REYNALDO SOARES'). tem('202502845401', classe, 'HC'). tem('202502845401', objeto, 'dosimetria').
+resultado_real('202502845401', perde).
+tem('202502866960', turma, 'QUINTA TURMA'). tem('202502866960', relator, 'REYNALDO SOARES'). tem('202502866960', classe, 'HC'). tem('202502866960', objeto, 'p4').
+tem('202502866960', marcador, 'faccao').
+resultado_real('202502866960', perde).
+tem('202502879152', turma, 'QUINTA TURMA'). tem('202502879152', relator, 'REYNALDO SOARES'). tem('202502879152', classe, 'HC'). tem('202502879152', objeto, 'p4').
+tem('202502879152', marcador, 'faccao').
+resultado_real('202502879152', perde).
+tem('202503056425', turma, 'QUINTA TURMA'). tem('202503056425', relator, 'REYNALDO SOARES'). tem('202503056425', classe, 'HC'). tem('202503056425', objeto, 'p4').
+tem('202503056425', marcador, 'faccao').
+resultado_real('202503056425', perde).
+tem('202503232747', turma, 'QUINTA TURMA'). tem('202503232747', relator, 'REYNALDO SOARES'). tem('202503232747', classe, 'HC'). tem('202503232747', objeto, 'p4').
+tem('202503232747', marcador, 'local_conhecido').
+tem('202503232747', marcador, 'faccao').
+resultado_real('202503232747', perde).
+tem('202503257095', turma, 'QUINTA TURMA'). tem('202503257095', relator, 'REYNALDO SOARES'). tem('202503257095', classe, 'HC'). tem('202503257095', objeto, 'outro').
+resultado_real('202503257095', perde).
+tem('202503316538', turma, 'QUINTA TURMA'). tem('202503316538', relator, 'REYNALDO SOARES'). tem('202503316538', classe, 'HC'). tem('202503316538', objeto, 'p4').
+tem('202503316538', marcador, 'faccao').
+resultado_real('202503316538', perde).
+tem('202503358784', turma, 'QUINTA TURMA'). tem('202503358784', relator, 'REYNALDO SOARES'). tem('202503358784', classe, 'HC'). tem('202503358784', objeto, 'desclassificacao').
+tem('202503358784', marcador, 'local_conhecido').
+resultado_real('202503358784', perde).
+tem('202503540772', turma, 'QUINTA TURMA'). tem('202503540772', relator, 'REYNALDO SOARES'). tem('202503540772', classe, 'HC'). tem('202503540772', objeto, 'p4').
+tem('202503540772', marcador, 'faccao').
+resultado_real('202503540772', perde).
+tem('202503759209', turma, 'QUINTA TURMA'). tem('202503759209', relator, 'REYNALDO SOARES'). tem('202503759209', classe, 'HC'). tem('202503759209', objeto, 'outro').
+resultado_real('202503759209', perde).
+tem('202503779860', turma, 'QUINTA TURMA'). tem('202503779860', relator, 'REYNALDO SOARES'). tem('202503779860', classe, 'HC'). tem('202503779860', objeto, 'dosimetria').
+resultado_real('202503779860', perde).
+tem('202503845444', turma, 'QUINTA TURMA'). tem('202503845444', relator, 'REYNALDO SOARES'). tem('202503845444', classe, 'HC'). tem('202503845444', objeto, 'p4').
+tem('202503845444', marcador, 'faccao').
+resultado_real('202503845444', perde).
 tem('202600658605', turma, 'QUINTA TURMA'). tem('202600658605', relator, 'REYNALDO SOARES'). tem('202600658605', classe, 'HC'). tem('202600658605', objeto, 'outro').
 tem('202600658605', marcador, 'faccao').
 resultado_real('202600658605', perde).
@@ -1619,14 +5928,513 @@ tem('202602669941', marcador, 'faccao').
 resultado_real('202602669941', perde).
 tem('202603001267', turma, 'QUINTA TURMA'). tem('202603001267', relator, 'REYNALDO SOARES'). tem('202603001267', classe, 'HC'). tem('202603001267', objeto, 'p4').
 resultado_real('202603001267', perde).
+tem('202300128310', turma, 'QUINTA TURMA'). tem('202300128310', relator, 'REYNALDO SOARES'). tem('202300128310', classe, 'HC'). tem('202300128310', objeto, 'autoria').
+resultado_real('202300128310', perde).
+tem('202302780758', turma, 'QUINTA TURMA'). tem('202302780758', relator, 'REYNALDO SOARES'). tem('202302780758', classe, 'HC'). tem('202302780758', objeto, 'p4').
+tem('202302780758', marcador, 'faccao').
+resultado_real('202302780758', perde).
+tem('202303042339', turma, 'QUINTA TURMA'). tem('202303042339', relator, 'REYNALDO SOARES'). tem('202303042339', classe, 'HC'). tem('202303042339', objeto, 'nulidade_busca').
+tem('202303042339', marcador, 'faccao').
+resultado_real('202303042339', perde).
+tem('202304195683', turma, 'QUINTA TURMA'). tem('202304195683', relator, 'REYNALDO SOARES'). tem('202304195683', classe, 'HC'). tem('202304195683', objeto, 'p4').
+resultado_real('202304195683', perde).
+tem('202304340438', turma, 'QUINTA TURMA'). tem('202304340438', relator, 'REYNALDO SOARES'). tem('202304340438', classe, 'HC'). tem('202304340438', objeto, 'desclassificacao').
+resultado_real('202304340438', perde).
+tem('202401168470', turma, 'QUINTA TURMA'). tem('202401168470', relator, 'REYNALDO SOARES'). tem('202401168470', classe, 'HC'). tem('202401168470', objeto, 'outro').
+resultado_real('202401168470', perde).
+tem('202401230277', turma, 'QUINTA TURMA'). tem('202401230277', relator, 'REYNALDO SOARES'). tem('202401230277', classe, 'HC'). tem('202401230277', objeto, 'dosimetria').
+tem('202401230277', marcador, 'faccao').
+resultado_real('202401230277', perde).
+tem('202401665845', turma, 'QUINTA TURMA'). tem('202401665845', relator, 'REYNALDO SOARES'). tem('202401665845', classe, 'HC'). tem('202401665845', objeto, 'p4').
+tem('202401665845', marcador, 'faccao').
+resultado_real('202401665845', perde).
+tem('202401740619', turma, 'QUINTA TURMA'). tem('202401740619', relator, 'REYNALDO SOARES'). tem('202401740619', classe, 'HC'). tem('202401740619', objeto, 'p4').
+resultado_real('202401740619', perde).
+tem('202401902330', turma, 'QUINTA TURMA'). tem('202401902330', relator, 'REYNALDO SOARES'). tem('202401902330', classe, 'HC'). tem('202401902330', objeto, 'p4').
+resultado_real('202401902330', perde).
+tem('202402032417', turma, 'QUINTA TURMA'). tem('202402032417', relator, 'REYNALDO SOARES'). tem('202402032417', classe, 'HC'). tem('202402032417', objeto, 'outro').
+resultado_real('202402032417', perde).
+tem('202402386767', turma, 'QUINTA TURMA'). tem('202402386767', relator, 'REYNALDO SOARES'). tem('202402386767', classe, 'HC'). tem('202402386767', objeto, 'dosimetria').
+resultado_real('202402386767', perde).
+tem('202402449959', turma, 'QUINTA TURMA'). tem('202402449959', relator, 'REYNALDO SOARES'). tem('202402449959', classe, 'HC'). tem('202402449959', objeto, 'p4').
+tem('202402449959', marcador, 'faccao').
+resultado_real('202402449959', perde).
+tem('202402612600', turma, 'QUINTA TURMA'). tem('202402612600', relator, 'REYNALDO SOARES'). tem('202402612600', classe, 'HC'). tem('202402612600', objeto, 'p4').
+tem('202402612600', marcador, 'faccao').
+resultado_real('202402612600', perde).
+tem('202402651585', turma, 'QUINTA TURMA'). tem('202402651585', relator, 'REYNALDO SOARES'). tem('202402651585', classe, 'HC'). tem('202402651585', objeto, 'nulidade_busca').
+resultado_real('202402651585', perde).
+tem('202402685364', turma, 'QUINTA TURMA'). tem('202402685364', relator, 'REYNALDO SOARES'). tem('202402685364', classe, 'HC'). tem('202402685364', objeto, 'nulidade_busca').
+tem('202402685364', marcador, 'denuncia_anonima').
+resultado_real('202402685364', perde).
+tem('202402711331', turma, 'QUINTA TURMA'). tem('202402711331', relator, 'REYNALDO SOARES'). tem('202402711331', classe, 'HC'). tem('202402711331', objeto, 'p4').
+tem('202402711331', marcador, 'faccao').
+resultado_real('202402711331', perde).
+tem('202402719135', turma, 'QUINTA TURMA'). tem('202402719135', relator, 'REYNALDO SOARES'). tem('202402719135', classe, 'HC'). tem('202402719135', objeto, 'dosimetria').
+resultado_real('202402719135', perde).
+tem('202402728830', turma, 'QUINTA TURMA'). tem('202402728830', relator, 'REYNALDO SOARES'). tem('202402728830', classe, 'HC'). tem('202402728830', objeto, 'dosimetria').
+resultado_real('202402728830', perde).
+tem('202402733393', turma, 'QUINTA TURMA'). tem('202402733393', relator, 'REYNALDO SOARES'). tem('202402733393', classe, 'HC'). tem('202402733393', objeto, 'nulidade_busca').
+tem('202402733393', marcador, 'comunidade_bairro').
+tem('202402733393', marcador, 'faccao').
+tem('202402733393', marcador, 'conhecido_policia').
+tem('202402733393', marcador, 'nervosismo').
+tem('202402733393', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402733393', vence).
+tem('202402879729', turma, 'QUINTA TURMA'). tem('202402879729', relator, 'REYNALDO SOARES'). tem('202402879729', classe, 'HC'). tem('202402879729', objeto, 'nulidade_busca').
+resultado_real('202402879729', perde).
+tem('202402940819', turma, 'QUINTA TURMA'). tem('202402940819', relator, 'REYNALDO SOARES'). tem('202402940819', classe, 'HC'). tem('202402940819', objeto, 'p4').
+tem('202402940819', marcador, 'comunidade_bairro').
+resultado_real('202402940819', vence).
+tem('202402977111', turma, 'QUINTA TURMA'). tem('202402977111', relator, 'REYNALDO SOARES'). tem('202402977111', classe, 'HC'). tem('202402977111', objeto, 'desclassificacao').
+resultado_real('202402977111', perde).
+tem('202402997392', turma, 'QUINTA TURMA'). tem('202402997392', relator, 'REYNALDO SOARES'). tem('202402997392', classe, 'HC'). tem('202402997392', objeto, 'nulidade_busca').
+resultado_real('202402997392', perde).
+tem('202403083138', turma, 'QUINTA TURMA'). tem('202403083138', relator, 'REYNALDO SOARES'). tem('202403083138', classe, 'HC'). tem('202403083138', objeto, 'dosimetria').
+resultado_real('202403083138', perde).
+tem('202403252825', turma, 'QUINTA TURMA'). tem('202403252825', relator, 'REYNALDO SOARES'). tem('202403252825', classe, 'HC'). tem('202403252825', objeto, 'p4').
+tem('202403252825', marcador, 'faccao').
+resultado_real('202403252825', perde).
+tem('202403287210', turma, 'QUINTA TURMA'). tem('202403287210', relator, 'REYNALDO SOARES'). tem('202403287210', classe, 'HC'). tem('202403287210', objeto, 'nulidade_busca').
+tem('202403287210', marcador, 'faccao').
+tem('202403287210', marcador, 'atos_infracionais').
+resultado_real('202403287210', perde).
+tem('202403343203', turma, 'QUINTA TURMA'). tem('202403343203', relator, 'REYNALDO SOARES'). tem('202403343203', classe, 'HC'). tem('202403343203', objeto, 'outro').
+resultado_real('202403343203', perde).
+tem('202403452651', turma, 'QUINTA TURMA'). tem('202403452651', relator, 'REYNALDO SOARES'). tem('202403452651', classe, 'HC'). tem('202403452651', objeto, 'autoria').
+resultado_real('202403452651', perde).
+tem('202403463835', turma, 'QUINTA TURMA'). tem('202403463835', relator, 'REYNALDO SOARES'). tem('202403463835', classe, 'HC'). tem('202403463835', objeto, 'dosimetria').
+resultado_real('202403463835', perde).
+tem('202403474805', turma, 'QUINTA TURMA'). tem('202403474805', relator, 'REYNALDO SOARES'). tem('202403474805', classe, 'HC'). tem('202403474805', objeto, 'outro').
+resultado_real('202403474805', perde).
+tem('202403476914', turma, 'QUINTA TURMA'). tem('202403476914', relator, 'REYNALDO SOARES'). tem('202403476914', classe, 'HC'). tem('202403476914', objeto, 'outro').
+resultado_real('202403476914', perde).
+tem('202403518444', turma, 'QUINTA TURMA'). tem('202403518444', relator, 'REYNALDO SOARES'). tem('202403518444', classe, 'HC'). tem('202403518444', objeto, 'p4').
+tem('202403518444', marcador, 'faccao').
+resultado_real('202403518444', perde).
+tem('202403542787', turma, 'QUINTA TURMA'). tem('202403542787', relator, 'REYNALDO SOARES'). tem('202403542787', classe, 'HC'). tem('202403542787', objeto, 'autoria').
+tem('202403542787', marcador, 'faccao').
+resultado_real('202403542787', perde).
+tem('202403578396', turma, 'QUINTA TURMA'). tem('202403578396', relator, 'REYNALDO SOARES'). tem('202403578396', classe, 'HC'). tem('202403578396', objeto, 'p4').
+tem('202403578396', marcador, 'faccao').
+resultado_real('202403578396', perde).
+tem('202403644440', turma, 'QUINTA TURMA'). tem('202403644440', relator, 'REYNALDO SOARES'). tem('202403644440', classe, 'HC'). tem('202403644440', objeto, 'p4').
+resultado_real('202403644440', perde).
+tem('202403679733', turma, 'QUINTA TURMA'). tem('202403679733', relator, 'REYNALDO SOARES'). tem('202403679733', classe, 'HC'). tem('202403679733', objeto, 'nulidade_busca').
+tem('202403679733', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403679733', perde).
+tem('202403722951', turma, 'QUINTA TURMA'). tem('202403722951', relator, 'REYNALDO SOARES'). tem('202403722951', classe, 'HC'). tem('202403722951', objeto, 'outro').
+resultado_real('202403722951', perde).
+tem('202403734437', turma, 'QUINTA TURMA'). tem('202403734437', relator, 'REYNALDO SOARES'). tem('202403734437', classe, 'HC'). tem('202403734437', objeto, 'autoria').
+tem('202403734437', marcador, 'faccao').
+resultado_real('202403734437', perde).
+tem('202403778338', turma, 'QUINTA TURMA'). tem('202403778338', relator, 'REYNALDO SOARES'). tem('202403778338', classe, 'HC'). tem('202403778338', objeto, 'dosimetria').
+resultado_real('202403778338', perde).
+tem('202403785771', turma, 'QUINTA TURMA'). tem('202403785771', relator, 'REYNALDO SOARES'). tem('202403785771', classe, 'HC'). tem('202403785771', objeto, 'dosimetria').
+resultado_real('202403785771', perde).
+tem('202403811106', turma, 'QUINTA TURMA'). tem('202403811106', relator, 'REYNALDO SOARES'). tem('202403811106', classe, 'HC'). tem('202403811106', objeto, 'nulidade_busca').
+tem('202403811106', marcador, 'conhecido_policia').
+tem('202403811106', marcador, 'nervosismo').
+tem('202403811106', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403811106', perde).
+tem('202403844389', turma, 'QUINTA TURMA'). tem('202403844389', relator, 'REYNALDO SOARES'). tem('202403844389', classe, 'HC'). tem('202403844389', objeto, 'nulidade_busca').
+tem('202403844389', marcador, 'faccao').
+resultado_real('202403844389', perde).
+tem('202403874040', turma, 'QUINTA TURMA'). tem('202403874040', relator, 'REYNALDO SOARES'). tem('202403874040', classe, 'HC'). tem('202403874040', objeto, 'autoria').
+resultado_real('202403874040', perde).
+tem('202403879987', turma, 'QUINTA TURMA'). tem('202403879987', relator, 'REYNALDO SOARES'). tem('202403879987', classe, 'HC'). tem('202403879987', objeto, 'desclassificacao').
+resultado_real('202403879987', perde).
+tem('202403882926', turma, 'QUINTA TURMA'). tem('202403882926', relator, 'REYNALDO SOARES'). tem('202403882926', classe, 'HC'). tem('202403882926', objeto, 'outro').
+tem('202403882926', marcador, 'faccao').
+resultado_real('202403882926', perde).
+tem('202403962977', turma, 'QUINTA TURMA'). tem('202403962977', relator, 'REYNALDO SOARES'). tem('202403962977', classe, 'HC'). tem('202403962977', objeto, 'nulidade_busca').
+resultado_real('202403962977', perde).
+tem('202404003932', turma, 'QUINTA TURMA'). tem('202404003932', relator, 'REYNALDO SOARES'). tem('202404003932', classe, 'HC'). tem('202404003932', objeto, 'p4').
+tem('202404003932', marcador, 'faccao').
+resultado_real('202404003932', perde).
+tem('202404051451', turma, 'QUINTA TURMA'). tem('202404051451', relator, 'REYNALDO SOARES'). tem('202404051451', classe, 'HC'). tem('202404051451', objeto, 'nulidade_busca').
+tem('202404051451', marcador, 'local_conhecido').
+resultado_real('202404051451', perde).
+tem('202404073274', turma, 'QUINTA TURMA'). tem('202404073274', relator, 'REYNALDO SOARES'). tem('202404073274', classe, 'HC'). tem('202404073274', objeto, 'nulidade_busca').
+resultado_real('202404073274', perde).
+tem('202404084422', turma, 'QUINTA TURMA'). tem('202404084422', relator, 'REYNALDO SOARES'). tem('202404084422', classe, 'HC'). tem('202404084422', objeto, 'p4').
+resultado_real('202404084422', perde).
+tem('202404107158', turma, 'QUINTA TURMA'). tem('202404107158', relator, 'REYNALDO SOARES'). tem('202404107158', classe, 'HC'). tem('202404107158', objeto, 'nulidade_busca').
+resultado_real('202404107158', perde).
+tem('202404119543', turma, 'QUINTA TURMA'). tem('202404119543', relator, 'REYNALDO SOARES'). tem('202404119543', classe, 'HC'). tem('202404119543', objeto, 'dosimetria').
+resultado_real('202404119543', perde).
+tem('202404145240', turma, 'QUINTA TURMA'). tem('202404145240', relator, 'REYNALDO SOARES'). tem('202404145240', classe, 'HC'). tem('202404145240', objeto, 'nulidade_busca').
+resultado_real('202404145240', perde).
+tem('202404178562', turma, 'QUINTA TURMA'). tem('202404178562', relator, 'REYNALDO SOARES'). tem('202404178562', classe, 'HC'). tem('202404178562', objeto, 'outro').
+resultado_real('202404178562', perde).
+tem('202404172284', turma, 'QUINTA TURMA'). tem('202404172284', relator, 'REYNALDO SOARES'). tem('202404172284', classe, 'HC'). tem('202404172284', objeto, 'dosimetria').
+resultado_real('202404172284', perde).
+tem('202404183266', turma, 'QUINTA TURMA'). tem('202404183266', relator, 'REYNALDO SOARES'). tem('202404183266', classe, 'HC'). tem('202404183266', objeto, 'nulidade_busca').
+tem('202404183266', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404183266', perde).
+tem('202404206686', turma, 'QUINTA TURMA'). tem('202404206686', relator, 'REYNALDO SOARES'). tem('202404206686', classe, 'HC'). tem('202404206686', objeto, 'p4').
+resultado_real('202404206686', perde).
+tem('202404241583', turma, 'QUINTA TURMA'). tem('202404241583', relator, 'REYNALDO SOARES'). tem('202404241583', classe, 'HC'). tem('202404241583', objeto, 'nulidade_busca').
+tem('202404241583', marcador, 'denuncia_anonima').
+resultado_real('202404241583', perde).
+tem('202404223763', turma, 'QUINTA TURMA'). tem('202404223763', relator, 'REYNALDO SOARES'). tem('202404223763', classe, 'HC'). tem('202404223763', objeto, 'outro').
+resultado_real('202404223763', perde).
+tem('202404264622', turma, 'QUINTA TURMA'). tem('202404264622', relator, 'REYNALDO SOARES'). tem('202404264622', classe, 'HC'). tem('202404264622', objeto, 'p4').
+tem('202404264622', marcador, 'faccao').
+resultado_real('202404264622', perde).
+tem('202404288012', turma, 'QUINTA TURMA'). tem('202404288012', relator, 'REYNALDO SOARES'). tem('202404288012', classe, 'HC'). tem('202404288012', objeto, 'outro').
+resultado_real('202404288012', perde).
+tem('202404298413', turma, 'QUINTA TURMA'). tem('202404298413', relator, 'REYNALDO SOARES'). tem('202404298413', classe, 'HC'). tem('202404298413', objeto, 'autoria').
+resultado_real('202404298413', perde).
+tem('202404303296', turma, 'QUINTA TURMA'). tem('202404303296', relator, 'REYNALDO SOARES'). tem('202404303296', classe, 'HC'). tem('202404303296', objeto, 'nulidade_busca').
+resultado_real('202404303296', perde).
+tem('202404320401', turma, 'QUINTA TURMA'). tem('202404320401', relator, 'REYNALDO SOARES'). tem('202404320401', classe, 'HC'). tem('202404320401', objeto, 'nulidade_busca').
+tem('202404320401', marcador, 'conhecido_policia').
+tem('202404320401', marcador, 'denuncia_anonima').
+resultado_real('202404320401', perde).
+tem('202404341591', turma, 'QUINTA TURMA'). tem('202404341591', relator, 'REYNALDO SOARES'). tem('202404341591', classe, 'HC'). tem('202404341591', objeto, 'desclassificacao').
+resultado_real('202404341591', perde).
+tem('202404400577', turma, 'QUINTA TURMA'). tem('202404400577', relator, 'REYNALDO SOARES'). tem('202404400577', classe, 'HC'). tem('202404400577', objeto, 'nulidade_busca').
+resultado_real('202404400577', perde).
+tem('202404407335', turma, 'QUINTA TURMA'). tem('202404407335', relator, 'REYNALDO SOARES'). tem('202404407335', classe, 'HC'). tem('202404407335', objeto, 'p4').
+resultado_real('202404407335', perde).
+tem('202404459150', turma, 'QUINTA TURMA'). tem('202404459150', relator, 'REYNALDO SOARES'). tem('202404459150', classe, 'HC'). tem('202404459150', objeto, 'p4').
+tem('202404459150', marcador, 'faccao').
+resultado_real('202404459150', perde).
+tem('202404459452', turma, 'QUINTA TURMA'). tem('202404459452', relator, 'REYNALDO SOARES'). tem('202404459452', classe, 'HC'). tem('202404459452', objeto, 'nulidade_busca').
+tem('202404459452', marcador, 'denuncia_anonima').
+resultado_real('202404459452', perde).
+tem('202404515231', turma, 'QUINTA TURMA'). tem('202404515231', relator, 'REYNALDO SOARES'). tem('202404515231', classe, 'HC'). tem('202404515231', objeto, 'nulidade_busca').
+resultado_real('202404515231', perde).
+tem('202404513688', turma, 'QUINTA TURMA'). tem('202404513688', relator, 'REYNALDO SOARES'). tem('202404513688', classe, 'HC'). tem('202404513688', objeto, 'p4').
+tem('202404513688', marcador, 'faccao').
+resultado_real('202404513688', perde).
+tem('202404565263', turma, 'QUINTA TURMA'). tem('202404565263', relator, 'REYNALDO SOARES'). tem('202404565263', classe, 'HC'). tem('202404565263', objeto, 'p4').
+tem('202404565263', marcador, 'faccao').
+resultado_real('202404565263', perde).
+tem('202404678440', turma, 'QUINTA TURMA'). tem('202404678440', relator, 'REYNALDO SOARES'). tem('202404678440', classe, 'HC'). tem('202404678440', objeto, 'p4').
+resultado_real('202404678440', perde).
+tem('202404680226', turma, 'QUINTA TURMA'). tem('202404680226', relator, 'REYNALDO SOARES'). tem('202404680226', classe, 'HC'). tem('202404680226', objeto, 'nulidade_busca').
+resultado_real('202404680226', perde).
+tem('202404696209', turma, 'QUINTA TURMA'). tem('202404696209', relator, 'REYNALDO SOARES'). tem('202404696209', classe, 'HC'). tem('202404696209', objeto, 'nulidade_busca').
+tem('202404696209', marcador, 'denuncia_anonima').
+resultado_real('202404696209', perde).
+tem('202404742874', turma, 'QUINTA TURMA'). tem('202404742874', relator, 'REYNALDO SOARES'). tem('202404742874', classe, 'HC'). tem('202404742874', objeto, 'autoria').
+resultado_real('202404742874', vence).
+tem('202404758113', turma, 'QUINTA TURMA'). tem('202404758113', relator, 'REYNALDO SOARES'). tem('202404758113', classe, 'HC'). tem('202404758113', objeto, 'nulidade_busca').
+tem('202404758113', marcador, 'denuncia_anonima').
+resultado_real('202404758113', perde).
+tem('202404778887', turma, 'QUINTA TURMA'). tem('202404778887', relator, 'REYNALDO SOARES'). tem('202404778887', classe, 'HC'). tem('202404778887', objeto, 'p4').
+tem('202404778887', marcador, 'faccao').
+resultado_real('202404778887', perde).
+tem('202404785450', turma, 'QUINTA TURMA'). tem('202404785450', relator, 'REYNALDO SOARES'). tem('202404785450', classe, 'HC'). tem('202404785450', objeto, 'p4').
+tem('202404785450', marcador, 'faccao').
+resultado_real('202404785450', perde).
+tem('202404803249', turma, 'QUINTA TURMA'). tem('202404803249', relator, 'REYNALDO SOARES'). tem('202404803249', classe, 'HC'). tem('202404803249', objeto, 'nulidade_busca').
+tem('202404803249', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404803249', perde).
+tem('202404834516', turma, 'QUINTA TURMA'). tem('202404834516', relator, 'REYNALDO SOARES'). tem('202404834516', classe, 'HC'). tem('202404834516', objeto, 'outro').
+resultado_real('202404834516', perde).
+tem('202404835146', turma, 'QUINTA TURMA'). tem('202404835146', relator, 'REYNALDO SOARES'). tem('202404835146', classe, 'HC'). tem('202404835146', objeto, 'outro').
+resultado_real('202404835146', perde).
+tem('202404858347', turma, 'QUINTA TURMA'). tem('202404858347', relator, 'REYNALDO SOARES'). tem('202404858347', classe, 'HC'). tem('202404858347', objeto, 'nulidade_busca').
+tem('202404858347', marcador, 'conhecido_policia').
+tem('202404858347', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404858347', perde).
+tem('202404852350', turma, 'QUINTA TURMA'). tem('202404852350', relator, 'REYNALDO SOARES'). tem('202404852350', classe, 'HC'). tem('202404852350', objeto, 'outro').
+tem('202404852350', marcador, 'faccao').
+resultado_real('202404852350', perde).
+tem('202500000358', turma, 'QUINTA TURMA'). tem('202500000358', relator, 'REYNALDO SOARES'). tem('202500000358', classe, 'HC'). tem('202500000358', objeto, 'dosimetria').
+tem('202500000358', marcador, 'faccao').
+resultado_real('202500000358', perde).
+tem('202500017125', turma, 'QUINTA TURMA'). tem('202500017125', relator, 'REYNALDO SOARES'). tem('202500017125', classe, 'HC'). tem('202500017125', objeto, 'outro').
+resultado_real('202500017125', perde).
+tem('202500106365', turma, 'QUINTA TURMA'). tem('202500106365', relator, 'REYNALDO SOARES'). tem('202500106365', classe, 'HC'). tem('202500106365', objeto, 'dosimetria').
+resultado_real('202500106365', perde).
+tem('202500131277', turma, 'QUINTA TURMA'). tem('202500131277', relator, 'REYNALDO SOARES'). tem('202500131277', classe, 'HC'). tem('202500131277', objeto, 'nulidade_busca').
+tem('202500131277', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500131277', perde).
+tem('202500131467', turma, 'QUINTA TURMA'). tem('202500131467', relator, 'REYNALDO SOARES'). tem('202500131467', classe, 'HC'). tem('202500131467', objeto, 'p4').
+tem('202500131467', marcador, 'faccao').
+resultado_real('202500131467', perde).
+tem('202500156450', turma, 'QUINTA TURMA'). tem('202500156450', relator, 'REYNALDO SOARES'). tem('202500156450', classe, 'HC'). tem('202500156450', objeto, 'p4').
+tem('202500156450', marcador, 'faccao').
+resultado_real('202500156450', perde).
+tem('202500189999', turma, 'QUINTA TURMA'). tem('202500189999', relator, 'REYNALDO SOARES'). tem('202500189999', classe, 'HC'). tem('202500189999', objeto, 'outro').
+resultado_real('202500189999', perde).
+tem('202500227578', turma, 'QUINTA TURMA'). tem('202500227578', relator, 'REYNALDO SOARES'). tem('202500227578', classe, 'HC'). tem('202500227578', objeto, 'outro').
+resultado_real('202500227578', perde).
+tem('202500283480', turma, 'QUINTA TURMA'). tem('202500283480', relator, 'REYNALDO SOARES'). tem('202500283480', classe, 'HC'). tem('202500283480', objeto, 'nulidade_busca').
+tem('202500283480', marcador, 'denuncia_anonima').
+resultado_real('202500283480', perde).
+tem('202500266656', turma, 'QUINTA TURMA'). tem('202500266656', relator, 'REYNALDO SOARES'). tem('202500266656', classe, 'HC'). tem('202500266656', objeto, 'p4').
+tem('202500266656', marcador, 'faccao').
+tem('202500266656', marcador, 'denuncia_anonima').
+resultado_real('202500266656', perde).
+tem('202500285401', turma, 'QUINTA TURMA'). tem('202500285401', relator, 'REYNALDO SOARES'). tem('202500285401', classe, 'HC'). tem('202500285401', objeto, 'p4').
+tem('202500285401', marcador, 'comunidade_bairro').
+tem('202500285401', marcador, 'faccao').
+resultado_real('202500285401', perde).
+tem('202500296015', turma, 'QUINTA TURMA'). tem('202500296015', relator, 'REYNALDO SOARES'). tem('202500296015', classe, 'HC'). tem('202500296015', objeto, 'autoria').
+resultado_real('202500296015', perde).
+tem('202500316693', turma, 'QUINTA TURMA'). tem('202500316693', relator, 'REYNALDO SOARES'). tem('202500316693', classe, 'HC'). tem('202500316693', objeto, 'p4').
+tem('202500316693', marcador, 'faccao').
+tem('202500316693', marcador, 'denuncia_anonima').
+resultado_real('202500316693', vence).
+tem('202500318830', turma, 'QUINTA TURMA'). tem('202500318830', relator, 'REYNALDO SOARES'). tem('202500318830', classe, 'HC'). tem('202500318830', objeto, 'p4').
+tem('202500318830', marcador, 'faccao').
+resultado_real('202500318830', perde).
+tem('202500319358', turma, 'QUINTA TURMA'). tem('202500319358', relator, 'REYNALDO SOARES'). tem('202500319358', classe, 'HC'). tem('202500319358', objeto, 'nulidade_busca').
+tem('202500319358', marcador, 'faccao').
+tem('202500319358', marcador, 'nervosismo').
+resultado_real('202500319358', perde).
+tem('202500326060', turma, 'QUINTA TURMA'). tem('202500326060', relator, 'REYNALDO SOARES'). tem('202500326060', classe, 'HC'). tem('202500326060', objeto, 'nulidade_busca').
+tem('202500326060', marcador, 'local_conhecido').
+tem('202500326060', marcador, 'atos_infracionais').
+resultado_real('202500326060', perde).
+tem('202500331143', turma, 'QUINTA TURMA'). tem('202500331143', relator, 'REYNALDO SOARES'). tem('202500331143', classe, 'HC'). tem('202500331143', objeto, 'p4').
+tem('202500331143', marcador, 'faccao').
+resultado_real('202500331143', perde).
+tem('202500389626', turma, 'QUINTA TURMA'). tem('202500389626', relator, 'REYNALDO SOARES'). tem('202500389626', classe, 'HC'). tem('202500389626', objeto, 'desclassificacao').
+resultado_real('202500389626', perde).
+tem('202500412535', turma, 'QUINTA TURMA'). tem('202500412535', relator, 'REYNALDO SOARES'). tem('202500412535', classe, 'HC'). tem('202500412535', objeto, 'outro').
+resultado_real('202500412535', perde).
+tem('202500456703', turma, 'QUINTA TURMA'). tem('202500456703', relator, 'REYNALDO SOARES'). tem('202500456703', classe, 'HC'). tem('202500456703', objeto, 'p4').
+resultado_real('202500456703', perde).
+tem('202500460650', turma, 'QUINTA TURMA'). tem('202500460650', relator, 'REYNALDO SOARES'). tem('202500460650', classe, 'HC'). tem('202500460650', objeto, 'nulidade_busca').
+tem('202500460650', marcador, 'nervosismo').
+tem('202500460650', marcador, 'fuga_mudanca_direcao').
+tem('202500460650', marcador, 'denuncia_anonima').
+resultado_real('202500460650', perde).
+tem('202500491220', turma, 'QUINTA TURMA'). tem('202500491220', relator, 'REYNALDO SOARES'). tem('202500491220', classe, 'HC'). tem('202500491220', objeto, 'p4').
+tem('202500491220', marcador, 'faccao').
+resultado_real('202500491220', perde).
+tem('202500492153', turma, 'QUINTA TURMA'). tem('202500492153', relator, 'REYNALDO SOARES'). tem('202500492153', classe, 'HC'). tem('202500492153', objeto, 'dosimetria').
+resultado_real('202500492153', perde).
+tem('202500498099', turma, 'QUINTA TURMA'). tem('202500498099', relator, 'REYNALDO SOARES'). tem('202500498099', classe, 'HC'). tem('202500498099', objeto, 'p4').
+tem('202500498099', marcador, 'faccao').
+resultado_real('202500498099', perde).
+tem('202500502534', turma, 'QUINTA TURMA'). tem('202500502534', relator, 'REYNALDO SOARES'). tem('202500502534', classe, 'HC'). tem('202500502534', objeto, 'outro').
+resultado_real('202500502534', perde).
+tem('202500510523', turma, 'QUINTA TURMA'). tem('202500510523', relator, 'REYNALDO SOARES'). tem('202500510523', classe, 'HC'). tem('202500510523', objeto, 'dosimetria').
+tem('202500510523', marcador, 'faccao').
+resultado_real('202500510523', perde).
+tem('202500529904', turma, 'QUINTA TURMA'). tem('202500529904', relator, 'REYNALDO SOARES'). tem('202500529904', classe, 'HC'). tem('202500529904', objeto, 'nulidade_busca').
+tem('202500529904', marcador, 'local_conhecido').
+tem('202500529904', marcador, 'atos_infracionais').
+resultado_real('202500529904', perde).
+tem('202500525380', turma, 'QUINTA TURMA'). tem('202500525380', relator, 'REYNALDO SOARES'). tem('202500525380', classe, 'HC'). tem('202500525380', objeto, 'nulidade_busca').
+resultado_real('202500525380', perde).
+tem('202500538713', turma, 'QUINTA TURMA'). tem('202500538713', relator, 'REYNALDO SOARES'). tem('202500538713', classe, 'HC'). tem('202500538713', objeto, 'p4').
+tem('202500538713', marcador, 'faccao').
+resultado_real('202500538713', perde).
+tem('202500543328', turma, 'QUINTA TURMA'). tem('202500543328', relator, 'REYNALDO SOARES'). tem('202500543328', classe, 'HC'). tem('202500543328', objeto, 'nulidade_busca').
+tem('202500543328', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500543328', perde).
+tem('202500566226', turma, 'QUINTA TURMA'). tem('202500566226', relator, 'REYNALDO SOARES'). tem('202500566226', classe, 'HC'). tem('202500566226', objeto, 'p4').
+tem('202500566226', marcador, 'local_conhecido').
+resultado_real('202500566226', vence).
+tem('202500577170', turma, 'QUINTA TURMA'). tem('202500577170', relator, 'REYNALDO SOARES'). tem('202500577170', classe, 'HC'). tem('202500577170', objeto, 'p4').
+tem('202500577170', marcador, 'faccao').
+resultado_real('202500577170', perde).
+tem('202500624478', turma, 'QUINTA TURMA'). tem('202500624478', relator, 'REYNALDO SOARES'). tem('202500624478', classe, 'HC'). tem('202500624478', objeto, 'nulidade_busca').
+tem('202500624478', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500624478', perde).
+tem('202500646682', turma, 'QUINTA TURMA'). tem('202500646682', relator, 'REYNALDO SOARES'). tem('202500646682', classe, 'HC'). tem('202500646682', objeto, 'p4').
+tem('202500646682', marcador, 'faccao').
+resultado_real('202500646682', perde).
+tem('202500690096', turma, 'QUINTA TURMA'). tem('202500690096', relator, 'REYNALDO SOARES'). tem('202500690096', classe, 'HC'). tem('202500690096', objeto, 'nulidade_busca').
+resultado_real('202500690096', perde).
+tem('202500693077', turma, 'QUINTA TURMA'). tem('202500693077', relator, 'REYNALDO SOARES'). tem('202500693077', classe, 'HC'). tem('202500693077', objeto, 'nulidade_busca').
+tem('202500693077', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500693077', perde).
+tem('202500703120', turma, 'QUINTA TURMA'). tem('202500703120', relator, 'REYNALDO SOARES'). tem('202500703120', classe, 'HC'). tem('202500703120', objeto, 'nulidade_busca').
+resultado_real('202500703120', perde).
+tem('202500698434', turma, 'QUINTA TURMA'). tem('202500698434', relator, 'REYNALDO SOARES'). tem('202500698434', classe, 'HC'). tem('202500698434', objeto, 'p4').
+resultado_real('202500698434', perde).
+tem('202500773193', turma, 'QUINTA TURMA'). tem('202500773193', relator, 'REYNALDO SOARES'). tem('202500773193', classe, 'HC'). tem('202500773193', objeto, 'dosimetria').
+resultado_real('202500773193', perde).
+tem('202500778602', turma, 'QUINTA TURMA'). tem('202500778602', relator, 'REYNALDO SOARES'). tem('202500778602', classe, 'HC'). tem('202500778602', objeto, 'p4').
+tem('202500778602', marcador, 'faccao').
+resultado_real('202500778602', perde).
+tem('202500795169', turma, 'QUINTA TURMA'). tem('202500795169', relator, 'REYNALDO SOARES'). tem('202500795169', classe, 'HC'). tem('202500795169', objeto, 'dosimetria').
+tem('202500795169', marcador, 'faccao').
+resultado_real('202500795169', perde).
+tem('202500803822', turma, 'QUINTA TURMA'). tem('202500803822', relator, 'REYNALDO SOARES'). tem('202500803822', classe, 'HC'). tem('202500803822', objeto, 'dosimetria').
+resultado_real('202500803822', perde).
+tem('202500807825', turma, 'QUINTA TURMA'). tem('202500807825', relator, 'REYNALDO SOARES'). tem('202500807825', classe, 'HC'). tem('202500807825', objeto, 'outro').
+tem('202500807825', marcador, 'faccao').
+resultado_real('202500807825', perde).
+tem('202500815308', turma, 'QUINTA TURMA'). tem('202500815308', relator, 'REYNALDO SOARES'). tem('202500815308', classe, 'HC'). tem('202500815308', objeto, 'dosimetria').
+resultado_real('202500815308', perde).
+tem('202500852047', turma, 'QUINTA TURMA'). tem('202500852047', relator, 'REYNALDO SOARES'). tem('202500852047', classe, 'HC'). tem('202500852047', objeto, 'dosimetria').
+tem('202500852047', marcador, 'faccao').
+resultado_real('202500852047', perde).
+tem('202500854977', turma, 'QUINTA TURMA'). tem('202500854977', relator, 'REYNALDO SOARES'). tem('202500854977', classe, 'HC'). tem('202500854977', objeto, 'outro').
+tem('202500854977', marcador, 'faccao').
+resultado_real('202500854977', perde).
+tem('202500857958', turma, 'QUINTA TURMA'). tem('202500857958', relator, 'REYNALDO SOARES'). tem('202500857958', classe, 'HC'). tem('202500857958', objeto, 'p4').
+tem('202500857958', marcador, 'faccao').
+tem('202500857958', marcador, 'atos_infracionais').
+resultado_real('202500857958', perde).
+tem('202500872750', turma, 'QUINTA TURMA'). tem('202500872750', relator, 'REYNALDO SOARES'). tem('202500872750', classe, 'HC'). tem('202500872750', objeto, 'nulidade_busca').
+tem('202500872750', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500872750', perde).
+tem('202500885270', turma, 'QUINTA TURMA'). tem('202500885270', relator, 'REYNALDO SOARES'). tem('202500885270', classe, 'HC'). tem('202500885270', objeto, 'dosimetria').
+tem('202500885270', marcador, 'faccao').
+resultado_real('202500885270', perde).
+tem('202500911250', turma, 'QUINTA TURMA'). tem('202500911250', relator, 'REYNALDO SOARES'). tem('202500911250', classe, 'HC'). tem('202500911250', objeto, 'nulidade_busca').
+resultado_real('202500911250', perde).
+tem('202500948171', turma, 'QUINTA TURMA'). tem('202500948171', relator, 'REYNALDO SOARES'). tem('202500948171', classe, 'HC'). tem('202500948171', objeto, 'nulidade_busca').
+resultado_real('202500948171', perde).
+tem('202501037275', turma, 'QUINTA TURMA'). tem('202501037275', relator, 'REYNALDO SOARES'). tem('202501037275', classe, 'HC'). tem('202501037275', objeto, 'p4').
+resultado_real('202501037275', perde).
+tem('202501066926', turma, 'QUINTA TURMA'). tem('202501066926', relator, 'REYNALDO SOARES'). tem('202501066926', classe, 'HC'). tem('202501066926', objeto, 'p4').
+tem('202501066926', marcador, 'faccao').
+resultado_real('202501066926', perde).
+tem('202501093050', turma, 'QUINTA TURMA'). tem('202501093050', relator, 'REYNALDO SOARES'). tem('202501093050', classe, 'HC'). tem('202501093050', objeto, 'outro').
+resultado_real('202501093050', perde).
+tem('202501133510', turma, 'QUINTA TURMA'). tem('202501133510', relator, 'REYNALDO SOARES'). tem('202501133510', classe, 'HC'). tem('202501133510', objeto, 'desclassificacao').
+tem('202501133510', marcador, 'local_conhecido').
+resultado_real('202501133510', perde).
+tem('202501158399', turma, 'QUINTA TURMA'). tem('202501158399', relator, 'REYNALDO SOARES'). tem('202501158399', classe, 'HC'). tem('202501158399', objeto, 'desclassificacao').
+resultado_real('202501158399', perde).
+tem('202501177876', turma, 'QUINTA TURMA'). tem('202501177876', relator, 'REYNALDO SOARES'). tem('202501177876', classe, 'HC'). tem('202501177876', objeto, 'nulidade_busca').
+tem('202501177876', marcador, 'fuga_mudanca_direcao').
+tem('202501177876', marcador, 'denuncia_anonima').
+resultado_real('202501177876', perde).
+tem('202501190812', turma, 'QUINTA TURMA'). tem('202501190812', relator, 'REYNALDO SOARES'). tem('202501190812', classe, 'HC'). tem('202501190812', objeto, 'nulidade_busca').
+tem('202501190812', marcador, 'local_conhecido').
+tem('202501190812', marcador, 'atos_infracionais').
+tem('202501190812', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501190812', perde).
+tem('202501183097', turma, 'QUINTA TURMA'). tem('202501183097', relator, 'REYNALDO SOARES'). tem('202501183097', classe, 'HC'). tem('202501183097', objeto, 'p4').
+tem('202501183097', marcador, 'faccao').
+resultado_real('202501183097', perde).
+tem('202501197707', turma, 'QUINTA TURMA'). tem('202501197707', relator, 'REYNALDO SOARES'). tem('202501197707', classe, 'HC'). tem('202501197707', objeto, 'dosimetria').
+resultado_real('202501197707', perde).
+tem('202501227601', turma, 'QUINTA TURMA'). tem('202501227601', relator, 'REYNALDO SOARES'). tem('202501227601', classe, 'HC'). tem('202501227601', objeto, 'p4').
+tem('202501227601', marcador, 'faccao').
+resultado_real('202501227601', perde).
+tem('202501270786', turma, 'QUINTA TURMA'). tem('202501270786', relator, 'REYNALDO SOARES'). tem('202501270786', classe, 'HC'). tem('202501270786', objeto, 'nulidade_busca').
+resultado_real('202501270786', perde).
+tem('202501299470', turma, 'QUINTA TURMA'). tem('202501299470', relator, 'REYNALDO SOARES'). tem('202501299470', classe, 'HC'). tem('202501299470', objeto, 'p4').
+tem('202501299470', marcador, 'faccao').
+resultado_real('202501299470', perde).
+tem('202501341134', turma, 'QUINTA TURMA'). tem('202501341134', relator, 'REYNALDO SOARES'). tem('202501341134', classe, 'HC'). tem('202501341134', objeto, 'desclassificacao').
+resultado_real('202501341134', perde).
+tem('202501352569', turma, 'QUINTA TURMA'). tem('202501352569', relator, 'REYNALDO SOARES'). tem('202501352569', classe, 'HC'). tem('202501352569', objeto, 'p4').
+resultado_real('202501352569', perde).
+tem('202501390269', turma, 'QUINTA TURMA'). tem('202501390269', relator, 'REYNALDO SOARES'). tem('202501390269', classe, 'HC'). tem('202501390269', objeto, 'nulidade_busca').
+resultado_real('202501390269', perde).
+tem('202501407560', turma, 'QUINTA TURMA'). tem('202501407560', relator, 'REYNALDO SOARES'). tem('202501407560', classe, 'HC'). tem('202501407560', objeto, 'nulidade_busca').
+tem('202501407560', marcador, 'denuncia_anonima').
+resultado_real('202501407560', perde).
+tem('202501418807', turma, 'QUINTA TURMA'). tem('202501418807', relator, 'REYNALDO SOARES'). tem('202501418807', classe, 'HC'). tem('202501418807', objeto, 'dosimetria').
+resultado_real('202501418807', perde).
+tem('202501486482', turma, 'QUINTA TURMA'). tem('202501486482', relator, 'REYNALDO SOARES'). tem('202501486482', classe, 'HC'). tem('202501486482', objeto, 'nulidade_busca').
+resultado_real('202501486482', perde).
+tem('202501495950', turma, 'QUINTA TURMA'). tem('202501495950', relator, 'REYNALDO SOARES'). tem('202501495950', classe, 'HC'). tem('202501495950', objeto, 'outro').
+resultado_real('202501495950', perde).
+tem('202303198051', turma, 'QUINTA TURMA'). tem('202303198051', relator, 'REYNALDO SOARES'). tem('202303198051', classe, 'REsp'). tem('202303198051', objeto, 'nulidade_busca').
+tem('202303198051', marcador, 'faccao').
+tem('202303198051', marcador, 'fuga_mudanca_direcao').
+tem('202303198051', marcador, 'denuncia_anonima').
+resultado_real('202303198051', perde).
+tem('202303225040', turma, 'QUINTA TURMA'). tem('202303225040', relator, 'REYNALDO SOARES'). tem('202303225040', classe, 'REsp'). tem('202303225040', objeto, 'nulidade_busca').
+resultado_real('202303225040', perde).
+tem('202303719226', turma, 'QUINTA TURMA'). tem('202303719226', relator, 'REYNALDO SOARES'). tem('202303719226', classe, 'REsp'). tem('202303719226', objeto, 'nulidade_busca').
+tem('202303719226', marcador, 'denuncia_anonima').
+resultado_real('202303719226', perde).
+tem('202400081880', turma, 'QUINTA TURMA'). tem('202400081880', relator, 'REYNALDO SOARES'). tem('202400081880', classe, 'REsp'). tem('202400081880', objeto, 'nulidade_busca').
+resultado_real('202400081880', perde).
+tem('202400242036', turma, 'QUINTA TURMA'). tem('202400242036', relator, 'REYNALDO SOARES'). tem('202400242036', classe, 'REsp'). tem('202400242036', objeto, 'nulidade_busca').
+tem('202400242036', marcador, 'fuga_mudanca_direcao').
+tem('202400242036', marcador, 'denuncia_anonima').
+resultado_real('202400242036', perde).
+tem('202400860068', turma, 'QUINTA TURMA'). tem('202400860068', relator, 'REYNALDO SOARES'). tem('202400860068', classe, 'REsp'). tem('202400860068', objeto, 'autoria').
+resultado_real('202400860068', perde).
+tem('202401227378', turma, 'QUINTA TURMA'). tem('202401227378', relator, 'REYNALDO SOARES'). tem('202401227378', classe, 'REsp'). tem('202401227378', objeto, 'p4').
+tem('202401227378', marcador, 'faccao').
+resultado_real('202401227378', perde).
 tem('202401847410', turma, 'QUINTA TURMA'). tem('202401847410', relator, 'REYNALDO SOARES'). tem('202401847410', classe, 'REsp'). tem('202401847410', objeto, 'dosimetria').
 resultado_real('202401847410', perde).
+tem('202402249552', turma, 'QUINTA TURMA'). tem('202402249552', relator, 'REYNALDO SOARES'). tem('202402249552', classe, 'REsp'). tem('202402249552', objeto, 'p4').
+resultado_real('202402249552', perde).
+tem('202402284081', turma, 'QUINTA TURMA'). tem('202402284081', relator, 'REYNALDO SOARES'). tem('202402284081', classe, 'REsp'). tem('202402284081', objeto, 'nulidade_busca').
+tem('202402284081', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402284081', perde).
+tem('202402548706', turma, 'QUINTA TURMA'). tem('202402548706', relator, 'REYNALDO SOARES'). tem('202402548706', classe, 'REsp'). tem('202402548706', objeto, 'p4').
+tem('202402548706', marcador, 'faccao').
+tem('202402548706', marcador, 'conhecido_policia').
+resultado_real('202402548706', perde).
+tem('202402859850', turma, 'QUINTA TURMA'). tem('202402859850', relator, 'REYNALDO SOARES'). tem('202402859850', classe, 'REsp'). tem('202402859850', objeto, 'nulidade_busca').
+resultado_real('202402859850', perde).
+tem('202403337019', turma, 'QUINTA TURMA'). tem('202403337019', relator, 'REYNALDO SOARES'). tem('202403337019', classe, 'REsp'). tem('202403337019', objeto, 'nulidade_busca').
+resultado_real('202403337019', perde).
+tem('202403484446', turma, 'QUINTA TURMA'). tem('202403484446', relator, 'REYNALDO SOARES'). tem('202403484446', classe, 'REsp'). tem('202403484446', objeto, 'p4').
+resultado_real('202403484446', perde).
+tem('202403624332', turma, 'QUINTA TURMA'). tem('202403624332', relator, 'REYNALDO SOARES'). tem('202403624332', classe, 'REsp'). tem('202403624332', objeto, 'p4').
+tem('202403624332', marcador, 'faccao').
+resultado_real('202403624332', perde).
+tem('202403776493', turma, 'QUINTA TURMA'). tem('202403776493', relator, 'REYNALDO SOARES'). tem('202403776493', classe, 'REsp'). tem('202403776493', objeto, 'p4').
+tem('202403776493', marcador, 'faccao').
+resultado_real('202403776493', perde).
+tem('202403897682', turma, 'QUINTA TURMA'). tem('202403897682', relator, 'REYNALDO SOARES'). tem('202403897682', classe, 'REsp'). tem('202403897682', objeto, 'nulidade_busca').
+tem('202403897682', marcador, 'nervosismo').
+resultado_real('202403897682', perde).
+tem('202403957488', turma, 'QUINTA TURMA'). tem('202403957488', relator, 'REYNALDO SOARES'). tem('202403957488', classe, 'REsp'). tem('202403957488', objeto, 'nulidade_busca').
+tem('202403957488', marcador, 'nervosismo').
+resultado_real('202403957488', perde).
+tem('202404368760', turma, 'QUINTA TURMA'). tem('202404368760', relator, 'REYNALDO SOARES'). tem('202404368760', classe, 'REsp'). tem('202404368760', objeto, 'p4').
+resultado_real('202404368760', perde).
+tem('202404376897', turma, 'QUINTA TURMA'). tem('202404376897', relator, 'REYNALDO SOARES'). tem('202404376897', classe, 'REsp'). tem('202404376897', objeto, 'p4').
+tem('202404376897', marcador, 'faccao').
+resultado_real('202404376897', perde).
+tem('202404391562', turma, 'QUINTA TURMA'). tem('202404391562', relator, 'REYNALDO SOARES'). tem('202404391562', classe, 'REsp'). tem('202404391562', objeto, 'p4').
+resultado_real('202404391562', perde).
+tem('202404533811', turma, 'QUINTA TURMA'). tem('202404533811', relator, 'REYNALDO SOARES'). tem('202404533811', classe, 'REsp'). tem('202404533811', objeto, 'nulidade_busca').
+tem('202404533811', marcador, 'denuncia_anonima').
+resultado_real('202404533811', perde).
+tem('202404560201', turma, 'QUINTA TURMA'). tem('202404560201', relator, 'REYNALDO SOARES'). tem('202404560201', classe, 'REsp'). tem('202404560201', objeto, 'nulidade_busca').
+resultado_real('202404560201', perde).
+tem('202404712568', turma, 'QUINTA TURMA'). tem('202404712568', relator, 'REYNALDO SOARES'). tem('202404712568', classe, 'REsp'). tem('202404712568', objeto, 'autoria').
+tem('202404712568', marcador, 'faccao').
+resultado_real('202404712568', perde).
+tem('202404785765', turma, 'QUINTA TURMA'). tem('202404785765', relator, 'REYNALDO SOARES'). tem('202404785765', classe, 'REsp'). tem('202404785765', objeto, 'autoria').
+resultado_real('202404785765', perde).
+tem('202500190931', turma, 'QUINTA TURMA'). tem('202500190931', relator, 'REYNALDO SOARES'). tem('202500190931', classe, 'REsp'). tem('202500190931', objeto, 'autoria').
+tem('202500190931', marcador, 'comunidade_bairro').
+resultado_real('202500190931', perde).
+tem('202500209342', turma, 'QUINTA TURMA'). tem('202500209342', relator, 'REYNALDO SOARES'). tem('202500209342', classe, 'REsp'). tem('202500209342', objeto, 'dosimetria').
+resultado_real('202500209342', perde).
 tem('202500211319', turma, 'QUINTA TURMA'). tem('202500211319', relator, 'REYNALDO SOARES'). tem('202500211319', classe, 'REsp'). tem('202500211319', objeto, 'nulidade_busca').
 resultado_real('202500211319', perde).
+tem('202500531223', turma, 'QUINTA TURMA'). tem('202500531223', relator, 'REYNALDO SOARES'). tem('202500531223', classe, 'REsp'). tem('202500531223', objeto, 'p4').
+tem('202500531223', marcador, 'faccao').
+resultado_real('202500531223', perde).
+tem('202500891364', turma, 'QUINTA TURMA'). tem('202500891364', relator, 'REYNALDO SOARES'). tem('202500891364', classe, 'REsp'). tem('202500891364', objeto, 'p4').
+resultado_real('202500891364', perde).
+tem('202501307211', turma, 'QUINTA TURMA'). tem('202501307211', relator, 'REYNALDO SOARES'). tem('202501307211', classe, 'REsp'). tem('202501307211', objeto, 'dosimetria').
+resultado_real('202501307211', perde).
 tem('202501546126', turma, 'QUINTA TURMA'). tem('202501546126', relator, 'REYNALDO SOARES'). tem('202501546126', classe, 'REsp'). tem('202501546126', objeto, 'outro').
 resultado_real('202501546126', perde).
+tem('202501911410', turma, 'QUINTA TURMA'). tem('202501911410', relator, 'REYNALDO SOARES'). tem('202501911410', classe, 'REsp'). tem('202501911410', objeto, 'p4').
+tem('202501911410', marcador, 'faccao').
+resultado_real('202501911410', perde).
+tem('202502061034', turma, 'QUINTA TURMA'). tem('202502061034', relator, 'REYNALDO SOARES'). tem('202502061034', classe, 'REsp'). tem('202502061034', objeto, 'dosimetria').
+resultado_real('202502061034', perde).
 tem('202502354750', turma, 'QUINTA TURMA'). tem('202502354750', relator, 'REYNALDO SOARES'). tem('202502354750', classe, 'REsp'). tem('202502354750', objeto, 'dosimetria').
 resultado_real('202502354750', perde).
+tem('202502671470', turma, 'QUINTA TURMA'). tem('202502671470', relator, 'REYNALDO SOARES'). tem('202502671470', classe, 'REsp'). tem('202502671470', objeto, 'p4').
+tem('202502671470', marcador, 'faccao').
+resultado_real('202502671470', perde).
+tem('202502714126', turma, 'QUINTA TURMA'). tem('202502714126', relator, 'REYNALDO SOARES'). tem('202502714126', classe, 'REsp'). tem('202502714126', objeto, 'dosimetria').
+resultado_real('202502714126', perde).
+tem('202502743701', turma, 'QUINTA TURMA'). tem('202502743701', relator, 'REYNALDO SOARES'). tem('202502743701', classe, 'REsp'). tem('202502743701', objeto, 'outro').
+resultado_real('202502743701', perde).
+tem('202503063251', turma, 'QUINTA TURMA'). tem('202503063251', relator, 'REYNALDO SOARES'). tem('202503063251', classe, 'REsp'). tem('202503063251', objeto, 'p4').
+resultado_real('202503063251', perde).
 tem('202600071590', turma, 'QUINTA TURMA'). tem('202600071590', relator, 'REYNALDO SOARES'). tem('202600071590', classe, 'REsp'). tem('202600071590', objeto, 'p4').
 resultado_real('202600071590', perde).
 tem('202600414495', turma, 'QUINTA TURMA'). tem('202600414495', relator, 'REYNALDO SOARES'). tem('202600414495', classe, 'REsp'). tem('202600414495', objeto, 'nulidade_busca').
@@ -1657,19 +6465,243 @@ tem('202602032196', marcador, 'denuncia_anonima').
 resultado_real('202602032196', perde).
 tem('202602495847', turma, 'QUINTA TURMA'). tem('202602495847', relator, 'REYNALDO SOARES'). tem('202602495847', classe, 'REsp'). tem('202602495847', objeto, 'p4').
 resultado_real('202602495847', perde).
+tem('202302413788', turma, 'QUINTA TURMA'). tem('202302413788', relator, 'REYNALDO SOARES'). tem('202302413788', classe, 'RHC'). tem('202302413788', objeto, 'nulidade_busca').
+resultado_real('202302413788', perde).
+tem('202304113414', turma, 'QUINTA TURMA'). tem('202304113414', relator, 'REYNALDO SOARES'). tem('202304113414', classe, 'RHC'). tem('202304113414', objeto, 'autoria').
+tem('202304113414', marcador, 'faccao').
+resultado_real('202304113414', perde).
+tem('202403429380', turma, 'QUINTA TURMA'). tem('202403429380', relator, 'REYNALDO SOARES'). tem('202403429380', classe, 'RHC'). tem('202403429380', objeto, 'autoria').
+tem('202403429380', marcador, 'atos_infracionais').
+resultado_real('202403429380', perde).
+tem('202403659930', turma, 'QUINTA TURMA'). tem('202403659930', relator, 'REYNALDO SOARES'). tem('202403659930', classe, 'RHC'). tem('202403659930', objeto, 'nulidade_busca').
+resultado_real('202403659930', perde).
+tem('202403782401', turma, 'QUINTA TURMA'). tem('202403782401', relator, 'REYNALDO SOARES'). tem('202403782401', classe, 'RHC'). tem('202403782401', objeto, 'outro').
+tem('202403782401', marcador, 'denuncia_anonima').
+resultado_real('202403782401', perde).
+tem('202403800528', turma, 'QUINTA TURMA'). tem('202403800528', relator, 'REYNALDO SOARES'). tem('202403800528', classe, 'RHC'). tem('202403800528', objeto, 'nulidade_busca').
+tem('202403800528', marcador, 'nervosismo').
+resultado_real('202403800528', perde).
+tem('202404431957', turma, 'QUINTA TURMA'). tem('202404431957', relator, 'REYNALDO SOARES'). tem('202404431957', classe, 'RHC'). tem('202404431957', objeto, 'p4').
+resultado_real('202404431957', perde).
+tem('202500846207', turma, 'QUINTA TURMA'). tem('202500846207', relator, 'REYNALDO SOARES'). tem('202500846207', classe, 'RHC'). tem('202500846207', objeto, 'outro').
+resultado_real('202500846207', perde).
+tem('202501145134', turma, 'QUINTA TURMA'). tem('202501145134', relator, 'REYNALDO SOARES'). tem('202501145134', classe, 'RHC'). tem('202501145134', objeto, 'autoria').
+tem('202501145134', marcador, 'faccao').
+resultado_real('202501145134', perde).
+tem('202501438696', turma, 'QUINTA TURMA'). tem('202501438696', relator, 'REYNALDO SOARES'). tem('202501438696', classe, 'RHC'). tem('202501438696', objeto, 'outro').
+tem('202501438696', marcador, 'faccao').
+tem('202501438696', marcador, 'denuncia_anonima').
+resultado_real('202501438696', perde).
+tem('202503239275', turma, 'QUINTA TURMA'). tem('202503239275', relator, 'REYNALDO SOARES'). tem('202503239275', classe, 'RHC'). tem('202503239275', objeto, 'nulidade_busca').
+tem('202503239275', marcador, 'local_conhecido').
+resultado_real('202503239275', perde).
 tem('202601786283', turma, 'QUINTA TURMA'). tem('202601786283', relator, 'REYNALDO SOARES'). tem('202601786283', classe, 'RHC'). tem('202601786283', objeto, 'nulidade_busca').
 tem('202601786283', marcador, 'denuncia_anonima').
 resultado_real('202601786283', perde).
 tem('202602529226', turma, 'QUINTA TURMA'). tem('202602529226', relator, 'REYNALDO SOARES'). tem('202602529226', classe, 'RHC'). tem('202602529226', objeto, 'nulidade_busca').
 resultado_real('202602529226', perde).
+tem('202403519102', turma, 'QUINTA TURMA'). tem('202403519102', relator, 'REYNALDO SOARES'). tem('202403519102', classe, 'RMS'). tem('202403519102', objeto, 'outro').
+resultado_real('202403519102', perde).
+tem('202203678270', turma, 'QUINTA TURMA'). tem('202203678270', relator, 'RIBEIRO DANTAS'). tem('202203678270', classe, 'AREsp'). tem('202203678270', objeto, 'desclassificacao').
+resultado_real('202203678270', perde).
+tem('202300887814', turma, 'QUINTA TURMA'). tem('202300887814', relator, 'RIBEIRO DANTAS'). tem('202300887814', classe, 'AREsp'). tem('202300887814', objeto, 'dosimetria').
+tem('202300887814', marcador, 'faccao').
+resultado_real('202300887814', perde).
+tem('202302312709', turma, 'QUINTA TURMA'). tem('202302312709', relator, 'RIBEIRO DANTAS'). tem('202302312709', classe, 'AREsp'). tem('202302312709', objeto, 'autoria').
+resultado_real('202302312709', perde).
+tem('202302759938', turma, 'QUINTA TURMA'). tem('202302759938', relator, 'RIBEIRO DANTAS'). tem('202302759938', classe, 'AREsp'). tem('202302759938', objeto, 'outro').
+resultado_real('202302759938', perde).
+tem('202303128013', turma, 'QUINTA TURMA'). tem('202303128013', relator, 'RIBEIRO DANTAS'). tem('202303128013', classe, 'AREsp'). tem('202303128013', objeto, 'outro').
+resultado_real('202303128013', perde).
 tem('202303691614', turma, 'QUINTA TURMA'). tem('202303691614', relator, 'RIBEIRO DANTAS'). tem('202303691614', classe, 'AREsp'). tem('202303691614', objeto, 'dosimetria').
 resultado_real('202303691614', perde).
+tem('202400665220', turma, 'QUINTA TURMA'). tem('202400665220', relator, 'RIBEIRO DANTAS'). tem('202400665220', classe, 'AREsp'). tem('202400665220', objeto, 'p4').
+resultado_real('202400665220', perde).
+tem('202401055927', turma, 'QUINTA TURMA'). tem('202401055927', relator, 'RIBEIRO DANTAS'). tem('202401055927', classe, 'AREsp'). tem('202401055927', objeto, 'dosimetria').
+resultado_real('202401055927', perde).
 tem('202402021827', turma, 'QUINTA TURMA'). tem('202402021827', relator, 'RIBEIRO DANTAS'). tem('202402021827', classe, 'AREsp'). tem('202402021827', objeto, 'nulidade_busca').
 tem('202402021827', marcador, 'faccao').
 resultado_real('202402021827', perde).
+tem('202402044840', turma, 'QUINTA TURMA'). tem('202402044840', relator, 'RIBEIRO DANTAS'). tem('202402044840', classe, 'AREsp'). tem('202402044840', objeto, 'dosimetria').
+resultado_real('202402044840', perde).
+tem('202402169877', turma, 'QUINTA TURMA'). tem('202402169877', relator, 'RIBEIRO DANTAS'). tem('202402169877', classe, 'AREsp'). tem('202402169877', objeto, 'nulidade_busca').
+resultado_real('202402169877', perde).
+tem('202402599421', turma, 'QUINTA TURMA'). tem('202402599421', relator, 'RIBEIRO DANTAS'). tem('202402599421', classe, 'AREsp'). tem('202402599421', objeto, 'dosimetria').
+resultado_real('202402599421', vence).
+tem('202304572439', turma, 'QUINTA TURMA'). tem('202304572439', relator, 'RIBEIRO DANTAS'). tem('202304572439', classe, 'AREsp'). tem('202304572439', objeto, 'p4').
+tem('202304572439', marcador, 'faccao').
+resultado_real('202304572439', perde).
+tem('202402809450', turma, 'QUINTA TURMA'). tem('202402809450', relator, 'RIBEIRO DANTAS'). tem('202402809450', classe, 'AREsp'). tem('202402809450', objeto, 'dosimetria').
+tem('202402809450', marcador, 'denuncia_anonima').
+resultado_real('202402809450', perde).
+tem('202402850388', turma, 'QUINTA TURMA'). tem('202402850388', relator, 'RIBEIRO DANTAS'). tem('202402850388', classe, 'AREsp'). tem('202402850388', objeto, 'p4').
+resultado_real('202402850388', perde).
+tem('202403016345', turma, 'QUINTA TURMA'). tem('202403016345', relator, 'RIBEIRO DANTAS'). tem('202403016345', classe, 'AREsp'). tem('202403016345', objeto, 'p4').
+resultado_real('202403016345', perde).
+tem('202403157956', turma, 'QUINTA TURMA'). tem('202403157956', relator, 'RIBEIRO DANTAS'). tem('202403157956', classe, 'AREsp'). tem('202403157956', objeto, 'nulidade_busca').
+tem('202403157956', marcador, 'denuncia_anonima').
+resultado_real('202403157956', perde).
+tem('202403169289', turma, 'QUINTA TURMA'). tem('202403169289', relator, 'RIBEIRO DANTAS'). tem('202403169289', classe, 'AREsp'). tem('202403169289', objeto, 'nulidade_busca').
+tem('202403169289', marcador, 'denuncia_anonima').
+resultado_real('202403169289', perde).
+tem('202403288500', turma, 'QUINTA TURMA'). tem('202403288500', relator, 'RIBEIRO DANTAS'). tem('202403288500', classe, 'AREsp'). tem('202403288500', objeto, 'nulidade_busca').
+tem('202403288500', marcador, 'vulgo').
+tem('202403288500', marcador, 'fuga_mudanca_direcao').
+tem('202403288500', marcador, 'denuncia_anonima').
+resultado_real('202403288500', perde).
+tem('202403321186', turma, 'QUINTA TURMA'). tem('202403321186', relator, 'RIBEIRO DANTAS'). tem('202403321186', classe, 'AREsp'). tem('202403321186', objeto, 'p4').
+resultado_real('202403321186', perde).
+tem('202403530556', turma, 'QUINTA TURMA'). tem('202403530556', relator, 'RIBEIRO DANTAS'). tem('202403530556', classe, 'AREsp'). tem('202403530556', objeto, 'p4').
+tem('202403530556', marcador, 'faccao').
+resultado_real('202403530556', perde).
+tem('202403616280', turma, 'QUINTA TURMA'). tem('202403616280', relator, 'RIBEIRO DANTAS'). tem('202403616280', classe, 'AREsp'). tem('202403616280', objeto, 'outro').
+resultado_real('202403616280', perde).
+tem('202403672940', turma, 'QUINTA TURMA'). tem('202403672940', relator, 'RIBEIRO DANTAS'). tem('202403672940', classe, 'AREsp'). tem('202403672940', objeto, 'p4').
+resultado_real('202403672940', perde).
+tem('202403767623', turma, 'QUINTA TURMA'). tem('202403767623', relator, 'RIBEIRO DANTAS'). tem('202403767623', classe, 'AREsp'). tem('202403767623', objeto, 'dosimetria').
+resultado_real('202403767623', perde).
+tem('202403937511', turma, 'QUINTA TURMA'). tem('202403937511', relator, 'RIBEIRO DANTAS'). tem('202403937511', classe, 'AREsp'). tem('202403937511', objeto, 'nulidade_busca').
+resultado_real('202403937511', perde).
+tem('202404002149', turma, 'QUINTA TURMA'). tem('202404002149', relator, 'RIBEIRO DANTAS'). tem('202404002149', classe, 'AREsp'). tem('202404002149', objeto, 'autoria').
+resultado_real('202404002149', perde).
+tem('202404101196', turma, 'QUINTA TURMA'). tem('202404101196', relator, 'RIBEIRO DANTAS'). tem('202404101196', classe, 'AREsp'). tem('202404101196', objeto, 'dosimetria').
+resultado_real('202404101196', perde).
+tem('202404107866', turma, 'QUINTA TURMA'). tem('202404107866', relator, 'RIBEIRO DANTAS'). tem('202404107866', classe, 'AREsp'). tem('202404107866', objeto, 'dosimetria').
+resultado_real('202404107866', perde).
+tem('202404189265', turma, 'QUINTA TURMA'). tem('202404189265', relator, 'RIBEIRO DANTAS'). tem('202404189265', classe, 'AREsp'). tem('202404189265', objeto, 'nulidade_busca').
+tem('202404189265', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404189265', perde).
+tem('202404218185', turma, 'QUINTA TURMA'). tem('202404218185', relator, 'RIBEIRO DANTAS'). tem('202404218185', classe, 'AREsp'). tem('202404218185', objeto, 'p4').
+tem('202404218185', marcador, 'faccao').
+resultado_real('202404218185', perde).
+tem('202404297553', turma, 'QUINTA TURMA'). tem('202404297553', relator, 'RIBEIRO DANTAS'). tem('202404297553', classe, 'AREsp'). tem('202404297553', objeto, 'p4').
+resultado_real('202404297553', perde).
+tem('202404580623', turma, 'QUINTA TURMA'). tem('202404580623', relator, 'RIBEIRO DANTAS'). tem('202404580623', classe, 'AREsp'). tem('202404580623', objeto, 'dosimetria').
+resultado_real('202404580623', perde).
+tem('202404597135', turma, 'QUINTA TURMA'). tem('202404597135', relator, 'RIBEIRO DANTAS'). tem('202404597135', classe, 'AREsp'). tem('202404597135', objeto, 'desclassificacao').
+tem('202404597135', marcador, 'atos_infracionais').
+resultado_real('202404597135', perde).
+tem('202404597968', turma, 'QUINTA TURMA'). tem('202404597968', relator, 'RIBEIRO DANTAS'). tem('202404597968', classe, 'AREsp'). tem('202404597968', objeto, 'p4').
+resultado_real('202404597968', perde).
+tem('202404630600', turma, 'QUINTA TURMA'). tem('202404630600', relator, 'RIBEIRO DANTAS'). tem('202404630600', classe, 'AREsp'). tem('202404630600', objeto, 'p4').
+resultado_real('202404630600', perde).
+tem('202404673502', turma, 'QUINTA TURMA'). tem('202404673502', relator, 'RIBEIRO DANTAS'). tem('202404673502', classe, 'AREsp'). tem('202404673502', objeto, 'dosimetria').
+tem('202404673502', marcador, 'faccao').
+resultado_real('202404673502', perde).
+tem('202404695236', turma, 'QUINTA TURMA'). tem('202404695236', relator, 'RIBEIRO DANTAS'). tem('202404695236', classe, 'AREsp'). tem('202404695236', objeto, 'desclassificacao').
+resultado_real('202404695236', perde).
+tem('202404741383', turma, 'QUINTA TURMA'). tem('202404741383', relator, 'RIBEIRO DANTAS'). tem('202404741383', classe, 'AREsp'). tem('202404741383', objeto, 'nulidade_busca').
+resultado_real('202404741383', perde).
+tem('202404777816', turma, 'QUINTA TURMA'). tem('202404777816', relator, 'RIBEIRO DANTAS'). tem('202404777816', classe, 'AREsp'). tem('202404777816', objeto, 'nulidade_busca').
+resultado_real('202404777816', perde).
+tem('202404809742', turma, 'QUINTA TURMA'). tem('202404809742', relator, 'RIBEIRO DANTAS'). tem('202404809742', classe, 'AREsp'). tem('202404809742', objeto, 'desclassificacao').
+resultado_real('202404809742', perde).
+tem('202404895567', turma, 'QUINTA TURMA'). tem('202404895567', relator, 'RIBEIRO DANTAS'). tem('202404895567', classe, 'AREsp'). tem('202404895567', objeto, 'desclassificacao').
+resultado_real('202404895567', perde).
+tem('202500065000', turma, 'QUINTA TURMA'). tem('202500065000', relator, 'RIBEIRO DANTAS'). tem('202500065000', classe, 'AREsp'). tem('202500065000', objeto, 'p4').
+resultado_real('202500065000', perde).
+tem('202500127583', turma, 'QUINTA TURMA'). tem('202500127583', relator, 'RIBEIRO DANTAS'). tem('202500127583', classe, 'AREsp'). tem('202500127583', objeto, 'nulidade_busca').
+tem('202500127583', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500127583', perde).
+tem('202500085802', turma, 'QUINTA TURMA'). tem('202500085802', relator, 'RIBEIRO DANTAS'). tem('202500085802', classe, 'AREsp'). tem('202500085802', objeto, 'p4').
+resultado_real('202500085802', perde).
+tem('202500223122', turma, 'QUINTA TURMA'). tem('202500223122', relator, 'RIBEIRO DANTAS'). tem('202500223122', classe, 'AREsp'). tem('202500223122', objeto, 'dosimetria').
+resultado_real('202500223122', perde).
+tem('202500226140', turma, 'QUINTA TURMA'). tem('202500226140', relator, 'RIBEIRO DANTAS'). tem('202500226140', classe, 'AREsp'). tem('202500226140', objeto, 'outro').
+resultado_real('202500226140', perde).
+tem('202500237992', turma, 'QUINTA TURMA'). tem('202500237992', relator, 'RIBEIRO DANTAS'). tem('202500237992', classe, 'AREsp'). tem('202500237992', objeto, 'outro').
+resultado_real('202500237992', perde).
+tem('202500359535', turma, 'QUINTA TURMA'). tem('202500359535', relator, 'RIBEIRO DANTAS'). tem('202500359535', classe, 'AREsp'). tem('202500359535', objeto, 'p4').
+resultado_real('202500359535', perde).
+tem('202500359192', turma, 'QUINTA TURMA'). tem('202500359192', relator, 'RIBEIRO DANTAS'). tem('202500359192', classe, 'AREsp'). tem('202500359192', objeto, 'dosimetria').
+resultado_real('202500359192', perde).
+tem('202500401250', turma, 'QUINTA TURMA'). tem('202500401250', relator, 'RIBEIRO DANTAS'). tem('202500401250', classe, 'AREsp'). tem('202500401250', objeto, 'p4').
+tem('202500401250', marcador, 'faccao').
+resultado_real('202500401250', perde).
+tem('202500406085', turma, 'QUINTA TURMA'). tem('202500406085', relator, 'RIBEIRO DANTAS'). tem('202500406085', classe, 'AREsp'). tem('202500406085', objeto, 'p4').
+resultado_real('202500406085', perde).
+tem('202500489027', turma, 'QUINTA TURMA'). tem('202500489027', relator, 'RIBEIRO DANTAS'). tem('202500489027', classe, 'AREsp'). tem('202500489027', objeto, 'p4').
+tem('202500489027', marcador, 'faccao').
+resultado_real('202500489027', perde).
+tem('202500549578', turma, 'QUINTA TURMA'). tem('202500549578', relator, 'RIBEIRO DANTAS'). tem('202500549578', classe, 'AREsp'). tem('202500549578', objeto, 'nulidade_busca').
+resultado_real('202500549578', perde).
+tem('202500627650', turma, 'QUINTA TURMA'). tem('202500627650', relator, 'RIBEIRO DANTAS'). tem('202500627650', classe, 'AREsp'). tem('202500627650', objeto, 'dosimetria').
+resultado_real('202500627650', perde).
+tem('202500700150', turma, 'QUINTA TURMA'). tem('202500700150', relator, 'RIBEIRO DANTAS'). tem('202500700150', classe, 'AREsp'). tem('202500700150', objeto, 'p4').
+tem('202500700150', marcador, 'faccao').
+resultado_real('202500700150', perde).
+tem('202500736620', turma, 'QUINTA TURMA'). tem('202500736620', relator, 'RIBEIRO DANTAS'). tem('202500736620', classe, 'AREsp'). tem('202500736620', objeto, 'p4').
+resultado_real('202500736620', perde).
+tem('202500795853', turma, 'QUINTA TURMA'). tem('202500795853', relator, 'RIBEIRO DANTAS'). tem('202500795853', classe, 'AREsp'). tem('202500795853', objeto, 'autoria').
+resultado_real('202500795853', perde).
+tem('202500808455', turma, 'QUINTA TURMA'). tem('202500808455', relator, 'RIBEIRO DANTAS'). tem('202500808455', classe, 'AREsp'). tem('202500808455', objeto, 'dosimetria').
+resultado_real('202500808455', perde).
+tem('202500930460', turma, 'QUINTA TURMA'). tem('202500930460', relator, 'RIBEIRO DANTAS'). tem('202500930460', classe, 'AREsp'). tem('202500930460', objeto, 'dosimetria').
+resultado_real('202500930460', perde).
+tem('202500944460', turma, 'QUINTA TURMA'). tem('202500944460', relator, 'RIBEIRO DANTAS'). tem('202500944460', classe, 'AREsp'). tem('202500944460', objeto, 'nulidade_busca').
+resultado_real('202500944460', perde).
+tem('202500732780', turma, 'QUINTA TURMA'). tem('202500732780', relator, 'RIBEIRO DANTAS'). tem('202500732780', classe, 'AREsp'). tem('202500732780', objeto, 'p4').
+resultado_real('202500732780', perde).
+tem('202501073562', turma, 'QUINTA TURMA'). tem('202501073562', relator, 'RIBEIRO DANTAS'). tem('202501073562', classe, 'AREsp'). tem('202501073562', objeto, 'nulidade_busca').
+resultado_real('202501073562', perde).
+tem('202501092291', turma, 'QUINTA TURMA'). tem('202501092291', relator, 'RIBEIRO DANTAS'). tem('202501092291', classe, 'AREsp'). tem('202501092291', objeto, 'nulidade_busca').
+tem('202501092291', marcador, 'fuga_mudanca_direcao').
+tem('202501092291', marcador, 'denuncia_anonima').
+resultado_real('202501092291', perde).
+tem('202501143252', turma, 'QUINTA TURMA'). tem('202501143252', relator, 'RIBEIRO DANTAS'). tem('202501143252', classe, 'AREsp'). tem('202501143252', objeto, 'desclassificacao').
+resultado_real('202501143252', perde).
+tem('202501224543', turma, 'QUINTA TURMA'). tem('202501224543', relator, 'RIBEIRO DANTAS'). tem('202501224543', classe, 'AREsp'). tem('202501224543', objeto, 'p4').
+tem('202501224543', marcador, 'atos_infracionais').
+resultado_real('202501224543', perde).
+tem('202501307563', turma, 'QUINTA TURMA'). tem('202501307563', relator, 'RIBEIRO DANTAS'). tem('202501307563', classe, 'AREsp'). tem('202501307563', objeto, 'dosimetria').
+resultado_real('202501307563', perde).
+tem('202501476788', turma, 'QUINTA TURMA'). tem('202501476788', relator, 'RIBEIRO DANTAS'). tem('202501476788', classe, 'AREsp'). tem('202501476788', objeto, 'dosimetria').
+resultado_real('202501476788', perde).
+tem('202404620752', turma, 'QUINTA TURMA'). tem('202404620752', relator, 'RIBEIRO DANTAS'). tem('202404620752', classe, 'AREsp'). tem('202404620752', objeto, 'nulidade_busca').
+resultado_real('202404620752', perde).
+tem('202501405664', turma, 'QUINTA TURMA'). tem('202501405664', relator, 'RIBEIRO DANTAS'). tem('202501405664', classe, 'AREsp'). tem('202501405664', objeto, 'p4').
+resultado_real('202501405664', perde).
+tem('202501636971', turma, 'QUINTA TURMA'). tem('202501636971', relator, 'RIBEIRO DANTAS'). tem('202501636971', classe, 'AREsp'). tem('202501636971', objeto, 'nulidade_busca').
+tem('202501636971', marcador, 'nervosismo').
+tem('202501636971', marcador, 'denuncia_anonima').
+resultado_real('202501636971', perde).
+tem('202501548336', turma, 'QUINTA TURMA'). tem('202501548336', relator, 'RIBEIRO DANTAS'). tem('202501548336', classe, 'AREsp'). tem('202501548336', objeto, 'nulidade_busca').
+tem('202501548336', marcador, 'denuncia_anonima').
+resultado_real('202501548336', perde).
+tem('202501555240', turma, 'QUINTA TURMA'). tem('202501555240', relator, 'RIBEIRO DANTAS'). tem('202501555240', classe, 'AREsp'). tem('202501555240', objeto, 'p4').
+resultado_real('202501555240', perde).
+tem('202501562420', turma, 'QUINTA TURMA'). tem('202501562420', relator, 'RIBEIRO DANTAS'). tem('202501562420', classe, 'AREsp'). tem('202501562420', objeto, 'nulidade_busca').
+resultado_real('202501562420', perde).
+tem('202501580227', turma, 'QUINTA TURMA'). tem('202501580227', relator, 'RIBEIRO DANTAS'). tem('202501580227', classe, 'AREsp'). tem('202501580227', objeto, 'p4').
+tem('202501580227', marcador, 'faccao').
+resultado_real('202501580227', perde).
+tem('202501717971', turma, 'QUINTA TURMA'). tem('202501717971', relator, 'RIBEIRO DANTAS'). tem('202501717971', classe, 'AREsp'). tem('202501717971', objeto, 'p4').
+resultado_real('202501717971', perde).
+tem('202501844178', turma, 'QUINTA TURMA'). tem('202501844178', relator, 'RIBEIRO DANTAS'). tem('202501844178', classe, 'AREsp'). tem('202501844178', objeto, 'dosimetria').
+resultado_real('202501844178', perde).
+tem('202501871365', turma, 'QUINTA TURMA'). tem('202501871365', relator, 'RIBEIRO DANTAS'). tem('202501871365', classe, 'AREsp'). tem('202501871365', objeto, 'p4').
+resultado_real('202501871365', perde).
+tem('202502098920', turma, 'QUINTA TURMA'). tem('202502098920', relator, 'RIBEIRO DANTAS'). tem('202502098920', classe, 'AREsp'). tem('202502098920', objeto, 'p4').
+resultado_real('202502098920', perde).
+tem('202502098146', turma, 'QUINTA TURMA'). tem('202502098146', relator, 'RIBEIRO DANTAS'). tem('202502098146', classe, 'AREsp'). tem('202502098146', objeto, 'nulidade_busca').
+tem('202502098146', marcador, 'local_conhecido').
+tem('202502098146', marcador, 'fuga_mudanca_direcao').
+resultado_real('202502098146', perde).
 tem('202502275304', turma, 'QUINTA TURMA'). tem('202502275304', relator, 'RIBEIRO DANTAS'). tem('202502275304', classe, 'AREsp'). tem('202502275304', objeto, 'p4').
 tem('202502275304', marcador, 'faccao').
 resultado_real('202502275304', perde).
+tem('202502365036', turma, 'QUINTA TURMA'). tem('202502365036', relator, 'RIBEIRO DANTAS'). tem('202502365036', classe, 'AREsp'). tem('202502365036', objeto, 'p4').
+resultado_real('202502365036', perde).
+tem('202502631661', turma, 'QUINTA TURMA'). tem('202502631661', relator, 'RIBEIRO DANTAS'). tem('202502631661', classe, 'AREsp'). tem('202502631661', objeto, 'p4').
+resultado_real('202502631661', perde).
+tem('202502789901', turma, 'QUINTA TURMA'). tem('202502789901', relator, 'RIBEIRO DANTAS'). tem('202502789901', classe, 'AREsp'). tem('202502789901', objeto, 'desclassificacao').
+tem('202502789901', marcador, 'local_conhecido').
+resultado_real('202502789901', perde).
+tem('202502848038', turma, 'QUINTA TURMA'). tem('202502848038', relator, 'RIBEIRO DANTAS'). tem('202502848038', classe, 'AREsp'). tem('202502848038', objeto, 'p4').
+tem('202502848038', marcador, 'atos_infracionais').
+resultado_real('202502848038', perde).
+tem('202503204639', turma, 'QUINTA TURMA'). tem('202503204639', relator, 'RIBEIRO DANTAS'). tem('202503204639', classe, 'AREsp'). tem('202503204639', objeto, 'p4').
+resultado_real('202503204639', perde).
 tem('202503220213', turma, 'QUINTA TURMA'). tem('202503220213', relator, 'RIBEIRO DANTAS'). tem('202503220213', classe, 'AREsp'). tem('202503220213', objeto, 'nulidade_busca').
 tem('202503220213', marcador, 'faccao').
 tem('202503220213', marcador, 'denuncia_anonima').
@@ -1807,6 +6839,111 @@ tem('202602745990', turma, 'QUINTA TURMA'). tem('202602745990', relator, 'RIBEIR
 tem('202602745990', marcador, 'faccao').
 tem('202602745990', marcador, 'fuga_mudanca_direcao').
 resultado_real('202602745990', perde).
+tem('202501546252', turma, 'QUINTA TURMA'). tem('202501546252', relator, 'RIBEIRO DANTAS'). tem('202501546252', classe, 'HC'). tem('202501546252', objeto, 'p4').
+resultado_real('202501546252', perde).
+tem('202501554896', turma, 'QUINTA TURMA'). tem('202501554896', relator, 'RIBEIRO DANTAS'). tem('202501554896', classe, 'HC'). tem('202501554896', objeto, 'dosimetria').
+tem('202501554896', marcador, 'faccao').
+resultado_real('202501554896', perde).
+tem('202501556071', turma, 'QUINTA TURMA'). tem('202501556071', relator, 'RIBEIRO DANTAS'). tem('202501556071', classe, 'HC'). tem('202501556071', objeto, 'p4').
+resultado_real('202501556071', perde).
+tem('202501566358', turma, 'QUINTA TURMA'). tem('202501566358', relator, 'RIBEIRO DANTAS'). tem('202501566358', classe, 'HC'). tem('202501566358', objeto, 'desclassificacao').
+tem('202501566358', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501566358', perde).
+tem('202501567837', turma, 'QUINTA TURMA'). tem('202501567837', relator, 'RIBEIRO DANTAS'). tem('202501567837', classe, 'HC'). tem('202501567837', objeto, 'p4').
+resultado_real('202501567837', perde).
+tem('202501613389', turma, 'QUINTA TURMA'). tem('202501613389', relator, 'RIBEIRO DANTAS'). tem('202501613389', classe, 'HC'). tem('202501613389', objeto, 'nulidade_busca').
+tem('202501613389', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501613389', perde).
+tem('202501624978', turma, 'QUINTA TURMA'). tem('202501624978', relator, 'RIBEIRO DANTAS'). tem('202501624978', classe, 'HC'). tem('202501624978', objeto, 'desclassificacao').
+resultado_real('202501624978', perde).
+tem('202501662755', turma, 'QUINTA TURMA'). tem('202501662755', relator, 'RIBEIRO DANTAS'). tem('202501662755', classe, 'HC'). tem('202501662755', objeto, 'desclassificacao').
+resultado_real('202501662755', perde).
+tem('202501718224', turma, 'QUINTA TURMA'). tem('202501718224', relator, 'RIBEIRO DANTAS'). tem('202501718224', classe, 'HC'). tem('202501718224', objeto, 'dosimetria').
+resultado_real('202501718224', perde).
+tem('202501726047', turma, 'QUINTA TURMA'). tem('202501726047', relator, 'RIBEIRO DANTAS'). tem('202501726047', classe, 'HC'). tem('202501726047', objeto, 'nulidade_busca').
+tem('202501726047', marcador, 'nervosismo').
+resultado_real('202501726047', perde).
+tem('202501782591', turma, 'QUINTA TURMA'). tem('202501782591', relator, 'RIBEIRO DANTAS'). tem('202501782591', classe, 'HC'). tem('202501782591', objeto, 'dosimetria').
+resultado_real('202501782591', perde).
+tem('202501787670', turma, 'QUINTA TURMA'). tem('202501787670', relator, 'RIBEIRO DANTAS'). tem('202501787670', classe, 'HC'). tem('202501787670', objeto, 'p4').
+resultado_real('202501787670', perde).
+tem('202501799636', turma, 'QUINTA TURMA'). tem('202501799636', relator, 'RIBEIRO DANTAS'). tem('202501799636', classe, 'HC'). tem('202501799636', objeto, 'p4').
+tem('202501799636', marcador, 'faccao').
+resultado_real('202501799636', perde).
+tem('202501813534', turma, 'QUINTA TURMA'). tem('202501813534', relator, 'RIBEIRO DANTAS'). tem('202501813534', classe, 'HC'). tem('202501813534', objeto, 'autoria').
+resultado_real('202501813534', perde).
+tem('202501818749', turma, 'QUINTA TURMA'). tem('202501818749', relator, 'RIBEIRO DANTAS'). tem('202501818749', classe, 'HC'). tem('202501818749', objeto, 'dosimetria').
+resultado_real('202501818749', perde).
+tem('202501823304', turma, 'QUINTA TURMA'). tem('202501823304', relator, 'RIBEIRO DANTAS'). tem('202501823304', classe, 'HC'). tem('202501823304', objeto, 'p4').
+tem('202501823304', marcador, 'faccao').
+resultado_real('202501823304', perde).
+tem('202501853796', turma, 'QUINTA TURMA'). tem('202501853796', relator, 'RIBEIRO DANTAS'). tem('202501853796', classe, 'HC'). tem('202501853796', objeto, 'dosimetria').
+resultado_real('202501853796', perde).
+tem('202501888371', turma, 'QUINTA TURMA'). tem('202501888371', relator, 'RIBEIRO DANTAS'). tem('202501888371', classe, 'HC'). tem('202501888371', objeto, 'p4').
+resultado_real('202501888371', perde).
+tem('202501946816', turma, 'QUINTA TURMA'). tem('202501946816', relator, 'RIBEIRO DANTAS'). tem('202501946816', classe, 'HC'). tem('202501946816', objeto, 'dosimetria').
+resultado_real('202501946816', perde).
+tem('202501990700', turma, 'QUINTA TURMA'). tem('202501990700', relator, 'RIBEIRO DANTAS'). tem('202501990700', classe, 'HC'). tem('202501990700', objeto, 'desclassificacao').
+resultado_real('202501990700', perde).
+tem('202501990773', turma, 'QUINTA TURMA'). tem('202501990773', relator, 'RIBEIRO DANTAS'). tem('202501990773', classe, 'HC'). tem('202501990773', objeto, 'desclassificacao').
+resultado_real('202501990773', perde).
+tem('202501995915', turma, 'QUINTA TURMA'). tem('202501995915', relator, 'RIBEIRO DANTAS'). tem('202501995915', classe, 'HC'). tem('202501995915', objeto, 'p4').
+resultado_real('202501995915', perde).
+tem('202501999690', turma, 'QUINTA TURMA'). tem('202501999690', relator, 'RIBEIRO DANTAS'). tem('202501999690', classe, 'HC'). tem('202501999690', objeto, 'p4').
+resultado_real('202501999690', perde).
+tem('202502050760', turma, 'QUINTA TURMA'). tem('202502050760', relator, 'RIBEIRO DANTAS'). tem('202502050760', classe, 'HC'). tem('202502050760', objeto, 'p4').
+resultado_real('202502050760', perde).
+tem('202502064444', turma, 'QUINTA TURMA'). tem('202502064444', relator, 'RIBEIRO DANTAS'). tem('202502064444', classe, 'HC'). tem('202502064444', objeto, 'outro').
+resultado_real('202502064444', perde).
+tem('202502102945', turma, 'QUINTA TURMA'). tem('202502102945', relator, 'RIBEIRO DANTAS'). tem('202502102945', classe, 'HC'). tem('202502102945', objeto, 'dosimetria').
+resultado_real('202502102945', perde).
+tem('202502093663', turma, 'QUINTA TURMA'). tem('202502093663', relator, 'RIBEIRO DANTAS'). tem('202502093663', classe, 'HC'). tem('202502093663', objeto, 'p4').
+resultado_real('202502093663', perde).
+tem('202502125653', turma, 'QUINTA TURMA'). tem('202502125653', relator, 'RIBEIRO DANTAS'). tem('202502125653', classe, 'HC'). tem('202502125653', objeto, 'p4').
+tem('202502125653', marcador, 'atos_infracionais').
+resultado_real('202502125653', perde).
+tem('202502139968', turma, 'QUINTA TURMA'). tem('202502139968', relator, 'RIBEIRO DANTAS'). tem('202502139968', classe, 'HC'). tem('202502139968', objeto, 'p4').
+resultado_real('202502139968', perde).
+tem('202502129114', turma, 'QUINTA TURMA'). tem('202502129114', relator, 'RIBEIRO DANTAS'). tem('202502129114', classe, 'HC'). tem('202502129114', objeto, 'desclassificacao').
+resultado_real('202502129114', perde).
+tem('202502230959', turma, 'QUINTA TURMA'). tem('202502230959', relator, 'RIBEIRO DANTAS'). tem('202502230959', classe, 'HC'). tem('202502230959', objeto, 'desclassificacao').
+tem('202502230959', marcador, 'denuncia_anonima').
+resultado_real('202502230959', perde).
+tem('202502251445', turma, 'QUINTA TURMA'). tem('202502251445', relator, 'RIBEIRO DANTAS'). tem('202502251445', classe, 'HC'). tem('202502251445', objeto, 'desclassificacao').
+resultado_real('202502251445', perde).
+tem('202502276590', turma, 'QUINTA TURMA'). tem('202502276590', relator, 'RIBEIRO DANTAS'). tem('202502276590', classe, 'HC'). tem('202502276590', objeto, 'dosimetria').
+resultado_real('202502276590', perde).
+tem('202502297556', turma, 'QUINTA TURMA'). tem('202502297556', relator, 'RIBEIRO DANTAS'). tem('202502297556', classe, 'HC'). tem('202502297556', objeto, 'p4').
+resultado_real('202502297556', perde).
+tem('202502303202', turma, 'QUINTA TURMA'). tem('202502303202', relator, 'RIBEIRO DANTAS'). tem('202502303202', classe, 'HC'). tem('202502303202', objeto, 'dosimetria').
+resultado_real('202502303202', perde).
+tem('202502347948', turma, 'QUINTA TURMA'). tem('202502347948', relator, 'RIBEIRO DANTAS'). tem('202502347948', classe, 'HC'). tem('202502347948', objeto, 'p4').
+resultado_real('202502347948', perde).
+tem('202502392057', turma, 'QUINTA TURMA'). tem('202502392057', relator, 'RIBEIRO DANTAS'). tem('202502392057', classe, 'HC'). tem('202502392057', objeto, 'p4').
+resultado_real('202502392057', perde).
+tem('202502470205', turma, 'QUINTA TURMA'). tem('202502470205', relator, 'RIBEIRO DANTAS'). tem('202502470205', classe, 'HC'). tem('202502470205', objeto, 'desclassificacao').
+resultado_real('202502470205', perde).
+tem('202502622346', turma, 'QUINTA TURMA'). tem('202502622346', relator, 'RIBEIRO DANTAS'). tem('202502622346', classe, 'HC'). tem('202502622346', objeto, 'p4').
+resultado_real('202502622346', perde).
+tem('202502685065', turma, 'QUINTA TURMA'). tem('202502685065', relator, 'RIBEIRO DANTAS'). tem('202502685065', classe, 'HC'). tem('202502685065', objeto, 'p4').
+resultado_real('202502685065', perde).
+tem('202502691250', turma, 'QUINTA TURMA'). tem('202502691250', relator, 'RIBEIRO DANTAS'). tem('202502691250', classe, 'HC'). tem('202502691250', objeto, 'p4').
+resultado_real('202502691250', perde).
+tem('202502796702', turma, 'QUINTA TURMA'). tem('202502796702', relator, 'RIBEIRO DANTAS'). tem('202502796702', classe, 'HC'). tem('202502796702', objeto, 'p4').
+resultado_real('202502796702', perde).
+tem('202502907138', turma, 'QUINTA TURMA'). tem('202502907138', relator, 'RIBEIRO DANTAS'). tem('202502907138', classe, 'HC'). tem('202502907138', objeto, 'p4').
+resultado_real('202502907138', perde).
+tem('202502910555', turma, 'QUINTA TURMA'). tem('202502910555', relator, 'RIBEIRO DANTAS'). tem('202502910555', classe, 'HC'). tem('202502910555', objeto, 'p4').
+tem('202502910555', marcador, 'faccao').
+resultado_real('202502910555', vence).
+tem('202503025247', turma, 'QUINTA TURMA'). tem('202503025247', relator, 'RIBEIRO DANTAS'). tem('202503025247', classe, 'HC'). tem('202503025247', objeto, 'p4').
+resultado_real('202503025247', perde).
+tem('202503108421', turma, 'QUINTA TURMA'). tem('202503108421', relator, 'RIBEIRO DANTAS'). tem('202503108421', classe, 'HC'). tem('202503108421', objeto, 'dosimetria').
+resultado_real('202503108421', perde).
+tem('202503170605', turma, 'QUINTA TURMA'). tem('202503170605', relator, 'RIBEIRO DANTAS'). tem('202503170605', classe, 'HC'). tem('202503170605', objeto, 'dosimetria').
+resultado_real('202503170605', perde).
+tem('202503206999', turma, 'QUINTA TURMA'). tem('202503206999', relator, 'RIBEIRO DANTAS'). tem('202503206999', classe, 'HC'). tem('202503206999', objeto, 'dosimetria').
+resultado_real('202503206999', perde).
 tem('202503422843', turma, 'QUINTA TURMA'). tem('202503422843', relator, 'RIBEIRO DANTAS'). tem('202503422843', classe, 'HC'). tem('202503422843', objeto, 'autoria').
 tem('202503422843', marcador, 'faccao').
 resultado_real('202503422843', perde).
@@ -1990,6 +7127,337 @@ tem('202601861765', marcador, 'denuncia_anonima').
 resultado_real('202601861765', perde).
 tem('202601883791', turma, 'QUINTA TURMA'). tem('202601883791', relator, 'RIBEIRO DANTAS'). tem('202601883791', classe, 'HC'). tem('202601883791', objeto, 'dosimetria').
 resultado_real('202601883791', perde).
+tem('202401447250', turma, 'QUINTA TURMA'). tem('202401447250', relator, 'RIBEIRO DANTAS'). tem('202401447250', classe, 'HC'). tem('202401447250', objeto, 'nulidade_busca').
+resultado_real('202401447250', perde).
+tem('202401541108', turma, 'QUINTA TURMA'). tem('202401541108', relator, 'RIBEIRO DANTAS'). tem('202401541108', classe, 'HC'). tem('202401541108', objeto, 'nulidade_busca').
+resultado_real('202401541108', perde).
+tem('202401774210', turma, 'QUINTA TURMA'). tem('202401774210', relator, 'RIBEIRO DANTAS'). tem('202401774210', classe, 'HC'). tem('202401774210', objeto, 'dosimetria').
+tem('202401774210', marcador, 'faccao').
+resultado_real('202401774210', perde).
+tem('202401916632', turma, 'QUINTA TURMA'). tem('202401916632', relator, 'RIBEIRO DANTAS'). tem('202401916632', classe, 'HC'). tem('202401916632', objeto, 'nulidade_busca').
+resultado_real('202401916632', perde).
+tem('202401932229', turma, 'QUINTA TURMA'). tem('202401932229', relator, 'RIBEIRO DANTAS'). tem('202401932229', classe, 'HC'). tem('202401932229', objeto, 'nulidade_busca').
+tem('202401932229', marcador, 'nervosismo').
+resultado_real('202401932229', perde).
+tem('202402029721', turma, 'QUINTA TURMA'). tem('202402029721', relator, 'RIBEIRO DANTAS'). tem('202402029721', classe, 'HC'). tem('202402029721', objeto, 'nulidade_busca').
+resultado_real('202402029721', perde).
+tem('202402062367', turma, 'QUINTA TURMA'). tem('202402062367', relator, 'RIBEIRO DANTAS'). tem('202402062367', classe, 'HC'). tem('202402062367', objeto, 'autoria').
+resultado_real('202402062367', perde).
+tem('202402318600', turma, 'QUINTA TURMA'). tem('202402318600', relator, 'RIBEIRO DANTAS'). tem('202402318600', classe, 'HC'). tem('202402318600', objeto, 'outro').
+resultado_real('202402318600', perde).
+tem('202402413591', turma, 'QUINTA TURMA'). tem('202402413591', relator, 'RIBEIRO DANTAS'). tem('202402413591', classe, 'HC'). tem('202402413591', objeto, 'outro').
+resultado_real('202402413591', perde).
+tem('202402590529', turma, 'QUINTA TURMA'). tem('202402590529', relator, 'RIBEIRO DANTAS'). tem('202402590529', classe, 'HC'). tem('202402590529', objeto, 'autoria').
+resultado_real('202402590529', perde).
+tem('202402666748', turma, 'QUINTA TURMA'). tem('202402666748', relator, 'RIBEIRO DANTAS'). tem('202402666748', classe, 'HC'). tem('202402666748', objeto, 'dosimetria').
+resultado_real('202402666748', perde).
+tem('202402690093', turma, 'QUINTA TURMA'). tem('202402690093', relator, 'RIBEIRO DANTAS'). tem('202402690093', classe, 'HC'). tem('202402690093', objeto, 'p4').
+resultado_real('202402690093', perde).
+tem('202402774353', turma, 'QUINTA TURMA'). tem('202402774353', relator, 'RIBEIRO DANTAS'). tem('202402774353', classe, 'HC'). tem('202402774353', objeto, 'nulidade_busca').
+resultado_real('202402774353', perde).
+tem('202402791580', turma, 'QUINTA TURMA'). tem('202402791580', relator, 'RIBEIRO DANTAS'). tem('202402791580', classe, 'HC'). tem('202402791580', objeto, 'nulidade_busca').
+resultado_real('202402791580', perde).
+tem('202402813079', turma, 'QUINTA TURMA'). tem('202402813079', relator, 'RIBEIRO DANTAS'). tem('202402813079', classe, 'HC'). tem('202402813079', objeto, 'dosimetria').
+tem('202402813079', marcador, 'faccao').
+resultado_real('202402813079', perde).
+tem('202402864364', turma, 'QUINTA TURMA'). tem('202402864364', relator, 'RIBEIRO DANTAS'). tem('202402864364', classe, 'HC'). tem('202402864364', objeto, 'outro').
+resultado_real('202402864364', perde).
+tem('202402988902', turma, 'QUINTA TURMA'). tem('202402988902', relator, 'RIBEIRO DANTAS'). tem('202402988902', classe, 'HC'). tem('202402988902', objeto, 'dosimetria').
+resultado_real('202402988902', perde).
+tem('202403095446', turma, 'QUINTA TURMA'). tem('202403095446', relator, 'RIBEIRO DANTAS'). tem('202403095446', classe, 'HC'). tem('202403095446', objeto, 'p4').
+resultado_real('202403095446', perde).
+tem('202403115901', turma, 'QUINTA TURMA'). tem('202403115901', relator, 'RIBEIRO DANTAS'). tem('202403115901', classe, 'HC'). tem('202403115901', objeto, 'desclassificacao').
+resultado_real('202403115901', perde).
+tem('202403162483', turma, 'QUINTA TURMA'). tem('202403162483', relator, 'RIBEIRO DANTAS'). tem('202403162483', classe, 'HC'). tem('202403162483', objeto, 'outro').
+resultado_real('202403162483', perde).
+tem('202403198928', turma, 'QUINTA TURMA'). tem('202403198928', relator, 'RIBEIRO DANTAS'). tem('202403198928', classe, 'HC'). tem('202403198928', objeto, 'dosimetria').
+resultado_real('202403198928', perde).
+tem('202403206922', turma, 'QUINTA TURMA'). tem('202403206922', relator, 'RIBEIRO DANTAS'). tem('202403206922', classe, 'HC'). tem('202403206922', objeto, 'desclassificacao').
+resultado_real('202403206922', perde).
+tem('202403301815', turma, 'QUINTA TURMA'). tem('202403301815', relator, 'RIBEIRO DANTAS'). tem('202403301815', classe, 'HC'). tem('202403301815', objeto, 'p4').
+tem('202403301815', marcador, 'faccao').
+resultado_real('202403301815', perde).
+tem('202403316004', turma, 'QUINTA TURMA'). tem('202403316004', relator, 'RIBEIRO DANTAS'). tem('202403316004', classe, 'HC'). tem('202403316004', objeto, 'nulidade_busca').
+tem('202403316004', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403316004', perde).
+tem('202403364105', turma, 'QUINTA TURMA'). tem('202403364105', relator, 'RIBEIRO DANTAS'). tem('202403364105', classe, 'HC'). tem('202403364105', objeto, 'nulidade_busca').
+tem('202403364105', marcador, 'denuncia_anonima').
+resultado_real('202403364105', perde).
+tem('202403406177', turma, 'QUINTA TURMA'). tem('202403406177', relator, 'RIBEIRO DANTAS'). tem('202403406177', classe, 'HC'). tem('202403406177', objeto, 'nulidade_busca').
+resultado_real('202403406177', perde).
+tem('202403506680', turma, 'QUINTA TURMA'). tem('202403506680', relator, 'RIBEIRO DANTAS'). tem('202403506680', classe, 'HC'). tem('202403506680', objeto, 'nulidade_busca').
+resultado_real('202403506680', perde).
+tem('202403603822', turma, 'QUINTA TURMA'). tem('202403603822', relator, 'RIBEIRO DANTAS'). tem('202403603822', classe, 'HC'). tem('202403603822', objeto, 'p4').
+resultado_real('202403603822', perde).
+tem('202403628110', turma, 'QUINTA TURMA'). tem('202403628110', relator, 'RIBEIRO DANTAS'). tem('202403628110', classe, 'HC'). tem('202403628110', objeto, 'desclassificacao').
+resultado_real('202403628110', perde).
+tem('202403635060', turma, 'QUINTA TURMA'). tem('202403635060', relator, 'RIBEIRO DANTAS'). tem('202403635060', classe, 'HC'). tem('202403635060', objeto, 'nulidade_busca').
+tem('202403635060', marcador, 'nervosismo').
+resultado_real('202403635060', perde).
+tem('202403651972', turma, 'QUINTA TURMA'). tem('202403651972', relator, 'RIBEIRO DANTAS'). tem('202403651972', classe, 'HC'). tem('202403651972', objeto, 'outro').
+resultado_real('202403651972', perde).
+tem('202403702262', turma, 'QUINTA TURMA'). tem('202403702262', relator, 'RIBEIRO DANTAS'). tem('202403702262', classe, 'HC'). tem('202403702262', objeto, 'desclassificacao').
+resultado_real('202403702262', perde).
+tem('202403733314', turma, 'QUINTA TURMA'). tem('202403733314', relator, 'RIBEIRO DANTAS'). tem('202403733314', classe, 'HC'). tem('202403733314', objeto, 'p4').
+resultado_real('202403733314', perde).
+tem('202403771380', turma, 'QUINTA TURMA'). tem('202403771380', relator, 'RIBEIRO DANTAS'). tem('202403771380', classe, 'HC'). tem('202403771380', objeto, 'outro').
+resultado_real('202403771380', perde).
+tem('202403773261', turma, 'QUINTA TURMA'). tem('202403773261', relator, 'RIBEIRO DANTAS'). tem('202403773261', classe, 'HC'). tem('202403773261', objeto, 'nulidade_busca').
+tem('202403773261', marcador, 'nervosismo').
+resultado_real('202403773261', perde).
+tem('202403808220', turma, 'QUINTA TURMA'). tem('202403808220', relator, 'RIBEIRO DANTAS'). tem('202403808220', classe, 'HC'). tem('202403808220', objeto, 'p4').
+resultado_real('202403808220', perde).
+tem('202403813959', turma, 'QUINTA TURMA'). tem('202403813959', relator, 'RIBEIRO DANTAS'). tem('202403813959', classe, 'HC'). tem('202403813959', objeto, 'dosimetria').
+resultado_real('202403813959', perde).
+tem('202403904350', turma, 'QUINTA TURMA'). tem('202403904350', relator, 'RIBEIRO DANTAS'). tem('202403904350', classe, 'HC'). tem('202403904350', objeto, 'autoria').
+resultado_real('202403904350', perde).
+tem('202403940005', turma, 'QUINTA TURMA'). tem('202403940005', relator, 'RIBEIRO DANTAS'). tem('202403940005', classe, 'HC'). tem('202403940005', objeto, 'dosimetria').
+resultado_real('202403940005', perde).
+tem('202403957415', turma, 'QUINTA TURMA'). tem('202403957415', relator, 'RIBEIRO DANTAS'). tem('202403957415', classe, 'HC'). tem('202403957415', objeto, 'autoria').
+resultado_real('202403957415', perde).
+tem('202403978758', turma, 'QUINTA TURMA'). tem('202403978758', relator, 'RIBEIRO DANTAS'). tem('202403978758', classe, 'HC'). tem('202403978758', objeto, 'nulidade_busca').
+tem('202403978758', marcador, 'nervosismo').
+resultado_real('202403978758', perde).
+tem('202403980004', turma, 'QUINTA TURMA'). tem('202403980004', relator, 'RIBEIRO DANTAS'). tem('202403980004', classe, 'HC'). tem('202403980004', objeto, 'outro').
+resultado_real('202403980004', perde).
+tem('202404004586', turma, 'QUINTA TURMA'). tem('202404004586', relator, 'RIBEIRO DANTAS'). tem('202404004586', classe, 'HC'). tem('202404004586', objeto, 'desclassificacao').
+resultado_real('202404004586', perde).
+tem('202404163729', turma, 'QUINTA TURMA'). tem('202404163729', relator, 'RIBEIRO DANTAS'). tem('202404163729', classe, 'HC'). tem('202404163729', objeto, 'nulidade_busca').
+tem('202404163729', marcador, 'nervosismo').
+resultado_real('202404163729', perde).
+tem('202404195210', turma, 'QUINTA TURMA'). tem('202404195210', relator, 'RIBEIRO DANTAS'). tem('202404195210', classe, 'HC'). tem('202404195210', objeto, 'p4').
+tem('202404195210', marcador, 'faccao').
+resultado_real('202404195210', perde).
+tem('202404194196', turma, 'QUINTA TURMA'). tem('202404194196', relator, 'RIBEIRO DANTAS'). tem('202404194196', classe, 'HC'). tem('202404194196', objeto, 'autoria').
+resultado_real('202404194196', perde).
+tem('202404260606', turma, 'QUINTA TURMA'). tem('202404260606', relator, 'RIBEIRO DANTAS'). tem('202404260606', classe, 'HC'). tem('202404260606', objeto, 'autoria').
+resultado_real('202404260606', perde).
+tem('202404267069', turma, 'QUINTA TURMA'). tem('202404267069', relator, 'RIBEIRO DANTAS'). tem('202404267069', classe, 'HC'). tem('202404267069', objeto, 'dosimetria').
+resultado_real('202404267069', perde).
+tem('202404303300', turma, 'QUINTA TURMA'). tem('202404303300', relator, 'RIBEIRO DANTAS'). tem('202404303300', classe, 'HC'). tem('202404303300', objeto, 'autoria').
+resultado_real('202404303300', perde).
+tem('202404305797', turma, 'QUINTA TURMA'). tem('202404305797', relator, 'RIBEIRO DANTAS'). tem('202404305797', classe, 'HC'). tem('202404305797', objeto, 'p4').
+resultado_real('202404305797', perde).
+tem('202404341756', turma, 'QUINTA TURMA'). tem('202404341756', relator, 'RIBEIRO DANTAS'). tem('202404341756', classe, 'HC'). tem('202404341756', objeto, 'autoria').
+tem('202404341756', marcador, 'faccao').
+resultado_real('202404341756', perde).
+tem('202404372870', turma, 'QUINTA TURMA'). tem('202404372870', relator, 'RIBEIRO DANTAS'). tem('202404372870', classe, 'HC'). tem('202404372870', objeto, 'outro').
+resultado_real('202404372870', perde).
+tem('202404387590', turma, 'QUINTA TURMA'). tem('202404387590', relator, 'RIBEIRO DANTAS'). tem('202404387590', classe, 'HC'). tem('202404387590', objeto, 'nulidade_busca').
+tem('202404387590', marcador, 'denuncia_anonima').
+resultado_real('202404387590', perde).
+tem('202404395630', turma, 'QUINTA TURMA'). tem('202404395630', relator, 'RIBEIRO DANTAS'). tem('202404395630', classe, 'HC'). tem('202404395630', objeto, 'desclassificacao').
+resultado_real('202404395630', perde).
+tem('202404405578', turma, 'QUINTA TURMA'). tem('202404405578', relator, 'RIBEIRO DANTAS'). tem('202404405578', classe, 'HC'). tem('202404405578', objeto, 'nulidade_busca').
+tem('202404405578', marcador, 'denuncia_anonima').
+resultado_real('202404405578', perde).
+tem('202404459326', turma, 'QUINTA TURMA'). tem('202404459326', relator, 'RIBEIRO DANTAS'). tem('202404459326', classe, 'HC'). tem('202404459326', objeto, 'desclassificacao').
+resultado_real('202404459326', perde).
+tem('202404495585', turma, 'QUINTA TURMA'). tem('202404495585', relator, 'RIBEIRO DANTAS'). tem('202404495585', classe, 'HC'). tem('202404495585', objeto, 'nulidade_busca').
+resultado_real('202404495585', perde).
+tem('202404510747', turma, 'QUINTA TURMA'). tem('202404510747', relator, 'RIBEIRO DANTAS'). tem('202404510747', classe, 'HC'). tem('202404510747', objeto, 'p4').
+tem('202404510747', marcador, 'atos_infracionais').
+resultado_real('202404510747', perde).
+tem('202404578406', turma, 'QUINTA TURMA'). tem('202404578406', relator, 'RIBEIRO DANTAS'). tem('202404578406', classe, 'HC'). tem('202404578406', objeto, 'nulidade_busca').
+tem('202404578406', marcador, 'denuncia_anonima').
+resultado_real('202404578406', perde).
+tem('202404667949', turma, 'QUINTA TURMA'). tem('202404667949', relator, 'RIBEIRO DANTAS'). tem('202404667949', classe, 'HC'). tem('202404667949', objeto, 'p4').
+resultado_real('202404667949', perde).
+tem('202404732889', turma, 'QUINTA TURMA'). tem('202404732889', relator, 'RIBEIRO DANTAS'). tem('202404732889', classe, 'HC'). tem('202404732889', objeto, 'p4').
+resultado_real('202404732889', perde).
+tem('202404817464', turma, 'QUINTA TURMA'). tem('202404817464', relator, 'RIBEIRO DANTAS'). tem('202404817464', classe, 'HC'). tem('202404817464', objeto, 'desclassificacao').
+resultado_real('202404817464', perde).
+tem('202404817868', turma, 'QUINTA TURMA'). tem('202404817868', relator, 'RIBEIRO DANTAS'). tem('202404817868', classe, 'HC'). tem('202404817868', objeto, 'p4').
+tem('202404817868', marcador, 'denuncia_anonima').
+resultado_real('202404817868', perde).
+tem('202500051857', turma, 'QUINTA TURMA'). tem('202500051857', relator, 'RIBEIRO DANTAS'). tem('202500051857', classe, 'HC'). tem('202500051857', objeto, 'p4').
+resultado_real('202500051857', perde).
+tem('202500094647', turma, 'QUINTA TURMA'). tem('202500094647', relator, 'RIBEIRO DANTAS'). tem('202500094647', classe, 'HC'). tem('202500094647', objeto, 'p4').
+resultado_real('202500094647', perde).
+tem('202500126990', turma, 'QUINTA TURMA'). tem('202500126990', relator, 'RIBEIRO DANTAS'). tem('202500126990', classe, 'HC'). tem('202500126990', objeto, 'outro').
+resultado_real('202500126990', perde).
+tem('202500137710', turma, 'QUINTA TURMA'). tem('202500137710', relator, 'RIBEIRO DANTAS'). tem('202500137710', classe, 'HC'). tem('202500137710', objeto, 'outro').
+resultado_real('202500137710', perde).
+tem('202500157107', turma, 'QUINTA TURMA'). tem('202500157107', relator, 'RIBEIRO DANTAS'). tem('202500157107', classe, 'HC'). tem('202500157107', objeto, 'p4').
+resultado_real('202500157107', perde).
+tem('202500172666', turma, 'QUINTA TURMA'). tem('202500172666', relator, 'RIBEIRO DANTAS'). tem('202500172666', classe, 'HC'). tem('202500172666', objeto, 'desclassificacao').
+resultado_real('202500172666', perde).
+tem('202500200806', turma, 'QUINTA TURMA'). tem('202500200806', relator, 'RIBEIRO DANTAS'). tem('202500200806', classe, 'HC'). tem('202500200806', objeto, 'dosimetria').
+resultado_real('202500200806', perde).
+tem('202500259147', turma, 'QUINTA TURMA'). tem('202500259147', relator, 'RIBEIRO DANTAS'). tem('202500259147', classe, 'HC'). tem('202500259147', objeto, 'p4').
+resultado_real('202500259147', perde).
+tem('202500324467', turma, 'QUINTA TURMA'). tem('202500324467', relator, 'RIBEIRO DANTAS'). tem('202500324467', classe, 'HC'). tem('202500324467', objeto, 'nulidade_busca').
+tem('202500324467', marcador, 'nervosismo').
+tem('202500324467', marcador, 'denuncia_anonima').
+resultado_real('202500324467', perde).
+tem('202500354560', turma, 'QUINTA TURMA'). tem('202500354560', relator, 'RIBEIRO DANTAS'). tem('202500354560', classe, 'HC'). tem('202500354560', objeto, 'dosimetria').
+resultado_real('202500354560', perde).
+tem('202500396464', turma, 'QUINTA TURMA'). tem('202500396464', relator, 'RIBEIRO DANTAS'). tem('202500396464', classe, 'HC'). tem('202500396464', objeto, 'p4').
+resultado_real('202500396464', perde).
+tem('202500456222', turma, 'QUINTA TURMA'). tem('202500456222', relator, 'RIBEIRO DANTAS'). tem('202500456222', classe, 'HC'). tem('202500456222', objeto, 'nulidade_busca').
+resultado_real('202500456222', perde).
+tem('202500470783', turma, 'QUINTA TURMA'). tem('202500470783', relator, 'RIBEIRO DANTAS'). tem('202500470783', classe, 'HC'). tem('202500470783', objeto, 'p4').
+resultado_real('202500470783', perde).
+tem('202500492850', turma, 'QUINTA TURMA'). tem('202500492850', relator, 'RIBEIRO DANTAS'). tem('202500492850', classe, 'HC'). tem('202500492850', objeto, 'p4').
+resultado_real('202500492850', perde).
+tem('202500514880', turma, 'QUINTA TURMA'). tem('202500514880', relator, 'RIBEIRO DANTAS'). tem('202500514880', classe, 'HC'). tem('202500514880', objeto, 'p4').
+resultado_real('202500514880', perde).
+tem('202500525824', turma, 'QUINTA TURMA'). tem('202500525824', relator, 'RIBEIRO DANTAS'). tem('202500525824', classe, 'HC'). tem('202500525824', objeto, 'p4').
+resultado_real('202500525824', perde).
+tem('202500543341', turma, 'QUINTA TURMA'). tem('202500543341', relator, 'RIBEIRO DANTAS'). tem('202500543341', classe, 'HC'). tem('202500543341', objeto, 'outro').
+resultado_real('202500543341', perde).
+tem('202500576805', turma, 'QUINTA TURMA'). tem('202500576805', relator, 'RIBEIRO DANTAS'). tem('202500576805', classe, 'HC'). tem('202500576805', objeto, 'p4').
+resultado_real('202500576805', perde).
+tem('202500586422', turma, 'QUINTA TURMA'). tem('202500586422', relator, 'RIBEIRO DANTAS'). tem('202500586422', classe, 'HC'). tem('202500586422', objeto, 'desclassificacao').
+resultado_real('202500586422', perde).
+tem('202500592340', turma, 'QUINTA TURMA'). tem('202500592340', relator, 'RIBEIRO DANTAS'). tem('202500592340', classe, 'HC'). tem('202500592340', objeto, 'autoria').
+tem('202500592340', marcador, 'local_conhecido').
+resultado_real('202500592340', perde).
+tem('202500600421', turma, 'QUINTA TURMA'). tem('202500600421', relator, 'RIBEIRO DANTAS'). tem('202500600421', classe, 'HC'). tem('202500600421', objeto, 'nulidade_busca').
+tem('202500600421', marcador, 'denuncia_anonima').
+resultado_real('202500600421', perde).
+tem('202500608856', turma, 'QUINTA TURMA'). tem('202500608856', relator, 'RIBEIRO DANTAS'). tem('202500608856', classe, 'HC'). tem('202500608856', objeto, 'nulidade_busca').
+resultado_real('202500608856', perde).
+tem('202500620956', turma, 'QUINTA TURMA'). tem('202500620956', relator, 'RIBEIRO DANTAS'). tem('202500620956', classe, 'HC'). tem('202500620956', objeto, 'dosimetria').
+resultado_real('202500620956', perde).
+tem('202500639415', turma, 'QUINTA TURMA'). tem('202500639415', relator, 'RIBEIRO DANTAS'). tem('202500639415', classe, 'HC'). tem('202500639415', objeto, 'p4').
+resultado_real('202500639415', perde).
+tem('202500647186', turma, 'QUINTA TURMA'). tem('202500647186', relator, 'RIBEIRO DANTAS'). tem('202500647186', classe, 'HC'). tem('202500647186', objeto, 'autoria').
+resultado_real('202500647186', perde).
+tem('202500680657', turma, 'QUINTA TURMA'). tem('202500680657', relator, 'RIBEIRO DANTAS'). tem('202500680657', classe, 'HC'). tem('202500680657', objeto, 'desclassificacao').
+resultado_real('202500680657', perde).
+tem('202500704570', turma, 'QUINTA TURMA'). tem('202500704570', relator, 'RIBEIRO DANTAS'). tem('202500704570', classe, 'HC'). tem('202500704570', objeto, 'nulidade_busca').
+tem('202500704570', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500704570', perde).
+tem('202500710540', turma, 'QUINTA TURMA'). tem('202500710540', relator, 'RIBEIRO DANTAS'). tem('202500710540', classe, 'HC'). tem('202500710540', objeto, 'dosimetria').
+resultado_real('202500710540', perde).
+tem('202500709180', turma, 'QUINTA TURMA'). tem('202500709180', relator, 'RIBEIRO DANTAS'). tem('202500709180', classe, 'HC'). tem('202500709180', objeto, 'autoria').
+resultado_real('202500709180', perde).
+tem('202500714821', turma, 'QUINTA TURMA'). tem('202500714821', relator, 'RIBEIRO DANTAS'). tem('202500714821', classe, 'HC'). tem('202500714821', objeto, 'outro').
+tem('202500714821', marcador, 'denuncia_anonima').
+resultado_real('202500714821', perde).
+tem('202500748887', turma, 'QUINTA TURMA'). tem('202500748887', relator, 'RIBEIRO DANTAS'). tem('202500748887', classe, 'HC'). tem('202500748887', objeto, 'p4').
+resultado_real('202500748887', perde).
+tem('202500829394', turma, 'QUINTA TURMA'). tem('202500829394', relator, 'RIBEIRO DANTAS'). tem('202500829394', classe, 'HC'). tem('202500829394', objeto, 'p4').
+resultado_real('202500829394', perde).
+tem('202500832155', turma, 'QUINTA TURMA'). tem('202500832155', relator, 'RIBEIRO DANTAS'). tem('202500832155', classe, 'HC'). tem('202500832155', objeto, 'desclassificacao').
+tem('202500832155', marcador, 'comunidade_bairro').
+resultado_real('202500832155', perde).
+tem('202500836284', turma, 'QUINTA TURMA'). tem('202500836284', relator, 'RIBEIRO DANTAS'). tem('202500836284', classe, 'HC'). tem('202500836284', objeto, 'nulidade_busca').
+resultado_real('202500836284', perde).
+tem('202500837674', turma, 'QUINTA TURMA'). tem('202500837674', relator, 'RIBEIRO DANTAS'). tem('202500837674', classe, 'HC'). tem('202500837674', objeto, 'desclassificacao').
+resultado_real('202500837674', perde).
+tem('202500838724', turma, 'QUINTA TURMA'). tem('202500838724', relator, 'RIBEIRO DANTAS'). tem('202500838724', classe, 'HC'). tem('202500838724', objeto, 'p4').
+resultado_real('202500838724', vence).
+tem('202500862602', turma, 'QUINTA TURMA'). tem('202500862602', relator, 'RIBEIRO DANTAS'). tem('202500862602', classe, 'HC'). tem('202500862602', objeto, 'nulidade_busca').
+tem('202500862602', marcador, 'local_conhecido').
+tem('202500862602', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500862602', perde).
+tem('202500879543', turma, 'QUINTA TURMA'). tem('202500879543', relator, 'RIBEIRO DANTAS'). tem('202500879543', classe, 'HC'). tem('202500879543', objeto, 'autoria').
+resultado_real('202500879543', vence).
+tem('202500906228', turma, 'QUINTA TURMA'). tem('202500906228', relator, 'RIBEIRO DANTAS'). tem('202500906228', classe, 'HC'). tem('202500906228', objeto, 'p4').
+tem('202500906228', marcador, 'faccao').
+resultado_real('202500906228', perde).
+tem('202500931052', turma, 'QUINTA TURMA'). tem('202500931052', relator, 'RIBEIRO DANTAS'). tem('202500931052', classe, 'HC'). tem('202500931052', objeto, 'nulidade_busca').
+resultado_real('202500931052', perde).
+tem('202500933225', turma, 'QUINTA TURMA'). tem('202500933225', relator, 'RIBEIRO DANTAS'). tem('202500933225', classe, 'HC'). tem('202500933225', objeto, 'autoria').
+resultado_real('202500933225', perde).
+tem('202500933100', turma, 'QUINTA TURMA'). tem('202500933100', relator, 'RIBEIRO DANTAS'). tem('202500933100', classe, 'HC'). tem('202500933100', objeto, 'dosimetria').
+resultado_real('202500933100', perde).
+tem('202500942135', turma, 'QUINTA TURMA'). tem('202500942135', relator, 'RIBEIRO DANTAS'). tem('202500942135', classe, 'HC'). tem('202500942135', objeto, 'dosimetria').
+resultado_real('202500942135', perde).
+tem('202501100741', turma, 'QUINTA TURMA'). tem('202501100741', relator, 'RIBEIRO DANTAS'). tem('202501100741', classe, 'HC'). tem('202501100741', objeto, 'autoria').
+resultado_real('202501100741', perde).
+tem('202501101257', turma, 'QUINTA TURMA'). tem('202501101257', relator, 'RIBEIRO DANTAS'). tem('202501101257', classe, 'HC'). tem('202501101257', objeto, 'dosimetria').
+resultado_real('202501101257', perde).
+tem('202501106295', turma, 'QUINTA TURMA'). tem('202501106295', relator, 'RIBEIRO DANTAS'). tem('202501106295', classe, 'HC'). tem('202501106295', objeto, 'p4').
+tem('202501106295', marcador, 'faccao').
+resultado_real('202501106295', perde).
+tem('202501134570', turma, 'QUINTA TURMA'). tem('202501134570', relator, 'RIBEIRO DANTAS'). tem('202501134570', classe, 'HC'). tem('202501134570', objeto, 'dosimetria').
+resultado_real('202501134570', perde).
+tem('202501143086', turma, 'QUINTA TURMA'). tem('202501143086', relator, 'RIBEIRO DANTAS'). tem('202501143086', classe, 'HC'). tem('202501143086', objeto, 'dosimetria').
+resultado_real('202501143086', perde).
+tem('202501148811', turma, 'QUINTA TURMA'). tem('202501148811', relator, 'RIBEIRO DANTAS'). tem('202501148811', classe, 'HC'). tem('202501148811', objeto, 'outro').
+resultado_real('202501148811', perde).
+tem('202501157138', turma, 'QUINTA TURMA'). tem('202501157138', relator, 'RIBEIRO DANTAS'). tem('202501157138', classe, 'HC'). tem('202501157138', objeto, 'p4').
+resultado_real('202501157138', perde).
+tem('202501157656', turma, 'QUINTA TURMA'). tem('202501157656', relator, 'RIBEIRO DANTAS'). tem('202501157656', classe, 'HC'). tem('202501157656', objeto, 'p4').
+resultado_real('202501157656', perde).
+tem('202501201342', turma, 'QUINTA TURMA'). tem('202501201342', relator, 'RIBEIRO DANTAS'). tem('202501201342', classe, 'HC'). tem('202501201342', objeto, 'desclassificacao').
+resultado_real('202501201342', perde).
+tem('202501219030', turma, 'QUINTA TURMA'). tem('202501219030', relator, 'RIBEIRO DANTAS'). tem('202501219030', classe, 'HC'). tem('202501219030', objeto, 'p4').
+resultado_real('202501219030', perde).
+tem('202501228370', turma, 'QUINTA TURMA'). tem('202501228370', relator, 'RIBEIRO DANTAS'). tem('202501228370', classe, 'HC'). tem('202501228370', objeto, 'dosimetria').
+resultado_real('202501228370', perde).
+tem('202501320308', turma, 'QUINTA TURMA'). tem('202501320308', relator, 'RIBEIRO DANTAS'). tem('202501320308', classe, 'HC'). tem('202501320308', objeto, 'p4').
+resultado_real('202501320308', perde).
+tem('202501345036', turma, 'QUINTA TURMA'). tem('202501345036', relator, 'RIBEIRO DANTAS'). tem('202501345036', classe, 'HC'). tem('202501345036', objeto, 'p4').
+resultado_real('202501345036', perde).
+tem('202501390888', turma, 'QUINTA TURMA'). tem('202501390888', relator, 'RIBEIRO DANTAS'). tem('202501390888', classe, 'HC'). tem('202501390888', objeto, 'p4').
+tem('202501390888', marcador, 'atos_infracionais').
+resultado_real('202501390888', perde).
+tem('202501391457', turma, 'QUINTA TURMA'). tem('202501391457', relator, 'RIBEIRO DANTAS'). tem('202501391457', classe, 'HC'). tem('202501391457', objeto, 'p4').
+resultado_real('202501391457', perde).
+tem('202501401535', turma, 'QUINTA TURMA'). tem('202501401535', relator, 'RIBEIRO DANTAS'). tem('202501401535', classe, 'HC'). tem('202501401535', objeto, 'dosimetria').
+resultado_real('202501401535', perde).
+tem('202501411669', turma, 'QUINTA TURMA'). tem('202501411669', relator, 'RIBEIRO DANTAS'). tem('202501411669', classe, 'HC'). tem('202501411669', objeto, 'autoria').
+resultado_real('202501411669', perde).
+tem('202501436462', turma, 'QUINTA TURMA'). tem('202501436462', relator, 'RIBEIRO DANTAS'). tem('202501436462', classe, 'HC'). tem('202501436462', objeto, 'p4').
+resultado_real('202501436462', perde).
+tem('202501440864', turma, 'QUINTA TURMA'). tem('202501440864', relator, 'RIBEIRO DANTAS'). tem('202501440864', classe, 'HC'). tem('202501440864', objeto, 'p4').
+resultado_real('202501440864', perde).
+tem('202501472849', turma, 'QUINTA TURMA'). tem('202501472849', relator, 'RIBEIRO DANTAS'). tem('202501472849', classe, 'HC'). tem('202501472849', objeto, 'autoria').
+resultado_real('202501472849', perde).
+tem('202501446648', turma, 'QUINTA TURMA'). tem('202501446648', relator, 'RIBEIRO DANTAS'). tem('202501446648', classe, 'HC'). tem('202501446648', objeto, 'p4').
+resultado_real('202501446648', perde).
+tem('202501488315', turma, 'QUINTA TURMA'). tem('202501488315', relator, 'RIBEIRO DANTAS'). tem('202501488315', classe, 'HC'). tem('202501488315', objeto, 'dosimetria').
+resultado_real('202501488315', perde).
+tem('202501503979', turma, 'QUINTA TURMA'). tem('202501503979', relator, 'RIBEIRO DANTAS'). tem('202501503979', classe, 'HC'). tem('202501503979', objeto, 'p4').
+resultado_real('202501503979', perde).
+tem('202304202084', turma, 'QUINTA TURMA'). tem('202304202084', relator, 'RIBEIRO DANTAS'). tem('202304202084', classe, 'RE'). tem('202304202084', objeto, 'desclassificacao').
+resultado_real('202304202084', vence).
+tem('202401328764', turma, 'QUINTA TURMA'). tem('202401328764', relator, 'RIBEIRO DANTAS'). tem('202401328764', classe, 'REsp'). tem('202401328764', objeto, 'p4').
+tem('202401328764', marcador, 'faccao').
+resultado_real('202401328764', perde).
+tem('202401877865', turma, 'QUINTA TURMA'). tem('202401877865', relator, 'RIBEIRO DANTAS'). tem('202401877865', classe, 'REsp'). tem('202401877865', objeto, 'p4').
+resultado_real('202401877865', perde).
+tem('202402306013', turma, 'QUINTA TURMA'). tem('202402306013', relator, 'RIBEIRO DANTAS'). tem('202402306013', classe, 'REsp'). tem('202402306013', objeto, 'nulidade_busca').
+resultado_real('202402306013', perde).
+tem('202403171292', turma, 'QUINTA TURMA'). tem('202403171292', relator, 'RIBEIRO DANTAS'). tem('202403171292', classe, 'REsp'). tem('202403171292', objeto, 'p4').
+tem('202403171292', marcador, 'faccao').
+resultado_real('202403171292', perde).
+tem('202403534017', turma, 'QUINTA TURMA'). tem('202403534017', relator, 'RIBEIRO DANTAS'). tem('202403534017', classe, 'REsp'). tem('202403534017', objeto, 'nulidade_busca').
+tem('202403534017', marcador, 'denuncia_anonima').
+resultado_real('202403534017', perde).
+tem('202403578271', turma, 'QUINTA TURMA'). tem('202403578271', relator, 'RIBEIRO DANTAS'). tem('202403578271', classe, 'REsp'). tem('202403578271', objeto, 'p4').
+resultado_real('202403578271', perde).
+tem('202403609162', turma, 'QUINTA TURMA'). tem('202403609162', relator, 'RIBEIRO DANTAS'). tem('202403609162', classe, 'REsp'). tem('202403609162', objeto, 'dosimetria').
+resultado_real('202403609162', vence).
+tem('202404054711', turma, 'QUINTA TURMA'). tem('202404054711', relator, 'RIBEIRO DANTAS'). tem('202404054711', classe, 'REsp'). tem('202404054711', objeto, 'dosimetria').
+resultado_real('202404054711', perde).
+tem('202404387920', turma, 'QUINTA TURMA'). tem('202404387920', relator, 'RIBEIRO DANTAS'). tem('202404387920', classe, 'REsp'). tem('202404387920', objeto, 'p4').
+resultado_real('202404387920', perde).
+tem('202404489126', turma, 'QUINTA TURMA'). tem('202404489126', relator, 'RIBEIRO DANTAS'). tem('202404489126', classe, 'REsp'). tem('202404489126', objeto, 'p4').
+resultado_real('202404489126', perde).
+tem('202404549616', turma, 'QUINTA TURMA'). tem('202404549616', relator, 'RIBEIRO DANTAS'). tem('202404549616', classe, 'REsp'). tem('202404549616', objeto, 'dosimetria').
+resultado_real('202404549616', perde).
+tem('202404575110', turma, 'QUINTA TURMA'). tem('202404575110', relator, 'RIBEIRO DANTAS'). tem('202404575110', classe, 'REsp'). tem('202404575110', objeto, 'outro').
+resultado_real('202404575110', perde).
+tem('202500565479', turma, 'QUINTA TURMA'). tem('202500565479', relator, 'RIBEIRO DANTAS'). tem('202500565479', classe, 'REsp'). tem('202500565479', objeto, 'nulidade_busca').
+resultado_real('202500565479', perde).
+tem('202500873152', turma, 'QUINTA TURMA'). tem('202500873152', relator, 'RIBEIRO DANTAS'). tem('202500873152', classe, 'REsp'). tem('202500873152', objeto, 'nulidade_busca').
+resultado_real('202500873152', perde).
+tem('202501079573', turma, 'QUINTA TURMA'). tem('202501079573', relator, 'RIBEIRO DANTAS'). tem('202501079573', classe, 'REsp'). tem('202501079573', objeto, 'nulidade_busca').
+tem('202501079573', marcador, 'faccao').
+tem('202501079573', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501079573', perde).
+tem('202501916078', turma, 'QUINTA TURMA'). tem('202501916078', relator, 'RIBEIRO DANTAS'). tem('202501916078', classe, 'REsp'). tem('202501916078', objeto, 'desclassificacao').
+resultado_real('202501916078', perde).
+tem('202502030503', turma, 'QUINTA TURMA'). tem('202502030503', relator, 'RIBEIRO DANTAS'). tem('202502030503', classe, 'REsp'). tem('202502030503', objeto, 'nulidade_busca').
+tem('202502030503', marcador, 'fuga_mudanca_direcao').
+resultado_real('202502030503', vence).
+tem('202502932912', turma, 'QUINTA TURMA'). tem('202502932912', relator, 'RIBEIRO DANTAS'). tem('202502932912', classe, 'REsp'). tem('202502932912', objeto, 'desclassificacao').
+resultado_real('202502932912', perde).
 tem('202503805850', turma, 'QUINTA TURMA'). tem('202503805850', relator, 'RIBEIRO DANTAS'). tem('202503805850', classe, 'REsp'). tem('202503805850', objeto, 'nulidade_busca').
 tem('202503805850', marcador, 'denuncia_anonima').
 resultado_real('202503805850', perde).
@@ -2014,6 +7482,15 @@ tem('202601715664', marcador, 'fuga_mudanca_direcao').
 resultado_real('202601715664', perde).
 tem('202601760634', turma, 'QUINTA TURMA'). tem('202601760634', relator, 'RIBEIRO DANTAS'). tem('202601760634', classe, 'REsp'). tem('202601760634', objeto, 'p4').
 resultado_real('202601760634', perde).
+tem('202403707591', turma, 'QUINTA TURMA'). tem('202403707591', relator, 'RIBEIRO DANTAS'). tem('202403707591', classe, 'RHC'). tem('202403707591', objeto, 'outro').
+resultado_real('202403707591', perde).
+tem('202500591001', turma, 'QUINTA TURMA'). tem('202500591001', relator, 'RIBEIRO DANTAS'). tem('202500591001', classe, 'RHC'). tem('202500591001', objeto, 'nulidade_busca').
+resultado_real('202500591001', perde).
+tem('202500760672', turma, 'QUINTA TURMA'). tem('202500760672', relator, 'RIBEIRO DANTAS'). tem('202500760672', classe, 'RHC'). tem('202500760672', objeto, 'p4').
+resultado_real('202500760672', perde).
+tem('202501853747', turma, 'QUINTA TURMA'). tem('202501853747', relator, 'RIBEIRO DANTAS'). tem('202501853747', classe, 'RHC'). tem('202501853747', objeto, 'outro').
+tem('202501853747', marcador, 'faccao').
+resultado_real('202501853747', perde).
 tem('202504725259', turma, 'QUINTA TURMA'). tem('202504725259', relator, 'RIBEIRO DANTAS'). tem('202504725259', classe, 'RHC'). tem('202504725259', objeto, 'outro').
 tem('202504725259', marcador, 'faccao').
 resultado_real('202504725259', perde).
@@ -2021,14 +7498,974 @@ tem('202601360830', turma, 'QUINTA TURMA'). tem('202601360830', relator, 'RIBEIR
 resultado_real('202601360830', perde).
 tem('202601601491', turma, 'QUINTA TURMA'). tem('202601601491', relator, 'RIBEIRO DANTAS'). tem('202601601491', classe, 'RHC'). tem('202601601491', objeto, 'outro').
 resultado_real('202601601491', perde).
+tem('202404050821', turma, 'QUINTA TURMA'). tem('202404050821', relator, 'RIBEIRO DANTAS'). tem('202404050821', classe, 'RMS'). tem('202404050821', objeto, 'outro').
+resultado_real('202404050821', perde).
+tem('202501142468', turma, 'QUINTA TURMA'). tem('202501142468', relator, 'RIBEIRO DANTAS'). tem('202501142468', classe, 'RMS'). tem('202501142468', objeto, 'outro').
+tem('202501142468', marcador, 'faccao').
+resultado_real('202501142468', perde).
+tem('201801524095', turma, 'SEXTA TURMA'). tem('201801524095', relator, 'ANTONIO SALDANHA'). tem('201801524095', classe, 'AREsp'). tem('201801524095', objeto, 'autoria').
+tem('201801524095', marcador, 'faccao').
+tem('201801524095', marcador, 'fuga_mudanca_direcao').
+resultado_real('201801524095', perde).
+tem('201802306594', turma, 'SEXTA TURMA'). tem('201802306594', relator, 'ANTONIO SALDANHA'). tem('201802306594', classe, 'AREsp'). tem('201802306594', objeto, 'autoria').
+resultado_real('201802306594', perde).
+tem('201903525405', turma, 'SEXTA TURMA'). tem('201903525405', relator, 'ANTONIO SALDANHA'). tem('201903525405', classe, 'AREsp'). tem('201903525405', objeto, 'desclassificacao').
+resultado_real('201903525405', perde).
+tem('201903577292', turma, 'SEXTA TURMA'). tem('201903577292', relator, 'ANTONIO SALDANHA'). tem('201903577292', classe, 'AREsp'). tem('201903577292', objeto, 'p4').
+tem('201903577292', marcador, 'faccao').
+resultado_real('201903577292', perde).
+tem('202001045104', turma, 'SEXTA TURMA'). tem('202001045104', relator, 'ANTONIO SALDANHA'). tem('202001045104', classe, 'AREsp'). tem('202001045104', objeto, 'p4').
+resultado_real('202001045104', perde).
+tem('202003440095', turma, 'SEXTA TURMA'). tem('202003440095', relator, 'ANTONIO SALDANHA'). tem('202003440095', classe, 'AREsp'). tem('202003440095', objeto, 'p4').
+resultado_real('202003440095', perde).
+tem('202100105806', turma, 'SEXTA TURMA'). tem('202100105806', relator, 'ANTONIO SALDANHA'). tem('202100105806', classe, 'AREsp'). tem('202100105806', objeto, 'outro').
+resultado_real('202100105806', perde).
+tem('202103593338', turma, 'SEXTA TURMA'). tem('202103593338', relator, 'ANTONIO SALDANHA'). tem('202103593338', classe, 'AREsp'). tem('202103593338', objeto, 'nulidade_busca').
+resultado_real('202103593338', perde).
+tem('202201415255', turma, 'SEXTA TURMA'). tem('202201415255', relator, 'ANTONIO SALDANHA'). tem('202201415255', classe, 'AREsp'). tem('202201415255', objeto, 'p4').
+resultado_real('202201415255', perde).
+tem('202203091256', turma, 'SEXTA TURMA'). tem('202203091256', relator, 'ANTONIO SALDANHA'). tem('202203091256', classe, 'AREsp'). tem('202203091256', objeto, 'dosimetria').
+resultado_real('202203091256', perde).
+tem('202203113870', turma, 'SEXTA TURMA'). tem('202203113870', relator, 'ANTONIO SALDANHA'). tem('202203113870', classe, 'AREsp'). tem('202203113870', objeto, 'dosimetria').
+resultado_real('202203113870', perde).
+tem('202300329827', turma, 'SEXTA TURMA'). tem('202300329827', relator, 'ANTONIO SALDANHA'). tem('202300329827', classe, 'AREsp'). tem('202300329827', objeto, 'outro').
+tem('202300329827', marcador, 'faccao').
+resultado_real('202300329827', perde).
+tem('202300438923', turma, 'SEXTA TURMA'). tem('202300438923', relator, 'ANTONIO SALDANHA'). tem('202300438923', classe, 'AREsp'). tem('202300438923', objeto, 'p4').
+resultado_real('202300438923', perde).
+tem('202300710756', turma, 'SEXTA TURMA'). tem('202300710756', relator, 'ANTONIO SALDANHA'). tem('202300710756', classe, 'AREsp'). tem('202300710756', objeto, 'nulidade_busca').
+tem('202300710756', marcador, 'denuncia_anonima').
+resultado_real('202300710756', perde).
+tem('202300963813', turma, 'SEXTA TURMA'). tem('202300963813', relator, 'ANTONIO SALDANHA'). tem('202300963813', classe, 'AREsp'). tem('202300963813', objeto, 'nulidade_busca').
+resultado_real('202300963813', perde).
+tem('202301190383', turma, 'SEXTA TURMA'). tem('202301190383', relator, 'ANTONIO SALDANHA'). tem('202301190383', classe, 'AREsp'). tem('202301190383', objeto, 'dosimetria').
+resultado_real('202301190383', perde).
+tem('202301360032', turma, 'SEXTA TURMA'). tem('202301360032', relator, 'ANTONIO SALDANHA'). tem('202301360032', classe, 'AREsp'). tem('202301360032', objeto, 'outro').
+resultado_real('202301360032', perde).
+tem('202301790647', turma, 'SEXTA TURMA'). tem('202301790647', relator, 'ANTONIO SALDANHA'). tem('202301790647', classe, 'AREsp'). tem('202301790647', objeto, 'autoria').
+resultado_real('202301790647', perde).
+tem('202302155076', turma, 'SEXTA TURMA'). tem('202302155076', relator, 'ANTONIO SALDANHA'). tem('202302155076', classe, 'AREsp'). tem('202302155076', objeto, 'dosimetria').
+resultado_real('202302155076', perde).
+tem('202302182620', turma, 'SEXTA TURMA'). tem('202302182620', relator, 'ANTONIO SALDANHA'). tem('202302182620', classe, 'AREsp'). tem('202302182620', objeto, 'outro').
+resultado_real('202302182620', perde).
+tem('202302343581', turma, 'SEXTA TURMA'). tem('202302343581', relator, 'ANTONIO SALDANHA'). tem('202302343581', classe, 'AREsp'). tem('202302343581', objeto, 'outro').
+tem('202302343581', marcador, 'denuncia_anonima').
+resultado_real('202302343581', perde).
+tem('202302389404', turma, 'SEXTA TURMA'). tem('202302389404', relator, 'ANTONIO SALDANHA'). tem('202302389404', classe, 'AREsp'). tem('202302389404', objeto, 'dosimetria').
+resultado_real('202302389404', perde).
+tem('202302472152', turma, 'SEXTA TURMA'). tem('202302472152', relator, 'ANTONIO SALDANHA'). tem('202302472152', classe, 'AREsp'). tem('202302472152', objeto, 'nulidade_busca').
+resultado_real('202302472152', perde).
+tem('202302531871', turma, 'SEXTA TURMA'). tem('202302531871', relator, 'ANTONIO SALDANHA'). tem('202302531871', classe, 'AREsp'). tem('202302531871', objeto, 'p4').
+resultado_real('202302531871', perde).
+tem('202302625901', turma, 'SEXTA TURMA'). tem('202302625901', relator, 'ANTONIO SALDANHA'). tem('202302625901', classe, 'AREsp'). tem('202302625901', objeto, 'dosimetria').
+resultado_real('202302625901', perde).
+tem('202302716680', turma, 'SEXTA TURMA'). tem('202302716680', relator, 'ANTONIO SALDANHA'). tem('202302716680', classe, 'AREsp'). tem('202302716680', objeto, 'dosimetria').
+resultado_real('202302716680', perde).
+tem('202302994167', turma, 'SEXTA TURMA'). tem('202302994167', relator, 'ANTONIO SALDANHA'). tem('202302994167', classe, 'AREsp'). tem('202302994167', objeto, 'nulidade_busca').
+resultado_real('202302994167', perde).
+tem('202302883711', turma, 'SEXTA TURMA'). tem('202302883711', relator, 'ANTONIO SALDANHA'). tem('202302883711', classe, 'AREsp'). tem('202302883711', objeto, 'dosimetria').
+resultado_real('202302883711', perde).
+tem('202303086378', turma, 'SEXTA TURMA'). tem('202303086378', relator, 'ANTONIO SALDANHA'). tem('202303086378', classe, 'AREsp'). tem('202303086378', objeto, 'outro').
+resultado_real('202303086378', perde).
+tem('202303092424', turma, 'SEXTA TURMA'). tem('202303092424', relator, 'ANTONIO SALDANHA'). tem('202303092424', classe, 'AREsp'). tem('202303092424', objeto, 'nulidade_busca').
+resultado_real('202303092424', perde).
+tem('202303596860', turma, 'SEXTA TURMA'). tem('202303596860', relator, 'ANTONIO SALDANHA'). tem('202303596860', classe, 'AREsp'). tem('202303596860', objeto, 'p4').
+resultado_real('202303596860', perde).
+tem('202303602933', turma, 'SEXTA TURMA'). tem('202303602933', relator, 'ANTONIO SALDANHA'). tem('202303602933', classe, 'AREsp'). tem('202303602933', objeto, 'p4').
+resultado_real('202303602933', perde).
+tem('202303799060', turma, 'SEXTA TURMA'). tem('202303799060', relator, 'ANTONIO SALDANHA'). tem('202303799060', classe, 'AREsp'). tem('202303799060', objeto, 'nulidade_busca').
+resultado_real('202303799060', perde).
+tem('202304047258', turma, 'SEXTA TURMA'). tem('202304047258', relator, 'ANTONIO SALDANHA'). tem('202304047258', classe, 'AREsp'). tem('202304047258', objeto, 'autoria').
+resultado_real('202304047258', perde).
+tem('202304111330', turma, 'SEXTA TURMA'). tem('202304111330', relator, 'ANTONIO SALDANHA'). tem('202304111330', classe, 'AREsp'). tem('202304111330', objeto, 'p4').
+tem('202304111330', marcador, 'faccao').
+tem('202304111330', marcador, 'denuncia_anonima').
+resultado_real('202304111330', perde).
+tem('202304175349', turma, 'SEXTA TURMA'). tem('202304175349', relator, 'ANTONIO SALDANHA'). tem('202304175349', classe, 'AREsp'). tem('202304175349', objeto, 'p4').
+resultado_real('202304175349', perde).
+tem('202304389911', turma, 'SEXTA TURMA'). tem('202304389911', relator, 'ANTONIO SALDANHA'). tem('202304389911', classe, 'AREsp'). tem('202304389911', objeto, 'p4').
+resultado_real('202304389911', perde).
+tem('202304435919', turma, 'SEXTA TURMA'). tem('202304435919', relator, 'ANTONIO SALDANHA'). tem('202304435919', classe, 'AREsp'). tem('202304435919', objeto, 'nulidade_busca').
+resultado_real('202304435919', perde).
+tem('202304521106', turma, 'SEXTA TURMA'). tem('202304521106', relator, 'ANTONIO SALDANHA'). tem('202304521106', classe, 'AREsp'). tem('202304521106', objeto, 'p4').
+resultado_real('202304521106', perde).
+tem('202304597903', turma, 'SEXTA TURMA'). tem('202304597903', relator, 'ANTONIO SALDANHA'). tem('202304597903', classe, 'AREsp'). tem('202304597903', objeto, 'outro').
+resultado_real('202304597903', perde).
+tem('202304615586', turma, 'SEXTA TURMA'). tem('202304615586', relator, 'ANTONIO SALDANHA'). tem('202304615586', classe, 'AREsp'). tem('202304615586', objeto, 'nulidade_busca').
+tem('202304615586', marcador, 'denuncia_anonima').
+resultado_real('202304615586', perde).
+tem('202400046821', turma, 'SEXTA TURMA'). tem('202400046821', relator, 'ANTONIO SALDANHA'). tem('202400046821', classe, 'AREsp'). tem('202400046821', objeto, 'nulidade_busca').
+resultado_real('202400046821', perde).
+tem('202304613580', turma, 'SEXTA TURMA'). tem('202304613580', relator, 'ANTONIO SALDANHA'). tem('202304613580', classe, 'AREsp'). tem('202304613580', objeto, 'p4').
+resultado_real('202304613580', perde).
+tem('202400162628', turma, 'SEXTA TURMA'). tem('202400162628', relator, 'ANTONIO SALDANHA'). tem('202400162628', classe, 'AREsp'). tem('202400162628', objeto, 'nulidade_busca').
+resultado_real('202400162628', perde).
+tem('202400201343', turma, 'SEXTA TURMA'). tem('202400201343', relator, 'ANTONIO SALDANHA'). tem('202400201343', classe, 'AREsp'). tem('202400201343', objeto, 'nulidade_busca').
+resultado_real('202400201343', vence).
+tem('202400278960', turma, 'SEXTA TURMA'). tem('202400278960', relator, 'ANTONIO SALDANHA'). tem('202400278960', classe, 'AREsp'). tem('202400278960', objeto, 'outro').
+resultado_real('202400278960', perde).
+tem('202400346340', turma, 'SEXTA TURMA'). tem('202400346340', relator, 'ANTONIO SALDANHA'). tem('202400346340', classe, 'AREsp'). tem('202400346340', objeto, 'dosimetria').
+resultado_real('202400346340', perde).
+tem('202400647169', turma, 'SEXTA TURMA'). tem('202400647169', relator, 'ANTONIO SALDANHA'). tem('202400647169', classe, 'AREsp'). tem('202400647169', objeto, 'p4').
+tem('202400647169', marcador, 'faccao').
+resultado_real('202400647169', perde).
+tem('202400711760', turma, 'SEXTA TURMA'). tem('202400711760', relator, 'ANTONIO SALDANHA'). tem('202400711760', classe, 'AREsp'). tem('202400711760', objeto, 'nulidade_busca').
+tem('202400711760', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400711760', perde).
+tem('202401061820', turma, 'SEXTA TURMA'). tem('202401061820', relator, 'ANTONIO SALDANHA'). tem('202401061820', classe, 'AREsp'). tem('202401061820', objeto, 'outro').
+resultado_real('202401061820', perde).
+tem('202401077597', turma, 'SEXTA TURMA'). tem('202401077597', relator, 'ANTONIO SALDANHA'). tem('202401077597', classe, 'AREsp'). tem('202401077597', objeto, 'nulidade_busca').
+resultado_real('202401077597', perde).
+tem('202401143361', turma, 'SEXTA TURMA'). tem('202401143361', relator, 'ANTONIO SALDANHA'). tem('202401143361', classe, 'AREsp'). tem('202401143361', objeto, 'nulidade_busca').
+tem('202401143361', marcador, 'fuga_mudanca_direcao').
+tem('202401143361', marcador, 'denuncia_anonima').
+resultado_real('202401143361', perde).
+tem('202401259781', turma, 'SEXTA TURMA'). tem('202401259781', relator, 'ANTONIO SALDANHA'). tem('202401259781', classe, 'AREsp'). tem('202401259781', objeto, 'nulidade_busca').
+tem('202401259781', marcador, 'denuncia_anonima').
+resultado_real('202401259781', perde).
+tem('202401424692', turma, 'SEXTA TURMA'). tem('202401424692', relator, 'ANTONIO SALDANHA'). tem('202401424692', classe, 'AREsp'). tem('202401424692', objeto, 'nulidade_busca').
+resultado_real('202401424692', perde).
+tem('202401876135', turma, 'SEXTA TURMA'). tem('202401876135', relator, 'ANTONIO SALDANHA'). tem('202401876135', classe, 'AREsp'). tem('202401876135', objeto, 'nulidade_busca').
+resultado_real('202401876135', perde).
+tem('202401903185', turma, 'SEXTA TURMA'). tem('202401903185', relator, 'ANTONIO SALDANHA'). tem('202401903185', classe, 'AREsp'). tem('202401903185', objeto, 'p4').
+resultado_real('202401903185', perde).
+tem('202402312662', turma, 'SEXTA TURMA'). tem('202402312662', relator, 'ANTONIO SALDANHA'). tem('202402312662', classe, 'AREsp'). tem('202402312662', objeto, 'p4').
+tem('202402312662', marcador, 'atos_infracionais').
+resultado_real('202402312662', vence).
+tem('202402394036', turma, 'SEXTA TURMA'). tem('202402394036', relator, 'ANTONIO SALDANHA'). tem('202402394036', classe, 'AREsp'). tem('202402394036', objeto, 'nulidade_busca').
+resultado_real('202402394036', perde).
+tem('202402968298', turma, 'SEXTA TURMA'). tem('202402968298', relator, 'ANTONIO SALDANHA'). tem('202402968298', classe, 'AREsp'). tem('202402968298', objeto, 'nulidade_busca').
+resultado_real('202402968298', perde).
+tem('202403118931', turma, 'SEXTA TURMA'). tem('202403118931', relator, 'ANTONIO SALDANHA'). tem('202403118931', classe, 'AREsp'). tem('202403118931', objeto, 'p4').
+resultado_real('202403118931', perde).
+tem('202403202704', turma, 'SEXTA TURMA'). tem('202403202704', relator, 'ANTONIO SALDANHA'). tem('202403202704', classe, 'AREsp'). tem('202403202704', objeto, 'outro').
+resultado_real('202403202704', perde).
+tem('202403216260', turma, 'SEXTA TURMA'). tem('202403216260', relator, 'ANTONIO SALDANHA'). tem('202403216260', classe, 'AREsp'). tem('202403216260', objeto, 'desclassificacao').
+resultado_real('202403216260', perde).
+tem('202403238022', turma, 'SEXTA TURMA'). tem('202403238022', relator, 'ANTONIO SALDANHA'). tem('202403238022', classe, 'AREsp'). tem('202403238022', objeto, 'autoria').
+resultado_real('202403238022', perde).
+tem('202403330881', turma, 'SEXTA TURMA'). tem('202403330881', relator, 'ANTONIO SALDANHA'). tem('202403330881', classe, 'AREsp'). tem('202403330881', objeto, 'desclassificacao').
+tem('202403330881', marcador, 'denuncia_anonima').
+resultado_real('202403330881', perde).
+tem('202403473969', turma, 'SEXTA TURMA'). tem('202403473969', relator, 'ANTONIO SALDANHA'). tem('202403473969', classe, 'AREsp'). tem('202403473969', objeto, 'dosimetria').
+resultado_real('202403473969', perde).
+tem('202403568096', turma, 'SEXTA TURMA'). tem('202403568096', relator, 'ANTONIO SALDANHA'). tem('202403568096', classe, 'AREsp'). tem('202403568096', objeto, 'p4').
+resultado_real('202403568096', perde).
+tem('202403815587', turma, 'SEXTA TURMA'). tem('202403815587', relator, 'ANTONIO SALDANHA'). tem('202403815587', classe, 'AREsp'). tem('202403815587', objeto, 'nulidade_busca').
+resultado_real('202403815587', perde).
+tem('202403835479', turma, 'SEXTA TURMA'). tem('202403835479', relator, 'ANTONIO SALDANHA'). tem('202403835479', classe, 'AREsp'). tem('202403835479', objeto, 'desclassificacao').
+resultado_real('202403835479', perde).
+tem('202404075472', turma, 'SEXTA TURMA'). tem('202404075472', relator, 'ANTONIO SALDANHA'). tem('202404075472', classe, 'AREsp'). tem('202404075472', objeto, 'outro').
+resultado_real('202404075472', perde).
+tem('202404212821', turma, 'SEXTA TURMA'). tem('202404212821', relator, 'ANTONIO SALDANHA'). tem('202404212821', classe, 'AREsp'). tem('202404212821', objeto, 'autoria').
+resultado_real('202404212821', perde).
+tem('202404184187', turma, 'SEXTA TURMA'). tem('202404184187', relator, 'ANTONIO SALDANHA'). tem('202404184187', classe, 'AREsp'). tem('202404184187', objeto, 'nulidade_busca').
+resultado_real('202404184187', perde).
+tem('202404256216', turma, 'SEXTA TURMA'). tem('202404256216', relator, 'ANTONIO SALDANHA'). tem('202404256216', classe, 'AREsp'). tem('202404256216', objeto, 'nulidade_busca').
+tem('202404256216', marcador, 'nervosismo').
+resultado_real('202404256216', vence).
+tem('202404268839', turma, 'SEXTA TURMA'). tem('202404268839', relator, 'ANTONIO SALDANHA'). tem('202404268839', classe, 'AREsp'). tem('202404268839', objeto, 'p4').
+tem('202404268839', marcador, 'faccao').
+resultado_real('202404268839', perde).
+tem('202404275463', turma, 'SEXTA TURMA'). tem('202404275463', relator, 'ANTONIO SALDANHA'). tem('202404275463', classe, 'AREsp'). tem('202404275463', objeto, 'dosimetria').
+tem('202404275463', marcador, 'faccao').
+resultado_real('202404275463', perde).
+tem('202404281873', turma, 'SEXTA TURMA'). tem('202404281873', relator, 'ANTONIO SALDANHA'). tem('202404281873', classe, 'AREsp'). tem('202404281873', objeto, 'outro').
+resultado_real('202404281873', perde).
+tem('202404368847', turma, 'SEXTA TURMA'). tem('202404368847', relator, 'ANTONIO SALDANHA'). tem('202404368847', classe, 'AREsp'). tem('202404368847', objeto, 'nulidade_busca').
+tem('202404368847', marcador, 'fuga_mudanca_direcao').
+tem('202404368847', marcador, 'denuncia_anonima').
+resultado_real('202404368847', perde).
+tem('202404464423', turma, 'SEXTA TURMA'). tem('202404464423', relator, 'ANTONIO SALDANHA'). tem('202404464423', classe, 'AREsp'). tem('202404464423', objeto, 'p4').
+tem('202404464423', marcador, 'faccao').
+resultado_real('202404464423', perde).
+tem('202404697875', turma, 'SEXTA TURMA'). tem('202404697875', relator, 'ANTONIO SALDANHA'). tem('202404697875', classe, 'AREsp'). tem('202404697875', objeto, 'nulidade_busca').
+resultado_real('202404697875', perde).
+tem('202404532560', turma, 'SEXTA TURMA'). tem('202404532560', relator, 'ANTONIO SALDANHA'). tem('202404532560', classe, 'AREsp'). tem('202404532560', objeto, 'nulidade_busca').
+resultado_real('202404532560', perde).
+tem('202404791835', turma, 'SEXTA TURMA'). tem('202404791835', relator, 'ANTONIO SALDANHA'). tem('202404791835', classe, 'AREsp'). tem('202404791835', objeto, 'nulidade_busca').
+resultado_real('202404791835', perde).
+tem('202404685239', turma, 'SEXTA TURMA'). tem('202404685239', relator, 'ANTONIO SALDANHA'). tem('202404685239', classe, 'AREsp'). tem('202404685239', objeto, 'outro').
+resultado_real('202404685239', perde).
+tem('202404705488', turma, 'SEXTA TURMA'). tem('202404705488', relator, 'ANTONIO SALDANHA'). tem('202404705488', classe, 'AREsp'). tem('202404705488', objeto, 'nulidade_busca').
+tem('202404705488', marcador, 'fuga_mudanca_direcao').
+tem('202404705488', marcador, 'denuncia_anonima').
+resultado_real('202404705488', perde).
+tem('202404762451', turma, 'SEXTA TURMA'). tem('202404762451', relator, 'ANTONIO SALDANHA'). tem('202404762451', classe, 'AREsp'). tem('202404762451', objeto, 'desclassificacao').
+resultado_real('202404762451', perde).
+tem('202404781685', turma, 'SEXTA TURMA'). tem('202404781685', relator, 'ANTONIO SALDANHA'). tem('202404781685', classe, 'AREsp'). tem('202404781685', objeto, 'nulidade_busca').
+resultado_real('202404781685', perde).
+tem('202404883385', turma, 'SEXTA TURMA'). tem('202404883385', relator, 'ANTONIO SALDANHA'). tem('202404883385', classe, 'AREsp'). tem('202404883385', objeto, 'outro').
+resultado_real('202404883385', perde).
+tem('202500070210', turma, 'SEXTA TURMA'). tem('202500070210', relator, 'ANTONIO SALDANHA'). tem('202500070210', classe, 'AREsp'). tem('202500070210', objeto, 'dosimetria').
+resultado_real('202500070210', perde).
+tem('202500012249', turma, 'SEXTA TURMA'). tem('202500012249', relator, 'ANTONIO SALDANHA'). tem('202500012249', classe, 'AREsp'). tem('202500012249', objeto, 'nulidade_busca').
+tem('202500012249', marcador, 'nervosismo').
+tem('202500012249', marcador, 'denuncia_anonima').
+resultado_real('202500012249', perde).
+tem('202500028210', turma, 'SEXTA TURMA'). tem('202500028210', relator, 'ANTONIO SALDANHA'). tem('202500028210', classe, 'AREsp'). tem('202500028210', objeto, 'nulidade_busca').
+tem('202500028210', marcador, 'faccao').
+tem('202500028210', marcador, 'denuncia_anonima').
+resultado_real('202500028210', vence).
+tem('202500066604', turma, 'SEXTA TURMA'). tem('202500066604', relator, 'ANTONIO SALDANHA'). tem('202500066604', classe, 'AREsp'). tem('202500066604', objeto, 'nulidade_busca').
+resultado_real('202500066604', perde).
+tem('202500078694', turma, 'SEXTA TURMA'). tem('202500078694', relator, 'ANTONIO SALDANHA'). tem('202500078694', classe, 'AREsp'). tem('202500078694', objeto, 'nulidade_busca').
+tem('202500078694', marcador, 'denuncia_anonima').
+resultado_real('202500078694', perde).
+tem('202500101679', turma, 'SEXTA TURMA'). tem('202500101679', relator, 'ANTONIO SALDANHA'). tem('202500101679', classe, 'AREsp'). tem('202500101679', objeto, 'autoria').
+tem('202500101679', marcador, 'faccao').
+resultado_real('202500101679', perde).
+tem('202500152458', turma, 'SEXTA TURMA'). tem('202500152458', relator, 'ANTONIO SALDANHA'). tem('202500152458', classe, 'AREsp'). tem('202500152458', objeto, 'p4').
+resultado_real('202500152458', perde).
+tem('202500205415', turma, 'SEXTA TURMA'). tem('202500205415', relator, 'ANTONIO SALDANHA'). tem('202500205415', classe, 'AREsp'). tem('202500205415', objeto, 'p4').
+resultado_real('202500205415', perde).
+tem('202500218478', turma, 'SEXTA TURMA'). tem('202500218478', relator, 'ANTONIO SALDANHA'). tem('202500218478', classe, 'AREsp'). tem('202500218478', objeto, 'nulidade_busca').
+tem('202500218478', marcador, 'fuga_mudanca_direcao').
+tem('202500218478', marcador, 'denuncia_anonima').
+resultado_real('202500218478', perde).
+tem('202500290902', turma, 'SEXTA TURMA'). tem('202500290902', relator, 'ANTONIO SALDANHA'). tem('202500290902', classe, 'AREsp'). tem('202500290902', objeto, 'p4').
+resultado_real('202500290902', perde).
+tem('202500339061', turma, 'SEXTA TURMA'). tem('202500339061', relator, 'ANTONIO SALDANHA'). tem('202500339061', classe, 'AREsp'). tem('202500339061', objeto, 'nulidade_busca').
+tem('202500339061', marcador, 'comunidade_bairro').
+tem('202500339061', marcador, 'denuncia_anonima').
+resultado_real('202500339061', perde).
+tem('202500438250', turma, 'SEXTA TURMA'). tem('202500438250', relator, 'ANTONIO SALDANHA'). tem('202500438250', classe, 'AREsp'). tem('202500438250', objeto, 'nulidade_busca').
+resultado_real('202500438250', perde).
+tem('202500460054', turma, 'SEXTA TURMA'). tem('202500460054', relator, 'ANTONIO SALDANHA'). tem('202500460054', classe, 'AREsp'). tem('202500460054', objeto, 'outro').
+resultado_real('202500460054', perde).
+tem('202500564509', turma, 'SEXTA TURMA'). tem('202500564509', relator, 'ANTONIO SALDANHA'). tem('202500564509', classe, 'AREsp'). tem('202500564509', objeto, 'p4').
+tem('202500564509', marcador, 'faccao').
+resultado_real('202500564509', perde).
+tem('202500619256', turma, 'SEXTA TURMA'). tem('202500619256', relator, 'ANTONIO SALDANHA'). tem('202500619256', classe, 'AREsp'). tem('202500619256', objeto, 'nulidade_busca').
+tem('202500619256', marcador, 'fuga_mudanca_direcao').
+tem('202500619256', marcador, 'denuncia_anonima').
+resultado_real('202500619256', perde).
+tem('202500635170', turma, 'SEXTA TURMA'). tem('202500635170', relator, 'ANTONIO SALDANHA'). tem('202500635170', classe, 'AREsp'). tem('202500635170', objeto, 'p4').
+tem('202500635170', marcador, 'faccao').
+resultado_real('202500635170', perde).
+tem('202500656541', turma, 'SEXTA TURMA'). tem('202500656541', relator, 'ANTONIO SALDANHA'). tem('202500656541', classe, 'AREsp'). tem('202500656541', objeto, 'dosimetria').
+resultado_real('202500656541', perde).
+tem('202500811204', turma, 'SEXTA TURMA'). tem('202500811204', relator, 'ANTONIO SALDANHA'). tem('202500811204', classe, 'AREsp'). tem('202500811204', objeto, 'nulidade_busca').
+tem('202500811204', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500811204', perde).
+tem('202500906354', turma, 'SEXTA TURMA'). tem('202500906354', relator, 'ANTONIO SALDANHA'). tem('202500906354', classe, 'AREsp'). tem('202500906354', objeto, 'p4').
+tem('202500906354', marcador, 'atos_infracionais').
+resultado_real('202500906354', perde).
+tem('202500910910', turma, 'SEXTA TURMA'). tem('202500910910', relator, 'ANTONIO SALDANHA'). tem('202500910910', classe, 'AREsp'). tem('202500910910', objeto, 'p4').
+resultado_real('202500910910', perde).
+tem('202500895610', turma, 'SEXTA TURMA'). tem('202500895610', relator, 'ANTONIO SALDANHA'). tem('202500895610', classe, 'AREsp'). tem('202500895610', objeto, 'nulidade_busca').
+resultado_real('202500895610', perde).
+tem('202500965980', turma, 'SEXTA TURMA'). tem('202500965980', relator, 'ANTONIO SALDANHA'). tem('202500965980', classe, 'AREsp'). tem('202500965980', objeto, 'nulidade_busca').
+tem('202500965980', marcador, 'denuncia_anonima').
+resultado_real('202500965980', perde).
+tem('202500979021', turma, 'SEXTA TURMA'). tem('202500979021', relator, 'ANTONIO SALDANHA'). tem('202500979021', classe, 'AREsp'). tem('202500979021', objeto, 'p4').
+resultado_real('202500979021', perde).
+tem('202501154816', turma, 'SEXTA TURMA'). tem('202501154816', relator, 'ANTONIO SALDANHA'). tem('202501154816', classe, 'AREsp'). tem('202501154816', objeto, 'p4').
+resultado_real('202501154816', perde).
+tem('202501159842', turma, 'SEXTA TURMA'). tem('202501159842', relator, 'ANTONIO SALDANHA'). tem('202501159842', classe, 'AREsp'). tem('202501159842', objeto, 'nulidade_busca').
+resultado_real('202501159842', perde).
+tem('202501192375', turma, 'SEXTA TURMA'). tem('202501192375', relator, 'ANTONIO SALDANHA'). tem('202501192375', classe, 'AREsp'). tem('202501192375', objeto, 'p4').
+tem('202501192375', marcador, 'faccao').
+resultado_real('202501192375', perde).
+tem('202501381222', turma, 'SEXTA TURMA'). tem('202501381222', relator, 'ANTONIO SALDANHA'). tem('202501381222', classe, 'AREsp'). tem('202501381222', objeto, 'p4').
+tem('202501381222', marcador, 'faccao').
+resultado_real('202501381222', perde).
+tem('202501422690', turma, 'SEXTA TURMA'). tem('202501422690', relator, 'ANTONIO SALDANHA'). tem('202501422690', classe, 'AREsp'). tem('202501422690', objeto, 'outro').
+tem('202501422690', marcador, 'faccao').
+resultado_real('202501422690', perde).
+tem('202501437360', turma, 'SEXTA TURMA'). tem('202501437360', relator, 'ANTONIO SALDANHA'). tem('202501437360', classe, 'AREsp'). tem('202501437360', objeto, 'nulidade_busca').
+resultado_real('202501437360', perde).
+tem('202501564994', turma, 'SEXTA TURMA'). tem('202501564994', relator, 'ANTONIO SALDANHA'). tem('202501564994', classe, 'AREsp'). tem('202501564994', objeto, 'outro').
+resultado_real('202501564994', perde).
+tem('202501622364', turma, 'SEXTA TURMA'). tem('202501622364', relator, 'ANTONIO SALDANHA'). tem('202501622364', classe, 'AREsp'). tem('202501622364', objeto, 'dosimetria').
+tem('202501622364', marcador, 'faccao').
+resultado_real('202501622364', perde).
+tem('202501793662', turma, 'SEXTA TURMA'). tem('202501793662', relator, 'ANTONIO SALDANHA'). tem('202501793662', classe, 'AREsp'). tem('202501793662', objeto, 'dosimetria').
+resultado_real('202501793662', perde).
+tem('202501935175', turma, 'SEXTA TURMA'). tem('202501935175', relator, 'ANTONIO SALDANHA'). tem('202501935175', classe, 'AREsp'). tem('202501935175', objeto, 'p4').
+resultado_real('202501935175', perde).
+tem('202501944287', turma, 'SEXTA TURMA'). tem('202501944287', relator, 'ANTONIO SALDANHA'). tem('202501944287', classe, 'AREsp'). tem('202501944287', objeto, 'nulidade_busca').
+resultado_real('202501944287', perde).
+tem('202502052691', turma, 'SEXTA TURMA'). tem('202502052691', relator, 'ANTONIO SALDANHA'). tem('202502052691', classe, 'AREsp'). tem('202502052691', objeto, 'p4').
+resultado_real('202502052691', perde).
+tem('202503068290', turma, 'SEXTA TURMA'). tem('202503068290', relator, 'ANTONIO SALDANHA'). tem('202503068290', classe, 'AREsp'). tem('202503068290', objeto, 'p4').
+tem('202503068290', marcador, 'faccao').
+resultado_real('202503068290', perde).
+tem('202501586910', turma, 'SEXTA TURMA'). tem('202501586910', relator, 'ANTONIO SALDANHA'). tem('202501586910', classe, 'HC'). tem('202501586910', objeto, 'nulidade_busca').
+tem('202501586910', marcador, 'denuncia_anonima').
+resultado_real('202501586910', perde).
+tem('202501727730', turma, 'SEXTA TURMA'). tem('202501727730', relator, 'ANTONIO SALDANHA'). tem('202501727730', classe, 'HC'). tem('202501727730', objeto, 'nulidade_busca').
+tem('202501727730', marcador, 'comunidade_bairro').
+tem('202501727730', marcador, 'local_conhecido').
+tem('202501727730', marcador, 'faccao').
+tem('202501727730', marcador, 'nervosismo').
+tem('202501727730', marcador, 'denuncia_anonima').
+resultado_real('202501727730', perde).
+tem('202501750997', turma, 'SEXTA TURMA'). tem('202501750997', relator, 'ANTONIO SALDANHA'). tem('202501750997', classe, 'HC'). tem('202501750997', objeto, 'dosimetria').
+resultado_real('202501750997', perde).
+tem('202501841832', turma, 'SEXTA TURMA'). tem('202501841832', relator, 'ANTONIO SALDANHA'). tem('202501841832', classe, 'HC'). tem('202501841832', objeto, 'outro').
+resultado_real('202501841832', perde).
+tem('202501861623', turma, 'SEXTA TURMA'). tem('202501861623', relator, 'ANTONIO SALDANHA'). tem('202501861623', classe, 'HC'). tem('202501861623', objeto, 'nulidade_busca').
+tem('202501861623', marcador, 'fuga_mudanca_direcao').
+tem('202501861623', marcador, 'denuncia_anonima').
+resultado_real('202501861623', perde).
+tem('202501903318', turma, 'SEXTA TURMA'). tem('202501903318', relator, 'ANTONIO SALDANHA'). tem('202501903318', classe, 'HC'). tem('202501903318', objeto, 'desclassificacao').
+resultado_real('202501903318', perde).
+tem('202501916232', turma, 'SEXTA TURMA'). tem('202501916232', relator, 'ANTONIO SALDANHA'). tem('202501916232', classe, 'HC'). tem('202501916232', objeto, 'nulidade_busca').
+tem('202501916232', marcador, 'denuncia_anonima').
+resultado_real('202501916232', perde).
+tem('202501928046', turma, 'SEXTA TURMA'). tem('202501928046', relator, 'ANTONIO SALDANHA'). tem('202501928046', classe, 'HC'). tem('202501928046', objeto, 'p4').
+resultado_real('202501928046', perde).
+tem('202501970173', turma, 'SEXTA TURMA'). tem('202501970173', relator, 'ANTONIO SALDANHA'). tem('202501970173', classe, 'HC'). tem('202501970173', objeto, 'desclassificacao').
+resultado_real('202501970173', perde).
+tem('202502028727', turma, 'SEXTA TURMA'). tem('202502028727', relator, 'ANTONIO SALDANHA'). tem('202502028727', classe, 'HC'). tem('202502028727', objeto, 'p4').
+resultado_real('202502028727', perde).
+tem('202502066792', turma, 'SEXTA TURMA'). tem('202502066792', relator, 'ANTONIO SALDANHA'). tem('202502066792', classe, 'HC'). tem('202502066792', objeto, 'p4').
+resultado_real('202502066792', perde).
+tem('202502118928', turma, 'SEXTA TURMA'). tem('202502118928', relator, 'ANTONIO SALDANHA'). tem('202502118928', classe, 'HC'). tem('202502118928', objeto, 'p4').
+resultado_real('202502118928', perde).
+tem('202502200112', turma, 'SEXTA TURMA'). tem('202502200112', relator, 'ANTONIO SALDANHA'). tem('202502200112', classe, 'HC'). tem('202502200112', objeto, 'p4').
+resultado_real('202502200112', perde).
+tem('202502250864', turma, 'SEXTA TURMA'). tem('202502250864', relator, 'ANTONIO SALDANHA'). tem('202502250864', classe, 'HC'). tem('202502250864', objeto, 'outro').
+tem('202502250864', marcador, 'atos_infracionais').
+resultado_real('202502250864', perde).
 tem('202502276439', turma, 'SEXTA TURMA'). tem('202502276439', relator, 'ANTONIO SALDANHA'). tem('202502276439', classe, 'HC'). tem('202502276439', objeto, 'p4').
 resultado_real('202502276439', perde).
+tem('202502279797', turma, 'SEXTA TURMA'). tem('202502279797', relator, 'ANTONIO SALDANHA'). tem('202502279797', classe, 'HC'). tem('202502279797', objeto, 'p4').
+resultado_real('202502279797', perde).
+tem('202502300815', turma, 'SEXTA TURMA'). tem('202502300815', relator, 'ANTONIO SALDANHA'). tem('202502300815', classe, 'HC'). tem('202502300815', objeto, 'desclassificacao').
+resultado_real('202502300815', perde).
+tem('202502328193', turma, 'SEXTA TURMA'). tem('202502328193', relator, 'ANTONIO SALDANHA'). tem('202502328193', classe, 'HC'). tem('202502328193', objeto, 'autoria').
+resultado_real('202502328193', perde).
 tem('202502329898', turma, 'SEXTA TURMA'). tem('202502329898', relator, 'ANTONIO SALDANHA'). tem('202502329898', classe, 'HC'). tem('202502329898', objeto, 'nulidade_busca').
 resultado_real('202502329898', vence).
+tem('202502598819', turma, 'SEXTA TURMA'). tem('202502598819', relator, 'ANTONIO SALDANHA'). tem('202502598819', classe, 'HC'). tem('202502598819', objeto, 'outro').
+resultado_real('202502598819', perde).
+tem('202502605435', turma, 'SEXTA TURMA'). tem('202502605435', relator, 'ANTONIO SALDANHA'). tem('202502605435', classe, 'HC'). tem('202502605435', objeto, 'p4').
+tem('202502605435', marcador, 'faccao').
+resultado_real('202502605435', perde).
+tem('202503146007', turma, 'SEXTA TURMA'). tem('202503146007', relator, 'ANTONIO SALDANHA'). tem('202503146007', classe, 'HC'). tem('202503146007', objeto, 'desclassificacao').
+resultado_real('202503146007', perde).
+tem('202503248084', turma, 'SEXTA TURMA'). tem('202503248084', relator, 'ANTONIO SALDANHA'). tem('202503248084', classe, 'HC'). tem('202503248084', objeto, 'p4').
+tem('202503248084', marcador, 'faccao').
+resultado_real('202503248084', perde).
+tem('202503443733', turma, 'SEXTA TURMA'). tem('202503443733', relator, 'ANTONIO SALDANHA'). tem('202503443733', classe, 'HC'). tem('202503443733', objeto, 'autoria').
+resultado_real('202503443733', perde).
 tem('202503540873', turma, 'SEXTA TURMA'). tem('202503540873', relator, 'ANTONIO SALDANHA'). tem('202503540873', classe, 'HC'). tem('202503540873', objeto, 'autoria').
 resultado_real('202503540873', perde).
 tem('202504688262', turma, 'SEXTA TURMA'). tem('202504688262', relator, 'ANTONIO SALDANHA'). tem('202504688262', classe, 'HC'). tem('202504688262', objeto, 'dosimetria').
 resultado_real('202504688262', perde).
+tem('201901760417', turma, 'SEXTA TURMA'). tem('201901760417', relator, 'ANTONIO SALDANHA'). tem('201901760417', classe, 'HC'). tem('201901760417', objeto, 'autoria').
+resultado_real('201901760417', perde).
+tem('201902993358', turma, 'SEXTA TURMA'). tem('201902993358', relator, 'ANTONIO SALDANHA'). tem('201902993358', classe, 'HC'). tem('201902993358', objeto, 'p4').
+resultado_real('201902993358', perde).
+tem('202202278749', turma, 'SEXTA TURMA'). tem('202202278749', relator, 'ANTONIO SALDANHA'). tem('202202278749', classe, 'HC'). tem('202202278749', objeto, 'p4').
+tem('202202278749', marcador, 'faccao').
+resultado_real('202202278749', perde).
+tem('202202395592', turma, 'SEXTA TURMA'). tem('202202395592', relator, 'ANTONIO SALDANHA'). tem('202202395592', classe, 'HC'). tem('202202395592', objeto, 'dosimetria').
+resultado_real('202202395592', perde).
+tem('202202951247', turma, 'SEXTA TURMA'). tem('202202951247', relator, 'ANTONIO SALDANHA'). tem('202202951247', classe, 'HC'). tem('202202951247', objeto, 'nulidade_busca').
+tem('202202951247', marcador, 'local_conhecido').
+tem('202202951247', marcador, 'fuga_mudanca_direcao').
+resultado_real('202202951247', perde).
+tem('202203328465', turma, 'SEXTA TURMA'). tem('202203328465', relator, 'ANTONIO SALDANHA'). tem('202203328465', classe, 'HC'). tem('202203328465', objeto, 'nulidade_busca').
+resultado_real('202203328465', perde).
+tem('202203403316', turma, 'SEXTA TURMA'). tem('202203403316', relator, 'ANTONIO SALDANHA'). tem('202203403316', classe, 'HC'). tem('202203403316', objeto, 'nulidade_busca').
+resultado_real('202203403316', perde).
+tem('202203597107', turma, 'SEXTA TURMA'). tem('202203597107', relator, 'ANTONIO SALDANHA'). tem('202203597107', classe, 'HC'). tem('202203597107', objeto, 'nulidade_busca').
+tem('202203597107', marcador, 'denuncia_anonima').
+resultado_real('202203597107', perde).
+tem('202203764859', turma, 'SEXTA TURMA'). tem('202203764859', relator, 'ANTONIO SALDANHA'). tem('202203764859', classe, 'HC'). tem('202203764859', objeto, 'outro').
+resultado_real('202203764859', perde).
+tem('202203778985', turma, 'SEXTA TURMA'). tem('202203778985', relator, 'ANTONIO SALDANHA'). tem('202203778985', classe, 'HC'). tem('202203778985', objeto, 'nulidade_busca').
+resultado_real('202203778985', perde).
+tem('202300000892', turma, 'SEXTA TURMA'). tem('202300000892', relator, 'ANTONIO SALDANHA'). tem('202300000892', classe, 'HC'). tem('202300000892', objeto, 'p4').
+resultado_real('202300000892', perde).
+tem('202300185041', turma, 'SEXTA TURMA'). tem('202300185041', relator, 'ANTONIO SALDANHA'). tem('202300185041', classe, 'HC'). tem('202300185041', objeto, 'nulidade_busca').
+resultado_real('202300185041', perde).
+tem('202300460753', turma, 'SEXTA TURMA'). tem('202300460753', relator, 'ANTONIO SALDANHA'). tem('202300460753', classe, 'HC'). tem('202300460753', objeto, 'nulidade_busca').
+tem('202300460753', marcador, 'nervosismo').
+tem('202300460753', marcador, 'fuga_mudanca_direcao').
+tem('202300460753', marcador, 'denuncia_anonima').
+resultado_real('202300460753', perde).
+tem('202300482147', turma, 'SEXTA TURMA'). tem('202300482147', relator, 'ANTONIO SALDANHA'). tem('202300482147', classe, 'HC'). tem('202300482147', objeto, 'dosimetria').
+resultado_real('202300482147', perde).
+tem('202300672117', turma, 'SEXTA TURMA'). tem('202300672117', relator, 'ANTONIO SALDANHA'). tem('202300672117', classe, 'HC'). tem('202300672117', objeto, 'p4').
+tem('202300672117', marcador, 'atos_infracionais').
+resultado_real('202300672117', perde).
+tem('202300704815', turma, 'SEXTA TURMA'). tem('202300704815', relator, 'ANTONIO SALDANHA'). tem('202300704815', classe, 'HC'). tem('202300704815', objeto, 'nulidade_busca').
+tem('202300704815', marcador, 'denuncia_anonima').
+resultado_real('202300704815', perde).
+tem('202300718107', turma, 'SEXTA TURMA'). tem('202300718107', relator, 'ANTONIO SALDANHA'). tem('202300718107', classe, 'HC'). tem('202300718107', objeto, 'p4').
+resultado_real('202300718107', perde).
+tem('202300823010', turma, 'SEXTA TURMA'). tem('202300823010', relator, 'ANTONIO SALDANHA'). tem('202300823010', classe, 'HC'). tem('202300823010', objeto, 'p4').
+resultado_real('202300823010', perde).
+tem('202300910646', turma, 'SEXTA TURMA'). tem('202300910646', relator, 'ANTONIO SALDANHA'). tem('202300910646', classe, 'HC'). tem('202300910646', objeto, 'p4').
+resultado_real('202300910646', perde).
+tem('202301219615', turma, 'SEXTA TURMA'). tem('202301219615', relator, 'ANTONIO SALDANHA'). tem('202301219615', classe, 'HC'). tem('202301219615', objeto, 'nulidade_busca').
+tem('202301219615', marcador, 'nervosismo').
+resultado_real('202301219615', perde).
+tem('202301234810', turma, 'SEXTA TURMA'). tem('202301234810', relator, 'ANTONIO SALDANHA'). tem('202301234810', classe, 'HC'). tem('202301234810', objeto, 'nulidade_busca').
+resultado_real('202301234810', perde).
+tem('202301282049', turma, 'SEXTA TURMA'). tem('202301282049', relator, 'ANTONIO SALDANHA'). tem('202301282049', classe, 'HC'). tem('202301282049', objeto, 'autoria').
+tem('202301282049', marcador, 'denuncia_anonima').
+resultado_real('202301282049', perde).
+tem('202301447168', turma, 'SEXTA TURMA'). tem('202301447168', relator, 'ANTONIO SALDANHA'). tem('202301447168', classe, 'HC'). tem('202301447168', objeto, 'nulidade_busca').
+tem('202301447168', marcador, 'local_conhecido').
+tem('202301447168', marcador, 'faccao').
+tem('202301447168', marcador, 'fuga_mudanca_direcao').
+resultado_real('202301447168', perde).
+tem('202301463498', turma, 'SEXTA TURMA'). tem('202301463498', relator, 'ANTONIO SALDANHA'). tem('202301463498', classe, 'HC'). tem('202301463498', objeto, 'dosimetria').
+resultado_real('202301463498', perde).
+tem('202301503530', turma, 'SEXTA TURMA'). tem('202301503530', relator, 'ANTONIO SALDANHA'). tem('202301503530', classe, 'HC'). tem('202301503530', objeto, 'autoria').
+resultado_real('202301503530', perde).
+tem('202301624910', turma, 'SEXTA TURMA'). tem('202301624910', relator, 'ANTONIO SALDANHA'). tem('202301624910', classe, 'HC'). tem('202301624910', objeto, 'p4').
+resultado_real('202301624910', perde).
+tem('202302085451', turma, 'SEXTA TURMA'). tem('202302085451', relator, 'ANTONIO SALDANHA'). tem('202302085451', classe, 'HC'). tem('202302085451', objeto, 'p4').
+resultado_real('202302085451', perde).
+tem('202302136675', turma, 'SEXTA TURMA'). tem('202302136675', relator, 'ANTONIO SALDANHA'). tem('202302136675', classe, 'HC'). tem('202302136675', objeto, 'p4').
+resultado_real('202302136675', perde).
+tem('202302193637', turma, 'SEXTA TURMA'). tem('202302193637', relator, 'ANTONIO SALDANHA'). tem('202302193637', classe, 'HC'). tem('202302193637', objeto, 'dosimetria').
+resultado_real('202302193637', perde).
+tem('202302201655', turma, 'SEXTA TURMA'). tem('202302201655', relator, 'ANTONIO SALDANHA'). tem('202302201655', classe, 'HC'). tem('202302201655', objeto, 'p4').
+resultado_real('202302201655', perde).
+tem('202302229618', turma, 'SEXTA TURMA'). tem('202302229618', relator, 'ANTONIO SALDANHA'). tem('202302229618', classe, 'HC'). tem('202302229618', objeto, 'nulidade_busca').
+tem('202302229618', marcador, 'fuga_mudanca_direcao').
+tem('202302229618', marcador, 'denuncia_anonima').
+resultado_real('202302229618', perde).
+tem('202302329473', turma, 'SEXTA TURMA'). tem('202302329473', relator, 'ANTONIO SALDANHA'). tem('202302329473', classe, 'HC'). tem('202302329473', objeto, 'autoria').
+resultado_real('202302329473', perde).
+tem('202302375186', turma, 'SEXTA TURMA'). tem('202302375186', relator, 'ANTONIO SALDANHA'). tem('202302375186', classe, 'HC'). tem('202302375186', objeto, 'p4').
+resultado_real('202302375186', perde).
+tem('202302473810', turma, 'SEXTA TURMA'). tem('202302473810', relator, 'ANTONIO SALDANHA'). tem('202302473810', classe, 'HC'). tem('202302473810', objeto, 'nulidade_busca').
+tem('202302473810', marcador, 'local_conhecido').
+resultado_real('202302473810', perde).
+tem('202302673343', turma, 'SEXTA TURMA'). tem('202302673343', relator, 'ANTONIO SALDANHA'). tem('202302673343', classe, 'HC'). tem('202302673343', objeto, 'p4').
+resultado_real('202302673343', perde).
+tem('202302760777', turma, 'SEXTA TURMA'). tem('202302760777', relator, 'ANTONIO SALDANHA'). tem('202302760777', classe, 'HC'). tem('202302760777', objeto, 'dosimetria').
+resultado_real('202302760777', perde).
+tem('202302897772', turma, 'SEXTA TURMA'). tem('202302897772', relator, 'ANTONIO SALDANHA'). tem('202302897772', classe, 'HC'). tem('202302897772', objeto, 'nulidade_busca').
+tem('202302897772', marcador, 'fuga_mudanca_direcao').
+tem('202302897772', marcador, 'denuncia_anonima').
+resultado_real('202302897772', vence).
+tem('202302918819', turma, 'SEXTA TURMA'). tem('202302918819', relator, 'ANTONIO SALDANHA'). tem('202302918819', classe, 'HC'). tem('202302918819', objeto, 'outro').
+tem('202302918819', marcador, 'faccao').
+resultado_real('202302918819', perde).
+tem('202303188750', turma, 'SEXTA TURMA'). tem('202303188750', relator, 'ANTONIO SALDANHA'). tem('202303188750', classe, 'HC'). tem('202303188750', objeto, 'outro').
+resultado_real('202303188750', perde).
+tem('202303207434', turma, 'SEXTA TURMA'). tem('202303207434', relator, 'ANTONIO SALDANHA'). tem('202303207434', classe, 'HC'). tem('202303207434', objeto, 'nulidade_busca').
+tem('202303207434', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303207434', perde).
+tem('202303220948', turma, 'SEXTA TURMA'). tem('202303220948', relator, 'ANTONIO SALDANHA'). tem('202303220948', classe, 'HC'). tem('202303220948', objeto, 'autoria').
+resultado_real('202303220948', perde).
+tem('202303413228', turma, 'SEXTA TURMA'). tem('202303413228', relator, 'ANTONIO SALDANHA'). tem('202303413228', classe, 'HC'). tem('202303413228', objeto, 'p4').
+resultado_real('202303413228', perde).
+tem('202303489758', turma, 'SEXTA TURMA'). tem('202303489758', relator, 'ANTONIO SALDANHA'). tem('202303489758', classe, 'HC'). tem('202303489758', objeto, 'desclassificacao').
+resultado_real('202303489758', perde).
+tem('202303606420', turma, 'SEXTA TURMA'). tem('202303606420', relator, 'ANTONIO SALDANHA'). tem('202303606420', classe, 'HC'). tem('202303606420', objeto, 'nulidade_busca').
+tem('202303606420', marcador, 'nervosismo').
+tem('202303606420', marcador, 'denuncia_anonima').
+resultado_real('202303606420', perde).
+tem('202303643246', turma, 'SEXTA TURMA'). tem('202303643246', relator, 'ANTONIO SALDANHA'). tem('202303643246', classe, 'HC'). tem('202303643246', objeto, 'nulidade_busca').
+tem('202303643246', marcador, 'nervosismo').
+tem('202303643246', marcador, 'denuncia_anonima').
+resultado_real('202303643246', perde).
+tem('202303644547', turma, 'SEXTA TURMA'). tem('202303644547', relator, 'ANTONIO SALDANHA'). tem('202303644547', classe, 'HC'). tem('202303644547', objeto, 'p4').
+tem('202303644547', marcador, 'faccao').
+resultado_real('202303644547', perde).
+tem('202303699216', turma, 'SEXTA TURMA'). tem('202303699216', relator, 'ANTONIO SALDANHA'). tem('202303699216', classe, 'HC'). tem('202303699216', objeto, 'nulidade_busca').
+resultado_real('202303699216', perde).
+tem('202303733484', turma, 'SEXTA TURMA'). tem('202303733484', relator, 'ANTONIO SALDANHA'). tem('202303733484', classe, 'HC'). tem('202303733484', objeto, 'dosimetria').
+resultado_real('202303733484', perde).
+tem('202303751191', turma, 'SEXTA TURMA'). tem('202303751191', relator, 'ANTONIO SALDANHA'). tem('202303751191', classe, 'HC'). tem('202303751191', objeto, 'nulidade_busca').
+tem('202303751191', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303751191', perde).
+tem('202303775074', turma, 'SEXTA TURMA'). tem('202303775074', relator, 'ANTONIO SALDANHA'). tem('202303775074', classe, 'HC'). tem('202303775074', objeto, 'nulidade_busca').
+tem('202303775074', marcador, 'denuncia_anonima').
+resultado_real('202303775074', perde).
+tem('202303802014', turma, 'SEXTA TURMA'). tem('202303802014', relator, 'ANTONIO SALDANHA'). tem('202303802014', classe, 'HC'). tem('202303802014', objeto, 'nulidade_busca').
+tem('202303802014', marcador, 'nervosismo').
+tem('202303802014', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303802014', perde).
+tem('202303930166', turma, 'SEXTA TURMA'). tem('202303930166', relator, 'ANTONIO SALDANHA'). tem('202303930166', classe, 'HC'). tem('202303930166', objeto, 'p4').
+resultado_real('202303930166', perde).
+tem('202303954592', turma, 'SEXTA TURMA'). tem('202303954592', relator, 'ANTONIO SALDANHA'). tem('202303954592', classe, 'HC'). tem('202303954592', objeto, 'nulidade_busca').
+resultado_real('202303954592', perde).
+tem('202303999001', turma, 'SEXTA TURMA'). tem('202303999001', relator, 'ANTONIO SALDANHA'). tem('202303999001', classe, 'HC'). tem('202303999001', objeto, 'autoria').
+resultado_real('202303999001', perde).
+tem('202304075480', turma, 'SEXTA TURMA'). tem('202304075480', relator, 'ANTONIO SALDANHA'). tem('202304075480', classe, 'HC'). tem('202304075480', objeto, 'p4').
+resultado_real('202304075480', perde).
+tem('202304090043', turma, 'SEXTA TURMA'). tem('202304090043', relator, 'ANTONIO SALDANHA'). tem('202304090043', classe, 'HC'). tem('202304090043', objeto, 'outro').
+resultado_real('202304090043', perde).
+tem('202304098996', turma, 'SEXTA TURMA'). tem('202304098996', relator, 'ANTONIO SALDANHA'). tem('202304098996', classe, 'HC'). tem('202304098996', objeto, 'dosimetria').
+resultado_real('202304098996', perde).
+tem('202304171989', turma, 'SEXTA TURMA'). tem('202304171989', relator, 'ANTONIO SALDANHA'). tem('202304171989', classe, 'HC'). tem('202304171989', objeto, 'nulidade_busca').
+tem('202304171989', marcador, 'fuga_mudanca_direcao').
+resultado_real('202304171989', perde).
+tem('202304199383', turma, 'SEXTA TURMA'). tem('202304199383', relator, 'ANTONIO SALDANHA'). tem('202304199383', classe, 'HC'). tem('202304199383', objeto, 'nulidade_busca').
+tem('202304199383', marcador, 'fuga_mudanca_direcao').
+tem('202304199383', marcador, 'denuncia_anonima').
+resultado_real('202304199383', perde).
+tem('202304208604', turma, 'SEXTA TURMA'). tem('202304208604', relator, 'ANTONIO SALDANHA'). tem('202304208604', classe, 'HC'). tem('202304208604', objeto, 'p4').
+resultado_real('202304208604', perde).
+tem('202304230256', turma, 'SEXTA TURMA'). tem('202304230256', relator, 'ANTONIO SALDANHA'). tem('202304230256', classe, 'HC'). tem('202304230256', objeto, 'p4').
+tem('202304230256', marcador, 'local_conhecido').
+resultado_real('202304230256', perde).
+tem('202304347193', turma, 'SEXTA TURMA'). tem('202304347193', relator, 'ANTONIO SALDANHA'). tem('202304347193', classe, 'HC'). tem('202304347193', objeto, 'p4').
+resultado_real('202304347193', perde).
+tem('202304513987', turma, 'SEXTA TURMA'). tem('202304513987', relator, 'ANTONIO SALDANHA'). tem('202304513987', classe, 'HC'). tem('202304513987', objeto, 'desclassificacao').
+resultado_real('202304513987', perde).
+tem('202304589583', turma, 'SEXTA TURMA'). tem('202304589583', relator, 'ANTONIO SALDANHA'). tem('202304589583', classe, 'HC'). tem('202304589583', objeto, 'dosimetria').
+resultado_real('202304589583', perde).
+tem('202400015922', turma, 'SEXTA TURMA'). tem('202400015922', relator, 'ANTONIO SALDANHA'). tem('202400015922', classe, 'HC'). tem('202400015922', objeto, 'nulidade_busca').
+resultado_real('202400015922', perde).
+tem('202400019723', turma, 'SEXTA TURMA'). tem('202400019723', relator, 'ANTONIO SALDANHA'). tem('202400019723', classe, 'HC'). tem('202400019723', objeto, 'nulidade_busca').
+resultado_real('202400019723', perde).
+tem('202400029655', turma, 'SEXTA TURMA'). tem('202400029655', relator, 'ANTONIO SALDANHA'). tem('202400029655', classe, 'HC'). tem('202400029655', objeto, 'nulidade_busca').
+resultado_real('202400029655', perde).
+tem('202400044659', turma, 'SEXTA TURMA'). tem('202400044659', relator, 'ANTONIO SALDANHA'). tem('202400044659', classe, 'HC'). tem('202400044659', objeto, 'nulidade_busca').
+tem('202400044659', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400044659', perde).
+tem('202400311110', turma, 'SEXTA TURMA'). tem('202400311110', relator, 'ANTONIO SALDANHA'). tem('202400311110', classe, 'HC'). tem('202400311110', objeto, 'nulidade_busca').
+tem('202400311110', marcador, 'denuncia_anonima').
+resultado_real('202400311110', perde).
+tem('202400345430', turma, 'SEXTA TURMA'). tem('202400345430', relator, 'ANTONIO SALDANHA'). tem('202400345430', classe, 'HC'). tem('202400345430', objeto, 'desclassificacao').
+tem('202400345430', marcador, 'faccao').
+resultado_real('202400345430', perde).
+tem('202400397016', turma, 'SEXTA TURMA'). tem('202400397016', relator, 'ANTONIO SALDANHA'). tem('202400397016', classe, 'HC'). tem('202400397016', objeto, 'nulidade_busca').
+resultado_real('202400397016', perde).
+tem('202400970352', turma, 'SEXTA TURMA'). tem('202400970352', relator, 'ANTONIO SALDANHA'). tem('202400970352', classe, 'HC'). tem('202400970352', objeto, 'outro').
+resultado_real('202400970352', perde).
+tem('202400996558', turma, 'SEXTA TURMA'). tem('202400996558', relator, 'ANTONIO SALDANHA'). tem('202400996558', classe, 'HC'). tem('202400996558', objeto, 'nulidade_busca').
+tem('202400996558', marcador, 'nervosismo').
+tem('202400996558', marcador, 'denuncia_anonima').
+resultado_real('202400996558', perde).
+tem('202401097971', turma, 'SEXTA TURMA'). tem('202401097971', relator, 'ANTONIO SALDANHA'). tem('202401097971', classe, 'HC'). tem('202401097971', objeto, 'dosimetria').
+resultado_real('202401097971', perde).
+tem('202401300359', turma, 'SEXTA TURMA'). tem('202401300359', relator, 'ANTONIO SALDANHA'). tem('202401300359', classe, 'HC'). tem('202401300359', objeto, 'outro').
+resultado_real('202401300359', vence).
+tem('202401723960', turma, 'SEXTA TURMA'). tem('202401723960', relator, 'ANTONIO SALDANHA'). tem('202401723960', classe, 'HC'). tem('202401723960', objeto, 'outro').
+resultado_real('202401723960', perde).
+tem('202401726928', turma, 'SEXTA TURMA'). tem('202401726928', relator, 'ANTONIO SALDANHA'). tem('202401726928', classe, 'HC'). tem('202401726928', objeto, 'outro').
+resultado_real('202401726928', perde).
+tem('202401834379', turma, 'SEXTA TURMA'). tem('202401834379', relator, 'ANTONIO SALDANHA'). tem('202401834379', classe, 'HC'). tem('202401834379', objeto, 'p4').
+resultado_real('202401834379', perde).
+tem('202402039212', turma, 'SEXTA TURMA'). tem('202402039212', relator, 'ANTONIO SALDANHA'). tem('202402039212', classe, 'HC'). tem('202402039212', objeto, 'desclassificacao').
+resultado_real('202402039212', perde).
+tem('202402101272', turma, 'SEXTA TURMA'). tem('202402101272', relator, 'ANTONIO SALDANHA'). tem('202402101272', classe, 'HC'). tem('202402101272', objeto, 'nulidade_busca').
+tem('202402101272', marcador, 'fuga_mudanca_direcao').
+tem('202402101272', marcador, 'denuncia_anonima').
+resultado_real('202402101272', vence).
+tem('202402164928', turma, 'SEXTA TURMA'). tem('202402164928', relator, 'ANTONIO SALDANHA'). tem('202402164928', classe, 'HC'). tem('202402164928', objeto, 'dosimetria').
+resultado_real('202402164928', perde).
+tem('202402184808', turma, 'SEXTA TURMA'). tem('202402184808', relator, 'ANTONIO SALDANHA'). tem('202402184808', classe, 'HC'). tem('202402184808', objeto, 'desclassificacao').
+resultado_real('202402184808', perde).
+tem('202402267283', turma, 'SEXTA TURMA'). tem('202402267283', relator, 'ANTONIO SALDANHA'). tem('202402267283', classe, 'HC'). tem('202402267283', objeto, 'nulidade_busca').
+resultado_real('202402267283', perde).
+tem('202402507479', turma, 'SEXTA TURMA'). tem('202402507479', relator, 'ANTONIO SALDANHA'). tem('202402507479', classe, 'HC'). tem('202402507479', objeto, 'p4').
+resultado_real('202402507479', perde).
+tem('202402637097', turma, 'SEXTA TURMA'). tem('202402637097', relator, 'ANTONIO SALDANHA'). tem('202402637097', classe, 'HC'). tem('202402637097', objeto, 'nulidade_busca').
+tem('202402637097', marcador, 'local_conhecido').
+tem('202402637097', marcador, 'denuncia_anonima').
+resultado_real('202402637097', perde).
+tem('202402751115', turma, 'SEXTA TURMA'). tem('202402751115', relator, 'ANTONIO SALDANHA'). tem('202402751115', classe, 'HC'). tem('202402751115', objeto, 'nulidade_busca').
+resultado_real('202402751115', perde).
+tem('202403077889', turma, 'SEXTA TURMA'). tem('202403077889', relator, 'ANTONIO SALDANHA'). tem('202403077889', classe, 'HC'). tem('202403077889', objeto, 'p4').
+resultado_real('202403077889', perde).
+tem('202403149880', turma, 'SEXTA TURMA'). tem('202403149880', relator, 'ANTONIO SALDANHA'). tem('202403149880', classe, 'HC'). tem('202403149880', objeto, 'nulidade_busca').
+tem('202403149880', marcador, 'denuncia_anonima').
+resultado_real('202403149880', perde).
+tem('202403234472', turma, 'SEXTA TURMA'). tem('202403234472', relator, 'ANTONIO SALDANHA'). tem('202403234472', classe, 'HC'). tem('202403234472', objeto, 'p4').
+tem('202403234472', marcador, 'faccao').
+resultado_real('202403234472', vence).
+tem('202403265702', turma, 'SEXTA TURMA'). tem('202403265702', relator, 'ANTONIO SALDANHA'). tem('202403265702', classe, 'HC'). tem('202403265702', objeto, 'nulidade_busca').
+resultado_real('202403265702', perde).
+tem('202403304137', turma, 'SEXTA TURMA'). tem('202403304137', relator, 'ANTONIO SALDANHA'). tem('202403304137', classe, 'HC'). tem('202403304137', objeto, 'p4').
+resultado_real('202403304137', perde).
+tem('202403325076', turma, 'SEXTA TURMA'). tem('202403325076', relator, 'ANTONIO SALDANHA'). tem('202403325076', classe, 'HC'). tem('202403325076', objeto, 'nulidade_busca').
+resultado_real('202403325076', perde).
+tem('202403406432', turma, 'SEXTA TURMA'). tem('202403406432', relator, 'ANTONIO SALDANHA'). tem('202403406432', classe, 'HC'). tem('202403406432', objeto, 'nulidade_busca').
+resultado_real('202403406432', perde).
+tem('202403408856', turma, 'SEXTA TURMA'). tem('202403408856', relator, 'ANTONIO SALDANHA'). tem('202403408856', classe, 'HC'). tem('202403408856', objeto, 'p4').
+resultado_real('202403408856', vence).
+tem('202403453786', turma, 'SEXTA TURMA'). tem('202403453786', relator, 'ANTONIO SALDANHA'). tem('202403453786', classe, 'HC'). tem('202403453786', objeto, 'p4').
+tem('202403453786', marcador, 'faccao').
+resultado_real('202403453786', perde).
+tem('202403467357', turma, 'SEXTA TURMA'). tem('202403467357', relator, 'ANTONIO SALDANHA'). tem('202403467357', classe, 'HC'). tem('202403467357', objeto, 'p4').
+tem('202403467357', marcador, 'atos_infracionais').
+resultado_real('202403467357', perde).
+tem('202403475245', turma, 'SEXTA TURMA'). tem('202403475245', relator, 'ANTONIO SALDANHA'). tem('202403475245', classe, 'HC'). tem('202403475245', objeto, 'dosimetria').
+resultado_real('202403475245', perde).
+tem('202403480164', turma, 'SEXTA TURMA'). tem('202403480164', relator, 'ANTONIO SALDANHA'). tem('202403480164', classe, 'HC'). tem('202403480164', objeto, 'nulidade_busca').
+resultado_real('202403480164', perde).
+tem('202403546285', turma, 'SEXTA TURMA'). tem('202403546285', relator, 'ANTONIO SALDANHA'). tem('202403546285', classe, 'HC'). tem('202403546285', objeto, 'nulidade_busca').
+resultado_real('202403546285', perde).
+tem('202403575378', turma, 'SEXTA TURMA'). tem('202403575378', relator, 'ANTONIO SALDANHA'). tem('202403575378', classe, 'HC'). tem('202403575378', objeto, 'desclassificacao').
+resultado_real('202403575378', perde).
+tem('202403643149', turma, 'SEXTA TURMA'). tem('202403643149', relator, 'ANTONIO SALDANHA'). tem('202403643149', classe, 'HC'). tem('202403643149', objeto, 'nulidade_busca').
+tem('202403643149', marcador, 'fuga_mudanca_direcao').
+tem('202403643149', marcador, 'denuncia_anonima').
+resultado_real('202403643149', perde).
+tem('202403673896', turma, 'SEXTA TURMA'). tem('202403673896', relator, 'ANTONIO SALDANHA'). tem('202403673896', classe, 'HC'). tem('202403673896', objeto, 'p4').
+resultado_real('202403673896', perde).
+tem('202403704055', turma, 'SEXTA TURMA'). tem('202403704055', relator, 'ANTONIO SALDANHA'). tem('202403704055', classe, 'HC'). tem('202403704055', objeto, 'p4').
+resultado_real('202403704055', perde).
+tem('202403726019', turma, 'SEXTA TURMA'). tem('202403726019', relator, 'ANTONIO SALDANHA'). tem('202403726019', classe, 'HC'). tem('202403726019', objeto, 'p4').
+resultado_real('202403726019', perde).
+tem('202403829502', turma, 'SEXTA TURMA'). tem('202403829502', relator, 'ANTONIO SALDANHA'). tem('202403829502', classe, 'HC'). tem('202403829502', objeto, 'nulidade_busca').
+resultado_real('202403829502', perde).
+tem('202403839270', turma, 'SEXTA TURMA'). tem('202403839270', relator, 'ANTONIO SALDANHA'). tem('202403839270', classe, 'HC'). tem('202403839270', objeto, 'outro').
+resultado_real('202403839270', perde).
+tem('202403858770', turma, 'SEXTA TURMA'). tem('202403858770', relator, 'ANTONIO SALDANHA'). tem('202403858770', classe, 'HC'). tem('202403858770', objeto, 'p4').
+tem('202403858770', marcador, 'faccao').
+resultado_real('202403858770', perde).
+tem('202403935200', turma, 'SEXTA TURMA'). tem('202403935200', relator, 'ANTONIO SALDANHA'). tem('202403935200', classe, 'HC'). tem('202403935200', objeto, 'nulidade_busca').
+resultado_real('202403935200', perde).
+tem('202403976484', turma, 'SEXTA TURMA'). tem('202403976484', relator, 'ANTONIO SALDANHA'). tem('202403976484', classe, 'HC'). tem('202403976484', objeto, 'nulidade_busca').
+resultado_real('202403976484', perde).
+tem('202403981075', turma, 'SEXTA TURMA'). tem('202403981075', relator, 'ANTONIO SALDANHA'). tem('202403981075', classe, 'HC'). tem('202403981075', objeto, 'nulidade_busca').
+tem('202403981075', marcador, 'local_conhecido').
+resultado_real('202403981075', perde).
+tem('202404047162', turma, 'SEXTA TURMA'). tem('202404047162', relator, 'ANTONIO SALDANHA'). tem('202404047162', classe, 'HC'). tem('202404047162', objeto, 'outro').
+resultado_real('202404047162', perde).
+tem('202404091906', turma, 'SEXTA TURMA'). tem('202404091906', relator, 'ANTONIO SALDANHA'). tem('202404091906', classe, 'HC'). tem('202404091906', objeto, 'p4').
+resultado_real('202404091906', perde).
+tem('202404100922', turma, 'SEXTA TURMA'). tem('202404100922', relator, 'ANTONIO SALDANHA'). tem('202404100922', classe, 'HC'). tem('202404100922', objeto, 'outro').
+resultado_real('202404100922', perde).
+tem('202404153960', turma, 'SEXTA TURMA'). tem('202404153960', relator, 'ANTONIO SALDANHA'). tem('202404153960', classe, 'HC'). tem('202404153960', objeto, 'p4').
+resultado_real('202404153960', perde).
+tem('202404172920', turma, 'SEXTA TURMA'). tem('202404172920', relator, 'ANTONIO SALDANHA'). tem('202404172920', classe, 'HC'). tem('202404172920', objeto, 'p4').
+resultado_real('202404172920', vence).
+tem('202404216291', turma, 'SEXTA TURMA'). tem('202404216291', relator, 'ANTONIO SALDANHA'). tem('202404216291', classe, 'HC'). tem('202404216291', objeto, 'dosimetria').
+tem('202404216291', marcador, 'faccao').
+resultado_real('202404216291', perde).
+tem('202404229155', turma, 'SEXTA TURMA'). tem('202404229155', relator, 'ANTONIO SALDANHA'). tem('202404229155', classe, 'HC'). tem('202404229155', objeto, 'p4').
+resultado_real('202404229155', perde).
+tem('202404285193', turma, 'SEXTA TURMA'). tem('202404285193', relator, 'ANTONIO SALDANHA'). tem('202404285193', classe, 'HC'). tem('202404285193', objeto, 'nulidade_busca').
+tem('202404285193', marcador, 'fuga_mudanca_direcao').
+tem('202404285193', marcador, 'denuncia_anonima').
+resultado_real('202404285193', perde).
+tem('202404300850', turma, 'SEXTA TURMA'). tem('202404300850', relator, 'ANTONIO SALDANHA'). tem('202404300850', classe, 'HC'). tem('202404300850', objeto, 'outro').
+resultado_real('202404300850', perde).
+tem('202404303502', turma, 'SEXTA TURMA'). tem('202404303502', relator, 'ANTONIO SALDANHA'). tem('202404303502', classe, 'HC'). tem('202404303502', objeto, 'p4').
+resultado_real('202404303502', perde).
+tem('202404306140', turma, 'SEXTA TURMA'). tem('202404306140', relator, 'ANTONIO SALDANHA'). tem('202404306140', classe, 'HC'). tem('202404306140', objeto, 'dosimetria').
+resultado_real('202404306140', perde).
+tem('202404308791', turma, 'SEXTA TURMA'). tem('202404308791', relator, 'ANTONIO SALDANHA'). tem('202404308791', classe, 'HC'). tem('202404308791', objeto, 'dosimetria').
+resultado_real('202404308791', perde).
+tem('202404325689', turma, 'SEXTA TURMA'). tem('202404325689', relator, 'ANTONIO SALDANHA'). tem('202404325689', classe, 'HC'). tem('202404325689', objeto, 'dosimetria').
+resultado_real('202404325689', perde).
+tem('202404335423', turma, 'SEXTA TURMA'). tem('202404335423', relator, 'ANTONIO SALDANHA'). tem('202404335423', classe, 'HC'). tem('202404335423', objeto, 'nulidade_busca').
+resultado_real('202404335423', perde).
+tem('202404370129', turma, 'SEXTA TURMA'). tem('202404370129', relator, 'ANTONIO SALDANHA'). tem('202404370129', classe, 'HC'). tem('202404370129', objeto, 'outro').
+resultado_real('202404370129', perde).
+tem('202404417320', turma, 'SEXTA TURMA'). tem('202404417320', relator, 'ANTONIO SALDANHA'). tem('202404417320', classe, 'HC'). tem('202404417320', objeto, 'nulidade_busca').
+tem('202404417320', marcador, 'denuncia_anonima').
+resultado_real('202404417320', perde).
+tem('202404435354', turma, 'SEXTA TURMA'). tem('202404435354', relator, 'ANTONIO SALDANHA'). tem('202404435354', classe, 'HC'). tem('202404435354', objeto, 'nulidade_busca').
+resultado_real('202404435354', perde).
+tem('202404459072', turma, 'SEXTA TURMA'). tem('202404459072', relator, 'ANTONIO SALDANHA'). tem('202404459072', classe, 'HC'). tem('202404459072', objeto, 'autoria').
+resultado_real('202404459072', perde).
+tem('202404461619', turma, 'SEXTA TURMA'). tem('202404461619', relator, 'ANTONIO SALDANHA'). tem('202404461619', classe, 'HC'). tem('202404461619', objeto, 'desclassificacao').
+resultado_real('202404461619', perde).
+tem('202404568458', turma, 'SEXTA TURMA'). tem('202404568458', relator, 'ANTONIO SALDANHA'). tem('202404568458', classe, 'HC'). tem('202404568458', objeto, 'outro').
+resultado_real('202404568458', perde).
+tem('202404581051', turma, 'SEXTA TURMA'). tem('202404581051', relator, 'ANTONIO SALDANHA'). tem('202404581051', classe, 'HC'). tem('202404581051', objeto, 'outro').
+tem('202404581051', marcador, 'atos_infracionais').
+resultado_real('202404581051', perde).
+tem('202404702446', turma, 'SEXTA TURMA'). tem('202404702446', relator, 'ANTONIO SALDANHA'). tem('202404702446', classe, 'HC'). tem('202404702446', objeto, 'p4').
+resultado_real('202404702446', perde).
+tem('202404817148', turma, 'SEXTA TURMA'). tem('202404817148', relator, 'ANTONIO SALDANHA'). tem('202404817148', classe, 'HC'). tem('202404817148', objeto, 'outro').
+resultado_real('202404817148', perde).
+tem('202404835158', turma, 'SEXTA TURMA'). tem('202404835158', relator, 'ANTONIO SALDANHA'). tem('202404835158', classe, 'HC'). tem('202404835158', objeto, 'p4').
+resultado_real('202404835158', perde).
+tem('202404886936', turma, 'SEXTA TURMA'). tem('202404886936', relator, 'ANTONIO SALDANHA'). tem('202404886936', classe, 'HC'). tem('202404886936', objeto, 'autoria').
+resultado_real('202404886936', perde).
+tem('202500137555', turma, 'SEXTA TURMA'). tem('202500137555', relator, 'ANTONIO SALDANHA'). tem('202500137555', classe, 'HC'). tem('202500137555', objeto, 'nulidade_busca').
+resultado_real('202500137555', perde).
+tem('202500161534', turma, 'SEXTA TURMA'). tem('202500161534', relator, 'ANTONIO SALDANHA'). tem('202500161534', classe, 'HC'). tem('202500161534', objeto, 'desclassificacao').
+resultado_real('202500161534', perde).
+tem('202500186678', turma, 'SEXTA TURMA'). tem('202500186678', relator, 'ANTONIO SALDANHA'). tem('202500186678', classe, 'HC'). tem('202500186678', objeto, 'desclassificacao').
+resultado_real('202500186678', perde).
+tem('202500245100', turma, 'SEXTA TURMA'). tem('202500245100', relator, 'ANTONIO SALDANHA'). tem('202500245100', classe, 'HC'). tem('202500245100', objeto, 'nulidade_busca').
+tem('202500245100', marcador, 'fuga_mudanca_direcao').
+tem('202500245100', marcador, 'denuncia_anonima').
+resultado_real('202500245100', perde).
+tem('202500357806', turma, 'SEXTA TURMA'). tem('202500357806', relator, 'ANTONIO SALDANHA'). tem('202500357806', classe, 'HC'). tem('202500357806', objeto, 'nulidade_busca').
+tem('202500357806', marcador, 'fuga_mudanca_direcao').
+tem('202500357806', marcador, 'denuncia_anonima').
+resultado_real('202500357806', perde).
+tem('202500359762', turma, 'SEXTA TURMA'). tem('202500359762', relator, 'ANTONIO SALDANHA'). tem('202500359762', classe, 'HC'). tem('202500359762', objeto, 'p4').
+tem('202500359762', marcador, 'faccao').
+resultado_real('202500359762', perde).
+tem('202500364960', turma, 'SEXTA TURMA'). tem('202500364960', relator, 'ANTONIO SALDANHA'). tem('202500364960', classe, 'HC'). tem('202500364960', objeto, 'dosimetria').
+resultado_real('202500364960', perde).
+tem('202500371410', turma, 'SEXTA TURMA'). tem('202500371410', relator, 'ANTONIO SALDANHA'). tem('202500371410', classe, 'HC'). tem('202500371410', objeto, 'nulidade_busca').
+resultado_real('202500371410', perde).
+tem('202500380229', turma, 'SEXTA TURMA'). tem('202500380229', relator, 'ANTONIO SALDANHA'). tem('202500380229', classe, 'HC'). tem('202500380229', objeto, 'dosimetria').
+resultado_real('202500380229', perde).
+tem('202500398282', turma, 'SEXTA TURMA'). tem('202500398282', relator, 'ANTONIO SALDANHA'). tem('202500398282', classe, 'HC'). tem('202500398282', objeto, 'p4').
+resultado_real('202500398282', perde).
+tem('202500408549', turma, 'SEXTA TURMA'). tem('202500408549', relator, 'ANTONIO SALDANHA'). tem('202500408549', classe, 'HC'). tem('202500408549', objeto, 'nulidade_busca').
+resultado_real('202500408549', perde).
+tem('202500457446', turma, 'SEXTA TURMA'). tem('202500457446', relator, 'ANTONIO SALDANHA'). tem('202500457446', classe, 'HC'). tem('202500457446', objeto, 'p4').
+tem('202500457446', marcador, 'faccao').
+resultado_real('202500457446', perde).
+tem('202500514010', turma, 'SEXTA TURMA'). tem('202500514010', relator, 'ANTONIO SALDANHA'). tem('202500514010', classe, 'HC'). tem('202500514010', objeto, 'dosimetria').
+resultado_real('202500514010', perde).
+tem('202500542104', turma, 'SEXTA TURMA'). tem('202500542104', relator, 'ANTONIO SALDANHA'). tem('202500542104', classe, 'HC'). tem('202500542104', objeto, 'p4').
+resultado_real('202500542104', perde).
+tem('202500584402', turma, 'SEXTA TURMA'). tem('202500584402', relator, 'ANTONIO SALDANHA'). tem('202500584402', classe, 'HC'). tem('202500584402', objeto, 'outro').
+resultado_real('202500584402', perde).
+tem('202500621436', turma, 'SEXTA TURMA'). tem('202500621436', relator, 'ANTONIO SALDANHA'). tem('202500621436', classe, 'HC'). tem('202500621436', objeto, 'outro').
+resultado_real('202500621436', perde).
+tem('202500611820', turma, 'SEXTA TURMA'). tem('202500611820', relator, 'ANTONIO SALDANHA'). tem('202500611820', classe, 'HC'). tem('202500611820', objeto, 'nulidade_busca').
+tem('202500611820', marcador, 'denuncia_anonima').
+resultado_real('202500611820', perde).
+tem('202500638506', turma, 'SEXTA TURMA'). tem('202500638506', relator, 'ANTONIO SALDANHA'). tem('202500638506', classe, 'HC'). tem('202500638506', objeto, 'nulidade_busca').
+tem('202500638506', marcador, 'denuncia_anonima').
+resultado_real('202500638506', perde).
+tem('202500652929', turma, 'SEXTA TURMA'). tem('202500652929', relator, 'ANTONIO SALDANHA'). tem('202500652929', classe, 'HC'). tem('202500652929', objeto, 'outro').
+resultado_real('202500652929', perde).
+tem('202500671824', turma, 'SEXTA TURMA'). tem('202500671824', relator, 'ANTONIO SALDANHA'). tem('202500671824', classe, 'HC'). tem('202500671824', objeto, 'autoria').
+resultado_real('202500671824', perde).
+tem('202500816913', turma, 'SEXTA TURMA'). tem('202500816913', relator, 'ANTONIO SALDANHA'). tem('202500816913', classe, 'HC'). tem('202500816913', objeto, 'dosimetria').
+resultado_real('202500816913', perde).
+tem('202500844907', turma, 'SEXTA TURMA'). tem('202500844907', relator, 'ANTONIO SALDANHA'). tem('202500844907', classe, 'HC'). tem('202500844907', objeto, 'outro').
+resultado_real('202500844907', perde).
+tem('202500849387', turma, 'SEXTA TURMA'). tem('202500849387', relator, 'ANTONIO SALDANHA'). tem('202500849387', classe, 'HC'). tem('202500849387', objeto, 'p4').
+resultado_real('202500849387', perde).
+tem('202500890760', turma, 'SEXTA TURMA'). tem('202500890760', relator, 'ANTONIO SALDANHA'). tem('202500890760', classe, 'HC'). tem('202500890760', objeto, 'outro').
+resultado_real('202500890760', perde).
+tem('202500937570', turma, 'SEXTA TURMA'). tem('202500937570', relator, 'ANTONIO SALDANHA'). tem('202500937570', classe, 'HC'). tem('202500937570', objeto, 'nulidade_busca').
+resultado_real('202500937570', perde).
+tem('202500951450', turma, 'SEXTA TURMA'). tem('202500951450', relator, 'ANTONIO SALDANHA'). tem('202500951450', classe, 'HC'). tem('202500951450', objeto, 'nulidade_busca').
+resultado_real('202500951450', vence).
+tem('202500965324', turma, 'SEXTA TURMA'). tem('202500965324', relator, 'ANTONIO SALDANHA'). tem('202500965324', classe, 'HC'). tem('202500965324', objeto, 'outro').
+resultado_real('202500965324', perde).
+tem('202500999216', turma, 'SEXTA TURMA'). tem('202500999216', relator, 'ANTONIO SALDANHA'). tem('202500999216', classe, 'HC'). tem('202500999216', objeto, 'desclassificacao').
+resultado_real('202500999216', perde).
+tem('202501024463', turma, 'SEXTA TURMA'). tem('202501024463', relator, 'ANTONIO SALDANHA'). tem('202501024463', classe, 'HC'). tem('202501024463', objeto, 'dosimetria').
+resultado_real('202501024463', perde).
+tem('202501076454', turma, 'SEXTA TURMA'). tem('202501076454', relator, 'ANTONIO SALDANHA'). tem('202501076454', classe, 'HC'). tem('202501076454', objeto, 'dosimetria').
+resultado_real('202501076454', perde).
+tem('202501102421', turma, 'SEXTA TURMA'). tem('202501102421', relator, 'ANTONIO SALDANHA'). tem('202501102421', classe, 'HC'). tem('202501102421', objeto, 'outro').
+tem('202501102421', marcador, 'atos_infracionais').
+resultado_real('202501102421', perde).
+tem('202501128627', turma, 'SEXTA TURMA'). tem('202501128627', relator, 'ANTONIO SALDANHA'). tem('202501128627', classe, 'HC'). tem('202501128627', objeto, 'dosimetria').
+resultado_real('202501128627', perde).
+tem('202501133571', turma, 'SEXTA TURMA'). tem('202501133571', relator, 'ANTONIO SALDANHA'). tem('202501133571', classe, 'HC'). tem('202501133571', objeto, 'autoria').
+resultado_real('202501133571', perde).
+tem('202501146120', turma, 'SEXTA TURMA'). tem('202501146120', relator, 'ANTONIO SALDANHA'). tem('202501146120', classe, 'HC'). tem('202501146120', objeto, 'nulidade_busca').
+resultado_real('202501146120', perde).
+tem('202501219155', turma, 'SEXTA TURMA'). tem('202501219155', relator, 'ANTONIO SALDANHA'). tem('202501219155', classe, 'HC'). tem('202501219155', objeto, 'p4').
+resultado_real('202501219155', perde).
+tem('202501229709', turma, 'SEXTA TURMA'). tem('202501229709', relator, 'ANTONIO SALDANHA'). tem('202501229709', classe, 'HC'). tem('202501229709', objeto, 'p4').
+tem('202501229709', marcador, 'faccao').
+resultado_real('202501229709', perde).
+tem('202501233946', turma, 'SEXTA TURMA'). tem('202501233946', relator, 'ANTONIO SALDANHA'). tem('202501233946', classe, 'HC'). tem('202501233946', objeto, 'outro').
+resultado_real('202501233946', perde).
+tem('202501249396', turma, 'SEXTA TURMA'). tem('202501249396', relator, 'ANTONIO SALDANHA'). tem('202501249396', classe, 'HC'). tem('202501249396', objeto, 'desclassificacao').
+resultado_real('202501249396', perde).
+tem('202501287096', turma, 'SEXTA TURMA'). tem('202501287096', relator, 'ANTONIO SALDANHA'). tem('202501287096', classe, 'HC'). tem('202501287096', objeto, 'desclassificacao').
+resultado_real('202501287096', perde).
+tem('202501329689', turma, 'SEXTA TURMA'). tem('202501329689', relator, 'ANTONIO SALDANHA'). tem('202501329689', classe, 'HC'). tem('202501329689', objeto, 'nulidade_busca').
+tem('202501329689', marcador, 'local_conhecido').
+resultado_real('202501329689', perde).
+tem('202501382434', turma, 'SEXTA TURMA'). tem('202501382434', relator, 'ANTONIO SALDANHA'). tem('202501382434', classe, 'HC'). tem('202501382434', objeto, 'outro').
+tem('202501382434', marcador, 'atos_infracionais').
+resultado_real('202501382434', perde).
+tem('202501375884', turma, 'SEXTA TURMA'). tem('202501375884', relator, 'ANTONIO SALDANHA'). tem('202501375884', classe, 'HC'). tem('202501375884', objeto, 'p4').
+resultado_real('202501375884', perde).
+tem('202501391307', turma, 'SEXTA TURMA'). tem('202501391307', relator, 'ANTONIO SALDANHA'). tem('202501391307', classe, 'HC'). tem('202501391307', objeto, 'nulidade_busca').
+tem('202501391307', marcador, 'nervosismo').
+tem('202501391307', marcador, 'denuncia_anonima').
+resultado_real('202501391307', perde).
+tem('202501397735', turma, 'SEXTA TURMA'). tem('202501397735', relator, 'ANTONIO SALDANHA'). tem('202501397735', classe, 'HC'). tem('202501397735', objeto, 'nulidade_busca').
+tem('202501397735', marcador, 'nervosismo').
+tem('202501397735', marcador, 'denuncia_anonima').
+resultado_real('202501397735', perde).
+tem('202501467891', turma, 'SEXTA TURMA'). tem('202501467891', relator, 'ANTONIO SALDANHA'). tem('202501467891', classe, 'HC'). tem('202501467891', objeto, 'p4').
+tem('202501467891', marcador, 'faccao').
+resultado_real('202501467891', perde).
+tem('202501463673', turma, 'SEXTA TURMA'). tem('202501463673', relator, 'ANTONIO SALDANHA'). tem('202501463673', classe, 'HC'). tem('202501463673', objeto, 'dosimetria').
+resultado_real('202501463673', perde).
+tem('202501488732', turma, 'SEXTA TURMA'). tem('202501488732', relator, 'ANTONIO SALDANHA'). tem('202501488732', classe, 'HC'). tem('202501488732', objeto, 'desclassificacao').
+resultado_real('202501488732', perde).
+tem('201601711709', turma, 'SEXTA TURMA'). tem('201601711709', relator, 'ANTONIO SALDANHA'). tem('201601711709', classe, 'REsp'). tem('201601711709', objeto, 'dosimetria').
+resultado_real('201601711709', perde).
+tem('201602771050', turma, 'SEXTA TURMA'). tem('201602771050', relator, 'ANTONIO SALDANHA'). tem('201602771050', classe, 'REsp'). tem('201602771050', objeto, 'p4').
+tem('201602771050', marcador, 'faccao').
+resultado_real('201602771050', vence).
+tem('201903344725', turma, 'SEXTA TURMA'). tem('201903344725', relator, 'ANTONIO SALDANHA'). tem('201903344725', classe, 'REsp'). tem('201903344725', objeto, 'outro').
+resultado_real('201903344725', perde).
+tem('202100175820', turma, 'SEXTA TURMA'). tem('202100175820', relator, 'ANTONIO SALDANHA'). tem('202100175820', classe, 'REsp'). tem('202100175820', objeto, 'outro').
+resultado_real('202100175820', perde).
+tem('202101710184', turma, 'SEXTA TURMA'). tem('202101710184', relator, 'ANTONIO SALDANHA'). tem('202101710184', classe, 'REsp'). tem('202101710184', objeto, 'p4').
+resultado_real('202101710184', perde).
+tem('202102864528', turma, 'SEXTA TURMA'). tem('202102864528', relator, 'ANTONIO SALDANHA'). tem('202102864528', classe, 'REsp'). tem('202102864528', objeto, 'outro').
+tem('202102864528', marcador, 'denuncia_anonima').
+resultado_real('202102864528', perde).
+tem('202103415782', turma, 'SEXTA TURMA'). tem('202103415782', relator, 'ANTONIO SALDANHA'). tem('202103415782', classe, 'REsp'). tem('202103415782', objeto, 'dosimetria').
+resultado_real('202103415782', perde).
+tem('202103685308', turma, 'SEXTA TURMA'). tem('202103685308', relator, 'ANTONIO SALDANHA'). tem('202103685308', classe, 'REsp'). tem('202103685308', objeto, 'dosimetria').
+resultado_real('202103685308', perde).
+tem('202103793783', turma, 'SEXTA TURMA'). tem('202103793783', relator, 'ANTONIO SALDANHA'). tem('202103793783', classe, 'REsp'). tem('202103793783', objeto, 'outro').
+resultado_real('202103793783', perde).
+tem('202203796870', turma, 'SEXTA TURMA'). tem('202203796870', relator, 'ANTONIO SALDANHA'). tem('202203796870', classe, 'REsp'). tem('202203796870', objeto, 'nulidade_busca').
+tem('202203796870', marcador, 'fuga_mudanca_direcao').
+resultado_real('202203796870', perde).
+tem('202300151399', turma, 'SEXTA TURMA'). tem('202300151399', relator, 'ANTONIO SALDANHA'). tem('202300151399', classe, 'REsp'). tem('202300151399', objeto, 'outro').
+resultado_real('202300151399', perde).
+tem('202300431117', turma, 'SEXTA TURMA'). tem('202300431117', relator, 'ANTONIO SALDANHA'). tem('202300431117', classe, 'REsp'). tem('202300431117', objeto, 'p4').
+tem('202300431117', marcador, 'faccao').
+resultado_real('202300431117', perde).
+tem('202301893838', turma, 'SEXTA TURMA'). tem('202301893838', relator, 'ANTONIO SALDANHA'). tem('202301893838', classe, 'REsp'). tem('202301893838', objeto, 'nulidade_busca').
+resultado_real('202301893838', perde).
+tem('202302074622', turma, 'SEXTA TURMA'). tem('202302074622', relator, 'ANTONIO SALDANHA'). tem('202302074622', classe, 'REsp'). tem('202302074622', objeto, 'nulidade_busca').
+resultado_real('202302074622', perde).
+tem('202302351784', turma, 'SEXTA TURMA'). tem('202302351784', relator, 'ANTONIO SALDANHA'). tem('202302351784', classe, 'REsp'). tem('202302351784', objeto, 'p4').
+tem('202302351784', marcador, 'faccao').
+resultado_real('202302351784', perde).
+tem('202302655875', turma, 'SEXTA TURMA'). tem('202302655875', relator, 'ANTONIO SALDANHA'). tem('202302655875', classe, 'REsp'). tem('202302655875', objeto, 'p4').
+tem('202302655875', marcador, 'faccao').
+resultado_real('202302655875', perde).
+tem('202303198103', turma, 'SEXTA TURMA'). tem('202303198103', relator, 'ANTONIO SALDANHA'). tem('202303198103', classe, 'REsp'). tem('202303198103', objeto, 'nulidade_busca').
+resultado_real('202303198103', perde).
+tem('202303292375', turma, 'SEXTA TURMA'). tem('202303292375', relator, 'ANTONIO SALDANHA'). tem('202303292375', classe, 'REsp'). tem('202303292375', objeto, 'nulidade_busca').
+tem('202303292375', marcador, 'denuncia_anonima').
+resultado_real('202303292375', perde).
+tem('202303332317', turma, 'SEXTA TURMA'). tem('202303332317', relator, 'ANTONIO SALDANHA'). tem('202303332317', classe, 'REsp'). tem('202303332317', objeto, 'p4').
+tem('202303332317', marcador, 'faccao').
+resultado_real('202303332317', perde).
+tem('202303691663', turma, 'SEXTA TURMA'). tem('202303691663', relator, 'ANTONIO SALDANHA'). tem('202303691663', classe, 'REsp'). tem('202303691663', objeto, 'autoria').
+resultado_real('202303691663', perde).
+tem('202304077463', turma, 'SEXTA TURMA'). tem('202304077463', relator, 'ANTONIO SALDANHA'). tem('202304077463', classe, 'REsp'). tem('202304077463', objeto, 'dosimetria').
+resultado_real('202304077463', perde).
+tem('202304387333', turma, 'SEXTA TURMA'). tem('202304387333', relator, 'ANTONIO SALDANHA'). tem('202304387333', classe, 'REsp'). tem('202304387333', objeto, 'p4').
+resultado_real('202304387333', perde).
+tem('202400155435', turma, 'SEXTA TURMA'). tem('202400155435', relator, 'ANTONIO SALDANHA'). tem('202400155435', classe, 'REsp'). tem('202400155435', objeto, 'nulidade_busca').
+tem('202400155435', marcador, 'denuncia_anonima').
+resultado_real('202400155435', perde).
+tem('202400427779', turma, 'SEXTA TURMA'). tem('202400427779', relator, 'ANTONIO SALDANHA'). tem('202400427779', classe, 'REsp'). tem('202400427779', objeto, 'nulidade_busca').
+resultado_real('202400427779', perde).
+tem('202400892523', turma, 'SEXTA TURMA'). tem('202400892523', relator, 'ANTONIO SALDANHA'). tem('202400892523', classe, 'REsp'). tem('202400892523', objeto, 'nulidade_busca').
+tem('202400892523', marcador, 'denuncia_anonima').
+resultado_real('202400892523', perde).
+tem('202401130107', turma, 'SEXTA TURMA'). tem('202401130107', relator, 'ANTONIO SALDANHA'). tem('202401130107', classe, 'REsp'). tem('202401130107', objeto, 'outro').
+resultado_real('202401130107', perde).
+tem('202401193166', turma, 'SEXTA TURMA'). tem('202401193166', relator, 'ANTONIO SALDANHA'). tem('202401193166', classe, 'REsp'). tem('202401193166', objeto, 'nulidade_busca').
+tem('202401193166', marcador, 'nervosismo').
+tem('202401193166', marcador, 'denuncia_anonima').
+resultado_real('202401193166', perde).
+tem('202402632213', turma, 'SEXTA TURMA'). tem('202402632213', relator, 'ANTONIO SALDANHA'). tem('202402632213', classe, 'REsp'). tem('202402632213', objeto, 'dosimetria').
+resultado_real('202402632213', perde).
+tem('202402870927', turma, 'SEXTA TURMA'). tem('202402870927', relator, 'ANTONIO SALDANHA'). tem('202402870927', classe, 'REsp'). tem('202402870927', objeto, 'nulidade_busca').
+tem('202402870927', marcador, 'nervosismo').
+tem('202402870927', marcador, 'denuncia_anonima').
+resultado_real('202402870927', perde).
+tem('202402451177', turma, 'SEXTA TURMA'). tem('202402451177', relator, 'ANTONIO SALDANHA'). tem('202402451177', classe, 'REsp'). tem('202402451177', objeto, 'outro').
+tem('202402451177', marcador, 'faccao').
+resultado_real('202402451177', perde).
+tem('202402977818', turma, 'SEXTA TURMA'). tem('202402977818', relator, 'ANTONIO SALDANHA'). tem('202402977818', classe, 'REsp'). tem('202402977818', objeto, 'dosimetria').
+resultado_real('202402977818', perde).
+tem('202403463912', turma, 'SEXTA TURMA'). tem('202403463912', relator, 'ANTONIO SALDANHA'). tem('202403463912', classe, 'REsp'). tem('202403463912', objeto, 'nulidade_busca').
+tem('202403463912', marcador, 'fuga_mudanca_direcao').
+tem('202403463912', marcador, 'denuncia_anonima').
+resultado_real('202403463912', perde).
+tem('201701281446', turma, 'SEXTA TURMA'). tem('201701281446', relator, 'ANTONIO SALDANHA'). tem('201701281446', classe, 'REsp'). tem('201701281446', objeto, 'autoria').
+tem('201701281446', marcador, 'denuncia_anonima').
+resultado_real('201701281446', vence).
+tem('202403648681', turma, 'SEXTA TURMA'). tem('202403648681', relator, 'ANTONIO SALDANHA'). tem('202403648681', classe, 'REsp'). tem('202403648681', objeto, 'nulidade_busca').
+tem('202403648681', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403648681', perde).
+tem('202403862387', turma, 'SEXTA TURMA'). tem('202403862387', relator, 'ANTONIO SALDANHA'). tem('202403862387', classe, 'REsp'). tem('202403862387', objeto, 'outro').
+resultado_real('202403862387', perde).
+tem('202403952892', turma, 'SEXTA TURMA'). tem('202403952892', relator, 'ANTONIO SALDANHA'). tem('202403952892', classe, 'REsp'). tem('202403952892', objeto, 'dosimetria').
+resultado_real('202403952892', perde).
+tem('202404190067', turma, 'SEXTA TURMA'). tem('202404190067', relator, 'ANTONIO SALDANHA'). tem('202404190067', classe, 'REsp'). tem('202404190067', objeto, 'p4').
+tem('202404190067', marcador, 'faccao').
+resultado_real('202404190067', perde).
+tem('202404278040', turma, 'SEXTA TURMA'). tem('202404278040', relator, 'ANTONIO SALDANHA'). tem('202404278040', classe, 'REsp'). tem('202404278040', objeto, 'p4').
+tem('202404278040', marcador, 'faccao').
+resultado_real('202404278040', perde).
+tem('202404446350', turma, 'SEXTA TURMA'). tem('202404446350', relator, 'ANTONIO SALDANHA'). tem('202404446350', classe, 'REsp'). tem('202404446350', objeto, 'p4').
+resultado_real('202404446350', perde).
+tem('202404450763', turma, 'SEXTA TURMA'). tem('202404450763', relator, 'ANTONIO SALDANHA'). tem('202404450763', classe, 'REsp'). tem('202404450763', objeto, 'p4').
+resultado_real('202404450763', perde).
+tem('202404383698', turma, 'SEXTA TURMA'). tem('202404383698', relator, 'ANTONIO SALDANHA'). tem('202404383698', classe, 'REsp'). tem('202404383698', objeto, 'p4').
+resultado_real('202404383698', perde).
+tem('202403312858', turma, 'SEXTA TURMA'). tem('202403312858', relator, 'ANTONIO SALDANHA'). tem('202403312858', classe, 'REsp'). tem('202403312858', objeto, 'dosimetria').
+resultado_real('202403312858', perde).
+tem('202404578418', turma, 'SEXTA TURMA'). tem('202404578418', relator, 'ANTONIO SALDANHA'). tem('202404578418', classe, 'REsp'). tem('202404578418', objeto, 'outro').
+resultado_real('202404578418', perde).
+tem('202500105824', turma, 'SEXTA TURMA'). tem('202500105824', relator, 'ANTONIO SALDANHA'). tem('202500105824', classe, 'REsp'). tem('202500105824', objeto, 'dosimetria').
+resultado_real('202500105824', perde).
+tem('202500158684', turma, 'SEXTA TURMA'). tem('202500158684', relator, 'ANTONIO SALDANHA'). tem('202500158684', classe, 'REsp'). tem('202500158684', objeto, 'nulidade_busca').
+resultado_real('202500158684', perde).
+tem('202500172994', turma, 'SEXTA TURMA'). tem('202500172994', relator, 'ANTONIO SALDANHA'). tem('202500172994', classe, 'REsp'). tem('202500172994', objeto, 'p4').
+tem('202500172994', marcador, 'faccao').
+resultado_real('202500172994', perde).
+tem('202500249114', turma, 'SEXTA TURMA'). tem('202500249114', relator, 'ANTONIO SALDANHA'). tem('202500249114', classe, 'REsp'). tem('202500249114', objeto, 'nulidade_busca').
+tem('202500249114', marcador, 'fuga_mudanca_direcao').
+tem('202500249114', marcador, 'denuncia_anonima').
+resultado_real('202500249114', perde).
+tem('202500395531', turma, 'SEXTA TURMA'). tem('202500395531', relator, 'ANTONIO SALDANHA'). tem('202500395531', classe, 'REsp'). tem('202500395531', objeto, 'p4').
+tem('202500395531', marcador, 'faccao').
+resultado_real('202500395531', perde).
+tem('202500441879', turma, 'SEXTA TURMA'). tem('202500441879', relator, 'ANTONIO SALDANHA'). tem('202500441879', classe, 'REsp'). tem('202500441879', objeto, 'nulidade_busca').
+tem('202500441879', marcador, 'vulgo').
+tem('202500441879', marcador, 'nervosismo').
+resultado_real('202500441879', perde).
+tem('202500855178', turma, 'SEXTA TURMA'). tem('202500855178', relator, 'ANTONIO SALDANHA'). tem('202500855178', classe, 'REsp'). tem('202500855178', objeto, 'nulidade_busca').
+tem('202500855178', marcador, 'fuga_mudanca_direcao').
+tem('202500855178', marcador, 'denuncia_anonima').
+resultado_real('202500855178', perde).
+tem('202500929960', turma, 'SEXTA TURMA'). tem('202500929960', relator, 'ANTONIO SALDANHA'). tem('202500929960', classe, 'REsp'). tem('202500929960', objeto, 'outro').
+resultado_real('202500929960', perde).
+tem('202501177763', turma, 'SEXTA TURMA'). tem('202501177763', relator, 'ANTONIO SALDANHA'). tem('202501177763', classe, 'REsp'). tem('202501177763', objeto, 'desclassificacao').
+resultado_real('202501177763', perde).
+tem('202502339037', turma, 'SEXTA TURMA'). tem('202502339037', relator, 'ANTONIO SALDANHA'). tem('202502339037', classe, 'REsp'). tem('202502339037', objeto, 'outro').
+resultado_real('202502339037', perde).
+tem('202502407718', turma, 'SEXTA TURMA'). tem('202502407718', relator, 'ANTONIO SALDANHA'). tem('202502407718', classe, 'REsp'). tem('202502407718', objeto, 'p4').
+resultado_real('202502407718', perde).
+tem('202502676648', turma, 'SEXTA TURMA'). tem('202502676648', relator, 'ANTONIO SALDANHA'). tem('202502676648', classe, 'REsp'). tem('202502676648', objeto, 'nulidade_busca').
+resultado_real('202502676648', perde).
+tem('202101887521', turma, 'SEXTA TURMA'). tem('202101887521', relator, 'ANTONIO SALDANHA'). tem('202101887521', classe, 'RHC'). tem('202101887521', objeto, 'outro').
+tem('202101887521', marcador, 'faccao').
+resultado_real('202101887521', perde).
+tem('202300064495', turma, 'SEXTA TURMA'). tem('202300064495', relator, 'ANTONIO SALDANHA'). tem('202300064495', classe, 'RHC'). tem('202300064495', objeto, 'outro').
+tem('202300064495', marcador, 'faccao').
+resultado_real('202300064495', perde).
+tem('202401101188', turma, 'SEXTA TURMA'). tem('202401101188', relator, 'ANTONIO SALDANHA'). tem('202401101188', classe, 'RHC'). tem('202401101188', objeto, 'p4').
+resultado_real('202401101188', perde).
+tem('202403315346', turma, 'SEXTA TURMA'). tem('202403315346', relator, 'ANTONIO SALDANHA'). tem('202403315346', classe, 'RHC'). tem('202403315346', objeto, 'outro').
+resultado_real('202403315346', perde).
+tem('202403515147', turma, 'SEXTA TURMA'). tem('202403515147', relator, 'ANTONIO SALDANHA'). tem('202403515147', classe, 'RHC'). tem('202403515147', objeto, 'outro').
+resultado_real('202403515147', perde).
+tem('202403573346', turma, 'SEXTA TURMA'). tem('202403573346', relator, 'ANTONIO SALDANHA'). tem('202403573346', classe, 'RHC'). tem('202403573346', objeto, 'outro').
+resultado_real('202403573346', perde).
+tem('202404483204', turma, 'SEXTA TURMA'). tem('202404483204', relator, 'ANTONIO SALDANHA'). tem('202404483204', classe, 'RHC'). tem('202404483204', objeto, 'outro').
+resultado_real('202404483204', perde).
+tem('202404642082', turma, 'SEXTA TURMA'). tem('202404642082', relator, 'ANTONIO SALDANHA'). tem('202404642082', classe, 'RHC'). tem('202404642082', objeto, 'autoria').
+tem('202404642082', marcador, 'denuncia_anonima').
+resultado_real('202404642082', perde).
+tem('202404739583', turma, 'SEXTA TURMA'). tem('202404739583', relator, 'ANTONIO SALDANHA'). tem('202404739583', classe, 'RHC'). tem('202404739583', objeto, 'outro').
+resultado_real('202404739583', perde).
+tem('202500442980', turma, 'SEXTA TURMA'). tem('202500442980', relator, 'ANTONIO SALDANHA'). tem('202500442980', classe, 'RHC'). tem('202500442980', objeto, 'outro').
+resultado_real('202500442980', perde).
+tem('202500906479', turma, 'SEXTA TURMA'). tem('202500906479', relator, 'ANTONIO SALDANHA'). tem('202500906479', classe, 'RHC'). tem('202500906479', objeto, 'outro').
+resultado_real('202500906479', perde).
+tem('202501331770', turma, 'SEXTA TURMA'). tem('202501331770', relator, 'ANTONIO SALDANHA'). tem('202501331770', classe, 'RHC'). tem('202501331770', objeto, 'nulidade_busca').
+tem('202501331770', marcador, 'atos_infracionais').
+resultado_real('202501331770', perde).
+tem('202501724278', turma, 'SEXTA TURMA'). tem('202501724278', relator, 'ANTONIO SALDANHA'). tem('202501724278', classe, 'RHC'). tem('202501724278', objeto, 'nulidade_busca').
+tem('202501724278', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501724278', perde).
+tem('202501965379', turma, 'SEXTA TURMA'). tem('202501965379', relator, 'ANTONIO SALDANHA'). tem('202501965379', classe, 'RHC'). tem('202501965379', objeto, 'outro').
+resultado_real('202501965379', perde).
+tem('202403941320', turma, 'SEXTA TURMA'). tem('202403941320', relator, 'ANTONIO SALDANHA'). tem('202403941320', classe, 'RMS'). tem('202403941320', objeto, 'outro').
+resultado_real('202403941320', perde).
 tem('202403276860', turma, 'SEXTA TURMA'). tem('202403276860', relator, 'CARLOS PIRES'). tem('202403276860', classe, 'AREsp'). tem('202403276860', objeto, 'nulidade_busca').
 tem('202403276860', marcador, 'local_conhecido').
 tem('202403276860', marcador, 'fuga_mudanca_direcao').
@@ -2209,11 +8646,25 @@ resultado_real('202601854293', perde).
 tem('202600671980', turma, 'SEXTA TURMA'). tem('202600671980', relator, 'CARLOS PIRES'). tem('202600671980', classe, 'AREsp'). tem('202600671980', objeto, 'desclassificacao').
 tem('202600671980', marcador, 'fuga_mudanca_direcao').
 resultado_real('202600671980', perde).
+tem('202501961465', turma, 'SEXTA TURMA'). tem('202501961465', relator, 'CARLOS PIRES'). tem('202501961465', classe, 'HC'). tem('202501961465', objeto, 'p4').
+resultado_real('202501961465', perde).
+tem('202502142374', turma, 'SEXTA TURMA'). tem('202502142374', relator, 'CARLOS PIRES'). tem('202502142374', classe, 'HC'). tem('202502142374', objeto, 'p4').
+tem('202502142374', marcador, 'faccao').
+resultado_real('202502142374', perde).
+tem('202502463149', turma, 'SEXTA TURMA'). tem('202502463149', relator, 'CARLOS PIRES'). tem('202502463149', classe, 'HC'). tem('202502463149', objeto, 'desclassificacao').
+resultado_real('202502463149', perde).
+tem('202502606940', turma, 'SEXTA TURMA'). tem('202502606940', relator, 'CARLOS PIRES'). tem('202502606940', classe, 'HC'). tem('202502606940', objeto, 'p4').
+tem('202502606940', marcador, 'faccao').
+resultado_real('202502606940', perde).
+tem('202502950287', turma, 'SEXTA TURMA'). tem('202502950287', relator, 'CARLOS PIRES'). tem('202502950287', classe, 'HC'). tem('202502950287', objeto, 'p4').
+resultado_real('202502950287', perde).
 tem('202503055415', turma, 'SEXTA TURMA'). tem('202503055415', relator, 'CARLOS PIRES'). tem('202503055415', classe, 'HC'). tem('202503055415', objeto, 'desclassificacao').
 resultado_real('202503055415', perde).
 tem('202503083054', turma, 'SEXTA TURMA'). tem('202503083054', relator, 'CARLOS PIRES'). tem('202503083054', classe, 'HC'). tem('202503083054', objeto, 'nulidade_busca').
 tem('202503083054', marcador, 'denuncia_anonima').
 resultado_real('202503083054', perde).
+tem('202503337263', turma, 'SEXTA TURMA'). tem('202503337263', relator, 'CARLOS PIRES'). tem('202503337263', classe, 'HC'). tem('202503337263', objeto, 'dosimetria').
+resultado_real('202503337263', perde).
 tem('202503398811', turma, 'SEXTA TURMA'). tem('202503398811', relator, 'CARLOS PIRES'). tem('202503398811', classe, 'HC'). tem('202503398811', objeto, 'p4').
 resultado_real('202503398811', perde).
 tem('202503880947', turma, 'SEXTA TURMA'). tem('202503880947', relator, 'CARLOS PIRES'). tem('202503880947', classe, 'HC'). tem('202503880947', objeto, 'desclassificacao').
@@ -2689,21 +9140,65 @@ tem('202601294080', marcador, 'fuga_mudanca_direcao').
 resultado_real('202601294080', perde).
 tem('202600994017', turma, 'SEXTA TURMA'). tem('202600994017', relator, 'NILSONI DE'). tem('202600994017', classe, 'RHC'). tem('202600994017', objeto, 'outro').
 resultado_real('202600994017', perde).
+tem('202202891453', turma, 'SEXTA TURMA'). tem('202202891453', relator, 'OG FERNANDES'). tem('202202891453', classe, 'AREsp'). tem('202202891453', objeto, 'dosimetria').
+tem('202202891453', marcador, 'faccao').
+resultado_real('202202891453', perde).
+tem('202203239691', turma, 'SEXTA TURMA'). tem('202203239691', relator, 'OG FERNANDES'). tem('202203239691', classe, 'AREsp'). tem('202203239691', objeto, 'outro').
+resultado_real('202203239691', perde).
+tem('202203773579', turma, 'SEXTA TURMA'). tem('202203773579', relator, 'OG FERNANDES'). tem('202203773579', classe, 'AREsp'). tem('202203773579', objeto, 'autoria').
+resultado_real('202203773579', perde).
+tem('202300107710', turma, 'SEXTA TURMA'). tem('202300107710', relator, 'OG FERNANDES'). tem('202300107710', classe, 'AREsp'). tem('202300107710', objeto, 'p4').
+resultado_real('202300107710', perde).
+tem('202300589216', turma, 'SEXTA TURMA'). tem('202300589216', relator, 'OG FERNANDES'). tem('202300589216', classe, 'AREsp'). tem('202300589216', objeto, 'dosimetria').
+resultado_real('202300589216', perde).
+tem('202301846949', turma, 'SEXTA TURMA'). tem('202301846949', relator, 'OG FERNANDES'). tem('202301846949', classe, 'AREsp'). tem('202301846949', objeto, 'p4').
+resultado_real('202301846949', perde).
+tem('202302305718', turma, 'SEXTA TURMA'). tem('202302305718', relator, 'OG FERNANDES'). tem('202302305718', classe, 'AREsp'). tem('202302305718', objeto, 'outro').
+resultado_real('202302305718', perde).
+tem('202302326961', turma, 'SEXTA TURMA'). tem('202302326961', relator, 'OG FERNANDES'). tem('202302326961', classe, 'AREsp'). tem('202302326961', objeto, 'outro').
+resultado_real('202302326961', perde).
 tem('202302861568', turma, 'SEXTA TURMA'). tem('202302861568', relator, 'OG FERNANDES'). tem('202302861568', classe, 'AREsp'). tem('202302861568', objeto, 'nulidade_busca').
 tem('202302861568', marcador, 'local_conhecido').
 resultado_real('202302861568', vence).
+tem('202302839496', turma, 'SEXTA TURMA'). tem('202302839496', relator, 'OG FERNANDES'). tem('202302839496', classe, 'AREsp'). tem('202302839496', objeto, 'dosimetria').
+resultado_real('202302839496', perde).
 tem('202302952910', turma, 'SEXTA TURMA'). tem('202302952910', relator, 'OG FERNANDES'). tem('202302952910', classe, 'AREsp'). tem('202302952910', objeto, 'nulidade_busca').
 tem('202302952910', marcador, 'local_conhecido').
 resultado_real('202302952910', vence).
+tem('202303356197', turma, 'SEXTA TURMA'). tem('202303356197', relator, 'OG FERNANDES'). tem('202303356197', classe, 'AREsp'). tem('202303356197', objeto, 'p4').
+resultado_real('202303356197', perde).
+tem('202304164306', turma, 'SEXTA TURMA'). tem('202304164306', relator, 'OG FERNANDES'). tem('202304164306', classe, 'AREsp'). tem('202304164306', objeto, 'p4').
+resultado_real('202304164306', perde).
+tem('202400776283', turma, 'SEXTA TURMA'). tem('202400776283', relator, 'OG FERNANDES'). tem('202400776283', classe, 'AREsp'). tem('202400776283', objeto, 'nulidade_busca').
+tem('202400776283', marcador, 'nervosismo').
+resultado_real('202400776283', perde).
+tem('202401349201', turma, 'SEXTA TURMA'). tem('202401349201', relator, 'OG FERNANDES'). tem('202401349201', classe, 'AREsp'). tem('202401349201', objeto, 'desclassificacao').
+resultado_real('202401349201', perde).
+tem('202401349464', turma, 'SEXTA TURMA'). tem('202401349464', relator, 'OG FERNANDES'). tem('202401349464', classe, 'AREsp'). tem('202401349464', objeto, 'p4').
+resultado_real('202401349464', perde).
+tem('202401453837', turma, 'SEXTA TURMA'). tem('202401453837', relator, 'OG FERNANDES'). tem('202401453837', classe, 'AREsp'). tem('202401453837', objeto, 'p4').
+tem('202401453837', marcador, 'faccao').
+resultado_real('202401453837', perde).
 tem('202401933644', turma, 'SEXTA TURMA'). tem('202401933644', relator, 'OG FERNANDES'). tem('202401933644', classe, 'AREsp'). tem('202401933644', objeto, 'nulidade_busca').
 resultado_real('202401933644', perde).
+tem('202402009384', turma, 'SEXTA TURMA'). tem('202402009384', relator, 'OG FERNANDES'). tem('202402009384', classe, 'AREsp'). tem('202402009384', objeto, 'p4').
+resultado_real('202402009384', perde).
+tem('202402014343', turma, 'SEXTA TURMA'). tem('202402014343', relator, 'OG FERNANDES'). tem('202402014343', classe, 'AREsp'). tem('202402014343', objeto, 'p4').
+tem('202402014343', marcador, 'faccao').
+resultado_real('202402014343', perde).
+tem('202402184012', turma, 'SEXTA TURMA'). tem('202402184012', relator, 'OG FERNANDES'). tem('202402184012', classe, 'AREsp'). tem('202402184012', objeto, 'desclassificacao').
+resultado_real('202402184012', perde).
 tem('202402578227', turma, 'SEXTA TURMA'). tem('202402578227', relator, 'OG FERNANDES'). tem('202402578227', classe, 'AREsp'). tem('202402578227', objeto, 'nulidade_busca').
 tem('202402578227', marcador, 'faccao').
 tem('202402578227', marcador, 'fuga_mudanca_direcao').
 tem('202402578227', marcador, 'denuncia_anonima').
 resultado_real('202402578227', perde).
+tem('202404630016', turma, 'SEXTA TURMA'). tem('202404630016', relator, 'OG FERNANDES'). tem('202404630016', classe, 'AREsp'). tem('202404630016', objeto, 'desclassificacao').
+resultado_real('202404630016', perde).
 tem('202500082542', turma, 'SEXTA TURMA'). tem('202500082542', relator, 'OG FERNANDES'). tem('202500082542', classe, 'AREsp'). tem('202500082542', objeto, 'outro').
 resultado_real('202500082542', perde).
+tem('202500242142', turma, 'SEXTA TURMA'). tem('202500242142', relator, 'OG FERNANDES'). tem('202500242142', classe, 'AREsp'). tem('202500242142', objeto, 'autoria').
+resultado_real('202500242142', perde).
 tem('202500373050', turma, 'SEXTA TURMA'). tem('202500373050', relator, 'OG FERNANDES'). tem('202500373050', classe, 'AREsp'). tem('202500373050', objeto, 'nulidade_busca').
 resultado_real('202500373050', perde).
 tem('202501287286', turma, 'SEXTA TURMA'). tem('202501287286', relator, 'OG FERNANDES'). tem('202501287286', classe, 'AREsp'). tem('202501287286', objeto, 'p4').
@@ -2750,10 +9245,76 @@ tem('202600756262', turma, 'SEXTA TURMA'). tem('202600756262', relator, 'OG FERN
 resultado_real('202600756262', perde).
 tem('202600814578', turma, 'SEXTA TURMA'). tem('202600814578', relator, 'OG FERNANDES'). tem('202600814578', classe, 'AREsp'). tem('202600814578', objeto, 'p4').
 resultado_real('202600814578', perde).
+tem('202501540492', turma, 'SEXTA TURMA'). tem('202501540492', relator, 'OG FERNANDES'). tem('202501540492', classe, 'HC'). tem('202501540492', objeto, 'dosimetria').
+resultado_real('202501540492', perde).
+tem('202501549726', turma, 'SEXTA TURMA'). tem('202501549726', relator, 'OG FERNANDES'). tem('202501549726', classe, 'HC'). tem('202501549726', objeto, 'nulidade_busca').
+tem('202501549726', marcador, 'denuncia_anonima').
+resultado_real('202501549726', perde).
+tem('202501544838', turma, 'SEXTA TURMA'). tem('202501544838', relator, 'OG FERNANDES'). tem('202501544838', classe, 'HC'). tem('202501544838', objeto, 'nulidade_busca').
+tem('202501544838', marcador, 'denuncia_anonima').
+resultado_real('202501544838', perde).
+tem('202501620129', turma, 'SEXTA TURMA'). tem('202501620129', relator, 'OG FERNANDES'). tem('202501620129', classe, 'HC'). tem('202501620129', objeto, 'p4').
+tem('202501620129', marcador, 'faccao').
+resultado_real('202501620129', perde).
+tem('202501635176', turma, 'SEXTA TURMA'). tem('202501635176', relator, 'OG FERNANDES'). tem('202501635176', classe, 'HC'). tem('202501635176', objeto, 'dosimetria').
+resultado_real('202501635176', perde).
+tem('202501664043', turma, 'SEXTA TURMA'). tem('202501664043', relator, 'OG FERNANDES'). tem('202501664043', classe, 'HC'). tem('202501664043', objeto, 'outro').
+resultado_real('202501664043', perde).
+tem('202501771268', turma, 'SEXTA TURMA'). tem('202501771268', relator, 'OG FERNANDES'). tem('202501771268', classe, 'HC'). tem('202501771268', objeto, 'outro').
+tem('202501771268', marcador, 'faccao').
+resultado_real('202501771268', perde).
+tem('202501810755', turma, 'SEXTA TURMA'). tem('202501810755', relator, 'OG FERNANDES'). tem('202501810755', classe, 'HC'). tem('202501810755', objeto, 'outro').
+resultado_real('202501810755', perde).
+tem('202501818990', turma, 'SEXTA TURMA'). tem('202501818990', relator, 'OG FERNANDES'). tem('202501818990', classe, 'HC'). tem('202501818990', objeto, 'outro').
+resultado_real('202501818990', perde).
+tem('202501826890', turma, 'SEXTA TURMA'). tem('202501826890', relator, 'OG FERNANDES'). tem('202501826890', classe, 'HC'). tem('202501826890', objeto, 'nulidade_busca').
+tem('202501826890', marcador, 'comunidade_bairro').
+tem('202501826890', marcador, 'local_conhecido').
+resultado_real('202501826890', perde).
+tem('202501858700', turma, 'SEXTA TURMA'). tem('202501858700', relator, 'OG FERNANDES'). tem('202501858700', classe, 'HC'). tem('202501858700', objeto, 'nulidade_busca').
+tem('202501858700', marcador, 'local_conhecido').
+resultado_real('202501858700', perde).
+tem('202501878463', turma, 'SEXTA TURMA'). tem('202501878463', relator, 'OG FERNANDES'). tem('202501878463', classe, 'HC'). tem('202501878463', objeto, 'outro').
+resultado_real('202501878463', perde).
+tem('202501926783', turma, 'SEXTA TURMA'). tem('202501926783', relator, 'OG FERNANDES'). tem('202501926783', classe, 'HC'). tem('202501926783', objeto, 'p4').
+resultado_real('202501926783', perde).
+tem('202501938181', turma, 'SEXTA TURMA'). tem('202501938181', relator, 'OG FERNANDES'). tem('202501938181', classe, 'HC'). tem('202501938181', objeto, 'p4').
+tem('202501938181', marcador, 'local_conhecido').
+resultado_real('202501938181', perde).
+tem('202501983782', turma, 'SEXTA TURMA'). tem('202501983782', relator, 'OG FERNANDES'). tem('202501983782', classe, 'HC'). tem('202501983782', objeto, 'p4').
+tem('202501983782', marcador, 'atos_infracionais').
+resultado_real('202501983782', perde).
+tem('202502008026', turma, 'SEXTA TURMA'). tem('202502008026', relator, 'OG FERNANDES'). tem('202502008026', classe, 'HC'). tem('202502008026', objeto, 'p4').
+resultado_real('202502008026', perde).
+tem('202502021286', turma, 'SEXTA TURMA'). tem('202502021286', relator, 'OG FERNANDES'). tem('202502021286', classe, 'HC'). tem('202502021286', objeto, 'nulidade_busca').
+tem('202502021286', marcador, 'local_conhecido').
+tem('202502021286', marcador, 'nervosismo').
+tem('202502021286', marcador, 'fuga_mudanca_direcao').
+resultado_real('202502021286', perde).
+tem('202502047254', turma, 'SEXTA TURMA'). tem('202502047254', relator, 'OG FERNANDES'). tem('202502047254', classe, 'HC'). tem('202502047254', objeto, 'outro').
+resultado_real('202502047254', perde).
+tem('202502063091', turma, 'SEXTA TURMA'). tem('202502063091', relator, 'OG FERNANDES'). tem('202502063091', classe, 'HC'). tem('202502063091', objeto, 'outro').
+resultado_real('202502063091', perde).
+tem('202502108398', turma, 'SEXTA TURMA'). tem('202502108398', relator, 'OG FERNANDES'). tem('202502108398', classe, 'HC'). tem('202502108398', objeto, 'p4').
+resultado_real('202502108398', perde).
+tem('202502124591', turma, 'SEXTA TURMA'). tem('202502124591', relator, 'OG FERNANDES'). tem('202502124591', classe, 'HC'). tem('202502124591', objeto, 'p4').
+resultado_real('202502124591', perde).
 tem('202502176205', turma, 'SEXTA TURMA'). tem('202502176205', relator, 'OG FERNANDES'). tem('202502176205', classe, 'HC'). tem('202502176205', objeto, 'desclassificacao').
 resultado_real('202502176205', perde).
+tem('202502278573', turma, 'SEXTA TURMA'). tem('202502278573', relator, 'OG FERNANDES'). tem('202502278573', classe, 'HC'). tem('202502278573', objeto, 'nulidade_busca').
+resultado_real('202502278573', perde).
+tem('202502275430', turma, 'SEXTA TURMA'). tem('202502275430', relator, 'OG FERNANDES'). tem('202502275430', classe, 'HC'). tem('202502275430', objeto, 'nulidade_busca').
+tem('202502275430', marcador, 'local_conhecido').
+tem('202502275430', marcador, 'fuga_mudanca_direcao').
+resultado_real('202502275430', perde).
+tem('202502540110', turma, 'SEXTA TURMA'). tem('202502540110', relator, 'OG FERNANDES'). tem('202502540110', classe, 'HC'). tem('202502540110', objeto, 'outro').
+resultado_real('202502540110', perde).
 tem('202502570326', turma, 'SEXTA TURMA'). tem('202502570326', relator, 'OG FERNANDES'). tem('202502570326', classe, 'HC'). tem('202502570326', objeto, 'desclassificacao').
 resultado_real('202502570326', perde).
+tem('202502974296', turma, 'SEXTA TURMA'). tem('202502974296', relator, 'OG FERNANDES'). tem('202502974296', classe, 'HC'). tem('202502974296', objeto, 'outro').
+resultado_real('202502974296', perde).
+tem('202503105780', turma, 'SEXTA TURMA'). tem('202503105780', relator, 'OG FERNANDES'). tem('202503105780', classe, 'HC'). tem('202503105780', objeto, 'outro').
+resultado_real('202503105780', perde).
 tem('202503646224', turma, 'SEXTA TURMA'). tem('202503646224', relator, 'OG FERNANDES'). tem('202503646224', classe, 'HC'). tem('202503646224', objeto, 'dosimetria').
 resultado_real('202503646224', perde).
 tem('202504045008', turma, 'SEXTA TURMA'). tem('202504045008', relator, 'OG FERNANDES'). tem('202504045008', classe, 'HC'). tem('202504045008', objeto, 'nulidade_busca').
@@ -2851,25 +9412,469 @@ resultado_real('202601992279', perde).
 tem('202602117580', turma, 'SEXTA TURMA'). tem('202602117580', relator, 'OG FERNANDES'). tem('202602117580', classe, 'HC'). tem('202602117580', objeto, 'nulidade_busca').
 tem('202602117580', marcador, 'denuncia_anonima').
 resultado_real('202602117580', perde).
+tem('202200081466', turma, 'SEXTA TURMA'). tem('202200081466', relator, 'OG FERNANDES'). tem('202200081466', classe, 'HC'). tem('202200081466', objeto, 'nulidade_busca').
+resultado_real('202200081466', perde).
+tem('202300052620', turma, 'SEXTA TURMA'). tem('202300052620', relator, 'OG FERNANDES'). tem('202300052620', classe, 'HC'). tem('202300052620', objeto, 'nulidade_busca').
+resultado_real('202300052620', vence).
+tem('202301800988', turma, 'SEXTA TURMA'). tem('202301800988', relator, 'OG FERNANDES'). tem('202301800988', classe, 'HC'). tem('202301800988', objeto, 'p4').
+resultado_real('202301800988', perde).
+tem('202301852829', turma, 'SEXTA TURMA'). tem('202301852829', relator, 'OG FERNANDES'). tem('202301852829', classe, 'HC'). tem('202301852829', objeto, 'p4').
+resultado_real('202301852829', perde).
+tem('202301961291', turma, 'SEXTA TURMA'). tem('202301961291', relator, 'OG FERNANDES'). tem('202301961291', classe, 'HC'). tem('202301961291', objeto, 'dosimetria').
+resultado_real('202301961291', perde).
+tem('202302641802', turma, 'SEXTA TURMA'). tem('202302641802', relator, 'OG FERNANDES'). tem('202302641802', classe, 'HC'). tem('202302641802', objeto, 'nulidade_busca').
+tem('202302641802', marcador, 'nervosismo').
+resultado_real('202302641802', perde).
+tem('202303084411', turma, 'SEXTA TURMA'). tem('202303084411', relator, 'OG FERNANDES'). tem('202303084411', classe, 'HC'). tem('202303084411', objeto, 'nulidade_busca').
+tem('202303084411', marcador, 'faccao').
+resultado_real('202303084411', perde).
+tem('202303187816', turma, 'SEXTA TURMA'). tem('202303187816', relator, 'OG FERNANDES'). tem('202303187816', classe, 'HC'). tem('202303187816', objeto, 'p4').
+resultado_real('202303187816', perde).
+tem('202303613357', turma, 'SEXTA TURMA'). tem('202303613357', relator, 'OG FERNANDES'). tem('202303613357', classe, 'HC'). tem('202303613357', objeto, 'dosimetria').
+resultado_real('202303613357', perde).
+tem('202303688841', turma, 'SEXTA TURMA'). tem('202303688841', relator, 'OG FERNANDES'). tem('202303688841', classe, 'HC'). tem('202303688841', objeto, 'dosimetria').
+tem('202303688841', marcador, 'faccao').
+resultado_real('202303688841', perde).
+tem('202303783519', turma, 'SEXTA TURMA'). tem('202303783519', relator, 'OG FERNANDES'). tem('202303783519', classe, 'HC'). tem('202303783519', objeto, 'nulidade_busca').
+tem('202303783519', marcador, 'nervosismo').
+tem('202303783519', marcador, 'fuga_mudanca_direcao').
+tem('202303783519', marcador, 'denuncia_anonima').
+resultado_real('202303783519', perde).
+tem('202303813728', turma, 'SEXTA TURMA'). tem('202303813728', relator, 'OG FERNANDES'). tem('202303813728', classe, 'HC'). tem('202303813728', objeto, 'p4').
+resultado_real('202303813728', perde).
+tem('202303909020', turma, 'SEXTA TURMA'). tem('202303909020', relator, 'OG FERNANDES'). tem('202303909020', classe, 'HC'). tem('202303909020', objeto, 'p4').
+resultado_real('202303909020', perde).
+tem('202304061633', turma, 'SEXTA TURMA'). tem('202304061633', relator, 'OG FERNANDES'). tem('202304061633', classe, 'HC'). tem('202304061633', objeto, 'p4').
+resultado_real('202304061633', perde).
+tem('202304086891', turma, 'SEXTA TURMA'). tem('202304086891', relator, 'OG FERNANDES'). tem('202304086891', classe, 'HC'). tem('202304086891', objeto, 'p4').
+resultado_real('202304086891', perde).
+tem('202304184728', turma, 'SEXTA TURMA'). tem('202304184728', relator, 'OG FERNANDES'). tem('202304184728', classe, 'HC'). tem('202304184728', objeto, 'p4').
+resultado_real('202304184728', perde).
+tem('202304262812', turma, 'SEXTA TURMA'). tem('202304262812', relator, 'OG FERNANDES'). tem('202304262812', classe, 'HC'). tem('202304262812', objeto, 'nulidade_busca').
+tem('202304262812', marcador, 'fuga_mudanca_direcao').
+resultado_real('202304262812', perde).
+tem('202304303560', turma, 'SEXTA TURMA'). tem('202304303560', relator, 'OG FERNANDES'). tem('202304303560', classe, 'HC'). tem('202304303560', objeto, 'p4').
+resultado_real('202304303560', perde).
+tem('202304313592', turma, 'SEXTA TURMA'). tem('202304313592', relator, 'OG FERNANDES'). tem('202304313592', classe, 'HC'). tem('202304313592', objeto, 'dosimetria').
+resultado_real('202304313592', perde).
+tem('202304402051', turma, 'SEXTA TURMA'). tem('202304402051', relator, 'OG FERNANDES'). tem('202304402051', classe, 'HC'). tem('202304402051', objeto, 'p4').
+resultado_real('202304402051', perde).
+tem('202304429408', turma, 'SEXTA TURMA'). tem('202304429408', relator, 'OG FERNANDES'). tem('202304429408', classe, 'HC'). tem('202304429408', objeto, 'nulidade_busca').
+tem('202304429408', marcador, 'nervosismo').
+resultado_real('202304429408', perde).
+tem('202304465946', turma, 'SEXTA TURMA'). tem('202304465946', relator, 'OG FERNANDES'). tem('202304465946', classe, 'HC'). tem('202304465946', objeto, 'dosimetria').
+resultado_real('202304465946', perde).
+tem('202304488970', turma, 'SEXTA TURMA'). tem('202304488970', relator, 'OG FERNANDES'). tem('202304488970', classe, 'HC'). tem('202304488970', objeto, 'p4').
+tem('202304488970', marcador, 'faccao').
+resultado_real('202304488970', perde).
+tem('202304569298', turma, 'SEXTA TURMA'). tem('202304569298', relator, 'OG FERNANDES'). tem('202304569298', classe, 'HC'). tem('202304569298', objeto, 'p4').
+resultado_real('202304569298', perde).
+tem('202304593152', turma, 'SEXTA TURMA'). tem('202304593152', relator, 'OG FERNANDES'). tem('202304593152', classe, 'HC'). tem('202304593152', objeto, 'dosimetria').
+resultado_real('202304593152', perde).
+tem('202400002285', turma, 'SEXTA TURMA'). tem('202400002285', relator, 'OG FERNANDES'). tem('202400002285', classe, 'HC'). tem('202400002285', objeto, 'nulidade_busca').
+resultado_real('202400002285', perde).
+tem('202400040466', turma, 'SEXTA TURMA'). tem('202400040466', relator, 'OG FERNANDES'). tem('202400040466', classe, 'HC'). tem('202400040466', objeto, 'desclassificacao').
+resultado_real('202400040466', vence).
+tem('202400042146', turma, 'SEXTA TURMA'). tem('202400042146', relator, 'OG FERNANDES'). tem('202400042146', classe, 'HC'). tem('202400042146', objeto, 'dosimetria').
+resultado_real('202400042146', vence).
+tem('202400199413', turma, 'SEXTA TURMA'). tem('202400199413', relator, 'OG FERNANDES'). tem('202400199413', classe, 'HC'). tem('202400199413', objeto, 'outro').
+resultado_real('202400199413', perde).
+tem('202400233163', turma, 'SEXTA TURMA'). tem('202400233163', relator, 'OG FERNANDES'). tem('202400233163', classe, 'HC'). tem('202400233163', objeto, 'p4').
+resultado_real('202400233163', perde).
+tem('202400236447', turma, 'SEXTA TURMA'). tem('202400236447', relator, 'OG FERNANDES'). tem('202400236447', classe, 'HC'). tem('202400236447', objeto, 'p4').
+resultado_real('202400236447', perde).
+tem('202400315185', turma, 'SEXTA TURMA'). tem('202400315185', relator, 'OG FERNANDES'). tem('202400315185', classe, 'HC'). tem('202400315185', objeto, 'p4').
+resultado_real('202400315185', perde).
+tem('202400366558', turma, 'SEXTA TURMA'). tem('202400366558', relator, 'OG FERNANDES'). tem('202400366558', classe, 'HC'). tem('202400366558', objeto, 'outro').
+tem('202400366558', marcador, 'faccao').
+resultado_real('202400366558', perde).
+tem('202400435833', turma, 'SEXTA TURMA'). tem('202400435833', relator, 'OG FERNANDES'). tem('202400435833', classe, 'HC'). tem('202400435833', objeto, 'p4').
+resultado_real('202400435833', perde).
+tem('202400530803', turma, 'SEXTA TURMA'). tem('202400530803', relator, 'OG FERNANDES'). tem('202400530803', classe, 'HC'). tem('202400530803', objeto, 'p4').
+resultado_real('202400530803', vence).
+tem('202400731525', turma, 'SEXTA TURMA'). tem('202400731525', relator, 'OG FERNANDES'). tem('202400731525', classe, 'HC'). tem('202400731525', objeto, 'nulidade_busca').
+tem('202400731525', marcador, 'faccao').
+resultado_real('202400731525', perde).
+tem('202400733998', turma, 'SEXTA TURMA'). tem('202400733998', relator, 'OG FERNANDES'). tem('202400733998', classe, 'HC'). tem('202400733998', objeto, 'dosimetria').
+resultado_real('202400733998', perde).
+tem('202400737751', turma, 'SEXTA TURMA'). tem('202400737751', relator, 'OG FERNANDES'). tem('202400737751', classe, 'HC'). tem('202400737751', objeto, 'autoria').
+resultado_real('202400737751', perde).
+tem('202400759942', turma, 'SEXTA TURMA'). tem('202400759942', relator, 'OG FERNANDES'). tem('202400759942', classe, 'HC'). tem('202400759942', objeto, 'nulidade_busca').
+tem('202400759942', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400759942', perde).
+tem('202400818799', turma, 'SEXTA TURMA'). tem('202400818799', relator, 'OG FERNANDES'). tem('202400818799', classe, 'HC'). tem('202400818799', objeto, 'p4').
+resultado_real('202400818799', perde).
+tem('202400853368', turma, 'SEXTA TURMA'). tem('202400853368', relator, 'OG FERNANDES'). tem('202400853368', classe, 'HC'). tem('202400853368', objeto, 'dosimetria').
+resultado_real('202400853368', perde).
+tem('202400976237', turma, 'SEXTA TURMA'). tem('202400976237', relator, 'OG FERNANDES'). tem('202400976237', classe, 'HC'). tem('202400976237', objeto, 'nulidade_busca').
+tem('202400976237', marcador, 'denuncia_anonima').
+resultado_real('202400976237', perde).
+tem('202401134653', turma, 'SEXTA TURMA'). tem('202401134653', relator, 'OG FERNANDES'). tem('202401134653', classe, 'HC'). tem('202401134653', objeto, 'dosimetria').
+resultado_real('202401134653', perde).
+tem('202401193457', turma, 'SEXTA TURMA'). tem('202401193457', relator, 'OG FERNANDES'). tem('202401193457', classe, 'HC'). tem('202401193457', objeto, 'outro').
+resultado_real('202401193457', perde).
+tem('202401200580', turma, 'SEXTA TURMA'). tem('202401200580', relator, 'OG FERNANDES'). tem('202401200580', classe, 'HC'). tem('202401200580', objeto, 'p4').
+tem('202401200580', marcador, 'faccao').
+resultado_real('202401200580', perde).
+tem('202401299743', turma, 'SEXTA TURMA'). tem('202401299743', relator, 'OG FERNANDES'). tem('202401299743', classe, 'HC'). tem('202401299743', objeto, 'dosimetria').
+resultado_real('202401299743', perde).
+tem('202401405773', turma, 'SEXTA TURMA'). tem('202401405773', relator, 'OG FERNANDES'). tem('202401405773', classe, 'HC'). tem('202401405773', objeto, 'nulidade_busca').
+tem('202401405773', marcador, 'comunidade_bairro').
+tem('202401405773', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401405773', perde).
+tem('202401481201', turma, 'SEXTA TURMA'). tem('202401481201', relator, 'OG FERNANDES'). tem('202401481201', classe, 'HC'). tem('202401481201', objeto, 'nulidade_busca').
+resultado_real('202401481201', perde).
+tem('202401483738', turma, 'SEXTA TURMA'). tem('202401483738', relator, 'OG FERNANDES'). tem('202401483738', classe, 'HC'). tem('202401483738', objeto, 'autoria').
+resultado_real('202401483738', perde).
+tem('202401522012', turma, 'SEXTA TURMA'). tem('202401522012', relator, 'OG FERNANDES'). tem('202401522012', classe, 'HC'). tem('202401522012', objeto, 'p4').
+resultado_real('202401522012', perde).
+tem('202401569157', turma, 'SEXTA TURMA'). tem('202401569157', relator, 'OG FERNANDES'). tem('202401569157', classe, 'HC'). tem('202401569157', objeto, 'p4').
+resultado_real('202401569157', perde).
+tem('202401581018', turma, 'SEXTA TURMA'). tem('202401581018', relator, 'OG FERNANDES'). tem('202401581018', classe, 'HC'). tem('202401581018', objeto, 'p4').
+resultado_real('202401581018', perde).
+tem('202401593893', turma, 'SEXTA TURMA'). tem('202401593893', relator, 'OG FERNANDES'). tem('202401593893', classe, 'HC'). tem('202401593893', objeto, 'autoria').
+tem('202401593893', marcador, 'faccao').
+resultado_real('202401593893', perde).
+tem('202401596053', turma, 'SEXTA TURMA'). tem('202401596053', relator, 'OG FERNANDES'). tem('202401596053', classe, 'HC'). tem('202401596053', objeto, 'desclassificacao').
+resultado_real('202401596053', perde).
+tem('202401625478', turma, 'SEXTA TURMA'). tem('202401625478', relator, 'OG FERNANDES'). tem('202401625478', classe, 'HC'). tem('202401625478', objeto, 'outro').
+resultado_real('202401625478', perde).
+tem('202401670651', turma, 'SEXTA TURMA'). tem('202401670651', relator, 'OG FERNANDES'). tem('202401670651', classe, 'HC'). tem('202401670651', objeto, 'p4').
+resultado_real('202401670651', perde).
+tem('202401761030', turma, 'SEXTA TURMA'). tem('202401761030', relator, 'OG FERNANDES'). tem('202401761030', classe, 'HC'). tem('202401761030', objeto, 'p4').
+tem('202401761030', marcador, 'atos_infracionais').
+tem('202401761030', marcador, 'denuncia_anonima').
+resultado_real('202401761030', perde).
+tem('202401889909', turma, 'SEXTA TURMA'). tem('202401889909', relator, 'OG FERNANDES'). tem('202401889909', classe, 'HC'). tem('202401889909', objeto, 'nulidade_busca').
+resultado_real('202401889909', perde).
+tem('202401926944', turma, 'SEXTA TURMA'). tem('202401926944', relator, 'OG FERNANDES'). tem('202401926944', classe, 'HC'). tem('202401926944', objeto, 'p4').
+resultado_real('202401926944', perde).
+tem('202401942186', turma, 'SEXTA TURMA'). tem('202401942186', relator, 'OG FERNANDES'). tem('202401942186', classe, 'HC'). tem('202401942186', objeto, 'p4').
+resultado_real('202401942186', perde).
+tem('202401955087', turma, 'SEXTA TURMA'). tem('202401955087', relator, 'OG FERNANDES'). tem('202401955087', classe, 'HC'). tem('202401955087', objeto, 'dosimetria').
+resultado_real('202401955087', perde).
+tem('202401976814', turma, 'SEXTA TURMA'). tem('202401976814', relator, 'OG FERNANDES'). tem('202401976814', classe, 'HC'). tem('202401976814', objeto, 'nulidade_busca').
+tem('202401976814', marcador, 'atos_infracionais').
+resultado_real('202401976814', perde).
+tem('202402003057', turma, 'SEXTA TURMA'). tem('202402003057', relator, 'OG FERNANDES'). tem('202402003057', classe, 'HC'). tem('202402003057', objeto, 'nulidade_busca').
+resultado_real('202402003057', perde).
+tem('202402029480', turma, 'SEXTA TURMA'). tem('202402029480', relator, 'OG FERNANDES'). tem('202402029480', classe, 'HC'). tem('202402029480', objeto, 'autoria').
+resultado_real('202402029480', perde).
 tem('202402020336', turma, 'SEXTA TURMA'). tem('202402020336', relator, 'OG FERNANDES'). tem('202402020336', classe, 'HC'). tem('202402020336', objeto, 'nulidade_busca').
 tem('202402020336', marcador, 'denuncia_anonima').
 resultado_real('202402020336', perde).
+tem('202402130365', turma, 'SEXTA TURMA'). tem('202402130365', relator, 'OG FERNANDES'). tem('202402130365', classe, 'HC'). tem('202402130365', objeto, 'outro').
+resultado_real('202402130365', perde).
+tem('202402136631', turma, 'SEXTA TURMA'). tem('202402136631', relator, 'OG FERNANDES'). tem('202402136631', classe, 'HC'). tem('202402136631', objeto, 'nulidade_busca').
+tem('202402136631', marcador, 'denuncia_anonima').
+resultado_real('202402136631', perde).
+tem('202402192809', turma, 'SEXTA TURMA'). tem('202402192809', relator, 'OG FERNANDES'). tem('202402192809', classe, 'HC'). tem('202402192809', objeto, 'p4').
+resultado_real('202402192809', perde).
+tem('202402191379', turma, 'SEXTA TURMA'). tem('202402191379', relator, 'OG FERNANDES'). tem('202402191379', classe, 'HC'). tem('202402191379', objeto, 'p4').
+resultado_real('202402191379', perde).
+tem('202402239240', turma, 'SEXTA TURMA'). tem('202402239240', relator, 'OG FERNANDES'). tem('202402239240', classe, 'HC'). tem('202402239240', objeto, 'p4').
+resultado_real('202402239240', perde).
+tem('202402358292', turma, 'SEXTA TURMA'). tem('202402358292', relator, 'OG FERNANDES'). tem('202402358292', classe, 'HC'). tem('202402358292', objeto, 'desclassificacao').
+resultado_real('202402358292', perde).
+tem('202402457520', turma, 'SEXTA TURMA'). tem('202402457520', relator, 'OG FERNANDES'). tem('202402457520', classe, 'HC'). tem('202402457520', objeto, 'p4').
+resultado_real('202402457520', perde).
+tem('202402468082', turma, 'SEXTA TURMA'). tem('202402468082', relator, 'OG FERNANDES'). tem('202402468082', classe, 'HC'). tem('202402468082', objeto, 'nulidade_busca').
+tem('202402468082', marcador, 'nervosismo').
+resultado_real('202402468082', vence).
+tem('202402487583', turma, 'SEXTA TURMA'). tem('202402487583', relator, 'OG FERNANDES'). tem('202402487583', classe, 'HC'). tem('202402487583', objeto, 'p4').
+resultado_real('202402487583', perde).
+tem('202402507230', turma, 'SEXTA TURMA'). tem('202402507230', relator, 'OG FERNANDES'). tem('202402507230', classe, 'HC'). tem('202402507230', objeto, 'desclassificacao').
+resultado_real('202402507230', perde).
+tem('202402512539', turma, 'SEXTA TURMA'). tem('202402512539', relator, 'OG FERNANDES'). tem('202402512539', classe, 'HC'). tem('202402512539', objeto, 'nulidade_busca').
+tem('202402512539', marcador, 'denuncia_anonima').
+resultado_real('202402512539', perde).
+tem('202402516543', turma, 'SEXTA TURMA'). tem('202402516543', relator, 'OG FERNANDES'). tem('202402516543', classe, 'HC'). tem('202402516543', objeto, 'nulidade_busca').
+tem('202402516543', marcador, 'denuncia_anonima').
+resultado_real('202402516543', perde).
+tem('202402594379', turma, 'SEXTA TURMA'). tem('202402594379', relator, 'OG FERNANDES'). tem('202402594379', classe, 'HC'). tem('202402594379', objeto, 'nulidade_busca').
+resultado_real('202402594379', perde).
+tem('202402683940', turma, 'SEXTA TURMA'). tem('202402683940', relator, 'OG FERNANDES'). tem('202402683940', classe, 'HC'). tem('202402683940', objeto, 'p4').
+resultado_real('202402683940', perde).
+tem('202402723513', turma, 'SEXTA TURMA'). tem('202402723513', relator, 'OG FERNANDES'). tem('202402723513', classe, 'HC'). tem('202402723513', objeto, 'dosimetria').
+tem('202402723513', marcador, 'faccao').
+resultado_real('202402723513', perde).
+tem('202402829847', turma, 'SEXTA TURMA'). tem('202402829847', relator, 'OG FERNANDES'). tem('202402829847', classe, 'HC'). tem('202402829847', objeto, 'p4').
+resultado_real('202402829847', perde).
+tem('202402839706', turma, 'SEXTA TURMA'). tem('202402839706', relator, 'OG FERNANDES'). tem('202402839706', classe, 'HC'). tem('202402839706', objeto, 'p4').
+resultado_real('202402839706', perde).
+tem('202402925613', turma, 'SEXTA TURMA'). tem('202402925613', relator, 'OG FERNANDES'). tem('202402925613', classe, 'HC'). tem('202402925613', objeto, 'nulidade_busca').
+tem('202402925613', marcador, 'denuncia_anonima').
+resultado_real('202402925613', perde).
+tem('202402950372', turma, 'SEXTA TURMA'). tem('202402950372', relator, 'OG FERNANDES'). tem('202402950372', classe, 'HC'). tem('202402950372', objeto, 'nulidade_busca').
+tem('202402950372', marcador, 'denuncia_anonima').
+resultado_real('202402950372', perde).
+tem('202402982500', turma, 'SEXTA TURMA'). tem('202402982500', relator, 'OG FERNANDES'). tem('202402982500', classe, 'HC'). tem('202402982500', objeto, 'dosimetria').
+resultado_real('202402982500', perde).
 tem('202403017419', turma, 'SEXTA TURMA'). tem('202403017419', relator, 'OG FERNANDES'). tem('202403017419', classe, 'HC'). tem('202403017419', objeto, 'nulidade_busca').
 tem('202403017419', marcador, 'atos_infracionais').
 tem('202403017419', marcador, 'fuga_mudanca_direcao').
 resultado_real('202403017419', perde).
+tem('202403040790', turma, 'SEXTA TURMA'). tem('202403040790', relator, 'OG FERNANDES'). tem('202403040790', classe, 'HC'). tem('202403040790', objeto, 'desclassificacao').
+tem('202403040790', marcador, 'atos_infracionais').
+resultado_real('202403040790', perde).
+tem('202403071272', turma, 'SEXTA TURMA'). tem('202403071272', relator, 'OG FERNANDES'). tem('202403071272', classe, 'HC'). tem('202403071272', objeto, 'desclassificacao').
+resultado_real('202403071272', perde).
+tem('202403094626', turma, 'SEXTA TURMA'). tem('202403094626', relator, 'OG FERNANDES'). tem('202403094626', classe, 'HC'). tem('202403094626', objeto, 'dosimetria').
+resultado_real('202403094626', perde).
+tem('202403159964', turma, 'SEXTA TURMA'). tem('202403159964', relator, 'OG FERNANDES'). tem('202403159964', classe, 'HC'). tem('202403159964', objeto, 'p4').
+tem('202403159964', marcador, 'atos_infracionais').
+resultado_real('202403159964', perde).
+tem('202403179047', turma, 'SEXTA TURMA'). tem('202403179047', relator, 'OG FERNANDES'). tem('202403179047', classe, 'HC'). tem('202403179047', objeto, 'desclassificacao').
+resultado_real('202403179047', perde).
+tem('202403222139', turma, 'SEXTA TURMA'). tem('202403222139', relator, 'OG FERNANDES'). tem('202403222139', classe, 'HC'). tem('202403222139', objeto, 'p4').
+resultado_real('202403222139', perde).
+tem('202403283849', turma, 'SEXTA TURMA'). tem('202403283849', relator, 'OG FERNANDES'). tem('202403283849', classe, 'HC'). tem('202403283849', objeto, 'nulidade_busca').
+tem('202403283849', marcador, 'denuncia_anonima').
+resultado_real('202403283849', perde).
+tem('202403316534', turma, 'SEXTA TURMA'). tem('202403316534', relator, 'OG FERNANDES'). tem('202403316534', classe, 'HC'). tem('202403316534', objeto, 'nulidade_busca').
+resultado_real('202403316534', perde).
+tem('202403406545', turma, 'SEXTA TURMA'). tem('202403406545', relator, 'OG FERNANDES'). tem('202403406545', classe, 'HC'). tem('202403406545', objeto, 'nulidade_busca').
+resultado_real('202403406545', perde).
+tem('202403439059', turma, 'SEXTA TURMA'). tem('202403439059', relator, 'OG FERNANDES'). tem('202403439059', classe, 'HC'). tem('202403439059', objeto, 'p4').
+resultado_real('202403439059', perde).
+tem('202403553580', turma, 'SEXTA TURMA'). tem('202403553580', relator, 'OG FERNANDES'). tem('202403553580', classe, 'HC'). tem('202403553580', objeto, 'nulidade_busca').
+tem('202403553580', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403553580', perde).
+tem('202403623597', turma, 'SEXTA TURMA'). tem('202403623597', relator, 'OG FERNANDES'). tem('202403623597', classe, 'HC'). tem('202403623597', objeto, 'p4').
+resultado_real('202403623597', perde).
+tem('202403633266', turma, 'SEXTA TURMA'). tem('202403633266', relator, 'OG FERNANDES'). tem('202403633266', classe, 'HC'). tem('202403633266', objeto, 'p4').
+resultado_real('202403633266', perde).
+tem('202403645448', turma, 'SEXTA TURMA'). tem('202403645448', relator, 'OG FERNANDES'). tem('202403645448', classe, 'HC'). tem('202403645448', objeto, 'p4').
+tem('202403645448', marcador, 'faccao').
+resultado_real('202403645448', perde).
+tem('202403648288', turma, 'SEXTA TURMA'). tem('202403648288', relator, 'OG FERNANDES'). tem('202403648288', classe, 'HC'). tem('202403648288', objeto, 'outro').
+tem('202403648288', marcador, 'faccao').
+resultado_real('202403648288', perde).
+tem('202403659170', turma, 'SEXTA TURMA'). tem('202403659170', relator, 'OG FERNANDES'). tem('202403659170', classe, 'HC'). tem('202403659170', objeto, 'nulidade_busca').
+tem('202403659170', marcador, 'local_conhecido').
+tem('202403659170', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403659170', perde).
+tem('202403661438', turma, 'SEXTA TURMA'). tem('202403661438', relator, 'OG FERNANDES'). tem('202403661438', classe, 'HC'). tem('202403661438', objeto, 'nulidade_busca').
+tem('202403661438', marcador, 'denuncia_anonima').
+resultado_real('202403661438', perde).
+tem('202403734486', turma, 'SEXTA TURMA'). tem('202403734486', relator, 'OG FERNANDES'). tem('202403734486', classe, 'HC'). tem('202403734486', objeto, 'desclassificacao').
+resultado_real('202403734486', perde).
+tem('202403738036', turma, 'SEXTA TURMA'). tem('202403738036', relator, 'OG FERNANDES'). tem('202403738036', classe, 'HC'). tem('202403738036', objeto, 'nulidade_busca').
+tem('202403738036', marcador, 'local_conhecido').
+resultado_real('202403738036', perde).
+tem('202403761446', turma, 'SEXTA TURMA'). tem('202403761446', relator, 'OG FERNANDES'). tem('202403761446', classe, 'HC'). tem('202403761446', objeto, 'nulidade_busca').
+tem('202403761446', marcador, 'local_conhecido').
+tem('202403761446', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403761446', perde).
 tem('202403877575', turma, 'SEXTA TURMA'). tem('202403877575', relator, 'OG FERNANDES'). tem('202403877575', classe, 'HC'). tem('202403877575', objeto, 'autoria').
 resultado_real('202403877575', perde).
+tem('202403888885', turma, 'SEXTA TURMA'). tem('202403888885', relator, 'OG FERNANDES'). tem('202403888885', classe, 'HC'). tem('202403888885', objeto, 'p4').
+resultado_real('202403888885', perde).
+tem('202403953485', turma, 'SEXTA TURMA'). tem('202403953485', relator, 'OG FERNANDES'). tem('202403953485', classe, 'HC'). tem('202403953485', objeto, 'outro').
+tem('202403953485', marcador, 'faccao').
+resultado_real('202403953485', perde).
+tem('202403972493', turma, 'SEXTA TURMA'). tem('202403972493', relator, 'OG FERNANDES'). tem('202403972493', classe, 'HC'). tem('202403972493', objeto, 'outro').
+resultado_real('202403972493', perde).
+tem('202404047085', turma, 'SEXTA TURMA'). tem('202404047085', relator, 'OG FERNANDES'). tem('202404047085', classe, 'HC'). tem('202404047085', objeto, 'dosimetria').
+resultado_real('202404047085', perde).
+tem('202404061322', turma, 'SEXTA TURMA'). tem('202404061322', relator, 'OG FERNANDES'). tem('202404061322', classe, 'HC'). tem('202404061322', objeto, 'outro').
+tem('202404061322', marcador, 'faccao').
+resultado_real('202404061322', perde).
+tem('202404074223', turma, 'SEXTA TURMA'). tem('202404074223', relator, 'OG FERNANDES'). tem('202404074223', classe, 'HC'). tem('202404074223', objeto, 'p4').
+tem('202404074223', marcador, 'local_conhecido').
+resultado_real('202404074223', perde).
+tem('202404095214', turma, 'SEXTA TURMA'). tem('202404095214', relator, 'OG FERNANDES'). tem('202404095214', classe, 'HC'). tem('202404095214', objeto, 'p4').
+resultado_real('202404095214', perde).
+tem('202404107401', turma, 'SEXTA TURMA'). tem('202404107401', relator, 'OG FERNANDES'). tem('202404107401', classe, 'HC'). tem('202404107401', objeto, 'p4').
+resultado_real('202404107401', perde).
+tem('202404182180', turma, 'SEXTA TURMA'). tem('202404182180', relator, 'OG FERNANDES'). tem('202404182180', classe, 'HC'). tem('202404182180', objeto, 'outro').
+resultado_real('202404182180', perde).
+tem('202404222575', turma, 'SEXTA TURMA'). tem('202404222575', relator, 'OG FERNANDES'). tem('202404222575', classe, 'HC'). tem('202404222575', objeto, 'p4').
+tem('202404222575', marcador, 'faccao').
+resultado_real('202404222575', perde).
+tem('202404327701', turma, 'SEXTA TURMA'). tem('202404327701', relator, 'OG FERNANDES'). tem('202404327701', classe, 'HC'). tem('202404327701', objeto, 'nulidade_busca').
+tem('202404327701', marcador, 'local_conhecido').
+tem('202404327701', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404327701', perde).
+tem('202404350185', turma, 'SEXTA TURMA'). tem('202404350185', relator, 'OG FERNANDES'). tem('202404350185', classe, 'HC'). tem('202404350185', objeto, 'nulidade_busca').
+resultado_real('202404350185', perde).
+tem('202404391739', turma, 'SEXTA TURMA'). tem('202404391739', relator, 'OG FERNANDES'). tem('202404391739', classe, 'HC'). tem('202404391739', objeto, 'nulidade_busca').
+resultado_real('202404391739', perde).
+tem('202404426609', turma, 'SEXTA TURMA'). tem('202404426609', relator, 'OG FERNANDES'). tem('202404426609', classe, 'HC'). tem('202404426609', objeto, 'p4').
+resultado_real('202404426609', perde).
+tem('202404428286', turma, 'SEXTA TURMA'). tem('202404428286', relator, 'OG FERNANDES'). tem('202404428286', classe, 'HC'). tem('202404428286', objeto, 'p4').
+resultado_real('202404428286', perde).
+tem('202404452204', turma, 'SEXTA TURMA'). tem('202404452204', relator, 'OG FERNANDES'). tem('202404452204', classe, 'HC'). tem('202404452204', objeto, 'p4').
+resultado_real('202404452204', perde).
+tem('202404517810', turma, 'SEXTA TURMA'). tem('202404517810', relator, 'OG FERNANDES'). tem('202404517810', classe, 'HC'). tem('202404517810', objeto, 'p4').
+resultado_real('202404517810', perde).
+tem('202404518200', turma, 'SEXTA TURMA'). tem('202404518200', relator, 'OG FERNANDES'). tem('202404518200', classe, 'HC'). tem('202404518200', objeto, 'outro').
+tem('202404518200', marcador, 'faccao').
+resultado_real('202404518200', perde).
+tem('202404528775', turma, 'SEXTA TURMA'). tem('202404528775', relator, 'OG FERNANDES'). tem('202404528775', classe, 'HC'). tem('202404528775', objeto, 'nulidade_busca').
+resultado_real('202404528775', perde).
+tem('202404529700', turma, 'SEXTA TURMA'). tem('202404529700', relator, 'OG FERNANDES'). tem('202404529700', classe, 'HC'). tem('202404529700', objeto, 'p4').
+resultado_real('202404529700', perde).
+tem('202404566398', turma, 'SEXTA TURMA'). tem('202404566398', relator, 'OG FERNANDES'). tem('202404566398', classe, 'HC'). tem('202404566398', objeto, 'p4').
+resultado_real('202404566398', perde).
+tem('202404568875', turma, 'SEXTA TURMA'). tem('202404568875', relator, 'OG FERNANDES'). tem('202404568875', classe, 'HC'). tem('202404568875', objeto, 'p4').
+resultado_real('202404568875', perde).
+tem('202404645811', turma, 'SEXTA TURMA'). tem('202404645811', relator, 'OG FERNANDES'). tem('202404645811', classe, 'HC'). tem('202404645811', objeto, 'nulidade_busca').
+resultado_real('202404645811', perde).
+tem('202404665424', turma, 'SEXTA TURMA'). tem('202404665424', relator, 'OG FERNANDES'). tem('202404665424', classe, 'HC'). tem('202404665424', objeto, 'p4').
+resultado_real('202404665424', perde).
+tem('202404793503', turma, 'SEXTA TURMA'). tem('202404793503', relator, 'OG FERNANDES'). tem('202404793503', classe, 'HC'). tem('202404793503', objeto, 'nulidade_busca').
+tem('202404793503', marcador, 'local_conhecido').
+resultado_real('202404793503', perde).
+tem('202404803565', turma, 'SEXTA TURMA'). tem('202404803565', relator, 'OG FERNANDES'). tem('202404803565', classe, 'HC'). tem('202404803565', objeto, 'nulidade_busca').
+tem('202404803565', marcador, 'denuncia_anonima').
+resultado_real('202404803565', perde).
+tem('202404817718', turma, 'SEXTA TURMA'). tem('202404817718', relator, 'OG FERNANDES'). tem('202404817718', classe, 'HC'). tem('202404817718', objeto, 'p4').
+tem('202404817718', marcador, 'faccao').
+resultado_real('202404817718', perde).
+tem('202404848856', turma, 'SEXTA TURMA'). tem('202404848856', relator, 'OG FERNANDES'). tem('202404848856', classe, 'HC'). tem('202404848856', objeto, 'p4').
+resultado_real('202404848856', perde).
+tem('202404861007', turma, 'SEXTA TURMA'). tem('202404861007', relator, 'OG FERNANDES'). tem('202404861007', classe, 'HC'). tem('202404861007', objeto, 'nulidade_busca').
+resultado_real('202404861007', perde).
+tem('202404884573', turma, 'SEXTA TURMA'). tem('202404884573', relator, 'OG FERNANDES'). tem('202404884573', classe, 'HC'). tem('202404884573', objeto, 'nulidade_busca').
+tem('202404884573', marcador, 'fuga_mudanca_direcao').
+tem('202404884573', marcador, 'denuncia_anonima').
+resultado_real('202404884573', perde).
+tem('202404895405', turma, 'SEXTA TURMA'). tem('202404895405', relator, 'OG FERNANDES'). tem('202404895405', classe, 'HC'). tem('202404895405', objeto, 'nulidade_busca').
+tem('202404895405', marcador, 'denuncia_anonima').
+resultado_real('202404895405', perde).
+tem('202404896011', turma, 'SEXTA TURMA'). tem('202404896011', relator, 'OG FERNANDES'). tem('202404896011', classe, 'HC'). tem('202404896011', objeto, 'nulidade_busca').
+tem('202404896011', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404896011', perde).
+tem('202500001813', turma, 'SEXTA TURMA'). tem('202500001813', relator, 'OG FERNANDES'). tem('202500001813', classe, 'HC'). tem('202500001813', objeto, 'nulidade_busca').
+tem('202500001813', marcador, 'denuncia_anonima').
+resultado_real('202500001813', perde).
+tem('202500003012', turma, 'SEXTA TURMA'). tem('202500003012', relator, 'OG FERNANDES'). tem('202500003012', classe, 'HC'). tem('202500003012', objeto, 'outro').
+resultado_real('202500003012', perde).
+tem('202500082869', turma, 'SEXTA TURMA'). tem('202500082869', relator, 'OG FERNANDES'). tem('202500082869', classe, 'HC'). tem('202500082869', objeto, 'nulidade_busca').
+resultado_real('202500082869', perde).
+tem('202500106062', turma, 'SEXTA TURMA'). tem('202500106062', relator, 'OG FERNANDES'). tem('202500106062', classe, 'HC'). tem('202500106062', objeto, 'p4').
+resultado_real('202500106062', perde).
+tem('202500126006', turma, 'SEXTA TURMA'). tem('202500126006', relator, 'OG FERNANDES'). tem('202500126006', classe, 'HC'). tem('202500126006', objeto, 'nulidade_busca').
+resultado_real('202500126006', perde).
+tem('202500143132', turma, 'SEXTA TURMA'). tem('202500143132', relator, 'OG FERNANDES'). tem('202500143132', classe, 'HC'). tem('202500143132', objeto, 'nulidade_busca').
+tem('202500143132', marcador, 'fuga_mudanca_direcao').
+tem('202500143132', marcador, 'denuncia_anonima').
+resultado_real('202500143132', vence).
 tem('202500265510', turma, 'SEXTA TURMA'). tem('202500265510', relator, 'OG FERNANDES'). tem('202500265510', classe, 'HC'). tem('202500265510', objeto, 'desclassificacao').
 resultado_real('202500265510', perde).
+tem('202500266454', turma, 'SEXTA TURMA'). tem('202500266454', relator, 'OG FERNANDES'). tem('202500266454', classe, 'HC'). tem('202500266454', objeto, 'p4').
+resultado_real('202500266454', perde).
+tem('202500294311', turma, 'SEXTA TURMA'). tem('202500294311', relator, 'OG FERNANDES'). tem('202500294311', classe, 'HC'). tem('202500294311', objeto, 'nulidade_busca').
+tem('202500294311', marcador, 'denuncia_anonima').
+resultado_real('202500294311', perde).
+tem('202500301974', turma, 'SEXTA TURMA'). tem('202500301974', relator, 'OG FERNANDES'). tem('202500301974', classe, 'HC'). tem('202500301974', objeto, 'p4').
+resultado_real('202500301974', perde).
+tem('202500395520', turma, 'SEXTA TURMA'). tem('202500395520', relator, 'OG FERNANDES'). tem('202500395520', classe, 'HC'). tem('202500395520', objeto, 'p4').
+resultado_real('202500395520', perde).
+tem('202500403674', turma, 'SEXTA TURMA'). tem('202500403674', relator, 'OG FERNANDES'). tem('202500403674', classe, 'HC'). tem('202500403674', objeto, 'desclassificacao').
+tem('202500403674', marcador, 'denuncia_anonima').
+resultado_real('202500403674', perde).
+tem('202500428417', turma, 'SEXTA TURMA'). tem('202500428417', relator, 'OG FERNANDES'). tem('202500428417', classe, 'HC'). tem('202500428417', objeto, 'p4').
+tem('202500428417', marcador, 'atos_infracionais').
+resultado_real('202500428417', perde).
+tem('202500449053', turma, 'SEXTA TURMA'). tem('202500449053', relator, 'OG FERNANDES'). tem('202500449053', classe, 'HC'). tem('202500449053', objeto, 'p4').
+tem('202500449053', marcador, 'conhecido_policia').
+resultado_real('202500449053', perde).
+tem('202500447866', turma, 'SEXTA TURMA'). tem('202500447866', relator, 'OG FERNANDES'). tem('202500447866', classe, 'HC'). tem('202500447866', objeto, 'nulidade_busca').
+tem('202500447866', marcador, 'local_conhecido').
+tem('202500447866', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500447866', perde).
+tem('202500532472', turma, 'SEXTA TURMA'). tem('202500532472', relator, 'OG FERNANDES'). tem('202500532472', classe, 'HC'). tem('202500532472', objeto, 'p4').
+tem('202500532472', marcador, 'faccao').
+resultado_real('202500532472', perde).
+tem('202500584778', turma, 'SEXTA TURMA'). tem('202500584778', relator, 'OG FERNANDES'). tem('202500584778', classe, 'HC'). tem('202500584778', objeto, 'outro').
+resultado_real('202500584778', perde).
+tem('202500627839', turma, 'SEXTA TURMA'). tem('202500627839', relator, 'OG FERNANDES'). tem('202500627839', classe, 'HC'). tem('202500627839', objeto, 'p4').
+resultado_real('202500627839', perde).
+tem('202500645987', turma, 'SEXTA TURMA'). tem('202500645987', relator, 'OG FERNANDES'). tem('202500645987', classe, 'HC'). tem('202500645987', objeto, 'p4').
+resultado_real('202500645987', perde).
+tem('202500681000', turma, 'SEXTA TURMA'). tem('202500681000', relator, 'OG FERNANDES'). tem('202500681000', classe, 'HC'). tem('202500681000', objeto, 'p4').
+resultado_real('202500681000', perde).
+tem('202500797379', turma, 'SEXTA TURMA'). tem('202500797379', relator, 'OG FERNANDES'). tem('202500797379', classe, 'HC'). tem('202500797379', objeto, 'outro').
+resultado_real('202500797379', perde).
+tem('202500803947', turma, 'SEXTA TURMA'). tem('202500803947', relator, 'OG FERNANDES'). tem('202500803947', classe, 'HC'). tem('202500803947', objeto, 'nulidade_busca').
+tem('202500803947', marcador, 'denuncia_anonima').
+resultado_real('202500803947', perde).
+tem('202500831372', turma, 'SEXTA TURMA'). tem('202500831372', relator, 'OG FERNANDES'). tem('202500831372', classe, 'HC'). tem('202500831372', objeto, 'p4').
+resultado_real('202500831372', perde).
+tem('202500835666', turma, 'SEXTA TURMA'). tem('202500835666', relator, 'OG FERNANDES'). tem('202500835666', classe, 'HC'). tem('202500835666', objeto, 'nulidade_busca').
+tem('202500835666', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500835666', perde).
+tem('202500846106', turma, 'SEXTA TURMA'). tem('202500846106', relator, 'OG FERNANDES'). tem('202500846106', classe, 'HC'). tem('202500846106', objeto, 'desclassificacao').
+resultado_real('202500846106', vence).
+tem('202500848619', turma, 'SEXTA TURMA'). tem('202500848619', relator, 'OG FERNANDES'). tem('202500848619', classe, 'HC'). tem('202500848619', objeto, 'p4').
+tem('202500848619', marcador, 'faccao').
+tem('202500848619', marcador, 'ocupacao').
+resultado_real('202500848619', perde).
+tem('202500854864', turma, 'SEXTA TURMA'). tem('202500854864', relator, 'OG FERNANDES'). tem('202500854864', classe, 'HC'). tem('202500854864', objeto, 'p4').
+resultado_real('202500854864', perde).
+tem('202500885400', turma, 'SEXTA TURMA'). tem('202500885400', relator, 'OG FERNANDES'). tem('202500885400', classe, 'HC'). tem('202500885400', objeto, 'desclassificacao').
+resultado_real('202500885400', perde).
+tem('202500912384', turma, 'SEXTA TURMA'). tem('202500912384', relator, 'OG FERNANDES'). tem('202500912384', classe, 'HC'). tem('202500912384', objeto, 'p4').
+resultado_real('202500912384', perde).
+tem('202500919393', turma, 'SEXTA TURMA'). tem('202500919393', relator, 'OG FERNANDES'). tem('202500919393', classe, 'HC'). tem('202500919393', objeto, 'desclassificacao').
+resultado_real('202500919393', perde).
+tem('202501011234', turma, 'SEXTA TURMA'). tem('202501011234', relator, 'OG FERNANDES'). tem('202501011234', classe, 'HC'). tem('202501011234', objeto, 'p4').
+resultado_real('202501011234', perde).
+tem('202501025727', turma, 'SEXTA TURMA'). tem('202501025727', relator, 'OG FERNANDES'). tem('202501025727', classe, 'HC'). tem('202501025727', objeto, 'p4').
+tem('202501025727', marcador, 'faccao').
+resultado_real('202501025727', perde).
+tem('202501033526', turma, 'SEXTA TURMA'). tem('202501033526', relator, 'OG FERNANDES'). tem('202501033526', classe, 'HC'). tem('202501033526', objeto, 'desclassificacao').
+resultado_real('202501033526', perde).
+tem('202501111998', turma, 'SEXTA TURMA'). tem('202501111998', relator, 'OG FERNANDES'). tem('202501111998', classe, 'HC'). tem('202501111998', objeto, 'desclassificacao').
+resultado_real('202501111998', perde).
+tem('202501146536', turma, 'SEXTA TURMA'). tem('202501146536', relator, 'OG FERNANDES'). tem('202501146536', classe, 'HC'). tem('202501146536', objeto, 'desclassificacao').
+resultado_real('202501146536', vence).
+tem('202501162109', turma, 'SEXTA TURMA'). tem('202501162109', relator, 'OG FERNANDES'). tem('202501162109', classe, 'HC'). tem('202501162109', objeto, 'p4').
+resultado_real('202501162109', perde).
+tem('202501186042', turma, 'SEXTA TURMA'). tem('202501186042', relator, 'OG FERNANDES'). tem('202501186042', classe, 'HC'). tem('202501186042', objeto, 'outro').
+resultado_real('202501186042', perde).
 tem('202501239000', turma, 'SEXTA TURMA'). tem('202501239000', relator, 'OG FERNANDES'). tem('202501239000', classe, 'HC'). tem('202501239000', objeto, 'nulidade_busca').
 tem('202501239000', marcador, 'vulgo').
 tem('202501239000', marcador, 'fuga_mudanca_direcao').
 tem('202501239000', marcador, 'denuncia_anonima').
 resultado_real('202501239000', vence).
+tem('202501251135', turma, 'SEXTA TURMA'). tem('202501251135', relator, 'OG FERNANDES'). tem('202501251135', classe, 'HC'). tem('202501251135', objeto, 'p4').
+resultado_real('202501251135', perde).
+tem('202501302311', turma, 'SEXTA TURMA'). tem('202501302311', relator, 'OG FERNANDES'). tem('202501302311', classe, 'HC'). tem('202501302311', objeto, 'nulidade_busca').
+tem('202501302311', marcador, 'denuncia_anonima').
+resultado_real('202501302311', perde).
+tem('202501347816', turma, 'SEXTA TURMA'). tem('202501347816', relator, 'OG FERNANDES'). tem('202501347816', classe, 'HC'). tem('202501347816', objeto, 'outro').
+resultado_real('202501347816', perde).
+tem('202501348952', turma, 'SEXTA TURMA'). tem('202501348952', relator, 'OG FERNANDES'). tem('202501348952', classe, 'HC'). tem('202501348952', objeto, 'outro').
+resultado_real('202501348952', perde).
+tem('202501356270', turma, 'SEXTA TURMA'). tem('202501356270', relator, 'OG FERNANDES'). tem('202501356270', classe, 'HC'). tem('202501356270', objeto, 'p4').
+resultado_real('202501356270', perde).
+tem('202501410231', turma, 'SEXTA TURMA'). tem('202501410231', relator, 'OG FERNANDES'). tem('202501410231', classe, 'HC'). tem('202501410231', objeto, 'nulidade_busca').
+tem('202501410231', marcador, 'fuga_mudanca_direcao').
+tem('202501410231', marcador, 'denuncia_anonima').
+resultado_real('202501410231', perde).
+tem('202300807877', turma, 'SEXTA TURMA'). tem('202300807877', relator, 'OG FERNANDES'). tem('202300807877', classe, 'REsp'). tem('202300807877', objeto, 'nulidade_busca').
+tem('202300807877', marcador, 'denuncia_anonima').
+resultado_real('202300807877', perde).
+tem('202301130329', turma, 'SEXTA TURMA'). tem('202301130329', relator, 'OG FERNANDES'). tem('202301130329', classe, 'REsp'). tem('202301130329', objeto, 'outro').
+resultado_real('202301130329', perde).
+tem('202302997415', turma, 'SEXTA TURMA'). tem('202302997415', relator, 'OG FERNANDES'). tem('202302997415', classe, 'REsp'). tem('202302997415', objeto, 'outro').
+resultado_real('202302997415', perde).
+tem('202303227870', turma, 'SEXTA TURMA'). tem('202303227870', relator, 'OG FERNANDES'). tem('202303227870', classe, 'REsp'). tem('202303227870', objeto, 'p4').
+resultado_real('202303227870', perde).
+tem('202400428599', turma, 'SEXTA TURMA'). tem('202400428599', relator, 'OG FERNANDES'). tem('202400428599', classe, 'REsp'). tem('202400428599', objeto, 'p4').
+tem('202400428599', marcador, 'atos_infracionais').
+resultado_real('202400428599', perde).
+tem('202400439594', turma, 'SEXTA TURMA'). tem('202400439594', relator, 'OG FERNANDES'). tem('202400439594', classe, 'REsp'). tem('202400439594', objeto, 'nulidade_busca').
+tem('202400439594', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400439594', perde).
 tem('202402589954', turma, 'SEXTA TURMA'). tem('202402589954', relator, 'OG FERNANDES'). tem('202402589954', classe, 'REsp'). tem('202402589954', objeto, 'nulidade_busca').
 tem('202402589954', marcador, 'local_conhecido').
 resultado_real('202402589954', vence).
+tem('202402643596', turma, 'SEXTA TURMA'). tem('202402643596', relator, 'OG FERNANDES'). tem('202402643596', classe, 'REsp'). tem('202402643596', objeto, 'autoria').
+resultado_real('202402643596', perde).
 tem('202403989296', turma, 'SEXTA TURMA'). tem('202403989296', relator, 'OG FERNANDES'). tem('202403989296', classe, 'REsp'). tem('202403989296', objeto, 'outro').
 resultado_real('202403989296', perde).
 tem('202404653242', turma, 'SEXTA TURMA'). tem('202404653242', relator, 'OG FERNANDES'). tem('202404653242', classe, 'REsp'). tem('202404653242', objeto, 'desclassificacao').
@@ -2881,6 +9886,8 @@ tem('202501740737', marcador, 'faccao').
 resultado_real('202501740737', perde).
 tem('202501994715', turma, 'SEXTA TURMA'). tem('202501994715', relator, 'OG FERNANDES'). tem('202501994715', classe, 'REsp'). tem('202501994715', objeto, 'desclassificacao').
 resultado_real('202501994715', perde).
+tem('202502533774', turma, 'SEXTA TURMA'). tem('202502533774', relator, 'OG FERNANDES'). tem('202502533774', classe, 'REsp'). tem('202502533774', objeto, 'nulidade_busca').
+resultado_real('202502533774', perde).
 tem('202502778195', turma, 'SEXTA TURMA'). tem('202502778195', relator, 'OG FERNANDES'). tem('202502778195', classe, 'REsp'). tem('202502778195', objeto, 'nulidade_busca').
 tem('202502778195', marcador, 'local_conhecido').
 resultado_real('202502778195', perde).
@@ -2900,21 +9907,948 @@ tem('202505119137', marcador, 'fuga_mudanca_direcao').
 resultado_real('202505119137', perde).
 tem('202600055966', turma, 'SEXTA TURMA'). tem('202600055966', relator, 'OG FERNANDES'). tem('202600055966', classe, 'REsp'). tem('202600055966', objeto, 'nulidade_busca').
 resultado_real('202600055966', perde).
+tem('202202166357', turma, 'SEXTA TURMA'). tem('202202166357', relator, 'OG FERNANDES'). tem('202202166357', classe, 'RHC'). tem('202202166357', objeto, 'nulidade_busca').
+tem('202202166357', marcador, 'faccao').
+resultado_real('202202166357', perde).
+tem('202401687996', turma, 'SEXTA TURMA'). tem('202401687996', relator, 'OG FERNANDES'). tem('202401687996', classe, 'RHC'). tem('202401687996', objeto, 'outro').
+resultado_real('202401687996', perde).
+tem('202402227069', turma, 'SEXTA TURMA'). tem('202402227069', relator, 'OG FERNANDES'). tem('202402227069', classe, 'RHC'). tem('202402227069', objeto, 'nulidade_busca').
+resultado_real('202402227069', perde).
+tem('202403438353', turma, 'SEXTA TURMA'). tem('202403438353', relator, 'OG FERNANDES'). tem('202403438353', classe, 'RHC'). tem('202403438353', objeto, 'nulidade_busca').
+resultado_real('202403438353', perde).
 tem('202403513519', turma, 'SEXTA TURMA'). tem('202403513519', relator, 'OG FERNANDES'). tem('202403513519', classe, 'RHC'). tem('202403513519', objeto, 'nulidade_busca').
 tem('202403513519', marcador, 'denuncia_anonima').
 resultado_real('202403513519', vence).
 tem('202403772732', turma, 'SEXTA TURMA'). tem('202403772732', relator, 'OG FERNANDES'). tem('202403772732', classe, 'RHC'). tem('202403772732', objeto, 'outro').
 resultado_real('202403772732', perde).
+tem('202404884686', turma, 'SEXTA TURMA'). tem('202404884686', relator, 'OG FERNANDES'). tem('202404884686', classe, 'RHC'). tem('202404884686', objeto, 'outro').
+tem('202404884686', marcador, 'faccao').
+resultado_real('202404884686', perde).
+tem('202500737605', turma, 'SEXTA TURMA'). tem('202500737605', relator, 'OG FERNANDES'). tem('202500737605', classe, 'RHC'). tem('202500737605', objeto, 'nulidade_busca').
+resultado_real('202500737605', perde).
 tem('202601194933', turma, 'SEXTA TURMA'). tem('202601194933', relator, 'OG FERNANDES'). tem('202601194933', classe, 'RHC'). tem('202601194933', objeto, 'autoria').
 resultado_real('202601194933', perde).
 tem('202401724870', turma, 'SEXTA TURMA'). tem('202401724870', relator, 'OG FERNANDES'). tem('202401724870', classe, 'RMS'). tem('202401724870', objeto, 'outro').
 resultado_real('202401724870', perde).
+tem('202202435243', turma, 'SEXTA TURMA'). tem('202202435243', relator, 'OTAVIO DE'). tem('202202435243', classe, 'AREsp'). tem('202202435243', objeto, 'nulidade_busca').
+tem('202202435243', marcador, 'denuncia_anonima').
+resultado_real('202202435243', perde).
+tem('202203456253', turma, 'SEXTA TURMA'). tem('202203456253', relator, 'OTAVIO DE'). tem('202203456253', classe, 'AREsp'). tem('202203456253', objeto, 'p4').
+resultado_real('202203456253', vence).
+tem('202300021619', turma, 'SEXTA TURMA'). tem('202300021619', relator, 'OTAVIO DE'). tem('202300021619', classe, 'AREsp'). tem('202300021619', objeto, 'dosimetria').
+resultado_real('202300021619', perde).
+tem('202300830693', turma, 'SEXTA TURMA'). tem('202300830693', relator, 'OTAVIO DE'). tem('202300830693', classe, 'AREsp'). tem('202300830693', objeto, 'p4').
+resultado_real('202300830693', perde).
+tem('202301645290', turma, 'SEXTA TURMA'). tem('202301645290', relator, 'OTAVIO DE'). tem('202301645290', classe, 'AREsp'). tem('202301645290', objeto, 'desclassificacao').
+resultado_real('202301645290', perde).
+tem('202300192853', turma, 'SEXTA TURMA'). tem('202300192853', relator, 'OTAVIO DE'). tem('202300192853', classe, 'AREsp'). tem('202300192853', objeto, 'dosimetria').
+resultado_real('202300192853', perde).
+tem('202302935488', turma, 'SEXTA TURMA'). tem('202302935488', relator, 'OTAVIO DE'). tem('202302935488', classe, 'AREsp'). tem('202302935488', objeto, 'outro').
+resultado_real('202302935488', perde).
+tem('202303129399', turma, 'SEXTA TURMA'). tem('202303129399', relator, 'OTAVIO DE'). tem('202303129399', classe, 'AREsp'). tem('202303129399', objeto, 'nulidade_busca').
+tem('202303129399', marcador, 'faccao').
+tem('202303129399', marcador, 'nervosismo').
+resultado_real('202303129399', perde).
+tem('202303131693', turma, 'SEXTA TURMA'). tem('202303131693', relator, 'OTAVIO DE'). tem('202303131693', classe, 'AREsp'). tem('202303131693', objeto, 'autoria').
+tem('202303131693', marcador, 'conhecido_policia').
+resultado_real('202303131693', perde).
+tem('202303288895', turma, 'SEXTA TURMA'). tem('202303288895', relator, 'OTAVIO DE'). tem('202303288895', classe, 'AREsp'). tem('202303288895', objeto, 'desclassificacao').
+resultado_real('202303288895', vence).
+tem('202304264185', turma, 'SEXTA TURMA'). tem('202304264185', relator, 'OTAVIO DE'). tem('202304264185', classe, 'AREsp'). tem('202304264185', objeto, 'desclassificacao').
+resultado_real('202304264185', vence).
+tem('202400109492', turma, 'SEXTA TURMA'). tem('202400109492', relator, 'OTAVIO DE'). tem('202400109492', classe, 'AREsp'). tem('202400109492', objeto, 'dosimetria').
+resultado_real('202400109492', perde).
+tem('202400421655', turma, 'SEXTA TURMA'). tem('202400421655', relator, 'OTAVIO DE'). tem('202400421655', classe, 'AREsp'). tem('202400421655', objeto, 'p4').
+resultado_real('202400421655', perde).
+tem('202400718530', turma, 'SEXTA TURMA'). tem('202400718530', relator, 'OTAVIO DE'). tem('202400718530', classe, 'AREsp'). tem('202400718530', objeto, 'p4').
+tem('202400718530', marcador, 'atos_infracionais').
+resultado_real('202400718530', perde).
+tem('202400974355', turma, 'SEXTA TURMA'). tem('202400974355', relator, 'OTAVIO DE'). tem('202400974355', classe, 'AREsp'). tem('202400974355', objeto, 'outro').
+resultado_real('202400974355', perde).
+tem('202401060276', turma, 'SEXTA TURMA'). tem('202401060276', relator, 'OTAVIO DE'). tem('202401060276', classe, 'AREsp'). tem('202401060276', objeto, 'p4').
+resultado_real('202401060276', perde).
+tem('202401108399', turma, 'SEXTA TURMA'). tem('202401108399', relator, 'OTAVIO DE'). tem('202401108399', classe, 'AREsp'). tem('202401108399', objeto, 'nulidade_busca').
+tem('202401108399', marcador, 'atos_infracionais').
+resultado_real('202401108399', vence).
+tem('202401281360', turma, 'SEXTA TURMA'). tem('202401281360', relator, 'OTAVIO DE'). tem('202401281360', classe, 'AREsp'). tem('202401281360', objeto, 'p4').
+tem('202401281360', marcador, 'faccao').
+resultado_real('202401281360', vence).
+tem('202402219260', turma, 'SEXTA TURMA'). tem('202402219260', relator, 'OTAVIO DE'). tem('202402219260', classe, 'AREsp'). tem('202402219260', objeto, 'p4').
+resultado_real('202402219260', perde).
+tem('202402255901', turma, 'SEXTA TURMA'). tem('202402255901', relator, 'OTAVIO DE'). tem('202402255901', classe, 'AREsp'). tem('202402255901', objeto, 'p4').
+resultado_real('202402255901', perde).
+tem('202402305242', turma, 'SEXTA TURMA'). tem('202402305242', relator, 'OTAVIO DE'). tem('202402305242', classe, 'AREsp'). tem('202402305242', objeto, 'p4').
+tem('202402305242', marcador, 'faccao').
+resultado_real('202402305242', perde).
+tem('202402347301', turma, 'SEXTA TURMA'). tem('202402347301', relator, 'OTAVIO DE'). tem('202402347301', classe, 'AREsp'). tem('202402347301', objeto, 'desclassificacao').
+resultado_real('202402347301', perde).
+tem('202402632881', turma, 'SEXTA TURMA'). tem('202402632881', relator, 'OTAVIO DE'). tem('202402632881', classe, 'AREsp'). tem('202402632881', objeto, 'nulidade_busca').
+resultado_real('202402632881', perde).
+tem('202402928910', turma, 'SEXTA TURMA'). tem('202402928910', relator, 'OTAVIO DE'). tem('202402928910', classe, 'AREsp'). tem('202402928910', objeto, 'dosimetria').
+resultado_real('202402928910', perde).
+tem('202403097883', turma, 'SEXTA TURMA'). tem('202403097883', relator, 'OTAVIO DE'). tem('202403097883', classe, 'AREsp'). tem('202403097883', objeto, 'dosimetria').
+resultado_real('202403097883', perde).
+tem('202403381510', turma, 'SEXTA TURMA'). tem('202403381510', relator, 'OTAVIO DE'). tem('202403381510', classe, 'AREsp'). tem('202403381510', objeto, 'desclassificacao').
+tem('202403381510', marcador, 'conhecido_policia').
+resultado_real('202403381510', perde).
+tem('202403461210', turma, 'SEXTA TURMA'). tem('202403461210', relator, 'OTAVIO DE'). tem('202403461210', classe, 'AREsp'). tem('202403461210', objeto, 'p4').
+tem('202403461210', marcador, 'faccao').
+resultado_real('202403461210', perde).
+tem('202403468420', turma, 'SEXTA TURMA'). tem('202403468420', relator, 'OTAVIO DE'). tem('202403468420', classe, 'AREsp'). tem('202403468420', objeto, 'dosimetria').
+resultado_real('202403468420', perde).
+tem('202403474842', turma, 'SEXTA TURMA'). tem('202403474842', relator, 'OTAVIO DE'). tem('202403474842', classe, 'AREsp'). tem('202403474842', objeto, 'nulidade_busca').
+resultado_real('202403474842', vence).
+tem('202403576781', turma, 'SEXTA TURMA'). tem('202403576781', relator, 'OTAVIO DE'). tem('202403576781', classe, 'AREsp'). tem('202403576781', objeto, 'nulidade_busca').
+tem('202403576781', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403576781', perde).
+tem('202403647508', turma, 'SEXTA TURMA'). tem('202403647508', relator, 'OTAVIO DE'). tem('202403647508', classe, 'AREsp'). tem('202403647508', objeto, 'p4').
+tem('202403647508', marcador, 'conhecido_policia').
+resultado_real('202403647508', perde).
+tem('202403655090', turma, 'SEXTA TURMA'). tem('202403655090', relator, 'OTAVIO DE'). tem('202403655090', classe, 'AREsp'). tem('202403655090', objeto, 'desclassificacao').
+resultado_real('202403655090', perde).
+tem('202403941695', turma, 'SEXTA TURMA'). tem('202403941695', relator, 'OTAVIO DE'). tem('202403941695', classe, 'AREsp'). tem('202403941695', objeto, 'p4').
+resultado_real('202403941695', perde).
+tem('202404009765', turma, 'SEXTA TURMA'). tem('202404009765', relator, 'OTAVIO DE'). tem('202404009765', classe, 'AREsp'). tem('202404009765', objeto, 'p4').
+resultado_real('202404009765', perde).
+tem('202404079071', turma, 'SEXTA TURMA'). tem('202404079071', relator, 'OTAVIO DE'). tem('202404079071', classe, 'AREsp'). tem('202404079071', objeto, 'p4').
+tem('202404079071', marcador, 'faccao').
+tem('202404079071', marcador, 'conhecido_policia').
+resultado_real('202404079071', vence).
+tem('202404056921', turma, 'SEXTA TURMA'). tem('202404056921', relator, 'OTAVIO DE'). tem('202404056921', classe, 'AREsp'). tem('202404056921', objeto, 'nulidade_busca').
+tem('202404056921', marcador, 'nervosismo').
+tem('202404056921', marcador, 'denuncia_anonima').
+resultado_real('202404056921', vence).
+tem('202404218589', turma, 'SEXTA TURMA'). tem('202404218589', relator, 'OTAVIO DE'). tem('202404218589', classe, 'AREsp'). tem('202404218589', objeto, 'desclassificacao').
+resultado_real('202404218589', perde).
+tem('202404338781', turma, 'SEXTA TURMA'). tem('202404338781', relator, 'OTAVIO DE'). tem('202404338781', classe, 'AREsp'). tem('202404338781', objeto, 'p4').
+resultado_real('202404338781', perde).
+tem('202404447916', turma, 'SEXTA TURMA'). tem('202404447916', relator, 'OTAVIO DE'). tem('202404447916', classe, 'AREsp'). tem('202404447916', objeto, 'p4').
+resultado_real('202404447916', perde).
+tem('202404639260', turma, 'SEXTA TURMA'). tem('202404639260', relator, 'OTAVIO DE'). tem('202404639260', classe, 'AREsp'). tem('202404639260', objeto, 'p4').
+tem('202404639260', marcador, 'faccao').
+resultado_real('202404639260', perde).
+tem('202404873732', turma, 'SEXTA TURMA'). tem('202404873732', relator, 'OTAVIO DE'). tem('202404873732', classe, 'AREsp'). tem('202404873732', objeto, 'desclassificacao').
+resultado_real('202404873732', perde).
+tem('202500051240', turma, 'SEXTA TURMA'). tem('202500051240', relator, 'OTAVIO DE'). tem('202500051240', classe, 'AREsp'). tem('202500051240', objeto, 'nulidade_busca').
+resultado_real('202500051240', perde).
+tem('202500085310', turma, 'SEXTA TURMA'). tem('202500085310', relator, 'OTAVIO DE'). tem('202500085310', classe, 'AREsp'). tem('202500085310', objeto, 'autoria').
+resultado_real('202500085310', perde).
+tem('202500134830', turma, 'SEXTA TURMA'). tem('202500134830', relator, 'OTAVIO DE'). tem('202500134830', classe, 'AREsp'). tem('202500134830', objeto, 'p4').
+tem('202500134830', marcador, 'faccao').
+resultado_real('202500134830', perde).
+tem('202500168895', turma, 'SEXTA TURMA'). tem('202500168895', relator, 'OTAVIO DE'). tem('202500168895', classe, 'AREsp'). tem('202500168895', objeto, 'p4').
+resultado_real('202500168895', perde).
+tem('202500197078', turma, 'SEXTA TURMA'). tem('202500197078', relator, 'OTAVIO DE'). tem('202500197078', classe, 'AREsp'). tem('202500197078', objeto, 'p4').
+resultado_real('202500197078', perde).
+tem('202500185062', turma, 'SEXTA TURMA'). tem('202500185062', relator, 'OTAVIO DE'). tem('202500185062', classe, 'AREsp'). tem('202500185062', objeto, 'nulidade_busca').
+tem('202500185062', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500185062', perde).
+tem('202500294323', turma, 'SEXTA TURMA'). tem('202500294323', relator, 'OTAVIO DE'). tem('202500294323', classe, 'AREsp'). tem('202500294323', objeto, 'nulidade_busca').
+resultado_real('202500294323', perde).
+tem('202500269383', turma, 'SEXTA TURMA'). tem('202500269383', relator, 'OTAVIO DE'). tem('202500269383', classe, 'AREsp'). tem('202500269383', objeto, 'p4').
+resultado_real('202500269383', perde).
+tem('202500326944', turma, 'SEXTA TURMA'). tem('202500326944', relator, 'OTAVIO DE'). tem('202500326944', classe, 'AREsp'). tem('202500326944', objeto, 'outro').
+tem('202500326944', marcador, 'faccao').
+resultado_real('202500326944', perde).
+tem('202500479020', turma, 'SEXTA TURMA'). tem('202500479020', relator, 'OTAVIO DE'). tem('202500479020', classe, 'AREsp'). tem('202500479020', objeto, 'desclassificacao').
+resultado_real('202500479020', perde).
+tem('202500742294', turma, 'SEXTA TURMA'). tem('202500742294', relator, 'OTAVIO DE'). tem('202500742294', classe, 'AREsp'). tem('202500742294', objeto, 'p4').
+tem('202500742294', marcador, 'faccao').
+resultado_real('202500742294', vence).
+tem('202500729932', turma, 'SEXTA TURMA'). tem('202500729932', relator, 'OTAVIO DE'). tem('202500729932', classe, 'AREsp'). tem('202500729932', objeto, 'p4').
+resultado_real('202500729932', perde).
+tem('202500823269', turma, 'SEXTA TURMA'). tem('202500823269', relator, 'OTAVIO DE'). tem('202500823269', classe, 'AREsp'). tem('202500823269', objeto, 'desclassificacao').
+tem('202500823269', marcador, 'local_conhecido').
+resultado_real('202500823269', perde).
+tem('202500917259', turma, 'SEXTA TURMA'). tem('202500917259', relator, 'OTAVIO DE'). tem('202500917259', classe, 'AREsp'). tem('202500917259', objeto, 'desclassificacao').
+resultado_real('202500917259', perde).
+tem('202500962800', turma, 'SEXTA TURMA'). tem('202500962800', relator, 'OTAVIO DE'). tem('202500962800', classe, 'AREsp'). tem('202500962800', objeto, 'p4').
+resultado_real('202500962800', perde).
+tem('202500966181', turma, 'SEXTA TURMA'). tem('202500966181', relator, 'OTAVIO DE'). tem('202500966181', classe, 'AREsp'). tem('202500966181', objeto, 'desclassificacao').
+resultado_real('202500966181', perde).
+tem('202501019520', turma, 'SEXTA TURMA'). tem('202501019520', relator, 'OTAVIO DE'). tem('202501019520', classe, 'AREsp'). tem('202501019520', objeto, 'desclassificacao').
+tem('202501019520', marcador, 'local_conhecido').
+resultado_real('202501019520', perde).
+tem('202501199877', turma, 'SEXTA TURMA'). tem('202501199877', relator, 'OTAVIO DE'). tem('202501199877', classe, 'AREsp'). tem('202501199877', objeto, 'desclassificacao').
+tem('202501199877', marcador, 'conhecido_policia').
+resultado_real('202501199877', perde).
+tem('202501433700', turma, 'SEXTA TURMA'). tem('202501433700', relator, 'OTAVIO DE'). tem('202501433700', classe, 'AREsp'). tem('202501433700', objeto, 'p4').
+resultado_real('202501433700', perde).
+tem('202501405486', turma, 'SEXTA TURMA'). tem('202501405486', relator, 'OTAVIO DE'). tem('202501405486', classe, 'AREsp'). tem('202501405486', objeto, 'p4').
+tem('202501405486', marcador, 'faccao').
+resultado_real('202501405486', perde).
+tem('202501651963', turma, 'SEXTA TURMA'). tem('202501651963', relator, 'OTAVIO DE'). tem('202501651963', classe, 'AREsp'). tem('202501651963', objeto, 'p4').
+resultado_real('202501651963', perde).
+tem('202501596829', turma, 'SEXTA TURMA'). tem('202501596829', relator, 'OTAVIO DE'). tem('202501596829', classe, 'AREsp'). tem('202501596829', objeto, 'desclassificacao').
+resultado_real('202501596829', perde).
+tem('202501541870', turma, 'SEXTA TURMA'). tem('202501541870', relator, 'OTAVIO DE'). tem('202501541870', classe, 'HC'). tem('202501541870', objeto, 'outro').
+resultado_real('202501541870', perde).
+tem('202501540860', turma, 'SEXTA TURMA'). tem('202501540860', relator, 'OTAVIO DE'). tem('202501540860', classe, 'HC'). tem('202501540860', objeto, 'outro').
+resultado_real('202501540860', perde).
+tem('202501604455', turma, 'SEXTA TURMA'). tem('202501604455', relator, 'OTAVIO DE'). tem('202501604455', classe, 'HC'). tem('202501604455', objeto, 'p4').
+resultado_real('202501604455', perde).
+tem('202501612090', turma, 'SEXTA TURMA'). tem('202501612090', relator, 'OTAVIO DE'). tem('202501612090', classe, 'HC'). tem('202501612090', objeto, 'dosimetria').
+resultado_real('202501612090', perde).
+tem('202501628250', turma, 'SEXTA TURMA'). tem('202501628250', relator, 'OTAVIO DE'). tem('202501628250', classe, 'HC'). tem('202501628250', objeto, 'desclassificacao').
+resultado_real('202501628250', perde).
+tem('202501640337', turma, 'SEXTA TURMA'). tem('202501640337', relator, 'OTAVIO DE'). tem('202501640337', classe, 'HC'). tem('202501640337', objeto, 'p4').
+resultado_real('202501640337', perde).
+tem('202501639270', turma, 'SEXTA TURMA'). tem('202501639270', relator, 'OTAVIO DE'). tem('202501639270', classe, 'HC'). tem('202501639270', objeto, 'p4').
+resultado_real('202501639270', perde).
+tem('202501700839', turma, 'SEXTA TURMA'). tem('202501700839', relator, 'OTAVIO DE'). tem('202501700839', classe, 'HC'). tem('202501700839', objeto, 'dosimetria').
+resultado_real('202501700839', perde).
+tem('202501727272', turma, 'SEXTA TURMA'). tem('202501727272', relator, 'OTAVIO DE'). tem('202501727272', classe, 'HC'). tem('202501727272', objeto, 'p4').
+tem('202501727272', marcador, 'faccao').
+resultado_real('202501727272', perde).
+tem('202501762119', turma, 'SEXTA TURMA'). tem('202501762119', relator, 'OTAVIO DE'). tem('202501762119', classe, 'HC'). tem('202501762119', objeto, 'outro').
+resultado_real('202501762119', perde).
+tem('202501793020', turma, 'SEXTA TURMA'). tem('202501793020', relator, 'OTAVIO DE'). tem('202501793020', classe, 'HC'). tem('202501793020', objeto, 'p4').
+resultado_real('202501793020', perde).
+tem('202501864993', turma, 'SEXTA TURMA'). tem('202501864993', relator, 'OTAVIO DE'). tem('202501864993', classe, 'HC'). tem('202501864993', objeto, 'dosimetria').
+resultado_real('202501864993', perde).
+tem('202502009430', turma, 'SEXTA TURMA'). tem('202502009430', relator, 'OTAVIO DE'). tem('202502009430', classe, 'HC'). tem('202502009430', objeto, 'p4').
+tem('202502009430', marcador, 'atos_infracionais').
+resultado_real('202502009430', perde).
+tem('202502087556', turma, 'SEXTA TURMA'). tem('202502087556', relator, 'OTAVIO DE'). tem('202502087556', classe, 'HC'). tem('202502087556', objeto, 'p4').
+resultado_real('202502087556', perde).
+tem('202502151211', turma, 'SEXTA TURMA'). tem('202502151211', relator, 'OTAVIO DE'). tem('202502151211', classe, 'HC'). tem('202502151211', objeto, 'p4').
+resultado_real('202502151211', perde).
+tem('202502167849', turma, 'SEXTA TURMA'). tem('202502167849', relator, 'OTAVIO DE'). tem('202502167849', classe, 'HC'). tem('202502167849', objeto, 'outro').
+resultado_real('202502167849', perde).
+tem('202502253909', turma, 'SEXTA TURMA'). tem('202502253909', relator, 'OTAVIO DE'). tem('202502253909', classe, 'HC'). tem('202502253909', objeto, 'p4').
+resultado_real('202502253909', perde).
+tem('202502319816', turma, 'SEXTA TURMA'). tem('202502319816', relator, 'OTAVIO DE'). tem('202502319816', classe, 'HC'). tem('202502319816', objeto, 'nulidade_busca').
+tem('202502319816', marcador, 'fuga_mudanca_direcao').
+tem('202502319816', marcador, 'denuncia_anonima').
+resultado_real('202502319816', perde).
+tem('202202405884', turma, 'SEXTA TURMA'). tem('202202405884', relator, 'OTAVIO DE'). tem('202202405884', classe, 'HC'). tem('202202405884', objeto, 'nulidade_busca').
+resultado_real('202202405884', perde).
+tem('202202641721', turma, 'SEXTA TURMA'). tem('202202641721', relator, 'OTAVIO DE'). tem('202202641721', classe, 'HC'). tem('202202641721', objeto, 'p4').
+resultado_real('202202641721', perde).
+tem('202300089620', turma, 'SEXTA TURMA'). tem('202300089620', relator, 'OTAVIO DE'). tem('202300089620', classe, 'HC'). tem('202300089620', objeto, 'nulidade_busca').
+tem('202300089620', marcador, 'denuncia_anonima').
+resultado_real('202300089620', perde).
+tem('202300449222', turma, 'SEXTA TURMA'). tem('202300449222', relator, 'OTAVIO DE'). tem('202300449222', classe, 'HC'). tem('202300449222', objeto, 'dosimetria').
+resultado_real('202300449222', perde).
+tem('202300884275', turma, 'SEXTA TURMA'). tem('202300884275', relator, 'OTAVIO DE'). tem('202300884275', classe, 'HC'). tem('202300884275', objeto, 'nulidade_busca').
+tem('202300884275', marcador, 'fuga_mudanca_direcao').
+resultado_real('202300884275', perde).
+tem('202300975425', turma, 'SEXTA TURMA'). tem('202300975425', relator, 'OTAVIO DE'). tem('202300975425', classe, 'HC'). tem('202300975425', objeto, 'nulidade_busca').
+resultado_real('202300975425', perde).
+tem('202301364148', turma, 'SEXTA TURMA'). tem('202301364148', relator, 'OTAVIO DE'). tem('202301364148', classe, 'HC'). tem('202301364148', objeto, 'nulidade_busca').
+tem('202301364148', marcador, 'faccao').
+tem('202301364148', marcador, 'denuncia_anonima').
+resultado_real('202301364148', perde).
+tem('202301848629', turma, 'SEXTA TURMA'). tem('202301848629', relator, 'OTAVIO DE'). tem('202301848629', classe, 'HC'). tem('202301848629', objeto, 'nulidade_busca').
+tem('202301848629', marcador, 'faccao').
+tem('202301848629', marcador, 'denuncia_anonima').
+resultado_real('202301848629', perde).
+tem('202301919188', turma, 'SEXTA TURMA'). tem('202301919188', relator, 'OTAVIO DE'). tem('202301919188', classe, 'HC'). tem('202301919188', objeto, 'nulidade_busca').
+tem('202301919188', marcador, 'nervosismo').
+resultado_real('202301919188', perde).
+tem('202301964413', turma, 'SEXTA TURMA'). tem('202301964413', relator, 'OTAVIO DE'). tem('202301964413', classe, 'HC'). tem('202301964413', objeto, 'nulidade_busca').
+resultado_real('202301964413', perde).
+tem('202302325659', turma, 'SEXTA TURMA'). tem('202302325659', relator, 'OTAVIO DE'). tem('202302325659', classe, 'HC'). tem('202302325659', objeto, 'nulidade_busca').
+resultado_real('202302325659', perde).
+tem('202302390797', turma, 'SEXTA TURMA'). tem('202302390797', relator, 'OTAVIO DE'). tem('202302390797', classe, 'HC'). tem('202302390797', objeto, 'nulidade_busca').
+tem('202302390797', marcador, 'nervosismo').
+tem('202302390797', marcador, 'fuga_mudanca_direcao').
+resultado_real('202302390797', perde).
+tem('202302744080', turma, 'SEXTA TURMA'). tem('202302744080', relator, 'OTAVIO DE'). tem('202302744080', classe, 'HC'). tem('202302744080', objeto, 'nulidade_busca').
+resultado_real('202302744080', perde).
+tem('202302786480', turma, 'SEXTA TURMA'). tem('202302786480', relator, 'OTAVIO DE'). tem('202302786480', classe, 'HC'). tem('202302786480', objeto, 'dosimetria').
+resultado_real('202302786480', perde).
+tem('202303240081', turma, 'SEXTA TURMA'). tem('202303240081', relator, 'OTAVIO DE'). tem('202303240081', classe, 'HC'). tem('202303240081', objeto, 'outro').
+tem('202303240081', marcador, 'faccao').
+resultado_real('202303240081', perde).
+tem('202303386062', turma, 'SEXTA TURMA'). tem('202303386062', relator, 'OTAVIO DE'). tem('202303386062', classe, 'HC'). tem('202303386062', objeto, 'dosimetria').
+resultado_real('202303386062', perde).
+tem('202303466510', turma, 'SEXTA TURMA'). tem('202303466510', relator, 'OTAVIO DE'). tem('202303466510', classe, 'HC'). tem('202303466510', objeto, 'nulidade_busca').
+tem('202303466510', marcador, 'local_conhecido').
+tem('202303466510', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303466510', perde).
+tem('202303682122', turma, 'SEXTA TURMA'). tem('202303682122', relator, 'OTAVIO DE'). tem('202303682122', classe, 'HC'). tem('202303682122', objeto, 'nulidade_busca').
+tem('202303682122', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303682122', perde).
+tem('202304266904', turma, 'SEXTA TURMA'). tem('202304266904', relator, 'OTAVIO DE'). tem('202304266904', classe, 'HC'). tem('202304266904', objeto, 'nulidade_busca').
+tem('202304266904', marcador, 'comunidade_bairro').
+tem('202304266904', marcador, 'fuga_mudanca_direcao').
+resultado_real('202304266904', perde).
+tem('202304400472', turma, 'SEXTA TURMA'). tem('202304400472', relator, 'OTAVIO DE'). tem('202304400472', classe, 'HC'). tem('202304400472', objeto, 'autoria').
+resultado_real('202304400472', perde).
+tem('202304509585', turma, 'SEXTA TURMA'). tem('202304509585', relator, 'OTAVIO DE'). tem('202304509585', classe, 'HC'). tem('202304509585', objeto, 'nulidade_busca').
+resultado_real('202304509585', vence).
+tem('202400007399', turma, 'SEXTA TURMA'). tem('202400007399', relator, 'OTAVIO DE'). tem('202400007399', classe, 'HC'). tem('202400007399', objeto, 'nulidade_busca').
+resultado_real('202400007399', perde).
+tem('202400018838', turma, 'SEXTA TURMA'). tem('202400018838', relator, 'OTAVIO DE'). tem('202400018838', classe, 'HC'). tem('202400018838', objeto, 'p4').
+resultado_real('202400018838', perde).
+tem('202400021887', turma, 'SEXTA TURMA'). tem('202400021887', relator, 'OTAVIO DE'). tem('202400021887', classe, 'HC'). tem('202400021887', objeto, 'nulidade_busca').
+tem('202400021887', marcador, 'denuncia_anonima').
+resultado_real('202400021887', perde).
+tem('202400118098', turma, 'SEXTA TURMA'). tem('202400118098', relator, 'OTAVIO DE'). tem('202400118098', classe, 'HC'). tem('202400118098', objeto, 'outro').
+tem('202400118098', marcador, 'faccao').
+resultado_real('202400118098', perde).
+tem('202400141080', turma, 'SEXTA TURMA'). tem('202400141080', relator, 'OTAVIO DE'). tem('202400141080', classe, 'HC'). tem('202400141080', objeto, 'dosimetria').
+resultado_real('202400141080', perde).
+tem('202400180513', turma, 'SEXTA TURMA'). tem('202400180513', relator, 'OTAVIO DE'). tem('202400180513', classe, 'HC'). tem('202400180513', objeto, 'nulidade_busca').
+resultado_real('202400180513', perde).
+tem('202400243503', turma, 'SEXTA TURMA'). tem('202400243503', relator, 'OTAVIO DE'). tem('202400243503', classe, 'HC'). tem('202400243503', objeto, 'nulidade_busca').
+tem('202400243503', marcador, 'denuncia_anonima').
+resultado_real('202400243503', perde).
+tem('202400322305', turma, 'SEXTA TURMA'). tem('202400322305', relator, 'OTAVIO DE'). tem('202400322305', classe, 'HC'). tem('202400322305', objeto, 'nulidade_busca').
+resultado_real('202400322305', perde).
+tem('202400747594', turma, 'SEXTA TURMA'). tem('202400747594', relator, 'OTAVIO DE'). tem('202400747594', classe, 'HC'). tem('202400747594', objeto, 'outro').
+resultado_real('202400747594', perde).
+tem('202400780180', turma, 'SEXTA TURMA'). tem('202400780180', relator, 'OTAVIO DE'). tem('202400780180', classe, 'HC'). tem('202400780180', objeto, 'nulidade_busca').
+tem('202400780180', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400780180', perde).
+tem('202401359930', turma, 'SEXTA TURMA'). tem('202401359930', relator, 'OTAVIO DE'). tem('202401359930', classe, 'HC'). tem('202401359930', objeto, 'p4').
+resultado_real('202401359930', perde).
+tem('202401360428', turma, 'SEXTA TURMA'). tem('202401360428', relator, 'OTAVIO DE'). tem('202401360428', classe, 'HC'). tem('202401360428', objeto, 'nulidade_busca').
+resultado_real('202401360428', perde).
+tem('202401445468', turma, 'SEXTA TURMA'). tem('202401445468', relator, 'OTAVIO DE'). tem('202401445468', classe, 'HC'). tem('202401445468', objeto, 'p4').
+resultado_real('202401445468', perde).
+tem('202401445039', turma, 'SEXTA TURMA'). tem('202401445039', relator, 'OTAVIO DE'). tem('202401445039', classe, 'HC'). tem('202401445039', objeto, 'p4').
+resultado_real('202401445039', perde).
+tem('202401572271', turma, 'SEXTA TURMA'). tem('202401572271', relator, 'OTAVIO DE'). tem('202401572271', classe, 'HC'). tem('202401572271', objeto, 'p4').
+resultado_real('202401572271', perde).
+tem('202401580741', turma, 'SEXTA TURMA'). tem('202401580741', relator, 'OTAVIO DE'). tem('202401580741', classe, 'HC'). tem('202401580741', objeto, 'nulidade_busca').
+resultado_real('202401580741', perde).
+tem('202401610230', turma, 'SEXTA TURMA'). tem('202401610230', relator, 'OTAVIO DE'). tem('202401610230', classe, 'HC'). tem('202401610230', objeto, 'outro').
+resultado_real('202401610230', perde).
+tem('202401652261', turma, 'SEXTA TURMA'). tem('202401652261', relator, 'OTAVIO DE'). tem('202401652261', classe, 'HC'). tem('202401652261', objeto, 'nulidade_busca').
+tem('202401652261', marcador, 'local_conhecido').
+resultado_real('202401652261', perde).
+tem('202401663583', turma, 'SEXTA TURMA'). tem('202401663583', relator, 'OTAVIO DE'). tem('202401663583', classe, 'HC'). tem('202401663583', objeto, 'nulidade_busca').
+tem('202401663583', marcador, 'local_conhecido').
+tem('202401663583', marcador, 'faccao').
+resultado_real('202401663583', perde).
+tem('202401779222', turma, 'SEXTA TURMA'). tem('202401779222', relator, 'OTAVIO DE'). tem('202401779222', classe, 'HC'). tem('202401779222', objeto, 'nulidade_busca').
+resultado_real('202401779222', perde).
+tem('202402075310', turma, 'SEXTA TURMA'). tem('202402075310', relator, 'OTAVIO DE'). tem('202402075310', classe, 'HC'). tem('202402075310', objeto, 'outro').
+tem('202402075310', marcador, 'atos_infracionais').
+resultado_real('202402075310', perde).
+tem('202402262702', turma, 'SEXTA TURMA'). tem('202402262702', relator, 'OTAVIO DE'). tem('202402262702', classe, 'HC'). tem('202402262702', objeto, 'nulidade_busca').
+tem('202402262702', marcador, 'nervosismo').
+resultado_real('202402262702', perde).
+tem('202402552122', turma, 'SEXTA TURMA'). tem('202402552122', relator, 'OTAVIO DE'). tem('202402552122', classe, 'HC'). tem('202402552122', objeto, 'p4').
+resultado_real('202402552122', perde).
+tem('202402610440', turma, 'SEXTA TURMA'). tem('202402610440', relator, 'OTAVIO DE'). tem('202402610440', classe, 'HC'). tem('202402610440', objeto, 'outro').
+resultado_real('202402610440', perde).
+tem('202402680488', turma, 'SEXTA TURMA'). tem('202402680488', relator, 'OTAVIO DE'). tem('202402680488', classe, 'HC'). tem('202402680488', objeto, 'nulidade_busca').
+resultado_real('202402680488', perde).
+tem('202402696876', turma, 'SEXTA TURMA'). tem('202402696876', relator, 'OTAVIO DE'). tem('202402696876', classe, 'HC'). tem('202402696876', objeto, 'nulidade_busca').
+tem('202402696876', marcador, 'denuncia_anonima').
+resultado_real('202402696876', perde).
+tem('202402902133', turma, 'SEXTA TURMA'). tem('202402902133', relator, 'OTAVIO DE'). tem('202402902133', classe, 'HC'). tem('202402902133', objeto, 'outro').
+resultado_real('202402902133', perde).
+tem('202402953809', turma, 'SEXTA TURMA'). tem('202402953809', relator, 'OTAVIO DE'). tem('202402953809', classe, 'HC'). tem('202402953809', objeto, 'outro').
+resultado_real('202402953809', perde).
+tem('202402958568', turma, 'SEXTA TURMA'). tem('202402958568', relator, 'OTAVIO DE'). tem('202402958568', classe, 'HC'). tem('202402958568', objeto, 'dosimetria').
+resultado_real('202402958568', perde).
+tem('202402973020', turma, 'SEXTA TURMA'). tem('202402973020', relator, 'OTAVIO DE'). tem('202402973020', classe, 'HC'). tem('202402973020', objeto, 'p4').
+resultado_real('202402973020', perde).
+tem('202402981525', turma, 'SEXTA TURMA'). tem('202402981525', relator, 'OTAVIO DE'). tem('202402981525', classe, 'HC'). tem('202402981525', objeto, 'nulidade_busca').
+tem('202402981525', marcador, 'denuncia_anonima').
+resultado_real('202402981525', perde).
+tem('202403087292', turma, 'SEXTA TURMA'). tem('202403087292', relator, 'OTAVIO DE'). tem('202403087292', classe, 'HC'). tem('202403087292', objeto, 'desclassificacao').
+resultado_real('202403087292', perde).
+tem('202403097442', turma, 'SEXTA TURMA'). tem('202403097442', relator, 'OTAVIO DE'). tem('202403097442', classe, 'HC'). tem('202403097442', objeto, 'p4').
+resultado_real('202403097442', perde).
+tem('202403129622', turma, 'SEXTA TURMA'). tem('202403129622', relator, 'OTAVIO DE'). tem('202403129622', classe, 'HC'). tem('202403129622', objeto, 'p4').
+resultado_real('202403129622', perde).
+tem('202403164810', turma, 'SEXTA TURMA'). tem('202403164810', relator, 'OTAVIO DE'). tem('202403164810', classe, 'HC'). tem('202403164810', objeto, 'nulidade_busca').
+tem('202403164810', marcador, 'nervosismo').
+tem('202403164810', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403164810', perde).
+tem('202403181114', turma, 'SEXTA TURMA'). tem('202403181114', relator, 'OTAVIO DE'). tem('202403181114', classe, 'HC'). tem('202403181114', objeto, 'outro').
+resultado_real('202403181114', perde).
+tem('202403182286', turma, 'SEXTA TURMA'). tem('202403182286', relator, 'OTAVIO DE'). tem('202403182286', classe, 'HC'). tem('202403182286', objeto, 'p4').
+resultado_real('202403182286', perde).
+tem('202403194379', turma, 'SEXTA TURMA'). tem('202403194379', relator, 'OTAVIO DE'). tem('202403194379', classe, 'HC'). tem('202403194379', objeto, 'nulidade_busca').
+resultado_real('202403194379', perde).
+tem('202403212899', turma, 'SEXTA TURMA'). tem('202403212899', relator, 'OTAVIO DE'). tem('202403212899', classe, 'HC'). tem('202403212899', objeto, 'p4').
+resultado_real('202403212899', perde).
+tem('202403223517', turma, 'SEXTA TURMA'). tem('202403223517', relator, 'OTAVIO DE'). tem('202403223517', classe, 'HC'). tem('202403223517', objeto, 'nulidade_busca').
+resultado_real('202403223517', perde).
+tem('202403289407', turma, 'SEXTA TURMA'). tem('202403289407', relator, 'OTAVIO DE'). tem('202403289407', classe, 'HC'). tem('202403289407', objeto, 'p4').
+tem('202403289407', marcador, 'faccao').
+resultado_real('202403289407', perde).
+tem('202403309288', turma, 'SEXTA TURMA'). tem('202403309288', relator, 'OTAVIO DE'). tem('202403309288', classe, 'HC'). tem('202403309288', objeto, 'outro').
+tem('202403309288', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403309288', perde).
+tem('202403373901', turma, 'SEXTA TURMA'). tem('202403373901', relator, 'OTAVIO DE'). tem('202403373901', classe, 'HC'). tem('202403373901', objeto, 'outro').
+resultado_real('202403373901', perde).
+tem('202403409765', turma, 'SEXTA TURMA'). tem('202403409765', relator, 'OTAVIO DE'). tem('202403409765', classe, 'HC'). tem('202403409765', objeto, 'outro').
+resultado_real('202403409765', perde).
+tem('202403410794', turma, 'SEXTA TURMA'). tem('202403410794', relator, 'OTAVIO DE'). tem('202403410794', classe, 'HC'). tem('202403410794', objeto, 'dosimetria').
+resultado_real('202403410794', perde).
+tem('202403506084', turma, 'SEXTA TURMA'). tem('202403506084', relator, 'OTAVIO DE'). tem('202403506084', classe, 'HC'). tem('202403506084', objeto, 'autoria').
+resultado_real('202403506084', perde).
+tem('202403547804', turma, 'SEXTA TURMA'). tem('202403547804', relator, 'OTAVIO DE'). tem('202403547804', classe, 'HC'). tem('202403547804', objeto, 'outro').
+tem('202403547804', marcador, 'fuga_mudanca_direcao').
+tem('202403547804', marcador, 'denuncia_anonima').
+resultado_real('202403547804', perde).
+tem('202403564727', turma, 'SEXTA TURMA'). tem('202403564727', relator, 'OTAVIO DE'). tem('202403564727', classe, 'HC'). tem('202403564727', objeto, 'nulidade_busca').
+tem('202403564727', marcador, 'atos_infracionais').
+resultado_real('202403564727', perde).
+tem('202403601422', turma, 'SEXTA TURMA'). tem('202403601422', relator, 'OTAVIO DE'). tem('202403601422', classe, 'HC'). tem('202403601422', objeto, 'outro').
+resultado_real('202403601422', perde).
+tem('202403643477', turma, 'SEXTA TURMA'). tem('202403643477', relator, 'OTAVIO DE'). tem('202403643477', classe, 'HC'). tem('202403643477', objeto, 'p4').
+resultado_real('202403643477', perde).
+tem('202403656228', turma, 'SEXTA TURMA'). tem('202403656228', relator, 'OTAVIO DE'). tem('202403656228', classe, 'HC'). tem('202403656228', objeto, 'p4').
+resultado_real('202403656228', perde).
+tem('202403736344', turma, 'SEXTA TURMA'). tem('202403736344', relator, 'OTAVIO DE'). tem('202403736344', classe, 'HC'). tem('202403736344', objeto, 'nulidade_busca').
+tem('202403736344', marcador, 'local_conhecido').
+tem('202403736344', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403736344', perde).
+tem('202403753279', turma, 'SEXTA TURMA'). tem('202403753279', relator, 'OTAVIO DE'). tem('202403753279', classe, 'HC'). tem('202403753279', objeto, 'outro').
+resultado_real('202403753279', perde).
+tem('202403788019', turma, 'SEXTA TURMA'). tem('202403788019', relator, 'OTAVIO DE'). tem('202403788019', classe, 'HC'). tem('202403788019', objeto, 'dosimetria').
+resultado_real('202403788019', perde).
+tem('202403797170', turma, 'SEXTA TURMA'). tem('202403797170', relator, 'OTAVIO DE'). tem('202403797170', classe, 'HC'). tem('202403797170', objeto, 'dosimetria').
+resultado_real('202403797170', perde).
+tem('202403810663', turma, 'SEXTA TURMA'). tem('202403810663', relator, 'OTAVIO DE'). tem('202403810663', classe, 'HC'). tem('202403810663', objeto, 'nulidade_busca').
+resultado_real('202403810663', perde).
+tem('202403833550', turma, 'SEXTA TURMA'). tem('202403833550', relator, 'OTAVIO DE'). tem('202403833550', classe, 'HC'). tem('202403833550', objeto, 'p4').
+resultado_real('202403833550', perde).
+tem('202403864006', turma, 'SEXTA TURMA'). tem('202403864006', relator, 'OTAVIO DE'). tem('202403864006', classe, 'HC'). tem('202403864006', objeto, 'dosimetria').
+resultado_real('202403864006', perde).
+tem('202403884517', turma, 'SEXTA TURMA'). tem('202403884517', relator, 'OTAVIO DE'). tem('202403884517', classe, 'HC'). tem('202403884517', objeto, 'dosimetria').
+resultado_real('202403884517', perde).
+tem('202403903275', turma, 'SEXTA TURMA'). tem('202403903275', relator, 'OTAVIO DE'). tem('202403903275', classe, 'HC'). tem('202403903275', objeto, 'nulidade_busca').
+tem('202403903275', marcador, 'local_conhecido').
+tem('202403903275', marcador, 'nervosismo').
+resultado_real('202403903275', perde).
+tem('202404024252', turma, 'SEXTA TURMA'). tem('202404024252', relator, 'OTAVIO DE'). tem('202404024252', classe, 'HC'). tem('202404024252', objeto, 'nulidade_busca').
+tem('202404024252', marcador, 'faccao').
+resultado_real('202404024252', perde).
+tem('202404024580', turma, 'SEXTA TURMA'). tem('202404024580', relator, 'OTAVIO DE'). tem('202404024580', classe, 'HC'). tem('202404024580', objeto, 'p4').
+resultado_real('202404024580', perde).
+tem('202404034426', turma, 'SEXTA TURMA'). tem('202404034426', relator, 'OTAVIO DE'). tem('202404034426', classe, 'HC'). tem('202404034426', objeto, 'nulidade_busca').
+tem('202404034426', marcador, 'denuncia_anonima').
+resultado_real('202404034426', perde).
+tem('202404060829', turma, 'SEXTA TURMA'). tem('202404060829', relator, 'OTAVIO DE'). tem('202404060829', classe, 'HC'). tem('202404060829', objeto, 'p4').
+resultado_real('202404060829', perde).
+tem('202404108496', turma, 'SEXTA TURMA'). tem('202404108496', relator, 'OTAVIO DE'). tem('202404108496', classe, 'HC'). tem('202404108496', objeto, 'nulidade_busca').
+tem('202404108496', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404108496', perde).
+tem('202404119288', turma, 'SEXTA TURMA'). tem('202404119288', relator, 'OTAVIO DE'). tem('202404119288', classe, 'HC'). tem('202404119288', objeto, 'autoria').
+resultado_real('202404119288', perde).
+tem('202404138385', turma, 'SEXTA TURMA'). tem('202404138385', relator, 'OTAVIO DE'). tem('202404138385', classe, 'HC'). tem('202404138385', objeto, 'p4').
+resultado_real('202404138385', perde).
+tem('202404152153', turma, 'SEXTA TURMA'). tem('202404152153', relator, 'OTAVIO DE'). tem('202404152153', classe, 'HC'). tem('202404152153', objeto, 'p4').
+resultado_real('202404152153', perde).
+tem('202404153341', turma, 'SEXTA TURMA'). tem('202404153341', relator, 'OTAVIO DE'). tem('202404153341', classe, 'HC'). tem('202404153341', objeto, 'p4').
+resultado_real('202404153341', perde).
+tem('202404163689', turma, 'SEXTA TURMA'). tem('202404163689', relator, 'OTAVIO DE'). tem('202404163689', classe, 'HC'). tem('202404163689', objeto, 'nulidade_busca').
+resultado_real('202404163689', perde).
+tem('202404169753', turma, 'SEXTA TURMA'). tem('202404169753', relator, 'OTAVIO DE'). tem('202404169753', classe, 'HC'). tem('202404169753', objeto, 'p4').
+resultado_real('202404169753', perde).
+tem('202404239040', turma, 'SEXTA TURMA'). tem('202404239040', relator, 'OTAVIO DE'). tem('202404239040', classe, 'HC'). tem('202404239040', objeto, 'outro').
+resultado_real('202404239040', perde).
+tem('202404220531', turma, 'SEXTA TURMA'). tem('202404220531', relator, 'OTAVIO DE'). tem('202404220531', classe, 'HC'). tem('202404220531', objeto, 'p4').
+resultado_real('202404220531', perde).
+tem('202404240815', turma, 'SEXTA TURMA'). tem('202404240815', relator, 'OTAVIO DE'). tem('202404240815', classe, 'HC'). tem('202404240815', objeto, 'p4').
+resultado_real('202404240815', perde).
+tem('202404234215', turma, 'SEXTA TURMA'). tem('202404234215', relator, 'OTAVIO DE'). tem('202404234215', classe, 'HC'). tem('202404234215', objeto, 'dosimetria').
+tem('202404234215', marcador, 'denuncia_anonima').
+resultado_real('202404234215', perde).
+tem('202404307894', turma, 'SEXTA TURMA'). tem('202404307894', relator, 'OTAVIO DE'). tem('202404307894', classe, 'HC'). tem('202404307894', objeto, 'nulidade_busca').
+tem('202404307894', marcador, 'denuncia_anonima').
+resultado_real('202404307894', perde).
+tem('202404326044', turma, 'SEXTA TURMA'). tem('202404326044', relator, 'OTAVIO DE'). tem('202404326044', classe, 'HC'). tem('202404326044', objeto, 'p4').
+resultado_real('202404326044', perde).
+tem('202404348880', turma, 'SEXTA TURMA'). tem('202404348880', relator, 'OTAVIO DE'). tem('202404348880', classe, 'HC'). tem('202404348880', objeto, 'dosimetria').
+resultado_real('202404348880', perde).
+tem('202404443039', turma, 'SEXTA TURMA'). tem('202404443039', relator, 'OTAVIO DE'). tem('202404443039', classe, 'HC'). tem('202404443039', objeto, 'nulidade_busca').
+tem('202404443039', marcador, 'denuncia_anonima').
+resultado_real('202404443039', perde).
+tem('202404490802', turma, 'SEXTA TURMA'). tem('202404490802', relator, 'OTAVIO DE'). tem('202404490802', classe, 'HC'). tem('202404490802', objeto, 'nulidade_busca').
+resultado_real('202404490802', perde).
+tem('202404503995', turma, 'SEXTA TURMA'). tem('202404503995', relator, 'OTAVIO DE'). tem('202404503995', classe, 'HC'). tem('202404503995', objeto, 'desclassificacao').
+resultado_real('202404503995', perde).
+tem('202404518880', turma, 'SEXTA TURMA'). tem('202404518880', relator, 'OTAVIO DE'). tem('202404518880', classe, 'HC'). tem('202404518880', objeto, 'p4').
+resultado_real('202404518880', perde).
+tem('202404562930', turma, 'SEXTA TURMA'). tem('202404562930', relator, 'OTAVIO DE'). tem('202404562930', classe, 'HC'). tem('202404562930', objeto, 'desclassificacao').
+tem('202404562930', marcador, 'comunidade_bairro').
+resultado_real('202404562930', perde).
+tem('202404589474', turma, 'SEXTA TURMA'). tem('202404589474', relator, 'OTAVIO DE'). tem('202404589474', classe, 'HC'). tem('202404589474', objeto, 'p4').
+resultado_real('202404589474', perde).
+tem('202404610767', turma, 'SEXTA TURMA'). tem('202404610767', relator, 'OTAVIO DE'). tem('202404610767', classe, 'HC'). tem('202404610767', objeto, 'p4').
+resultado_real('202404610767', perde).
+tem('202404671001', turma, 'SEXTA TURMA'). tem('202404671001', relator, 'OTAVIO DE'). tem('202404671001', classe, 'HC'). tem('202404671001', objeto, 'nulidade_busca').
+resultado_real('202404671001', perde).
+tem('202404679980', turma, 'SEXTA TURMA'). tem('202404679980', relator, 'OTAVIO DE'). tem('202404679980', classe, 'HC'). tem('202404679980', objeto, 'nulidade_busca').
+resultado_real('202404679980', perde).
+tem('202404698545', turma, 'SEXTA TURMA'). tem('202404698545', relator, 'OTAVIO DE'). tem('202404698545', classe, 'HC'). tem('202404698545', objeto, 'p4').
+resultado_real('202404698545', perde).
+tem('202404700111', turma, 'SEXTA TURMA'). tem('202404700111', relator, 'OTAVIO DE'). tem('202404700111', classe, 'HC'). tem('202404700111', objeto, 'nulidade_busca').
+tem('202404700111', marcador, 'local_conhecido').
+resultado_real('202404700111', perde).
+tem('202404732841', turma, 'SEXTA TURMA'). tem('202404732841', relator, 'OTAVIO DE'). tem('202404732841', classe, 'HC'). tem('202404732841', objeto, 'nulidade_busca').
+resultado_real('202404732841', perde).
+tem('202404732260', turma, 'SEXTA TURMA'). tem('202404732260', relator, 'OTAVIO DE'). tem('202404732260', classe, 'HC'). tem('202404732260', objeto, 'dosimetria').
+resultado_real('202404732260', perde).
+tem('202404782468', turma, 'SEXTA TURMA'). tem('202404782468', relator, 'OTAVIO DE'). tem('202404782468', classe, 'HC'). tem('202404782468', objeto, 'nulidade_busca').
+tem('202404782468', marcador, 'denuncia_anonima').
+resultado_real('202404782468', perde).
+tem('202404841532', turma, 'SEXTA TURMA'). tem('202404841532', relator, 'OTAVIO DE'). tem('202404841532', classe, 'HC'). tem('202404841532', objeto, 'dosimetria').
+resultado_real('202404841532', perde).
+tem('202404847895', turma, 'SEXTA TURMA'). tem('202404847895', relator, 'OTAVIO DE'). tem('202404847895', classe, 'HC'). tem('202404847895', objeto, 'p4').
+resultado_real('202404847895', perde).
+tem('202404843892', turma, 'SEXTA TURMA'). tem('202404843892', relator, 'OTAVIO DE'). tem('202404843892', classe, 'HC'). tem('202404843892', objeto, 'p4').
+tem('202404843892', marcador, 'atos_infracionais').
+resultado_real('202404843892', perde).
+tem('202404889485', turma, 'SEXTA TURMA'). tem('202404889485', relator, 'OTAVIO DE'). tem('202404889485', classe, 'HC'). tem('202404889485', objeto, 'desclassificacao').
+resultado_real('202404889485', perde).
+tem('202404895328', turma, 'SEXTA TURMA'). tem('202404895328', relator, 'OTAVIO DE'). tem('202404895328', classe, 'HC'). tem('202404895328', objeto, 'outro').
+resultado_real('202404895328', perde).
+tem('202500006143', turma, 'SEXTA TURMA'). tem('202500006143', relator, 'OTAVIO DE'). tem('202500006143', classe, 'HC'). tem('202500006143', objeto, 'nulidade_busca').
+tem('202500006143', marcador, 'denuncia_anonima').
+resultado_real('202500006143', perde).
+tem('202500025900', turma, 'SEXTA TURMA'). tem('202500025900', relator, 'OTAVIO DE'). tem('202500025900', classe, 'HC'). tem('202500025900', objeto, 'p4').
+resultado_real('202500025900', perde).
+tem('202500034299', turma, 'SEXTA TURMA'). tem('202500034299', relator, 'OTAVIO DE'). tem('202500034299', classe, 'HC'). tem('202500034299', objeto, 'p4').
+resultado_real('202500034299', perde).
+tem('202500039670', turma, 'SEXTA TURMA'). tem('202500039670', relator, 'OTAVIO DE'). tem('202500039670', classe, 'HC'). tem('202500039670', objeto, 'p4').
+resultado_real('202500039670', perde).
+tem('202500067930', turma, 'SEXTA TURMA'). tem('202500067930', relator, 'OTAVIO DE'). tem('202500067930', classe, 'HC'). tem('202500067930', objeto, 'nulidade_busca').
+resultado_real('202500067930', perde).
+tem('202500073668', turma, 'SEXTA TURMA'). tem('202500073668', relator, 'OTAVIO DE'). tem('202500073668', classe, 'HC'). tem('202500073668', objeto, 'desclassificacao').
+resultado_real('202500073668', perde).
+tem('202500085078', turma, 'SEXTA TURMA'). tem('202500085078', relator, 'OTAVIO DE'). tem('202500085078', classe, 'HC'). tem('202500085078', objeto, 'p4').
+resultado_real('202500085078', perde).
+tem('202500088553', turma, 'SEXTA TURMA'). tem('202500088553', relator, 'OTAVIO DE'). tem('202500088553', classe, 'HC'). tem('202500088553', objeto, 'p4').
+resultado_real('202500088553', perde).
+tem('202500117093', turma, 'SEXTA TURMA'). tem('202500117093', relator, 'OTAVIO DE'). tem('202500117093', classe, 'HC'). tem('202500117093', objeto, 'autoria').
+resultado_real('202500117093', perde).
+tem('202500109120', turma, 'SEXTA TURMA'). tem('202500109120', relator, 'OTAVIO DE'). tem('202500109120', classe, 'HC'). tem('202500109120', objeto, 'p4').
+resultado_real('202500109120', vence).
+tem('202500131087', turma, 'SEXTA TURMA'). tem('202500131087', relator, 'OTAVIO DE'). tem('202500131087', classe, 'HC'). tem('202500131087', objeto, 'desclassificacao').
+resultado_real('202500131087', perde).
+tem('202500134549', turma, 'SEXTA TURMA'). tem('202500134549', relator, 'OTAVIO DE'). tem('202500134549', classe, 'HC'). tem('202500134549', objeto, 'outro').
+resultado_real('202500134549', perde).
+tem('202500143751', turma, 'SEXTA TURMA'). tem('202500143751', relator, 'OTAVIO DE'). tem('202500143751', classe, 'HC'). tem('202500143751', objeto, 'desclassificacao').
+resultado_real('202500143751', perde).
+tem('202500157916', turma, 'SEXTA TURMA'). tem('202500157916', relator, 'OTAVIO DE'). tem('202500157916', classe, 'HC'). tem('202500157916', objeto, 'outro').
+resultado_real('202500157916', perde).
+tem('202500208280', turma, 'SEXTA TURMA'). tem('202500208280', relator, 'OTAVIO DE'). tem('202500208280', classe, 'HC'). tem('202500208280', objeto, 'p4').
+tem('202500208280', marcador, 'denuncia_anonima').
+resultado_real('202500208280', perde).
+tem('202500288795', turma, 'SEXTA TURMA'). tem('202500288795', relator, 'OTAVIO DE'). tem('202500288795', classe, 'HC'). tem('202500288795', objeto, 'p4').
+resultado_real('202500288795', perde).
+tem('202500305601', turma, 'SEXTA TURMA'). tem('202500305601', relator, 'OTAVIO DE'). tem('202500305601', classe, 'HC'). tem('202500305601', objeto, 'nulidade_busca').
+tem('202500305601', marcador, 'nervosismo').
+resultado_real('202500305601', perde).
+tem('202500307633', turma, 'SEXTA TURMA'). tem('202500307633', relator, 'OTAVIO DE'). tem('202500307633', classe, 'HC'). tem('202500307633', objeto, 'outro').
+resultado_real('202500307633', perde).
+tem('202500316770', turma, 'SEXTA TURMA'). tem('202500316770', relator, 'OTAVIO DE'). tem('202500316770', classe, 'HC'). tem('202500316770', objeto, 'p4').
+resultado_real('202500316770', perde).
+tem('202500336650', turma, 'SEXTA TURMA'). tem('202500336650', relator, 'OTAVIO DE'). tem('202500336650', classe, 'HC'). tem('202500336650', objeto, 'p4').
+resultado_real('202500336650', perde).
+tem('202500375295', turma, 'SEXTA TURMA'). tem('202500375295', relator, 'OTAVIO DE'). tem('202500375295', classe, 'HC'). tem('202500375295', objeto, 'desclassificacao').
+resultado_real('202500375295', perde).
+tem('202500418975', turma, 'SEXTA TURMA'). tem('202500418975', relator, 'OTAVIO DE'). tem('202500418975', classe, 'HC'). tem('202500418975', objeto, 'p4').
+resultado_real('202500418975', perde).
+tem('202500450992', turma, 'SEXTA TURMA'). tem('202500450992', relator, 'OTAVIO DE'). tem('202500450992', classe, 'HC'). tem('202500450992', objeto, 'nulidade_busca').
+resultado_real('202500450992', perde).
+tem('202500500540', turma, 'SEXTA TURMA'). tem('202500500540', relator, 'OTAVIO DE'). tem('202500500540', classe, 'HC'). tem('202500500540', objeto, 'autoria').
+tem('202500500540', marcador, 'comunidade_bairro').
+tem('202500500540', marcador, 'atos_infracionais').
+resultado_real('202500500540', perde).
+tem('202500506260', turma, 'SEXTA TURMA'). tem('202500506260', relator, 'OTAVIO DE'). tem('202500506260', classe, 'HC'). tem('202500506260', objeto, 'nulidade_busca').
+resultado_real('202500506260', perde).
+tem('202500536111', turma, 'SEXTA TURMA'). tem('202500536111', relator, 'OTAVIO DE'). tem('202500536111', classe, 'HC'). tem('202500536111', objeto, 'outro').
+tem('202500536111', marcador, 'atos_infracionais').
+resultado_real('202500536111', perde).
+tem('202500558399', turma, 'SEXTA TURMA'). tem('202500558399', relator, 'OTAVIO DE'). tem('202500558399', classe, 'HC'). tem('202500558399', objeto, 'desclassificacao').
+resultado_real('202500558399', perde).
+tem('202500575399', turma, 'SEXTA TURMA'). tem('202500575399', relator, 'OTAVIO DE'). tem('202500575399', classe, 'HC'). tem('202500575399', objeto, 'nulidade_busca').
+tem('202500575399', marcador, 'nervosismo').
+resultado_real('202500575399', perde).
+tem('202500576931', turma, 'SEXTA TURMA'). tem('202500576931', relator, 'OTAVIO DE'). tem('202500576931', classe, 'HC'). tem('202500576931', objeto, 'p4').
+tem('202500576931', marcador, 'local_conhecido').
+tem('202500576931', marcador, 'faccao').
+tem('202500576931', marcador, 'conhecido_policia').
+resultado_real('202500576931', perde).
+tem('202500593397', turma, 'SEXTA TURMA'). tem('202500593397', relator, 'OTAVIO DE'). tem('202500593397', classe, 'HC'). tem('202500593397', objeto, 'dosimetria').
+resultado_real('202500593397', perde).
+tem('202500606569', turma, 'SEXTA TURMA'). tem('202500606569', relator, 'OTAVIO DE'). tem('202500606569', classe, 'HC'). tem('202500606569', objeto, 'outro').
+resultado_real('202500606569', perde).
+tem('202500626348', turma, 'SEXTA TURMA'). tem('202500626348', relator, 'OTAVIO DE'). tem('202500626348', classe, 'HC'). tem('202500626348', objeto, 'nulidade_busca').
+tem('202500626348', marcador, 'nervosismo').
+resultado_real('202500626348', perde).
+tem('202500633416', turma, 'SEXTA TURMA'). tem('202500633416', relator, 'OTAVIO DE'). tem('202500633416', classe, 'HC'). tem('202500633416', objeto, 'desclassificacao').
+resultado_real('202500633416', perde).
+tem('202500746386', turma, 'SEXTA TURMA'). tem('202500746386', relator, 'OTAVIO DE'). tem('202500746386', classe, 'HC'). tem('202500746386', objeto, 'p4').
+resultado_real('202500746386', perde).
+tem('202500748511', turma, 'SEXTA TURMA'). tem('202500748511', relator, 'OTAVIO DE'). tem('202500748511', classe, 'HC'). tem('202500748511', objeto, 'p4').
+resultado_real('202500748511', perde).
+tem('202500774053', turma, 'SEXTA TURMA'). tem('202500774053', relator, 'OTAVIO DE'). tem('202500774053', classe, 'HC'). tem('202500774053', objeto, 'dosimetria').
+resultado_real('202500774053', perde).
+tem('202500814640', turma, 'SEXTA TURMA'). tem('202500814640', relator, 'OTAVIO DE'). tem('202500814640', classe, 'HC'). tem('202500814640', objeto, 'desclassificacao').
+resultado_real('202500814640', perde).
+tem('202500835780', turma, 'SEXTA TURMA'). tem('202500835780', relator, 'OTAVIO DE'). tem('202500835780', classe, 'HC'). tem('202500835780', objeto, 'p4').
+resultado_real('202500835780', perde).
+tem('202500845384', turma, 'SEXTA TURMA'). tem('202500845384', relator, 'OTAVIO DE'). tem('202500845384', classe, 'HC'). tem('202500845384', objeto, 'p4').
+resultado_real('202500845384', perde).
+tem('202500848304', turma, 'SEXTA TURMA'). tem('202500848304', relator, 'OTAVIO DE'). tem('202500848304', classe, 'HC'). tem('202500848304', objeto, 'outro').
+tem('202500848304', marcador, 'faccao').
+tem('202500848304', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500848304', perde).
+tem('202500876448', turma, 'SEXTA TURMA'). tem('202500876448', relator, 'OTAVIO DE'). tem('202500876448', classe, 'HC'). tem('202500876448', objeto, 'dosimetria').
+resultado_real('202500876448', perde).
+tem('202500866351', turma, 'SEXTA TURMA'). tem('202500866351', relator, 'OTAVIO DE'). tem('202500866351', classe, 'HC'). tem('202500866351', objeto, 'desclassificacao').
+tem('202500866351', marcador, 'faccao').
+resultado_real('202500866351', perde).
+tem('202500872975', turma, 'SEXTA TURMA'). tem('202500872975', relator, 'OTAVIO DE'). tem('202500872975', classe, 'HC'). tem('202500872975', objeto, 'outro').
+resultado_real('202500872975', perde).
+tem('202500880382', turma, 'SEXTA TURMA'). tem('202500880382', relator, 'OTAVIO DE'). tem('202500880382', classe, 'HC'). tem('202500880382', objeto, 'p4').
+resultado_real('202500880382', perde).
+tem('202500928812', turma, 'SEXTA TURMA'). tem('202500928812', relator, 'OTAVIO DE'). tem('202500928812', classe, 'HC'). tem('202500928812', objeto, 'p4').
+resultado_real('202500928812', perde).
+tem('202500932151', turma, 'SEXTA TURMA'). tem('202500932151', relator, 'OTAVIO DE'). tem('202500932151', classe, 'HC'). tem('202500932151', objeto, 'nulidade_busca').
+tem('202500932151', marcador, 'denuncia_anonima').
+resultado_real('202500932151', perde).
+tem('202500939451', turma, 'SEXTA TURMA'). tem('202500939451', relator, 'OTAVIO DE'). tem('202500939451', classe, 'HC'). tem('202500939451', objeto, 'p4').
+tem('202500939451', marcador, 'faccao').
+resultado_real('202500939451', perde).
+tem('202500950387', turma, 'SEXTA TURMA'). tem('202500950387', relator, 'OTAVIO DE'). tem('202500950387', classe, 'HC'). tem('202500950387', objeto, 'nulidade_busca').
+resultado_real('202500950387', perde).
+tem('202501059126', turma, 'SEXTA TURMA'). tem('202501059126', relator, 'OTAVIO DE'). tem('202501059126', classe, 'HC'). tem('202501059126', objeto, 'p4').
+resultado_real('202501059126', perde).
+tem('202501064676', turma, 'SEXTA TURMA'). tem('202501064676', relator, 'OTAVIO DE'). tem('202501064676', classe, 'HC'). tem('202501064676', objeto, 'p4').
+resultado_real('202501064676', perde).
+tem('202501070329', turma, 'SEXTA TURMA'). tem('202501070329', relator, 'OTAVIO DE'). tem('202501070329', classe, 'HC'). tem('202501070329', objeto, 'nulidade_busca').
+tem('202501070329', marcador, 'local_conhecido').
+resultado_real('202501070329', perde).
+tem('202501088270', turma, 'SEXTA TURMA'). tem('202501088270', relator, 'OTAVIO DE'). tem('202501088270', classe, 'HC'). tem('202501088270', objeto, 'p4').
+resultado_real('202501088270', perde).
+tem('202501110624', turma, 'SEXTA TURMA'). tem('202501110624', relator, 'OTAVIO DE'). tem('202501110624', classe, 'HC'). tem('202501110624', objeto, 'outro').
+resultado_real('202501110624', perde).
+tem('202501113720', turma, 'SEXTA TURMA'). tem('202501113720', relator, 'OTAVIO DE'). tem('202501113720', classe, 'HC'). tem('202501113720', objeto, 'p4').
+resultado_real('202501113720', perde).
+tem('202501145160', turma, 'SEXTA TURMA'). tem('202501145160', relator, 'OTAVIO DE'). tem('202501145160', classe, 'HC'). tem('202501145160', objeto, 'outro').
+resultado_real('202501145160', perde).
+tem('202501151884', turma, 'SEXTA TURMA'). tem('202501151884', relator, 'OTAVIO DE'). tem('202501151884', classe, 'HC'). tem('202501151884', objeto, 'p4').
+tem('202501151884', marcador, 'local_conhecido').
+tem('202501151884', marcador, 'faccao').
+resultado_real('202501151884', perde).
+tem('202501177193', turma, 'SEXTA TURMA'). tem('202501177193', relator, 'OTAVIO DE'). tem('202501177193', classe, 'HC'). tem('202501177193', objeto, 'nulidade_busca').
+tem('202501177193', marcador, 'denuncia_anonima').
+resultado_real('202501177193', perde).
+tem('202501182997', turma, 'SEXTA TURMA'). tem('202501182997', relator, 'OTAVIO DE'). tem('202501182997', classe, 'HC'). tem('202501182997', objeto, 'dosimetria').
+resultado_real('202501182997', perde).
+tem('202501187432', turma, 'SEXTA TURMA'). tem('202501187432', relator, 'OTAVIO DE'). tem('202501187432', classe, 'HC'). tem('202501187432', objeto, 'nulidade_busca').
+tem('202501187432', marcador, 'denuncia_anonima').
+resultado_real('202501187432', perde).
+tem('202501218424', turma, 'SEXTA TURMA'). tem('202501218424', relator, 'OTAVIO DE'). tem('202501218424', classe, 'HC'). tem('202501218424', objeto, 'p4').
+resultado_real('202501218424', perde).
+tem('202501248083', turma, 'SEXTA TURMA'). tem('202501248083', relator, 'OTAVIO DE'). tem('202501248083', classe, 'HC'). tem('202501248083', objeto, 'dosimetria').
+resultado_real('202501248083', perde).
+tem('202501385490', turma, 'SEXTA TURMA'). tem('202501385490', relator, 'OTAVIO DE'). tem('202501385490', classe, 'HC'). tem('202501385490', objeto, 'p4').
+resultado_real('202501385490', perde).
+tem('202501383508', turma, 'SEXTA TURMA'). tem('202501383508', relator, 'OTAVIO DE'). tem('202501383508', classe, 'HC'). tem('202501383508', objeto, 'p4').
+resultado_real('202501383508', perde).
+tem('202501383937', turma, 'SEXTA TURMA'). tem('202501383937', relator, 'OTAVIO DE'). tem('202501383937', classe, 'HC'). tem('202501383937', objeto, 'p4').
+resultado_real('202501383937', perde).
+tem('202501424393', turma, 'SEXTA TURMA'). tem('202501424393', relator, 'OTAVIO DE'). tem('202501424393', classe, 'HC'). tem('202501424393', objeto, 'dosimetria').
+resultado_real('202501424393', perde).
+tem('202501413398', turma, 'SEXTA TURMA'). tem('202501413398', relator, 'OTAVIO DE'). tem('202501413398', classe, 'HC'). tem('202501413398', objeto, 'nulidade_busca').
+tem('202501413398', marcador, 'fuga_mudanca_direcao').
+tem('202501413398', marcador, 'denuncia_anonima').
+resultado_real('202501413398', perde).
+tem('202501492046', turma, 'SEXTA TURMA'). tem('202501492046', relator, 'OTAVIO DE'). tem('202501492046', classe, 'HC'). tem('202501492046', objeto, 'outro').
+resultado_real('202501492046', perde).
+tem('202501516982', turma, 'SEXTA TURMA'). tem('202501516982', relator, 'OTAVIO DE'). tem('202501516982', classe, 'HC'). tem('202501516982', objeto, 'dosimetria').
+resultado_real('202501516982', perde).
+tem('202200387084', turma, 'SEXTA TURMA'). tem('202200387084', relator, 'OTAVIO DE'). tem('202200387084', classe, 'REsp'). tem('202200387084', objeto, 'p4').
+resultado_real('202200387084', vence).
+tem('202201483184', turma, 'SEXTA TURMA'). tem('202201483184', relator, 'OTAVIO DE'). tem('202201483184', classe, 'REsp'). tem('202201483184', objeto, 'p4').
+resultado_real('202201483184', perde).
+tem('202201645135', turma, 'SEXTA TURMA'). tem('202201645135', relator, 'OTAVIO DE'). tem('202201645135', classe, 'REsp'). tem('202201645135', objeto, 'p4').
+resultado_real('202201645135', vence).
+tem('202201720096', turma, 'SEXTA TURMA'). tem('202201720096', relator, 'OTAVIO DE'). tem('202201720096', classe, 'REsp'). tem('202201720096', objeto, 'p4').
+resultado_real('202201720096', perde).
+tem('202202097515', turma, 'SEXTA TURMA'). tem('202202097515', relator, 'OTAVIO DE'). tem('202202097515', classe, 'REsp'). tem('202202097515', objeto, 'dosimetria').
+resultado_real('202202097515', perde).
+tem('202202129174', turma, 'SEXTA TURMA'). tem('202202129174', relator, 'OTAVIO DE'). tem('202202129174', classe, 'REsp'). tem('202202129174', objeto, 'nulidade_busca').
+resultado_real('202202129174', vence).
+tem('202202203658', turma, 'SEXTA TURMA'). tem('202202203658', relator, 'OTAVIO DE'). tem('202202203658', classe, 'REsp'). tem('202202203658', objeto, 'p4').
+resultado_real('202202203658', perde).
+tem('202202208595', turma, 'SEXTA TURMA'). tem('202202208595', relator, 'OTAVIO DE'). tem('202202208595', classe, 'REsp'). tem('202202208595', objeto, 'p4').
+resultado_real('202202208595', perde).
+tem('202203065928', turma, 'SEXTA TURMA'). tem('202203065928', relator, 'OTAVIO DE'). tem('202203065928', classe, 'REsp'). tem('202203065928', objeto, 'nulidade_busca').
+tem('202203065928', marcador, 'denuncia_anonima').
+resultado_real('202203065928', perde).
+tem('202300481566', turma, 'SEXTA TURMA'). tem('202300481566', relator, 'OTAVIO DE'). tem('202300481566', classe, 'REsp'). tem('202300481566', objeto, 'nulidade_busca').
+resultado_real('202300481566', vence).
+tem('202300511423', turma, 'SEXTA TURMA'). tem('202300511423', relator, 'OTAVIO DE'). tem('202300511423', classe, 'REsp'). tem('202300511423', objeto, 'p4').
+resultado_real('202300511423', perde).
+tem('202301209922', turma, 'SEXTA TURMA'). tem('202301209922', relator, 'OTAVIO DE'). tem('202301209922', classe, 'REsp'). tem('202301209922', objeto, 'p4').
+resultado_real('202301209922', vence).
+tem('202301658999', turma, 'SEXTA TURMA'). tem('202301658999', relator, 'OTAVIO DE'). tem('202301658999', classe, 'REsp'). tem('202301658999', objeto, 'autoria').
+resultado_real('202301658999', perde).
+tem('202302352895', turma, 'SEXTA TURMA'). tem('202302352895', relator, 'OTAVIO DE'). tem('202302352895', classe, 'REsp'). tem('202302352895', objeto, 'p4').
+resultado_real('202302352895', perde).
+tem('202302393297', turma, 'SEXTA TURMA'). tem('202302393297', relator, 'OTAVIO DE'). tem('202302393297', classe, 'REsp'). tem('202302393297', objeto, 'nulidade_busca').
+tem('202302393297', marcador, 'nervosismo').
+resultado_real('202302393297', vence).
+tem('202302508311', turma, 'SEXTA TURMA'). tem('202302508311', relator, 'OTAVIO DE'). tem('202302508311', classe, 'REsp'). tem('202302508311', objeto, 'dosimetria').
+resultado_real('202302508311', vence).
+tem('202303237360', turma, 'SEXTA TURMA'). tem('202303237360', relator, 'OTAVIO DE'). tem('202303237360', classe, 'REsp'). tem('202303237360', objeto, 'dosimetria').
+resultado_real('202303237360', perde).
+tem('202304217805', turma, 'SEXTA TURMA'). tem('202304217805', relator, 'OTAVIO DE'). tem('202304217805', classe, 'REsp'). tem('202304217805', objeto, 'p4').
+resultado_real('202304217805', perde).
+tem('202304466932', turma, 'SEXTA TURMA'). tem('202304466932', relator, 'OTAVIO DE'). tem('202304466932', classe, 'REsp'). tem('202304466932', objeto, 'p4').
+tem('202304466932', marcador, 'fuga_mudanca_direcao').
+resultado_real('202304466932', perde).
+tem('202400151367', turma, 'SEXTA TURMA'). tem('202400151367', relator, 'OTAVIO DE'). tem('202400151367', classe, 'REsp'). tem('202400151367', objeto, 'nulidade_busca').
+resultado_real('202400151367', perde).
+tem('202401353284', turma, 'SEXTA TURMA'). tem('202401353284', relator, 'OTAVIO DE'). tem('202401353284', classe, 'REsp'). tem('202401353284', objeto, 'dosimetria').
+resultado_real('202401353284', perde).
+tem('202401619776', turma, 'SEXTA TURMA'). tem('202401619776', relator, 'OTAVIO DE'). tem('202401619776', classe, 'REsp'). tem('202401619776', objeto, 'p4').
+resultado_real('202401619776', perde).
+tem('202402983950', turma, 'SEXTA TURMA'). tem('202402983950', relator, 'OTAVIO DE'). tem('202402983950', classe, 'REsp'). tem('202402983950', objeto, 'nulidade_busca').
+tem('202402983950', marcador, 'denuncia_anonima').
+resultado_real('202402983950', perde).
+tem('202403352960', turma, 'SEXTA TURMA'). tem('202403352960', relator, 'OTAVIO DE'). tem('202403352960', classe, 'REsp'). tem('202403352960', objeto, 'autoria').
+resultado_real('202403352960', perde).
+tem('202403593720', turma, 'SEXTA TURMA'). tem('202403593720', relator, 'OTAVIO DE'). tem('202403593720', classe, 'REsp'). tem('202403593720', objeto, 'p4').
+resultado_real('202403593720', perde).
+tem('202403657149', turma, 'SEXTA TURMA'). tem('202403657149', relator, 'OTAVIO DE'). tem('202403657149', classe, 'REsp'). tem('202403657149', objeto, 'dosimetria').
+resultado_real('202403657149', vence).
+tem('202403658527', turma, 'SEXTA TURMA'). tem('202403658527', relator, 'OTAVIO DE'). tem('202403658527', classe, 'REsp'). tem('202403658527', objeto, 'nulidade_busca').
+tem('202403658527', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403658527', perde).
+tem('202404396109', turma, 'SEXTA TURMA'). tem('202404396109', relator, 'OTAVIO DE'). tem('202404396109', classe, 'REsp'). tem('202404396109', objeto, 'p4').
+resultado_real('202404396109', perde).
+tem('202404830169', turma, 'SEXTA TURMA'). tem('202404830169', relator, 'OTAVIO DE'). tem('202404830169', classe, 'REsp'). tem('202404830169', objeto, 'nulidade_busca').
+tem('202404830169', marcador, 'denuncia_anonima').
+resultado_real('202404830169', vence).
+tem('202500450401', turma, 'SEXTA TURMA'). tem('202500450401', relator, 'OTAVIO DE'). tem('202500450401', classe, 'REsp'). tem('202500450401', objeto, 'nulidade_busca').
+resultado_real('202500450401', vence).
+tem('202501034686', turma, 'SEXTA TURMA'). tem('202501034686', relator, 'OTAVIO DE'). tem('202501034686', classe, 'REsp'). tem('202501034686', objeto, 'p4').
+resultado_real('202501034686', perde).
+tem('202501155333', turma, 'SEXTA TURMA'). tem('202501155333', relator, 'OTAVIO DE'). tem('202501155333', classe, 'REsp'). tem('202501155333', objeto, 'dosimetria').
+resultado_real('202501155333', vence).
+tem('202501145082', turma, 'SEXTA TURMA'). tem('202501145082', relator, 'OTAVIO DE'). tem('202501145082', classe, 'REsp'). tem('202501145082', objeto, 'nulidade_busca').
+tem('202501145082', marcador, 'denuncia_anonima').
+resultado_real('202501145082', perde).
+tem('202501258536', turma, 'SEXTA TURMA'). tem('202501258536', relator, 'OTAVIO DE'). tem('202501258536', classe, 'REsp'). tem('202501258536', objeto, 'dosimetria').
+resultado_real('202501258536', perde).
+tem('202501301970', turma, 'SEXTA TURMA'). tem('202501301970', relator, 'OTAVIO DE'). tem('202501301970', classe, 'REsp'). tem('202501301970', objeto, 'nulidade_busca').
+tem('202501301970', marcador, 'denuncia_anonima').
+resultado_real('202501301970', vence).
+tem('202501557020', turma, 'SEXTA TURMA'). tem('202501557020', relator, 'OTAVIO DE'). tem('202501557020', classe, 'REsp'). tem('202501557020', objeto, 'p4').
+resultado_real('202501557020', perde).
+tem('202304229114', turma, 'SEXTA TURMA'). tem('202304229114', relator, 'OTAVIO DE'). tem('202304229114', classe, 'RHC'). tem('202304229114', objeto, 'outro').
+resultado_real('202304229114', perde).
+tem('202403127525', turma, 'SEXTA TURMA'). tem('202403127525', relator, 'OTAVIO DE'). tem('202403127525', classe, 'RHC'). tem('202403127525', objeto, 'outro').
+resultado_real('202403127525', perde).
+tem('202404743900', turma, 'SEXTA TURMA'). tem('202404743900', relator, 'OTAVIO DE'). tem('202404743900', classe, 'RHC'). tem('202404743900', objeto, 'outro').
+resultado_real('202404743900', vence).
+tem('202501053884', turma, 'SEXTA TURMA'). tem('202501053884', relator, 'OTAVIO DE'). tem('202501053884', classe, 'RHC'). tem('202501053884', objeto, 'outro').
+resultado_real('202501053884', perde).
+tem('202501200647', turma, 'SEXTA TURMA'). tem('202501200647', relator, 'OTAVIO DE'). tem('202501200647', classe, 'RHC'). tem('202501200647', objeto, 'dosimetria').
+resultado_real('202501200647', perde).
+tem('201602853577', turma, 'SEXTA TURMA'). tem('201602853577', relator, 'ROGERIO SCHIETTI'). tem('201602853577', classe, 'AREsp'). tem('201602853577', objeto, 'dosimetria').
+resultado_real('201602853577', perde).
+tem('201603005130', turma, 'SEXTA TURMA'). tem('201603005130', relator, 'ROGERIO SCHIETTI'). tem('201603005130', classe, 'AREsp'). tem('201603005130', objeto, 'autoria').
+resultado_real('201603005130', perde).
+tem('201701029534', turma, 'SEXTA TURMA'). tem('201701029534', relator, 'ROGERIO SCHIETTI'). tem('201701029534', classe, 'AREsp'). tem('201701029534', objeto, 'dosimetria').
+resultado_real('201701029534', perde).
+tem('202000831754', turma, 'SEXTA TURMA'). tem('202000831754', relator, 'ROGERIO SCHIETTI'). tem('202000831754', classe, 'AREsp'). tem('202000831754', objeto, 'dosimetria').
+resultado_real('202000831754', perde).
+tem('202001933170', turma, 'SEXTA TURMA'). tem('202001933170', relator, 'ROGERIO SCHIETTI'). tem('202001933170', classe, 'AREsp'). tem('202001933170', objeto, 'p4').
+tem('202001933170', marcador, 'faccao').
+resultado_real('202001933170', perde).
+tem('202002653195', turma, 'SEXTA TURMA'). tem('202002653195', relator, 'ROGERIO SCHIETTI'). tem('202002653195', classe, 'AREsp'). tem('202002653195', objeto, 'outro').
+resultado_real('202002653195', perde).
+tem('202100161870', turma, 'SEXTA TURMA'). tem('202100161870', relator, 'ROGERIO SCHIETTI'). tem('202100161870', classe, 'AREsp'). tem('202100161870', objeto, 'p4').
+resultado_real('202100161870', vence).
+tem('202103142375', turma, 'SEXTA TURMA'). tem('202103142375', relator, 'ROGERIO SCHIETTI'). tem('202103142375', classe, 'AREsp'). tem('202103142375', objeto, 'p4').
+tem('202103142375', marcador, 'faccao').
+resultado_real('202103142375', vence).
+tem('202103435840', turma, 'SEXTA TURMA'). tem('202103435840', relator, 'ROGERIO SCHIETTI'). tem('202103435840', classe, 'AREsp'). tem('202103435840', objeto, 'outro').
+resultado_real('202103435840', vence).
+tem('202201363741', turma, 'SEXTA TURMA'). tem('202201363741', relator, 'ROGERIO SCHIETTI'). tem('202201363741', classe, 'AREsp'). tem('202201363741', objeto, 'dosimetria').
+resultado_real('202201363741', vence).
+tem('202202453568', turma, 'SEXTA TURMA'). tem('202202453568', relator, 'ROGERIO SCHIETTI'). tem('202202453568', classe, 'AREsp'). tem('202202453568', objeto, 'outro').
+resultado_real('202202453568', perde).
+tem('202202721796', turma, 'SEXTA TURMA'). tem('202202721796', relator, 'ROGERIO SCHIETTI'). tem('202202721796', classe, 'AREsp'). tem('202202721796', objeto, 'nulidade_busca').
+tem('202202721796', marcador, 'faccao').
+tem('202202721796', marcador, 'atos_infracionais').
+tem('202202721796', marcador, 'fuga_mudanca_direcao').
+resultado_real('202202721796', perde).
+tem('202204056532', turma, 'SEXTA TURMA'). tem('202204056532', relator, 'ROGERIO SCHIETTI'). tem('202204056532', classe, 'AREsp'). tem('202204056532', objeto, 'outro').
+resultado_real('202204056532', perde).
+tem('202300416364', turma, 'SEXTA TURMA'). tem('202300416364', relator, 'ROGERIO SCHIETTI'). tem('202300416364', classe, 'AREsp'). tem('202300416364', objeto, 'nulidade_busca').
+tem('202300416364', marcador, 'comunidade_bairro').
+resultado_real('202300416364', perde).
+tem('202300455794', turma, 'SEXTA TURMA'). tem('202300455794', relator, 'ROGERIO SCHIETTI'). tem('202300455794', classe, 'AREsp'). tem('202300455794', objeto, 'p4').
+tem('202300455794', marcador, 'faccao').
+resultado_real('202300455794', perde).
+tem('202300654585', turma, 'SEXTA TURMA'). tem('202300654585', relator, 'ROGERIO SCHIETTI'). tem('202300654585', classe, 'AREsp'). tem('202300654585', objeto, 'nulidade_busca').
+resultado_real('202300654585', perde).
+tem('202301505246', turma, 'SEXTA TURMA'). tem('202301505246', relator, 'ROGERIO SCHIETTI'). tem('202301505246', classe, 'AREsp'). tem('202301505246', objeto, 'p4').
+resultado_real('202301505246', perde).
+tem('202302384678', turma, 'SEXTA TURMA'). tem('202302384678', relator, 'ROGERIO SCHIETTI'). tem('202302384678', classe, 'AREsp'). tem('202302384678', objeto, 'nulidade_busca').
+tem('202302384678', marcador, 'denuncia_anonima').
+resultado_real('202302384678', perde).
+tem('202302590816', turma, 'SEXTA TURMA'). tem('202302590816', relator, 'ROGERIO SCHIETTI'). tem('202302590816', classe, 'AREsp'). tem('202302590816', objeto, 'nulidade_busca').
+resultado_real('202302590816', perde).
+tem('202302746811', turma, 'SEXTA TURMA'). tem('202302746811', relator, 'ROGERIO SCHIETTI'). tem('202302746811', classe, 'AREsp'). tem('202302746811', objeto, 'nulidade_busca').
+tem('202302746811', marcador, 'nervosismo').
+tem('202302746811', marcador, 'fuga_mudanca_direcao').
+tem('202302746811', marcador, 'denuncia_anonima').
+resultado_real('202302746811', perde).
+tem('202302770750', turma, 'SEXTA TURMA'). tem('202302770750', relator, 'ROGERIO SCHIETTI'). tem('202302770750', classe, 'AREsp'). tem('202302770750', objeto, 'dosimetria').
+resultado_real('202302770750', perde).
+tem('202302878234', turma, 'SEXTA TURMA'). tem('202302878234', relator, 'ROGERIO SCHIETTI'). tem('202302878234', classe, 'AREsp'). tem('202302878234', objeto, 'desclassificacao').
+resultado_real('202302878234', perde).
+tem('202303713074', turma, 'SEXTA TURMA'). tem('202303713074', relator, 'ROGERIO SCHIETTI'). tem('202303713074', classe, 'AREsp'). tem('202303713074', objeto, 'p4').
+tem('202303713074', marcador, 'faccao').
+resultado_real('202303713074', perde).
+tem('202304101120', turma, 'SEXTA TURMA'). tem('202304101120', relator, 'ROGERIO SCHIETTI'). tem('202304101120', classe, 'AREsp'). tem('202304101120', objeto, 'desclassificacao').
+resultado_real('202304101120', perde).
+tem('202304368920', turma, 'SEXTA TURMA'). tem('202304368920', relator, 'ROGERIO SCHIETTI'). tem('202304368920', classe, 'AREsp'). tem('202304368920', objeto, 'p4').
+tem('202304368920', marcador, 'faccao').
+resultado_real('202304368920', perde).
+tem('202304549798', turma, 'SEXTA TURMA'). tem('202304549798', relator, 'ROGERIO SCHIETTI'). tem('202304549798', classe, 'AREsp'). tem('202304549798', objeto, 'nulidade_busca').
+tem('202304549798', marcador, 'nervosismo').
+resultado_real('202304549798', perde).
+tem('202400240445', turma, 'SEXTA TURMA'). tem('202400240445', relator, 'ROGERIO SCHIETTI'). tem('202400240445', classe, 'AREsp'). tem('202400240445', objeto, 'outro').
+resultado_real('202400240445', perde).
+tem('202400245636', turma, 'SEXTA TURMA'). tem('202400245636', relator, 'ROGERIO SCHIETTI'). tem('202400245636', classe, 'AREsp'). tem('202400245636', objeto, 'outro').
+resultado_real('202400245636', perde).
+tem('202400272950', turma, 'SEXTA TURMA'). tem('202400272950', relator, 'ROGERIO SCHIETTI'). tem('202400272950', classe, 'AREsp'). tem('202400272950', objeto, 'p4').
+tem('202400272950', marcador, 'faccao').
+resultado_real('202400272950', perde).
+tem('202400398608', turma, 'SEXTA TURMA'). tem('202400398608', relator, 'ROGERIO SCHIETTI'). tem('202400398608', classe, 'AREsp'). tem('202400398608', objeto, 'p4').
+resultado_real('202400398608', perde).
+tem('202401664657', turma, 'SEXTA TURMA'). tem('202401664657', relator, 'ROGERIO SCHIETTI'). tem('202401664657', classe, 'AREsp'). tem('202401664657', objeto, 'nulidade_busca').
+resultado_real('202401664657', perde).
+tem('202401868008', turma, 'SEXTA TURMA'). tem('202401868008', relator, 'ROGERIO SCHIETTI'). tem('202401868008', classe, 'AREsp'). tem('202401868008', objeto, 'p4').
+resultado_real('202401868008', perde).
+tem('202402007097', turma, 'SEXTA TURMA'). tem('202402007097', relator, 'ROGERIO SCHIETTI'). tem('202402007097', classe, 'AREsp'). tem('202402007097', objeto, 'p4').
+tem('202402007097', marcador, 'faccao').
+resultado_real('202402007097', perde).
+tem('202402088335', turma, 'SEXTA TURMA'). tem('202402088335', relator, 'ROGERIO SCHIETTI'). tem('202402088335', classe, 'AREsp'). tem('202402088335', objeto, 'p4').
+tem('202402088335', marcador, 'faccao').
+resultado_real('202402088335', perde).
 tem('202402708420', turma, 'SEXTA TURMA'). tem('202402708420', relator, 'ROGERIO SCHIETTI'). tem('202402708420', classe, 'AREsp'). tem('202402708420', objeto, 'desclassificacao').
 resultado_real('202402708420', perde).
+tem('202402822054', turma, 'SEXTA TURMA'). tem('202402822054', relator, 'ROGERIO SCHIETTI'). tem('202402822054', classe, 'AREsp'). tem('202402822054', objeto, 'outro').
+resultado_real('202402822054', perde).
+tem('202402829800', turma, 'SEXTA TURMA'). tem('202402829800', relator, 'ROGERIO SCHIETTI'). tem('202402829800', classe, 'AREsp'). tem('202402829800', objeto, 'nulidade_busca').
+tem('202402829800', marcador, 'faccao').
+tem('202402829800', marcador, 'fuga_mudanca_direcao').
+tem('202402829800', marcador, 'denuncia_anonima').
+resultado_real('202402829800', perde).
+tem('202402930657', turma, 'SEXTA TURMA'). tem('202402930657', relator, 'ROGERIO SCHIETTI'). tem('202402930657', classe, 'AREsp'). tem('202402930657', objeto, 'p4').
+resultado_real('202402930657', perde).
+tem('202403048420', turma, 'SEXTA TURMA'). tem('202403048420', relator, 'ROGERIO SCHIETTI'). tem('202403048420', classe, 'AREsp'). tem('202403048420', objeto, 'p4').
+resultado_real('202403048420', perde).
+tem('202403317811', turma, 'SEXTA TURMA'). tem('202403317811', relator, 'ROGERIO SCHIETTI'). tem('202403317811', classe, 'AREsp'). tem('202403317811', objeto, 'p4').
+resultado_real('202403317811', perde).
+tem('202403477519', turma, 'SEXTA TURMA'). tem('202403477519', relator, 'ROGERIO SCHIETTI'). tem('202403477519', classe, 'AREsp'). tem('202403477519', objeto, 'p4').
+tem('202403477519', marcador, 'faccao').
+resultado_real('202403477519', perde).
+tem('202403500000', turma, 'SEXTA TURMA'). tem('202403500000', relator, 'ROGERIO SCHIETTI'). tem('202403500000', classe, 'AREsp'). tem('202403500000', objeto, 'p4').
+resultado_real('202403500000', perde).
+tem('202403554779', turma, 'SEXTA TURMA'). tem('202403554779', relator, 'ROGERIO SCHIETTI'). tem('202403554779', classe, 'AREsp'). tem('202403554779', objeto, 'outro').
+resultado_real('202403554779', perde).
+tem('202403559960', turma, 'SEXTA TURMA'). tem('202403559960', relator, 'ROGERIO SCHIETTI'). tem('202403559960', classe, 'AREsp'). tem('202403559960', objeto, 'p4').
+resultado_real('202403559960', perde).
+tem('202403934000', turma, 'SEXTA TURMA'). tem('202403934000', relator, 'ROGERIO SCHIETTI'). tem('202403934000', classe, 'AREsp'). tem('202403934000', objeto, 'nulidade_busca').
+tem('202403934000', marcador, 'conhecido_policia').
+resultado_real('202403934000', perde).
+tem('202404000433', turma, 'SEXTA TURMA'). tem('202404000433', relator, 'ROGERIO SCHIETTI'). tem('202404000433', classe, 'AREsp'). tem('202404000433', objeto, 'dosimetria').
+resultado_real('202404000433', perde).
+tem('202404156395', turma, 'SEXTA TURMA'). tem('202404156395', relator, 'ROGERIO SCHIETTI'). tem('202404156395', classe, 'AREsp'). tem('202404156395', objeto, 'nulidade_busca').
+tem('202404156395', marcador, 'denuncia_anonima').
+resultado_real('202404156395', perde).
+tem('202404182697', turma, 'SEXTA TURMA'). tem('202404182697', relator, 'ROGERIO SCHIETTI'). tem('202404182697', classe, 'AREsp'). tem('202404182697', objeto, 'dosimetria').
+resultado_real('202404182697', perde).
+tem('202404182798', turma, 'SEXTA TURMA'). tem('202404182798', relator, 'ROGERIO SCHIETTI'). tem('202404182798', classe, 'AREsp'). tem('202404182798', objeto, 'desclassificacao').
+resultado_real('202404182798', perde).
+tem('202404243995', turma, 'SEXTA TURMA'). tem('202404243995', relator, 'ROGERIO SCHIETTI'). tem('202404243995', classe, 'AREsp'). tem('202404243995', objeto, 'dosimetria').
+resultado_real('202404243995', perde).
+tem('202404248520', turma, 'SEXTA TURMA'). tem('202404248520', relator, 'ROGERIO SCHIETTI'). tem('202404248520', classe, 'AREsp'). tem('202404248520', objeto, 'desclassificacao').
+tem('202404248520', marcador, 'denuncia_anonima').
+resultado_real('202404248520', vence).
+tem('202404380330', turma, 'SEXTA TURMA'). tem('202404380330', relator, 'ROGERIO SCHIETTI'). tem('202404380330', classe, 'AREsp'). tem('202404380330', objeto, 'nulidade_busca').
+tem('202404380330', marcador, 'denuncia_anonima').
+resultado_real('202404380330', perde).
+tem('202404356630', turma, 'SEXTA TURMA'). tem('202404356630', relator, 'ROGERIO SCHIETTI'). tem('202404356630', classe, 'AREsp'). tem('202404356630', objeto, 'p4').
+tem('202404356630', marcador, 'faccao').
+resultado_real('202404356630', perde).
+tem('202404598070', turma, 'SEXTA TURMA'). tem('202404598070', relator, 'ROGERIO SCHIETTI'). tem('202404598070', classe, 'AREsp'). tem('202404598070', objeto, 'p4').
+resultado_real('202404598070', perde).
+tem('202404644028', turma, 'SEXTA TURMA'). tem('202404644028', relator, 'ROGERIO SCHIETTI'). tem('202404644028', classe, 'AREsp'). tem('202404644028', objeto, 'nulidade_busca').
+tem('202404644028', marcador, 'local_conhecido').
+tem('202404644028', marcador, 'fuga_mudanca_direcao').
+tem('202404644028', marcador, 'denuncia_anonima').
+resultado_real('202404644028', perde).
+tem('202404685049', turma, 'SEXTA TURMA'). tem('202404685049', relator, 'ROGERIO SCHIETTI'). tem('202404685049', classe, 'AREsp'). tem('202404685049', objeto, 'outro').
+resultado_real('202404685049', perde).
+tem('202404811489', turma, 'SEXTA TURMA'). tem('202404811489', relator, 'ROGERIO SCHIETTI'). tem('202404811489', classe, 'AREsp'). tem('202404811489', objeto, 'p4').
+tem('202404811489', marcador, 'faccao').
+tem('202404811489', marcador, 'ocupacao').
+resultado_real('202404811489', perde).
+tem('202404823951', turma, 'SEXTA TURMA'). tem('202404823951', relator, 'ROGERIO SCHIETTI'). tem('202404823951', classe, 'AREsp'). tem('202404823951', objeto, 'p4').
+resultado_real('202404823951', perde).
+tem('202404840130', turma, 'SEXTA TURMA'). tem('202404840130', relator, 'ROGERIO SCHIETTI'). tem('202404840130', classe, 'AREsp'). tem('202404840130', objeto, 'autoria').
+resultado_real('202404840130', perde).
+tem('202404871077', turma, 'SEXTA TURMA'). tem('202404871077', relator, 'ROGERIO SCHIETTI'). tem('202404871077', classe, 'AREsp'). tem('202404871077', objeto, 'outro').
+resultado_real('202404871077', perde).
+tem('202500046546', turma, 'SEXTA TURMA'). tem('202500046546', relator, 'ROGERIO SCHIETTI'). tem('202500046546', classe, 'AREsp'). tem('202500046546', objeto, 'p4').
+resultado_real('202500046546', perde).
+tem('202500055557', turma, 'SEXTA TURMA'). tem('202500055557', relator, 'ROGERIO SCHIETTI'). tem('202500055557', classe, 'AREsp'). tem('202500055557', objeto, 'nulidade_busca').
+tem('202500055557', marcador, 'denuncia_anonima').
+resultado_real('202500055557', perde).
+tem('202500010280', turma, 'SEXTA TURMA'). tem('202500010280', relator, 'ROGERIO SCHIETTI'). tem('202500010280', classe, 'AREsp'). tem('202500010280', objeto, 'autoria').
+resultado_real('202500010280', perde).
+tem('202500036260', turma, 'SEXTA TURMA'). tem('202500036260', relator, 'ROGERIO SCHIETTI'). tem('202500036260', classe, 'AREsp'). tem('202500036260', objeto, 'autoria').
+resultado_real('202500036260', perde).
+tem('202500184836', turma, 'SEXTA TURMA'). tem('202500184836', relator, 'ROGERIO SCHIETTI'). tem('202500184836', classe, 'AREsp'). tem('202500184836', objeto, 'nulidade_busca').
+resultado_real('202500184836', perde).
+tem('202500212670', turma, 'SEXTA TURMA'). tem('202500212670', relator, 'ROGERIO SCHIETTI'). tem('202500212670', classe, 'AREsp'). tem('202500212670', objeto, 'p4').
+tem('202500212670', marcador, 'faccao').
+resultado_real('202500212670', perde).
+tem('202500366045', turma, 'SEXTA TURMA'). tem('202500366045', relator, 'ROGERIO SCHIETTI'). tem('202500366045', classe, 'AREsp'). tem('202500366045', objeto, 'nulidade_busca').
+tem('202500366045', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500366045', perde).
+tem('202500508913', turma, 'SEXTA TURMA'). tem('202500508913', relator, 'ROGERIO SCHIETTI'). tem('202500508913', classe, 'AREsp'). tem('202500508913', objeto, 'p4').
+tem('202500508913', marcador, 'faccao').
+resultado_real('202500508913', perde).
 tem('202500655520', turma, 'SEXTA TURMA'). tem('202500655520', relator, 'ROGERIO SCHIETTI'). tem('202500655520', classe, 'AREsp'). tem('202500655520', objeto, 'outro').
 resultado_real('202500655520', perde).
+tem('202500718266', turma, 'SEXTA TURMA'). tem('202500718266', relator, 'ROGERIO SCHIETTI'). tem('202500718266', classe, 'AREsp'). tem('202500718266', objeto, 'desclassificacao').
+resultado_real('202500718266', perde).
+tem('202500951336', turma, 'SEXTA TURMA'). tem('202500951336', relator, 'ROGERIO SCHIETTI'). tem('202500951336', classe, 'AREsp'). tem('202500951336', objeto, 'desclassificacao').
+resultado_real('202500951336', perde).
+tem('202500967801', turma, 'SEXTA TURMA'). tem('202500967801', relator, 'ROGERIO SCHIETTI'). tem('202500967801', classe, 'AREsp'). tem('202500967801', objeto, 'autoria').
+resultado_real('202500967801', perde).
+tem('202501055778', turma, 'SEXTA TURMA'). tem('202501055778', relator, 'ROGERIO SCHIETTI'). tem('202501055778', classe, 'AREsp'). tem('202501055778', objeto, 'p4').
+resultado_real('202501055778', perde).
 tem('202501065803', turma, 'SEXTA TURMA'). tem('202501065803', relator, 'ROGERIO SCHIETTI'). tem('202501065803', classe, 'AREsp'). tem('202501065803', objeto, 'p4').
 resultado_real('202501065803', perde).
+tem('202501295390', turma, 'SEXTA TURMA'). tem('202501295390', relator, 'ROGERIO SCHIETTI'). tem('202501295390', classe, 'AREsp'). tem('202501295390', objeto, 'dosimetria').
+resultado_real('202501295390', perde).
+tem('202501498514', turma, 'SEXTA TURMA'). tem('202501498514', relator, 'ROGERIO SCHIETTI'). tem('202501498514', classe, 'AREsp'). tem('202501498514', objeto, 'p4').
+tem('202501498514', marcador, 'faccao').
+resultado_real('202501498514', perde).
+tem('202501514088', turma, 'SEXTA TURMA'). tem('202501514088', relator, 'ROGERIO SCHIETTI'). tem('202501514088', classe, 'AREsp'). tem('202501514088', objeto, 'outro').
+resultado_real('202501514088', perde).
+tem('202501780178', turma, 'SEXTA TURMA'). tem('202501780178', relator, 'ROGERIO SCHIETTI'). tem('202501780178', classe, 'AREsp'). tem('202501780178', objeto, 'desclassificacao').
+resultado_real('202501780178', perde).
+tem('202501807201', turma, 'SEXTA TURMA'). tem('202501807201', relator, 'ROGERIO SCHIETTI'). tem('202501807201', classe, 'AREsp'). tem('202501807201', objeto, 'desclassificacao').
+resultado_real('202501807201', perde).
+tem('202501823405', turma, 'SEXTA TURMA'). tem('202501823405', relator, 'ROGERIO SCHIETTI'). tem('202501823405', classe, 'AREsp'). tem('202501823405', objeto, 'outro').
+resultado_real('202501823405', perde).
 tem('202502984915', turma, 'SEXTA TURMA'). tem('202502984915', relator, 'ROGERIO SCHIETTI'). tem('202502984915', classe, 'AREsp'). tem('202502984915', objeto, 'autoria').
 resultado_real('202502984915', perde).
 tem('202505060501', turma, 'SEXTA TURMA'). tem('202505060501', relator, 'ROGERIO SCHIETTI'). tem('202505060501', classe, 'AREsp'). tem('202505060501', objeto, 'outro').
@@ -2955,14 +10889,39 @@ resultado_real('202601563976', perde).
 tem('202602194131', turma, 'SEXTA TURMA'). tem('202602194131', relator, 'ROGERIO SCHIETTI'). tem('202602194131', classe, 'AREsp'). tem('202602194131', objeto, 'p4').
 tem('202602194131', marcador, 'faccao').
 resultado_real('202602194131', vence).
+tem('201601211263', turma, 'SEXTA TURMA'). tem('201601211263', relator, 'ROGERIO SCHIETTI'). tem('201601211263', classe, 'AREsp'). tem('201601211263', objeto, 'outro').
+resultado_real('201601211263', perde).
 tem('202501642648', turma, 'SEXTA TURMA'). tem('202501642648', relator, 'ROGERIO SCHIETTI'). tem('202501642648', classe, 'HC'). tem('202501642648', objeto, 'autoria').
 resultado_real('202501642648', perde).
+tem('202501699628', turma, 'SEXTA TURMA'). tem('202501699628', relator, 'ROGERIO SCHIETTI'). tem('202501699628', classe, 'HC'). tem('202501699628', objeto, 'outro').
+tem('202501699628', marcador, 'faccao').
+resultado_real('202501699628', perde).
+tem('202501744540', turma, 'SEXTA TURMA'). tem('202501744540', relator, 'ROGERIO SCHIETTI'). tem('202501744540', classe, 'HC'). tem('202501744540', objeto, 'outro').
+resultado_real('202501744540', perde).
+tem('202501807565', turma, 'SEXTA TURMA'). tem('202501807565', relator, 'ROGERIO SCHIETTI'). tem('202501807565', classe, 'HC'). tem('202501807565', objeto, 'p4').
+tem('202501807565', marcador, 'faccao').
+resultado_real('202501807565', perde).
+tem('202501905528', turma, 'SEXTA TURMA'). tem('202501905528', relator, 'ROGERIO SCHIETTI'). tem('202501905528', classe, 'HC'). tem('202501905528', objeto, 'nulidade_busca').
+tem('202501905528', marcador, 'nervosismo').
+tem('202501905528', marcador, 'denuncia_anonima').
+resultado_real('202501905528', perde).
+tem('202502208410', turma, 'SEXTA TURMA'). tem('202502208410', relator, 'ROGERIO SCHIETTI'). tem('202502208410', classe, 'HC'). tem('202502208410', objeto, 'p4').
+resultado_real('202502208410', perde).
+tem('202502238081', turma, 'SEXTA TURMA'). tem('202502238081', relator, 'ROGERIO SCHIETTI'). tem('202502238081', classe, 'HC'). tem('202502238081', objeto, 'p4').
+tem('202502238081', marcador, 'local_conhecido').
+tem('202502238081', marcador, 'faccao').
+resultado_real('202502238081', perde).
 tem('202502360415', turma, 'SEXTA TURMA'). tem('202502360415', relator, 'ROGERIO SCHIETTI'). tem('202502360415', classe, 'HC'). tem('202502360415', objeto, 'autoria').
 resultado_real('202502360415', perde).
 tem('202502719746', turma, 'SEXTA TURMA'). tem('202502719746', relator, 'ROGERIO SCHIETTI'). tem('202502719746', classe, 'HC'). tem('202502719746', objeto, 'nulidade_busca').
 resultado_real('202502719746', perde).
+tem('202502966513', turma, 'SEXTA TURMA'). tem('202502966513', relator, 'ROGERIO SCHIETTI'). tem('202502966513', classe, 'HC'). tem('202502966513', objeto, 'p4').
+resultado_real('202502966513', perde).
 tem('202503102434', turma, 'SEXTA TURMA'). tem('202503102434', relator, 'ROGERIO SCHIETTI'). tem('202503102434', classe, 'HC'). tem('202503102434', objeto, 'p4').
 resultado_real('202503102434', perde).
+tem('202503140094', turma, 'SEXTA TURMA'). tem('202503140094', relator, 'ROGERIO SCHIETTI'). tem('202503140094', classe, 'HC'). tem('202503140094', objeto, 'p4').
+tem('202503140094', marcador, 'faccao').
+resultado_real('202503140094', perde).
 tem('202503218158', turma, 'SEXTA TURMA'). tem('202503218158', relator, 'ROGERIO SCHIETTI'). tem('202503218158', classe, 'HC'). tem('202503218158', objeto, 'autoria').
 resultado_real('202503218158', perde).
 tem('202503760162', turma, 'SEXTA TURMA'). tem('202503760162', relator, 'ROGERIO SCHIETTI'). tem('202503760162', classe, 'HC'). tem('202503760162', objeto, 'outro').
@@ -3039,14 +10998,384 @@ tem('202601751280', turma, 'SEXTA TURMA'). tem('202601751280', relator, 'ROGERIO
 resultado_real('202601751280', perde).
 tem('202602013670', turma, 'SEXTA TURMA'). tem('202602013670', relator, 'ROGERIO SCHIETTI'). tem('202602013670', classe, 'HC'). tem('202602013670', objeto, 'autoria').
 resultado_real('202602013670', perde).
+tem('201902634733', turma, 'SEXTA TURMA'). tem('201902634733', relator, 'ROGERIO SCHIETTI'). tem('201902634733', classe, 'HC'). tem('201902634733', objeto, 'dosimetria').
+resultado_real('201902634733', vence).
+tem('202101564964', turma, 'SEXTA TURMA'). tem('202101564964', relator, 'ROGERIO SCHIETTI'). tem('202101564964', classe, 'HC'). tem('202101564964', objeto, 'outro').
+resultado_real('202101564964', perde).
+tem('202103371815', turma, 'SEXTA TURMA'). tem('202103371815', relator, 'ROGERIO SCHIETTI'). tem('202103371815', classe, 'HC'). tem('202103371815', objeto, 'p4').
+resultado_real('202103371815', perde).
+tem('202201780291', turma, 'SEXTA TURMA'). tem('202201780291', relator, 'ROGERIO SCHIETTI'). tem('202201780291', classe, 'HC'). tem('202201780291', objeto, 'dosimetria').
+tem('202201780291', marcador, 'faccao').
+resultado_real('202201780291', perde).
+tem('202202181475', turma, 'SEXTA TURMA'). tem('202202181475', relator, 'ROGERIO SCHIETTI'). tem('202202181475', classe, 'HC'). tem('202202181475', objeto, 'nulidade_busca').
+tem('202202181475', marcador, 'denuncia_anonima').
+resultado_real('202202181475', perde).
+tem('202203335343', turma, 'SEXTA TURMA'). tem('202203335343', relator, 'ROGERIO SCHIETTI'). tem('202203335343', classe, 'HC'). tem('202203335343', objeto, 'nulidade_busca').
+resultado_real('202203335343', perde).
+tem('202301184199', turma, 'SEXTA TURMA'). tem('202301184199', relator, 'ROGERIO SCHIETTI'). tem('202301184199', classe, 'HC'). tem('202301184199', objeto, 'autoria').
+resultado_real('202301184199', perde).
+tem('202301243186', turma, 'SEXTA TURMA'). tem('202301243186', relator, 'ROGERIO SCHIETTI'). tem('202301243186', classe, 'HC'). tem('202301243186', objeto, 'desclassificacao').
+resultado_real('202301243186', perde).
+tem('202301362420', turma, 'SEXTA TURMA'). tem('202301362420', relator, 'ROGERIO SCHIETTI'). tem('202301362420', classe, 'HC'). tem('202301362420', objeto, 'nulidade_busca').
+tem('202301362420', marcador, 'local_conhecido').
+tem('202301362420', marcador, 'nervosismo').
+resultado_real('202301362420', perde).
+tem('202301928001', turma, 'SEXTA TURMA'). tem('202301928001', relator, 'ROGERIO SCHIETTI'). tem('202301928001', classe, 'HC'). tem('202301928001', objeto, 'p4').
+tem('202301928001', marcador, 'comunidade_bairro').
+tem('202301928001', marcador, 'faccao').
+tem('202301928001', marcador, 'atos_infracionais').
+resultado_real('202301928001', perde).
+tem('202301966522', turma, 'SEXTA TURMA'). tem('202301966522', relator, 'ROGERIO SCHIETTI'). tem('202301966522', classe, 'HC'). tem('202301966522', objeto, 'nulidade_busca').
+tem('202301966522', marcador, 'fuga_mudanca_direcao').
+resultado_real('202301966522', perde).
+tem('202302471672', turma, 'SEXTA TURMA'). tem('202302471672', relator, 'ROGERIO SCHIETTI'). tem('202302471672', classe, 'HC'). tem('202302471672', objeto, 'nulidade_busca').
+tem('202302471672', marcador, 'conhecido_policia').
+resultado_real('202302471672', perde).
+tem('202302518220', turma, 'SEXTA TURMA'). tem('202302518220', relator, 'ROGERIO SCHIETTI'). tem('202302518220', classe, 'HC'). tem('202302518220', objeto, 'nulidade_busca').
+resultado_real('202302518220', perde).
+tem('202302522746', turma, 'SEXTA TURMA'). tem('202302522746', relator, 'ROGERIO SCHIETTI'). tem('202302522746', classe, 'HC'). tem('202302522746', objeto, 'dosimetria').
+resultado_real('202302522746', perde).
+tem('202302719786', turma, 'SEXTA TURMA'). tem('202302719786', relator, 'ROGERIO SCHIETTI'). tem('202302719786', classe, 'HC'). tem('202302719786', objeto, 'nulidade_busca').
+tem('202302719786', marcador, 'denuncia_anonima').
+resultado_real('202302719786', perde).
+tem('202302865219', turma, 'SEXTA TURMA'). tem('202302865219', relator, 'ROGERIO SCHIETTI'). tem('202302865219', classe, 'HC'). tem('202302865219', objeto, 'p4').
+tem('202302865219', marcador, 'faccao').
+resultado_real('202302865219', perde).
+tem('202303070168', turma, 'SEXTA TURMA'). tem('202303070168', relator, 'ROGERIO SCHIETTI'). tem('202303070168', classe, 'HC'). tem('202303070168', objeto, 'nulidade_busca').
+tem('202303070168', marcador, 'denuncia_anonima').
+resultado_real('202303070168', perde).
+tem('202303578950', turma, 'SEXTA TURMA'). tem('202303578950', relator, 'ROGERIO SCHIETTI'). tem('202303578950', classe, 'HC'). tem('202303578950', objeto, 'nulidade_busca').
+tem('202303578950', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303578950', perde).
+tem('202303741638', turma, 'SEXTA TURMA'). tem('202303741638', relator, 'ROGERIO SCHIETTI'). tem('202303741638', classe, 'HC'). tem('202303741638', objeto, 'nulidade_busca').
+tem('202303741638', marcador, 'faccao').
+resultado_real('202303741638', perde).
+tem('202303962115', turma, 'SEXTA TURMA'). tem('202303962115', relator, 'ROGERIO SCHIETTI'). tem('202303962115', classe, 'HC'). tem('202303962115', objeto, 'nulidade_busca').
+tem('202303962115', marcador, 'nervosismo').
+resultado_real('202303962115', perde).
+tem('202304071100', turma, 'SEXTA TURMA'). tem('202304071100', relator, 'ROGERIO SCHIETTI'). tem('202304071100', classe, 'HC'). tem('202304071100', objeto, 'nulidade_busca').
+resultado_real('202304071100', perde).
+tem('202304370606', turma, 'SEXTA TURMA'). tem('202304370606', relator, 'ROGERIO SCHIETTI'). tem('202304370606', classe, 'HC'). tem('202304370606', objeto, 'nulidade_busca').
+resultado_real('202304370606', perde).
+tem('202304379356', turma, 'SEXTA TURMA'). tem('202304379356', relator, 'ROGERIO SCHIETTI'). tem('202304379356', classe, 'HC'). tem('202304379356', objeto, 'nulidade_busca').
+tem('202304379356', marcador, 'denuncia_anonima').
+resultado_real('202304379356', perde).
+tem('202304495040', turma, 'SEXTA TURMA'). tem('202304495040', relator, 'ROGERIO SCHIETTI'). tem('202304495040', classe, 'HC'). tem('202304495040', objeto, 'nulidade_busca').
+resultado_real('202304495040', perde).
+tem('202400413820', turma, 'SEXTA TURMA'). tem('202400413820', relator, 'ROGERIO SCHIETTI'). tem('202400413820', classe, 'HC'). tem('202400413820', objeto, 'nulidade_busca').
+tem('202400413820', marcador, 'local_conhecido').
+tem('202400413820', marcador, 'denuncia_anonima').
+resultado_real('202400413820', perde).
+tem('202400658139', turma, 'SEXTA TURMA'). tem('202400658139', relator, 'ROGERIO SCHIETTI'). tem('202400658139', classe, 'HC'). tem('202400658139', objeto, 'autoria').
+tem('202400658139', marcador, 'denuncia_anonima').
+resultado_real('202400658139', perde).
+tem('202400759359', turma, 'SEXTA TURMA'). tem('202400759359', relator, 'ROGERIO SCHIETTI'). tem('202400759359', classe, 'HC'). tem('202400759359', objeto, 'nulidade_busca').
+tem('202400759359', marcador, 'faccao').
+tem('202400759359', marcador, 'nervosismo').
+tem('202400759359', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400759359', perde).
+tem('202400949051', turma, 'SEXTA TURMA'). tem('202400949051', relator, 'ROGERIO SCHIETTI'). tem('202400949051', classe, 'HC'). tem('202400949051', objeto, 'nulidade_busca').
+tem('202400949051', marcador, 'denuncia_anonima').
+resultado_real('202400949051', perde).
+tem('202401006525', turma, 'SEXTA TURMA'). tem('202401006525', relator, 'ROGERIO SCHIETTI'). tem('202401006525', classe, 'HC'). tem('202401006525', objeto, 'nulidade_busca').
+resultado_real('202401006525', perde).
+tem('202401533346', turma, 'SEXTA TURMA'). tem('202401533346', relator, 'ROGERIO SCHIETTI'). tem('202401533346', classe, 'HC'). tem('202401533346', objeto, 'autoria').
+resultado_real('202401533346', perde).
+tem('202401612173', turma, 'SEXTA TURMA'). tem('202401612173', relator, 'ROGERIO SCHIETTI'). tem('202401612173', classe, 'HC'). tem('202401612173', objeto, 'nulidade_busca').
+resultado_real('202401612173', perde).
+tem('202401727332', turma, 'SEXTA TURMA'). tem('202401727332', relator, 'ROGERIO SCHIETTI'). tem('202401727332', classe, 'HC'). tem('202401727332', objeto, 'outro').
+resultado_real('202401727332', perde).
+tem('202401818163', turma, 'SEXTA TURMA'). tem('202401818163', relator, 'ROGERIO SCHIETTI'). tem('202401818163', classe, 'HC'). tem('202401818163', objeto, 'nulidade_busca').
+resultado_real('202401818163', perde).
+tem('202401845993', turma, 'SEXTA TURMA'). tem('202401845993', relator, 'ROGERIO SCHIETTI'). tem('202401845993', classe, 'HC'). tem('202401845993', objeto, 'p4').
+tem('202401845993', marcador, 'faccao').
+resultado_real('202401845993', perde).
+tem('202401858983', turma, 'SEXTA TURMA'). tem('202401858983', relator, 'ROGERIO SCHIETTI'). tem('202401858983', classe, 'HC'). tem('202401858983', objeto, 'nulidade_busca').
+tem('202401858983', marcador, 'denuncia_anonima').
+resultado_real('202401858983', perde).
+tem('202401890874', turma, 'SEXTA TURMA'). tem('202401890874', relator, 'ROGERIO SCHIETTI'). tem('202401890874', classe, 'HC'). tem('202401890874', objeto, 'outro').
+resultado_real('202401890874', perde).
+tem('202401982504', turma, 'SEXTA TURMA'). tem('202401982504', relator, 'ROGERIO SCHIETTI'). tem('202401982504', classe, 'HC'). tem('202401982504', objeto, 'nulidade_busca').
+tem('202401982504', marcador, 'denuncia_anonima').
+resultado_real('202401982504', perde).
+tem('202402014784', turma, 'SEXTA TURMA'). tem('202402014784', relator, 'ROGERIO SCHIETTI'). tem('202402014784', classe, 'HC'). tem('202402014784', objeto, 'nulidade_busca').
+tem('202402014784', marcador, 'denuncia_anonima').
+resultado_real('202402014784', perde).
+tem('202402039766', turma, 'SEXTA TURMA'). tem('202402039766', relator, 'ROGERIO SCHIETTI'). tem('202402039766', classe, 'HC'). tem('202402039766', objeto, 'desclassificacao').
+resultado_real('202402039766', perde).
+tem('202402258992', turma, 'SEXTA TURMA'). tem('202402258992', relator, 'ROGERIO SCHIETTI'). tem('202402258992', classe, 'HC'). tem('202402258992', objeto, 'nulidade_busca').
+tem('202402258992', marcador, 'faccao').
+tem('202402258992', marcador, 'denuncia_anonima').
+resultado_real('202402258992', perde).
+tem('202402361041', turma, 'SEXTA TURMA'). tem('202402361041', relator, 'ROGERIO SCHIETTI'). tem('202402361041', classe, 'HC'). tem('202402361041', objeto, 'nulidade_busca').
+tem('202402361041', marcador, 'denuncia_anonima').
+resultado_real('202402361041', perde).
+tem('202402520630', turma, 'SEXTA TURMA'). tem('202402520630', relator, 'ROGERIO SCHIETTI'). tem('202402520630', classe, 'HC'). tem('202402520630', objeto, 'nulidade_busca').
+tem('202402520630', marcador, 'denuncia_anonima').
+resultado_real('202402520630', perde).
+tem('202402569216', turma, 'SEXTA TURMA'). tem('202402569216', relator, 'ROGERIO SCHIETTI'). tem('202402569216', classe, 'HC'). tem('202402569216', objeto, 'p4').
+resultado_real('202402569216', perde).
+tem('202402651928', turma, 'SEXTA TURMA'). tem('202402651928', relator, 'ROGERIO SCHIETTI'). tem('202402651928', classe, 'HC'). tem('202402651928', objeto, 'nulidade_busca').
+tem('202402651928', marcador, 'nervosismo').
+resultado_real('202402651928', perde).
+tem('202402975103', turma, 'SEXTA TURMA'). tem('202402975103', relator, 'ROGERIO SCHIETTI'). tem('202402975103', classe, 'HC'). tem('202402975103', objeto, 'nulidade_busca').
+tem('202402975103', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402975103', perde).
+tem('202402985541', turma, 'SEXTA TURMA'). tem('202402985541', relator, 'ROGERIO SCHIETTI'). tem('202402985541', classe, 'HC'). tem('202402985541', objeto, 'p4').
+resultado_real('202402985541', perde).
+tem('202403012420', turma, 'SEXTA TURMA'). tem('202403012420', relator, 'ROGERIO SCHIETTI'). tem('202403012420', classe, 'HC'). tem('202403012420', objeto, 'nulidade_busca').
+tem('202403012420', marcador, 'denuncia_anonima').
+resultado_real('202403012420', perde).
+tem('202403207248', turma, 'SEXTA TURMA'). tem('202403207248', relator, 'ROGERIO SCHIETTI'). tem('202403207248', classe, 'HC'). tem('202403207248', objeto, 'outro').
+resultado_real('202403207248', perde).
+tem('202403369409', turma, 'SEXTA TURMA'). tem('202403369409', relator, 'ROGERIO SCHIETTI'). tem('202403369409', classe, 'HC'). tem('202403369409', objeto, 'nulidade_busca').
+tem('202403369409', marcador, 'local_conhecido').
+tem('202403369409', marcador, 'fuga_mudanca_direcao').
+tem('202403369409', marcador, 'denuncia_anonima').
+resultado_real('202403369409', perde).
+tem('202403409563', turma, 'SEXTA TURMA'). tem('202403409563', relator, 'ROGERIO SCHIETTI'). tem('202403409563', classe, 'HC'). tem('202403409563', objeto, 'desclassificacao').
+resultado_real('202403409563', perde).
+tem('202403408720', turma, 'SEXTA TURMA'). tem('202403408720', relator, 'ROGERIO SCHIETTI'). tem('202403408720', classe, 'HC'). tem('202403408720', objeto, 'dosimetria').
+resultado_real('202403408720', perde).
+tem('202403527317', turma, 'SEXTA TURMA'). tem('202403527317', relator, 'ROGERIO SCHIETTI'). tem('202403527317', classe, 'HC'). tem('202403527317', objeto, 'nulidade_busca').
+tem('202403527317', marcador, 'nervosismo').
+tem('202403527317', marcador, 'fuga_mudanca_direcao').
+tem('202403527317', marcador, 'denuncia_anonima').
+resultado_real('202403527317', perde).
+tem('202403548357', turma, 'SEXTA TURMA'). tem('202403548357', relator, 'ROGERIO SCHIETTI'). tem('202403548357', classe, 'HC'). tem('202403548357', objeto, 'nulidade_busca').
+tem('202403548357', marcador, 'fuga_mudanca_direcao').
+tem('202403548357', marcador, 'denuncia_anonima').
+resultado_real('202403548357', perde).
+tem('202403616812', turma, 'SEXTA TURMA'). tem('202403616812', relator, 'ROGERIO SCHIETTI'). tem('202403616812', classe, 'HC'). tem('202403616812', objeto, 'autoria').
+resultado_real('202403616812', perde).
+tem('202403627956', turma, 'SEXTA TURMA'). tem('202403627956', relator, 'ROGERIO SCHIETTI'). tem('202403627956', classe, 'HC'). tem('202403627956', objeto, 'p4').
+tem('202403627956', marcador, 'faccao').
+resultado_real('202403627956', perde).
+tem('202403659169', turma, 'SEXTA TURMA'). tem('202403659169', relator, 'ROGERIO SCHIETTI'). tem('202403659169', classe, 'HC'). tem('202403659169', objeto, 'nulidade_busca').
+tem('202403659169', marcador, 'faccao').
+tem('202403659169', marcador, 'nervosismo').
+tem('202403659169', marcador, 'denuncia_anonima').
+resultado_real('202403659169', perde).
+tem('202403702340', turma, 'SEXTA TURMA'). tem('202403702340', relator, 'ROGERIO SCHIETTI'). tem('202403702340', classe, 'HC'). tem('202403702340', objeto, 'nulidade_busca').
+resultado_real('202403702340', perde).
+tem('202403744648', turma, 'SEXTA TURMA'). tem('202403744648', relator, 'ROGERIO SCHIETTI'). tem('202403744648', classe, 'HC'). tem('202403744648', objeto, 'nulidade_busca').
+tem('202403744648', marcador, 'denuncia_anonima').
+resultado_real('202403744648', perde).
+tem('202403744851', turma, 'SEXTA TURMA'). tem('202403744851', relator, 'ROGERIO SCHIETTI'). tem('202403744851', classe, 'HC'). tem('202403744851', objeto, 'p4').
+resultado_real('202403744851', perde).
+tem('202403809873', turma, 'SEXTA TURMA'). tem('202403809873', relator, 'ROGERIO SCHIETTI'). tem('202403809873', classe, 'HC'). tem('202403809873', objeto, 'outro').
+resultado_real('202403809873', perde).
+tem('202403906814', turma, 'SEXTA TURMA'). tem('202403906814', relator, 'ROGERIO SCHIETTI'). tem('202403906814', classe, 'HC'). tem('202403906814', objeto, 'dosimetria').
+resultado_real('202403906814', perde).
+tem('202403944272', turma, 'SEXTA TURMA'). tem('202403944272', relator, 'ROGERIO SCHIETTI'). tem('202403944272', classe, 'HC'). tem('202403944272', objeto, 'nulidade_busca').
+tem('202403944272', marcador, 'local_conhecido').
+tem('202403944272', marcador, 'nervosismo').
+tem('202403944272', marcador, 'denuncia_anonima').
+resultado_real('202403944272', perde).
+tem('202403988680', turma, 'SEXTA TURMA'). tem('202403988680', relator, 'ROGERIO SCHIETTI'). tem('202403988680', classe, 'HC'). tem('202403988680', objeto, 'p4').
+tem('202403988680', marcador, 'faccao').
+resultado_real('202403988680', perde).
+tem('202404051250', turma, 'SEXTA TURMA'). tem('202404051250', relator, 'ROGERIO SCHIETTI'). tem('202404051250', classe, 'HC'). tem('202404051250', objeto, 'dosimetria').
+resultado_real('202404051250', perde).
+tem('202404134685', turma, 'SEXTA TURMA'). tem('202404134685', relator, 'ROGERIO SCHIETTI'). tem('202404134685', classe, 'HC'). tem('202404134685', objeto, 'nulidade_busca').
+tem('202404134685', marcador, 'denuncia_anonima').
+resultado_real('202404134685', perde).
+tem('202404206496', turma, 'SEXTA TURMA'). tem('202404206496', relator, 'ROGERIO SCHIETTI'). tem('202404206496', classe, 'HC'). tem('202404206496', objeto, 'outro').
+tem('202404206496', marcador, 'atos_infracionais').
+resultado_real('202404206496', perde).
+tem('202404269902', turma, 'SEXTA TURMA'). tem('202404269902', relator, 'ROGERIO SCHIETTI'). tem('202404269902', classe, 'HC'). tem('202404269902', objeto, 'dosimetria').
+tem('202404269902', marcador, 'faccao').
+resultado_real('202404269902', perde).
+tem('202404316617', turma, 'SEXTA TURMA'). tem('202404316617', relator, 'ROGERIO SCHIETTI'). tem('202404316617', classe, 'HC'). tem('202404316617', objeto, 'nulidade_busca').
+resultado_real('202404316617', perde).
+tem('202404345420', turma, 'SEXTA TURMA'). tem('202404345420', relator, 'ROGERIO SCHIETTI'). tem('202404345420', classe, 'HC'). tem('202404345420', objeto, 'outro').
+resultado_real('202404345420', perde).
+tem('202404365728', turma, 'SEXTA TURMA'). tem('202404365728', relator, 'ROGERIO SCHIETTI'). tem('202404365728', classe, 'HC'). tem('202404365728', objeto, 'outro').
+resultado_real('202404365728', perde).
+tem('202404434623', turma, 'SEXTA TURMA'). tem('202404434623', relator, 'ROGERIO SCHIETTI'). tem('202404434623', classe, 'HC'). tem('202404434623', objeto, 'desclassificacao').
+resultado_real('202404434623', perde).
+tem('202404461050', turma, 'SEXTA TURMA'). tem('202404461050', relator, 'ROGERIO SCHIETTI'). tem('202404461050', classe, 'HC'). tem('202404461050', objeto, 'nulidade_busca').
+tem('202404461050', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404461050', perde).
+tem('202404520631', turma, 'SEXTA TURMA'). tem('202404520631', relator, 'ROGERIO SCHIETTI'). tem('202404520631', classe, 'HC'). tem('202404520631', objeto, 'p4').
+tem('202404520631', marcador, 'faccao').
+resultado_real('202404520631', perde).
 tem('202404564216', turma, 'SEXTA TURMA'). tem('202404564216', relator, 'ROGERIO SCHIETTI'). tem('202404564216', classe, 'HC'). tem('202404564216', objeto, 'p4').
 resultado_real('202404564216', perde).
+tem('202404578896', turma, 'SEXTA TURMA'). tem('202404578896', relator, 'ROGERIO SCHIETTI'). tem('202404578896', classe, 'HC'). tem('202404578896', objeto, 'p4').
+tem('202404578896', marcador, 'faccao').
+resultado_real('202404578896', perde).
+tem('202404601430', turma, 'SEXTA TURMA'). tem('202404601430', relator, 'ROGERIO SCHIETTI'). tem('202404601430', classe, 'HC'). tem('202404601430', objeto, 'p4').
+resultado_real('202404601430', perde).
+tem('202404767213', turma, 'SEXTA TURMA'). tem('202404767213', relator, 'ROGERIO SCHIETTI'). tem('202404767213', classe, 'HC'). tem('202404767213', objeto, 'desclassificacao').
+resultado_real('202404767213', perde).
+tem('202404781523', turma, 'SEXTA TURMA'). tem('202404781523', relator, 'ROGERIO SCHIETTI'). tem('202404781523', classe, 'HC'). tem('202404781523', objeto, 'outro').
+tem('202404781523', marcador, 'faccao').
+resultado_real('202404781523', perde).
+tem('202404872241', turma, 'SEXTA TURMA'). tem('202404872241', relator, 'ROGERIO SCHIETTI'). tem('202404872241', classe, 'HC'). tem('202404872241', objeto, 'p4').
+tem('202404872241', marcador, 'faccao').
+resultado_real('202404872241', perde).
+tem('202404874907', turma, 'SEXTA TURMA'). tem('202404874907', relator, 'ROGERIO SCHIETTI'). tem('202404874907', classe, 'HC'). tem('202404874907', objeto, 'autoria').
+resultado_real('202404874907', vence).
+tem('202404883158', turma, 'SEXTA TURMA'). tem('202404883158', relator, 'ROGERIO SCHIETTI'). tem('202404883158', classe, 'HC'). tem('202404883158', objeto, 'p4').
+resultado_real('202404883158', perde).
+tem('202404884309', turma, 'SEXTA TURMA'). tem('202404884309', relator, 'ROGERIO SCHIETTI'). tem('202404884309', classe, 'HC'). tem('202404884309', objeto, 'nulidade_busca').
+tem('202404884309', marcador, 'denuncia_anonima').
+resultado_real('202404884309', perde).
+tem('202500054814', turma, 'SEXTA TURMA'). tem('202500054814', relator, 'ROGERIO SCHIETTI'). tem('202500054814', classe, 'HC'). tem('202500054814', objeto, 'outro').
+resultado_real('202500054814', perde).
+tem('202500058413', turma, 'SEXTA TURMA'). tem('202500058413', relator, 'ROGERIO SCHIETTI'). tem('202500058413', classe, 'HC'). tem('202500058413', objeto, 'p4').
+resultado_real('202500058413', perde).
+tem('202500069130', turma, 'SEXTA TURMA'). tem('202500069130', relator, 'ROGERIO SCHIETTI'). tem('202500069130', classe, 'HC'). tem('202500069130', objeto, 'p4').
+tem('202500069130', marcador, 'faccao').
+resultado_real('202500069130', perde).
+tem('202500081230', turma, 'SEXTA TURMA'). tem('202500081230', relator, 'ROGERIO SCHIETTI'). tem('202500081230', classe, 'HC'). tem('202500081230', objeto, 'nulidade_busca').
+tem('202500081230', marcador, 'local_conhecido').
+resultado_real('202500081230', perde).
+tem('202500132667', turma, 'SEXTA TURMA'). tem('202500132667', relator, 'ROGERIO SCHIETTI'). tem('202500132667', classe, 'HC'). tem('202500132667', objeto, 'p4').
+tem('202500132667', marcador, 'faccao').
+resultado_real('202500132667', perde).
+tem('202500239445', turma, 'SEXTA TURMA'). tem('202500239445', relator, 'ROGERIO SCHIETTI'). tem('202500239445', classe, 'HC'). tem('202500239445', objeto, 'p4').
+resultado_real('202500239445', perde).
 tem('202500313258', turma, 'SEXTA TURMA'). tem('202500313258', relator, 'ROGERIO SCHIETTI'). tem('202500313258', classe, 'HC'). tem('202500313258', objeto, 'nulidade_busca').
 tem('202500313258', marcador, 'denuncia_anonima').
 resultado_real('202500313258', perde).
+tem('202500361727', turma, 'SEXTA TURMA'). tem('202500361727', relator, 'ROGERIO SCHIETTI'). tem('202500361727', classe, 'HC'). tem('202500361727', objeto, 'p4').
+resultado_real('202500361727', perde).
+tem('202500415314', turma, 'SEXTA TURMA'). tem('202500415314', relator, 'ROGERIO SCHIETTI'). tem('202500415314', classe, 'HC'). tem('202500415314', objeto, 'p4').
+tem('202500415314', marcador, 'faccao').
+resultado_real('202500415314', perde).
+tem('202500457559', turma, 'SEXTA TURMA'). tem('202500457559', relator, 'ROGERIO SCHIETTI'). tem('202500457559', classe, 'HC'). tem('202500457559', objeto, 'outro').
+resultado_real('202500457559', perde).
+tem('202500479953', turma, 'SEXTA TURMA'). tem('202500479953', relator, 'ROGERIO SCHIETTI'). tem('202500479953', classe, 'HC'). tem('202500479953', objeto, 'autoria').
+tem('202500479953', marcador, 'comunidade_bairro').
+resultado_real('202500479953', perde).
+tem('202500493579', turma, 'SEXTA TURMA'). tem('202500493579', relator, 'ROGERIO SCHIETTI'). tem('202500493579', classe, 'HC'). tem('202500493579', objeto, 'outro').
+resultado_real('202500493579', perde).
+tem('202500686883', turma, 'SEXTA TURMA'). tem('202500686883', relator, 'ROGERIO SCHIETTI'). tem('202500686883', classe, 'HC'). tem('202500686883', objeto, 'nulidade_busca').
+resultado_real('202500686883', perde).
+tem('202500688551', turma, 'SEXTA TURMA'). tem('202500688551', relator, 'ROGERIO SCHIETTI'). tem('202500688551', classe, 'HC'). tem('202500688551', objeto, 'dosimetria').
+resultado_real('202500688551', perde).
+tem('202500703600', turma, 'SEXTA TURMA'). tem('202500703600', relator, 'ROGERIO SCHIETTI'). tem('202500703600', classe, 'HC'). tem('202500703600', objeto, 'dosimetria').
+resultado_real('202500703600', perde).
+tem('202500710498', turma, 'SEXTA TURMA'). tem('202500710498', relator, 'ROGERIO SCHIETTI'). tem('202500710498', classe, 'HC'). tem('202500710498', objeto, 'p4').
+tem('202500710498', marcador, 'faccao').
+resultado_real('202500710498', perde).
+tem('202500761771', turma, 'SEXTA TURMA'). tem('202500761771', relator, 'ROGERIO SCHIETTI'). tem('202500761771', classe, 'HC'). tem('202500761771', objeto, 'outro').
+resultado_real('202500761771', perde).
+tem('202500762882', turma, 'SEXTA TURMA'). tem('202500762882', relator, 'ROGERIO SCHIETTI'). tem('202500762882', classe, 'HC'). tem('202500762882', objeto, 'p4').
+tem('202500762882', marcador, 'faccao').
+resultado_real('202500762882', perde).
+tem('202500997472', turma, 'SEXTA TURMA'). tem('202500997472', relator, 'ROGERIO SCHIETTI'). tem('202500997472', classe, 'HC'). tem('202500997472', objeto, 'p4').
+resultado_real('202500997472', perde).
+tem('202501133065', turma, 'SEXTA TURMA'). tem('202501133065', relator, 'ROGERIO SCHIETTI'). tem('202501133065', classe, 'HC'). tem('202501133065', objeto, 'outro').
+resultado_real('202501133065', perde).
+tem('202501156998', turma, 'SEXTA TURMA'). tem('202501156998', relator, 'ROGERIO SCHIETTI'). tem('202501156998', classe, 'HC'). tem('202501156998', objeto, 'nulidade_busca').
+tem('202501156998', marcador, 'local_conhecido').
+tem('202501156998', marcador, 'denuncia_anonima').
+resultado_real('202501156998', perde).
+tem('202501180496', turma, 'SEXTA TURMA'). tem('202501180496', relator, 'ROGERIO SCHIETTI'). tem('202501180496', classe, 'HC'). tem('202501180496', objeto, 'autoria').
+resultado_real('202501180496', perde).
+tem('202501215811', turma, 'SEXTA TURMA'). tem('202501215811', relator, 'ROGERIO SCHIETTI'). tem('202501215811', classe, 'HC'). tem('202501215811', objeto, 'p4').
+tem('202501215811', marcador, 'faccao').
+resultado_real('202501215811', perde).
+tem('202501361099', turma, 'SEXTA TURMA'). tem('202501361099', relator, 'ROGERIO SCHIETTI'). tem('202501361099', classe, 'HC'). tem('202501361099', objeto, 'autoria').
+resultado_real('202501361099', perde).
+tem('202501429786', turma, 'SEXTA TURMA'). tem('202501429786', relator, 'ROGERIO SCHIETTI'). tem('202501429786', classe, 'HC'). tem('202501429786', objeto, 'dosimetria').
+resultado_real('202501429786', perde).
+tem('201600175648', turma, 'SEXTA TURMA'). tem('201600175648', relator, 'ROGERIO SCHIETTI'). tem('201600175648', classe, 'REsp'). tem('201600175648', objeto, 'nulidade_busca').
+resultado_real('201600175648', vence).
+tem('201602918931', turma, 'SEXTA TURMA'). tem('201602918931', relator, 'ROGERIO SCHIETTI'). tem('201602918931', classe, 'REsp'). tem('201602918931', objeto, 'outro').
+resultado_real('201602918931', perde).
+tem('202002022314', turma, 'SEXTA TURMA'). tem('202002022314', relator, 'ROGERIO SCHIETTI'). tem('202002022314', classe, 'REsp'). tem('202002022314', objeto, 'dosimetria').
+resultado_real('202002022314', perde).
+tem('202103474157', turma, 'SEXTA TURMA'). tem('202103474157', relator, 'ROGERIO SCHIETTI'). tem('202103474157', classe, 'REsp'). tem('202103474157', objeto, 'nulidade_busca').
+tem('202103474157', marcador, 'faccao').
+tem('202103474157', marcador, 'fuga_mudanca_direcao').
+resultado_real('202103474157', perde).
+tem('202300665619', turma, 'SEXTA TURMA'). tem('202300665619', relator, 'ROGERIO SCHIETTI'). tem('202300665619', classe, 'REsp'). tem('202300665619', objeto, 'p4').
+resultado_real('202300665619', perde).
+tem('202203614148', turma, 'SEXTA TURMA'). tem('202203614148', relator, 'ROGERIO SCHIETTI'). tem('202203614148', classe, 'REsp'). tem('202203614148', objeto, 'p4').
+tem('202203614148', marcador, 'faccao').
+tem('202203614148', marcador, 'denuncia_anonima').
+resultado_real('202203614148', perde).
+tem('202301729966', turma, 'SEXTA TURMA'). tem('202301729966', relator, 'ROGERIO SCHIETTI'). tem('202301729966', classe, 'REsp'). tem('202301729966', objeto, 'dosimetria').
+resultado_real('202301729966', perde).
+tem('202302851701', turma, 'SEXTA TURMA'). tem('202302851701', relator, 'ROGERIO SCHIETTI'). tem('202302851701', classe, 'REsp'). tem('202302851701', objeto, 'nulidade_busca').
+tem('202302851701', marcador, 'comunidade_bairro').
+tem('202302851701', marcador, 'fuga_mudanca_direcao').
+resultado_real('202302851701', vence).
+tem('202302975907', turma, 'SEXTA TURMA'). tem('202302975907', relator, 'ROGERIO SCHIETTI'). tem('202302975907', classe, 'REsp'). tem('202302975907', objeto, 'desclassificacao').
+resultado_real('202302975907', perde).
+tem('202303451460', turma, 'SEXTA TURMA'). tem('202303451460', relator, 'ROGERIO SCHIETTI'). tem('202303451460', classe, 'REsp'). tem('202303451460', objeto, 'nulidade_busca').
+tem('202303451460', marcador, 'fuga_mudanca_direcao').
+resultado_real('202303451460', perde).
+tem('202400236358', turma, 'SEXTA TURMA'). tem('202400236358', relator, 'ROGERIO SCHIETTI'). tem('202400236358', classe, 'REsp'). tem('202400236358', objeto, 'p4').
+tem('202400236358', marcador, 'faccao').
+resultado_real('202400236358', perde).
+tem('202400863074', turma, 'SEXTA TURMA'). tem('202400863074', relator, 'ROGERIO SCHIETTI'). tem('202400863074', classe, 'REsp'). tem('202400863074', objeto, 'nulidade_busca').
+tem('202400863074', marcador, 'denuncia_anonima').
+resultado_real('202400863074', perde).
+tem('202401093324', turma, 'SEXTA TURMA'). tem('202401093324', relator, 'ROGERIO SCHIETTI'). tem('202401093324', classe, 'REsp'). tem('202401093324', objeto, 'p4').
+resultado_real('202401093324', perde).
+tem('202402155359', turma, 'SEXTA TURMA'). tem('202402155359', relator, 'ROGERIO SCHIETTI'). tem('202402155359', classe, 'REsp'). tem('202402155359', objeto, 'p4').
+resultado_real('202402155359', perde).
+tem('202402708076', turma, 'SEXTA TURMA'). tem('202402708076', relator, 'ROGERIO SCHIETTI'). tem('202402708076', classe, 'REsp'). tem('202402708076', objeto, 'nulidade_busca').
+resultado_real('202402708076', vence).
+tem('202402743442', turma, 'SEXTA TURMA'). tem('202402743442', relator, 'ROGERIO SCHIETTI'). tem('202402743442', classe, 'REsp'). tem('202402743442', objeto, 'dosimetria').
+resultado_real('202402743442', perde).
+tem('202402829694', turma, 'SEXTA TURMA'). tem('202402829694', relator, 'ROGERIO SCHIETTI'). tem('202402829694', classe, 'REsp'). tem('202402829694', objeto, 'nulidade_busca').
+tem('202402829694', marcador, 'faccao').
+tem('202402829694', marcador, 'atos_infracionais').
+resultado_real('202402829694', perde).
+tem('202402939662', turma, 'SEXTA TURMA'). tem('202402939662', relator, 'ROGERIO SCHIETTI'). tem('202402939662', classe, 'REsp'). tem('202402939662', objeto, 'p4').
+tem('202402939662', marcador, 'faccao').
+tem('202402939662', marcador, 'atos_infracionais').
+resultado_real('202402939662', perde).
+tem('202402973827', turma, 'SEXTA TURMA'). tem('202402973827', relator, 'ROGERIO SCHIETTI'). tem('202402973827', classe, 'REsp'). tem('202402973827', objeto, 'p4').
+resultado_real('202402973827', perde).
+tem('202403246286', turma, 'SEXTA TURMA'). tem('202403246286', relator, 'ROGERIO SCHIETTI'). tem('202403246286', classe, 'REsp'). tem('202403246286', objeto, 'desclassificacao').
+resultado_real('202403246286', perde).
+tem('202403528910', turma, 'SEXTA TURMA'). tem('202403528910', relator, 'ROGERIO SCHIETTI'). tem('202403528910', classe, 'REsp'). tem('202403528910', objeto, 'p4').
+tem('202403528910', marcador, 'faccao').
+resultado_real('202403528910', perde).
+tem('202403684498', turma, 'SEXTA TURMA'). tem('202403684498', relator, 'ROGERIO SCHIETTI'). tem('202403684498', classe, 'REsp'). tem('202403684498', objeto, 'nulidade_busca').
+tem('202403684498', marcador, 'nervosismo').
+tem('202403684498', marcador, 'denuncia_anonima').
+resultado_real('202403684498', perde).
+tem('202403767344', turma, 'SEXTA TURMA'). tem('202403767344', relator, 'ROGERIO SCHIETTI'). tem('202403767344', classe, 'REsp'). tem('202403767344', objeto, 'nulidade_busca').
+tem('202403767344', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403767344', perde).
+tem('202403808584', turma, 'SEXTA TURMA'). tem('202403808584', relator, 'ROGERIO SCHIETTI'). tem('202403808584', classe, 'REsp'). tem('202403808584', objeto, 'p4').
+tem('202403808584', marcador, 'faccao').
+resultado_real('202403808584', perde).
+tem('202403808600', turma, 'SEXTA TURMA'). tem('202403808600', relator, 'ROGERIO SCHIETTI'). tem('202403808600', classe, 'REsp'). tem('202403808600', objeto, 'dosimetria').
+resultado_real('202403808600', perde).
+tem('202404183076', turma, 'SEXTA TURMA'). tem('202404183076', relator, 'ROGERIO SCHIETTI'). tem('202404183076', classe, 'REsp'). tem('202404183076', objeto, 'dosimetria').
+resultado_real('202404183076', perde).
+tem('202404102513', turma, 'SEXTA TURMA'). tem('202404102513', relator, 'ROGERIO SCHIETTI'). tem('202404102513', classe, 'REsp'). tem('202404102513', objeto, 'outro').
+resultado_real('202404102513', perde).
+tem('202404247747', turma, 'SEXTA TURMA'). tem('202404247747', relator, 'ROGERIO SCHIETTI'). tem('202404247747', classe, 'REsp'). tem('202404247747', objeto, 'nulidade_busca').
+tem('202404247747', marcador, 'fuga_mudanca_direcao').
+tem('202404247747', marcador, 'denuncia_anonima').
+resultado_real('202404247747', perde).
+tem('202404540308', turma, 'SEXTA TURMA'). tem('202404540308', relator, 'ROGERIO SCHIETTI'). tem('202404540308', classe, 'REsp'). tem('202404540308', objeto, 'desclassificacao').
+resultado_real('202404540308', perde).
+tem('202404551910', turma, 'SEXTA TURMA'). tem('202404551910', relator, 'ROGERIO SCHIETTI'). tem('202404551910', classe, 'REsp'). tem('202404551910', objeto, 'nulidade_busca').
+tem('202404551910', marcador, 'denuncia_anonima').
+resultado_real('202404551910', perde).
+tem('202500446820', turma, 'SEXTA TURMA'). tem('202500446820', relator, 'ROGERIO SCHIETTI'). tem('202500446820', classe, 'REsp'). tem('202500446820', objeto, 'nulidade_busca').
+tem('202500446820', marcador, 'nervosismo').
+tem('202500446820', marcador, 'fuga_mudanca_direcao').
+tem('202500446820', marcador, 'denuncia_anonima').
+resultado_real('202500446820', perde).
 tem('202500614963', turma, 'SEXTA TURMA'). tem('202500614963', relator, 'ROGERIO SCHIETTI'). tem('202500614963', classe, 'REsp'). tem('202500614963', objeto, 'nulidade_busca').
 tem('202500614963', marcador, 'fuga_mudanca_direcao').
 resultado_real('202500614963', perde).
+tem('202500568991', turma, 'SEXTA TURMA'). tem('202500568991', relator, 'ROGERIO SCHIETTI'). tem('202500568991', classe, 'REsp'). tem('202500568991', objeto, 'p4').
+resultado_real('202500568991', perde).
+tem('202501290541', turma, 'SEXTA TURMA'). tem('202501290541', relator, 'ROGERIO SCHIETTI'). tem('202501290541', classe, 'REsp'). tem('202501290541', objeto, 'p4').
+resultado_real('202501290541', perde).
 tem('202502541601', turma, 'SEXTA TURMA'). tem('202502541601', relator, 'ROGERIO SCHIETTI'). tem('202502541601', classe, 'REsp'). tem('202502541601', objeto, 'dosimetria').
 resultado_real('202502541601', perde).
 tem('202503376390', turma, 'SEXTA TURMA'). tem('202503376390', relator, 'ROGERIO SCHIETTI'). tem('202503376390', classe, 'REsp'). tem('202503376390', objeto, 'p4').
@@ -3060,15 +11389,225 @@ resultado_real('202600606372', perde).
 tem('202601194403', turma, 'SEXTA TURMA'). tem('202601194403', relator, 'ROGERIO SCHIETTI'). tem('202601194403', classe, 'REsp'). tem('202601194403', objeto, 'nulidade_busca').
 tem('202601194403', marcador, 'fuga_mudanca_direcao').
 resultado_real('202601194403', perde).
+tem('202204045699', turma, 'SEXTA TURMA'). tem('202204045699', relator, 'ROGERIO SCHIETTI'). tem('202204045699', classe, 'RHC'). tem('202204045699', objeto, 'autoria').
+tem('202204045699', marcador, 'faccao').
+resultado_real('202204045699', perde).
+tem('202401775320', turma, 'SEXTA TURMA'). tem('202401775320', relator, 'ROGERIO SCHIETTI'). tem('202401775320', classe, 'RHC'). tem('202401775320', objeto, 'nulidade_busca').
+resultado_real('202401775320', perde).
+tem('202402104176', turma, 'SEXTA TURMA'). tem('202402104176', relator, 'ROGERIO SCHIETTI'). tem('202402104176', classe, 'RHC'). tem('202402104176', objeto, 'nulidade_busca').
+tem('202402104176', marcador, 'nervosismo').
+resultado_real('202402104176', vence).
+tem('202403025560', turma, 'SEXTA TURMA'). tem('202403025560', relator, 'ROGERIO SCHIETTI'). tem('202403025560', classe, 'RHC'). tem('202403025560', objeto, 'nulidade_busca').
+tem('202403025560', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403025560', perde).
+tem('202403228769', turma, 'SEXTA TURMA'). tem('202403228769', relator, 'ROGERIO SCHIETTI'). tem('202403228769', classe, 'RHC'). tem('202403228769', objeto, 'nulidade_busca').
+resultado_real('202403228769', perde).
+tem('202403229072', turma, 'SEXTA TURMA'). tem('202403229072', relator, 'ROGERIO SCHIETTI'). tem('202403229072', classe, 'RHC'). tem('202403229072', objeto, 'autoria').
+resultado_real('202403229072', perde).
+tem('202500089486', turma, 'SEXTA TURMA'). tem('202500089486', relator, 'ROGERIO SCHIETTI'). tem('202500089486', classe, 'RHC'). tem('202500089486', objeto, 'autoria').
+tem('202500089486', marcador, 'faccao').
+resultado_real('202500089486', perde).
+tem('202500636584', turma, 'SEXTA TURMA'). tem('202500636584', relator, 'ROGERIO SCHIETTI'). tem('202500636584', classe, 'RHC'). tem('202500636584', objeto, 'outro').
+resultado_real('202500636584', perde).
+tem('202501293154', turma, 'SEXTA TURMA'). tem('202501293154', relator, 'ROGERIO SCHIETTI'). tem('202501293154', classe, 'RHC'). tem('202501293154', objeto, 'autoria').
+resultado_real('202501293154', perde).
+tem('202200228413', turma, 'SEXTA TURMA'). tem('202200228413', relator, 'SEBASTIAO REIS'). tem('202200228413', classe, 'AREsp'). tem('202200228413', objeto, 'dosimetria').
+resultado_real('202200228413', perde).
+tem('202200404861', turma, 'SEXTA TURMA'). tem('202200404861', relator, 'SEBASTIAO REIS'). tem('202200404861', classe, 'AREsp'). tem('202200404861', objeto, 'outro').
+resultado_real('202200404861', perde).
+tem('202200586926', turma, 'SEXTA TURMA'). tem('202200586926', relator, 'SEBASTIAO REIS'). tem('202200586926', classe, 'AREsp'). tem('202200586926', objeto, 'p4').
+resultado_real('202200586926', perde).
+tem('202201072587', turma, 'SEXTA TURMA'). tem('202201072587', relator, 'SEBASTIAO REIS'). tem('202201072587', classe, 'AREsp'). tem('202201072587', objeto, 'p4').
+resultado_real('202201072587', perde).
+tem('202201381928', turma, 'SEXTA TURMA'). tem('202201381928', relator, 'SEBASTIAO REIS'). tem('202201381928', classe, 'AREsp'). tem('202201381928', objeto, 'p4').
+tem('202201381928', marcador, 'faccao').
+resultado_real('202201381928', perde).
+tem('202201532186', turma, 'SEXTA TURMA'). tem('202201532186', relator, 'SEBASTIAO REIS'). tem('202201532186', classe, 'AREsp'). tem('202201532186', objeto, 'nulidade_busca').
+resultado_real('202201532186', perde).
+tem('202202984065', turma, 'SEXTA TURMA'). tem('202202984065', relator, 'SEBASTIAO REIS'). tem('202202984065', classe, 'AREsp'). tem('202202984065', objeto, 'desclassificacao').
+resultado_real('202202984065', perde).
+tem('202203707796', turma, 'SEXTA TURMA'). tem('202203707796', relator, 'SEBASTIAO REIS'). tem('202203707796', classe, 'AREsp'). tem('202203707796', objeto, 'dosimetria').
+resultado_real('202203707796', perde).
+tem('202203958643', turma, 'SEXTA TURMA'). tem('202203958643', relator, 'SEBASTIAO REIS'). tem('202203958643', classe, 'AREsp'). tem('202203958643', objeto, 'desclassificacao').
+resultado_real('202203958643', perde).
+tem('202300128572', turma, 'SEXTA TURMA'). tem('202300128572', relator, 'SEBASTIAO REIS'). tem('202300128572', classe, 'AREsp'). tem('202300128572', objeto, 'outro').
+resultado_real('202300128572', perde).
+tem('202300139707', turma, 'SEXTA TURMA'). tem('202300139707', relator, 'SEBASTIAO REIS'). tem('202300139707', classe, 'AREsp'). tem('202300139707', objeto, 'outro').
+resultado_real('202300139707', perde).
+tem('202300169063', turma, 'SEXTA TURMA'). tem('202300169063', relator, 'SEBASTIAO REIS'). tem('202300169063', classe, 'AREsp'). tem('202300169063', objeto, 'p4').
+resultado_real('202300169063', perde).
+tem('202300245151', turma, 'SEXTA TURMA'). tem('202300245151', relator, 'SEBASTIAO REIS'). tem('202300245151', classe, 'AREsp'). tem('202300245151', objeto, 'dosimetria').
+tem('202300245151', marcador, 'ocupacao').
+resultado_real('202300245151', vence).
+tem('202300336095', turma, 'SEXTA TURMA'). tem('202300336095', relator, 'SEBASTIAO REIS'). tem('202300336095', classe, 'AREsp'). tem('202300336095', objeto, 'p4').
+resultado_real('202300336095', perde).
+tem('202300424923', turma, 'SEXTA TURMA'). tem('202300424923', relator, 'SEBASTIAO REIS'). tem('202300424923', classe, 'AREsp'). tem('202300424923', objeto, 'p4').
+resultado_real('202300424923', perde).
+tem('202300684918', turma, 'SEXTA TURMA'). tem('202300684918', relator, 'SEBASTIAO REIS'). tem('202300684918', classe, 'AREsp'). tem('202300684918', objeto, 'p4').
+resultado_real('202300684918', perde).
+tem('202301377175', turma, 'SEXTA TURMA'). tem('202301377175', relator, 'SEBASTIAO REIS'). tem('202301377175', classe, 'AREsp'). tem('202301377175', objeto, 'nulidade_busca').
+tem('202301377175', marcador, 'nervosismo').
+resultado_real('202301377175', perde).
+tem('202302027834', turma, 'SEXTA TURMA'). tem('202302027834', relator, 'SEBASTIAO REIS'). tem('202302027834', classe, 'AREsp'). tem('202302027834', objeto, 'p4').
+tem('202302027834', marcador, 'faccao').
+resultado_real('202302027834', perde).
+tem('202302134720', turma, 'SEXTA TURMA'). tem('202302134720', relator, 'SEBASTIAO REIS'). tem('202302134720', classe, 'AREsp'). tem('202302134720', objeto, 'p4').
+tem('202302134720', marcador, 'faccao').
+resultado_real('202302134720', perde).
+tem('202302332323', turma, 'SEXTA TURMA'). tem('202302332323', relator, 'SEBASTIAO REIS'). tem('202302332323', classe, 'AREsp'). tem('202302332323', objeto, 'p4').
+resultado_real('202302332323', perde).
+tem('202302357099', turma, 'SEXTA TURMA'). tem('202302357099', relator, 'SEBASTIAO REIS'). tem('202302357099', classe, 'AREsp'). tem('202302357099', objeto, 'p4').
+resultado_real('202302357099', perde).
+tem('202302264224', turma, 'SEXTA TURMA'). tem('202302264224', relator, 'SEBASTIAO REIS'). tem('202302264224', classe, 'AREsp'). tem('202302264224', objeto, 'nulidade_busca').
+resultado_real('202302264224', perde).
+tem('202302576693', turma, 'SEXTA TURMA'). tem('202302576693', relator, 'SEBASTIAO REIS'). tem('202302576693', classe, 'AREsp'). tem('202302576693', objeto, 'p4').
+resultado_real('202302576693', perde).
+tem('202302720956', turma, 'SEXTA TURMA'). tem('202302720956', relator, 'SEBASTIAO REIS'). tem('202302720956', classe, 'AREsp'). tem('202302720956', objeto, 'nulidade_busca').
+tem('202302720956', marcador, 'fuga_mudanca_direcao').
+resultado_real('202302720956', perde).
+tem('202302832350', turma, 'SEXTA TURMA'). tem('202302832350', relator, 'SEBASTIAO REIS'). tem('202302832350', classe, 'AREsp'). tem('202302832350', objeto, 'dosimetria').
+resultado_real('202302832350', perde).
 tem('202302972494', turma, 'SEXTA TURMA'). tem('202302972494', relator, 'SEBASTIAO REIS'). tem('202302972494', classe, 'AREsp'). tem('202302972494', objeto, 'outro').
 resultado_real('202302972494', perde).
+tem('202303515310', turma, 'SEXTA TURMA'). tem('202303515310', relator, 'SEBASTIAO REIS'). tem('202303515310', classe, 'AREsp'). tem('202303515310', objeto, 'p4').
+resultado_real('202303515310', perde).
+tem('202303770983', turma, 'SEXTA TURMA'). tem('202303770983', relator, 'SEBASTIAO REIS'). tem('202303770983', classe, 'AREsp'). tem('202303770983', objeto, 'nulidade_busca').
+resultado_real('202303770983', perde).
+tem('202303827158', turma, 'SEXTA TURMA'). tem('202303827158', relator, 'SEBASTIAO REIS'). tem('202303827158', classe, 'AREsp'). tem('202303827158', objeto, 'dosimetria').
+tem('202303827158', marcador, 'faccao').
+resultado_real('202303827158', perde).
+tem('202303861361', turma, 'SEXTA TURMA'). tem('202303861361', relator, 'SEBASTIAO REIS'). tem('202303861361', classe, 'AREsp'). tem('202303861361', objeto, 'outro').
+tem('202303861361', marcador, 'faccao').
+resultado_real('202303861361', perde).
+tem('202303889223', turma, 'SEXTA TURMA'). tem('202303889223', relator, 'SEBASTIAO REIS'). tem('202303889223', classe, 'AREsp'). tem('202303889223', objeto, 'outro').
+tem('202303889223', marcador, 'atos_infracionais').
+resultado_real('202303889223', perde).
+tem('202304148708', turma, 'SEXTA TURMA'). tem('202304148708', relator, 'SEBASTIAO REIS'). tem('202304148708', classe, 'AREsp'). tem('202304148708', objeto, 'nulidade_busca').
+resultado_real('202304148708', perde).
+tem('202304390511', turma, 'SEXTA TURMA'). tem('202304390511', relator, 'SEBASTIAO REIS'). tem('202304390511', classe, 'AREsp'). tem('202304390511', objeto, 'nulidade_busca').
+resultado_real('202304390511', perde).
+tem('202304140698', turma, 'SEXTA TURMA'). tem('202304140698', relator, 'SEBASTIAO REIS'). tem('202304140698', classe, 'AREsp'). tem('202304140698', objeto, 'p4').
+resultado_real('202304140698', perde).
+tem('202303736934', turma, 'SEXTA TURMA'). tem('202303736934', relator, 'SEBASTIAO REIS'). tem('202303736934', classe, 'AREsp'). tem('202303736934', objeto, 'autoria').
+resultado_real('202303736934', perde).
+tem('202400126835', turma, 'SEXTA TURMA'). tem('202400126835', relator, 'SEBASTIAO REIS'). tem('202400126835', classe, 'AREsp'). tem('202400126835', objeto, 'p4').
+tem('202400126835', marcador, 'faccao').
+resultado_real('202400126835', perde).
+tem('202400641866', turma, 'SEXTA TURMA'). tem('202400641866', relator, 'SEBASTIAO REIS'). tem('202400641866', classe, 'AREsp'). tem('202400641866', objeto, 'p4').
+resultado_real('202400641866', perde).
+tem('202400662680', turma, 'SEXTA TURMA'). tem('202400662680', relator, 'SEBASTIAO REIS'). tem('202400662680', classe, 'AREsp'). tem('202400662680', objeto, 'p4').
+resultado_real('202400662680', perde).
+tem('202401702046', turma, 'SEXTA TURMA'). tem('202401702046', relator, 'SEBASTIAO REIS'). tem('202401702046', classe, 'AREsp'). tem('202401702046', objeto, 'dosimetria').
+resultado_real('202401702046', perde).
+tem('202401726459', turma, 'SEXTA TURMA'). tem('202401726459', relator, 'SEBASTIAO REIS'). tem('202401726459', classe, 'AREsp'). tem('202401726459', objeto, 'outro').
+resultado_real('202401726459', perde).
+tem('202401775963', turma, 'SEXTA TURMA'). tem('202401775963', relator, 'SEBASTIAO REIS'). tem('202401775963', classe, 'AREsp'). tem('202401775963', objeto, 'outro').
+resultado_real('202401775963', perde).
+tem('202401877209', turma, 'SEXTA TURMA'). tem('202401877209', relator, 'SEBASTIAO REIS'). tem('202401877209', classe, 'AREsp'). tem('202401877209', objeto, 'dosimetria').
+resultado_real('202401877209', perde).
+tem('202402146563', turma, 'SEXTA TURMA'). tem('202402146563', relator, 'SEBASTIAO REIS'). tem('202402146563', classe, 'AREsp'). tem('202402146563', objeto, 'autoria').
+resultado_real('202402146563', perde).
+tem('202402344659', turma, 'SEXTA TURMA'). tem('202402344659', relator, 'SEBASTIAO REIS'). tem('202402344659', classe, 'AREsp'). tem('202402344659', objeto, 'p4').
+resultado_real('202402344659', perde).
+tem('202402398610', turma, 'SEXTA TURMA'). tem('202402398610', relator, 'SEBASTIAO REIS'). tem('202402398610', classe, 'AREsp'). tem('202402398610', objeto, 'p4').
+resultado_real('202402398610', perde).
+tem('202402417986', turma, 'SEXTA TURMA'). tem('202402417986', relator, 'SEBASTIAO REIS'). tem('202402417986', classe, 'AREsp'). tem('202402417986', objeto, 'nulidade_busca').
+resultado_real('202402417986', perde).
+tem('202402974344', turma, 'SEXTA TURMA'). tem('202402974344', relator, 'SEBASTIAO REIS'). tem('202402974344', classe, 'AREsp'). tem('202402974344', objeto, 'p4').
+resultado_real('202402974344', perde).
+tem('202402980705', turma, 'SEXTA TURMA'). tem('202402980705', relator, 'SEBASTIAO REIS'). tem('202402980705', classe, 'AREsp'). tem('202402980705', objeto, 'nulidade_busca').
+resultado_real('202402980705', perde).
+tem('202403067870', turma, 'SEXTA TURMA'). tem('202403067870', relator, 'SEBASTIAO REIS'). tem('202403067870', classe, 'AREsp'). tem('202403067870', objeto, 'desclassificacao').
+tem('202403067870', marcador, 'faccao').
+resultado_real('202403067870', perde).
+tem('202403104704', turma, 'SEXTA TURMA'). tem('202403104704', relator, 'SEBASTIAO REIS'). tem('202403104704', classe, 'AREsp'). tem('202403104704', objeto, 'dosimetria').
+resultado_real('202403104704', perde).
+tem('202403228935', turma, 'SEXTA TURMA'). tem('202403228935', relator, 'SEBASTIAO REIS'). tem('202403228935', classe, 'AREsp'). tem('202403228935', objeto, 'p4').
+resultado_real('202403228935', perde).
+tem('202403316522', turma, 'SEXTA TURMA'). tem('202403316522', relator, 'SEBASTIAO REIS'). tem('202403316522', classe, 'AREsp'). tem('202403316522', objeto, 'outro').
+resultado_real('202403316522', perde).
+tem('202403563160', turma, 'SEXTA TURMA'). tem('202403563160', relator, 'SEBASTIAO REIS'). tem('202403563160', classe, 'AREsp'). tem('202403563160', objeto, 'nulidade_busca').
+tem('202403563160', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403563160', perde).
+tem('202403630576', turma, 'SEXTA TURMA'). tem('202403630576', relator, 'SEBASTIAO REIS'). tem('202403630576', classe, 'AREsp'). tem('202403630576', objeto, 'p4').
+resultado_real('202403630576', perde).
+tem('202403730802', turma, 'SEXTA TURMA'). tem('202403730802', relator, 'SEBASTIAO REIS'). tem('202403730802', classe, 'AREsp'). tem('202403730802', objeto, 'outro').
+resultado_real('202403730802', perde).
+tem('202403904426', turma, 'SEXTA TURMA'). tem('202403904426', relator, 'SEBASTIAO REIS'). tem('202403904426', classe, 'AREsp'). tem('202403904426', objeto, 'p4').
+resultado_real('202403904426', perde).
+tem('202403971333', turma, 'SEXTA TURMA'). tem('202403971333', relator, 'SEBASTIAO REIS'). tem('202403971333', classe, 'AREsp'). tem('202403971333', objeto, 'p4').
+resultado_real('202403971333', perde).
+tem('202403977825', turma, 'SEXTA TURMA'). tem('202403977825', relator, 'SEBASTIAO REIS'). tem('202403977825', classe, 'AREsp'). tem('202403977825', objeto, 'p4').
+resultado_real('202403977825', perde).
+tem('202404097412', turma, 'SEXTA TURMA'). tem('202404097412', relator, 'SEBASTIAO REIS'). tem('202404097412', classe, 'AREsp'). tem('202404097412', objeto, 'outro').
+resultado_real('202404097412', perde).
 tem('202404110805', turma, 'SEXTA TURMA'). tem('202404110805', relator, 'SEBASTIAO REIS'). tem('202404110805', classe, 'AREsp'). tem('202404110805', objeto, 'nulidade_busca').
 resultado_real('202404110805', perde).
+tem('202404274869', turma, 'SEXTA TURMA'). tem('202404274869', relator, 'SEBASTIAO REIS'). tem('202404274869', classe, 'AREsp'). tem('202404274869', objeto, 'p4').
+resultado_real('202404274869', vence).
+tem('202404314508', turma, 'SEXTA TURMA'). tem('202404314508', relator, 'SEBASTIAO REIS'). tem('202404314508', classe, 'AREsp'). tem('202404314508', objeto, 'p4').
+tem('202404314508', marcador, 'atos_infracionais').
+resultado_real('202404314508', vence).
+tem('202404431731', turma, 'SEXTA TURMA'). tem('202404431731', relator, 'SEBASTIAO REIS'). tem('202404431731', classe, 'AREsp'). tem('202404431731', objeto, 'p4').
+resultado_real('202404431731', perde).
+tem('202404548958', turma, 'SEXTA TURMA'). tem('202404548958', relator, 'SEBASTIAO REIS'). tem('202404548958', classe, 'AREsp'). tem('202404548958', objeto, 'p4').
+resultado_real('202404548958', perde).
+tem('202404606264', turma, 'SEXTA TURMA'). tem('202404606264', relator, 'SEBASTIAO REIS'). tem('202404606264', classe, 'AREsp'). tem('202404606264', objeto, 'outro').
+resultado_real('202404606264', perde).
+tem('202404604179', turma, 'SEXTA TURMA'). tem('202404604179', relator, 'SEBASTIAO REIS'). tem('202404604179', classe, 'AREsp'). tem('202404604179', objeto, 'dosimetria').
+tem('202404604179', marcador, 'faccao').
+resultado_real('202404604179', perde).
+tem('202404777424', turma, 'SEXTA TURMA'). tem('202404777424', relator, 'SEBASTIAO REIS'). tem('202404777424', classe, 'AREsp'). tem('202404777424', objeto, 'p4').
+tem('202404777424', marcador, 'faccao').
+resultado_real('202404777424', perde).
+tem('202500091957', turma, 'SEXTA TURMA'). tem('202500091957', relator, 'SEBASTIAO REIS'). tem('202500091957', classe, 'AREsp'). tem('202500091957', objeto, 'desclassificacao').
+tem('202500091957', marcador, 'denuncia_anonima').
+resultado_real('202500091957', vence).
+tem('202500117210', turma, 'SEXTA TURMA'). tem('202500117210', relator, 'SEBASTIAO REIS'). tem('202500117210', classe, 'AREsp'). tem('202500117210', objeto, 'outro').
+resultado_real('202500117210', perde).
+tem('202500196450', turma, 'SEXTA TURMA'). tem('202500196450', relator, 'SEBASTIAO REIS'). tem('202500196450', classe, 'AREsp'). tem('202500196450', objeto, 'outro').
+resultado_real('202500196450', perde).
+tem('202500207674', turma, 'SEXTA TURMA'). tem('202500207674', relator, 'SEBASTIAO REIS'). tem('202500207674', classe, 'AREsp'). tem('202500207674', objeto, 'nulidade_busca').
+resultado_real('202500207674', perde).
+tem('202500217153', turma, 'SEXTA TURMA'). tem('202500217153', relator, 'SEBASTIAO REIS'). tem('202500217153', classe, 'AREsp'). tem('202500217153', objeto, 'dosimetria').
+resultado_real('202500217153', perde).
+tem('202500260002', turma, 'SEXTA TURMA'). tem('202500260002', relator, 'SEBASTIAO REIS'). tem('202500260002', classe, 'AREsp'). tem('202500260002', objeto, 'autoria').
+tem('202500260002', marcador, 'faccao').
+resultado_real('202500260002', perde).
+tem('202500897969', turma, 'SEXTA TURMA'). tem('202500897969', relator, 'SEBASTIAO REIS'). tem('202500897969', classe, 'AREsp'). tem('202500897969', objeto, 'nulidade_busca').
+resultado_real('202500897969', perde).
+tem('202500995136', turma, 'SEXTA TURMA'). tem('202500995136', relator, 'SEBASTIAO REIS'). tem('202500995136', classe, 'AREsp'). tem('202500995136', objeto, 'p4').
+resultado_real('202500995136', perde).
+tem('202501100563', turma, 'SEXTA TURMA'). tem('202501100563', relator, 'SEBASTIAO REIS'). tem('202501100563', classe, 'AREsp'). tem('202501100563', objeto, 'p4').
+resultado_real('202501100563', perde).
+tem('202501143972', turma, 'SEXTA TURMA'). tem('202501143972', relator, 'SEBASTIAO REIS'). tem('202501143972', classe, 'AREsp'). tem('202501143972', objeto, 'p4').
+tem('202501143972', marcador, 'atos_infracionais').
+resultado_real('202501143972', perde).
+tem('202501195558', turma, 'SEXTA TURMA'). tem('202501195558', relator, 'SEBASTIAO REIS'). tem('202501195558', classe, 'AREsp'). tem('202501195558', objeto, 'nulidade_busca').
+resultado_real('202501195558', perde).
+tem('202501567938', turma, 'SEXTA TURMA'). tem('202501567938', relator, 'SEBASTIAO REIS'). tem('202501567938', classe, 'AREsp'). tem('202501567938', objeto, 'p4').
+tem('202501567938', marcador, 'faccao').
+resultado_real('202501567938', perde).
+tem('202501655121', turma, 'SEXTA TURMA'). tem('202501655121', relator, 'SEBASTIAO REIS'). tem('202501655121', classe, 'AREsp'). tem('202501655121', objeto, 'p4').
+resultado_real('202501655121', perde).
 tem('202501700751', turma, 'SEXTA TURMA'). tem('202501700751', relator, 'SEBASTIAO REIS'). tem('202501700751', classe, 'AREsp'). tem('202501700751', objeto, 'p4').
 resultado_real('202501700751', perde).
+tem('202501727920', turma, 'SEXTA TURMA'). tem('202501727920', relator, 'SEBASTIAO REIS'). tem('202501727920', classe, 'AREsp'). tem('202501727920', objeto, 'dosimetria').
+resultado_real('202501727920', perde).
+tem('202501938079', turma, 'SEXTA TURMA'). tem('202501938079', relator, 'SEBASTIAO REIS'). tem('202501938079', classe, 'AREsp'). tem('202501938079', objeto, 'outro').
+resultado_real('202501938079', perde).
+tem('202501936553', turma, 'SEXTA TURMA'). tem('202501936553', relator, 'SEBASTIAO REIS'). tem('202501936553', classe, 'AREsp'). tem('202501936553', objeto, 'p4').
+tem('202501936553', marcador, 'faccao').
+resultado_real('202501936553', perde).
 tem('202501950851', turma, 'SEXTA TURMA'). tem('202501950851', relator, 'SEBASTIAO REIS'). tem('202501950851', classe, 'AREsp'). tem('202501950851', objeto, 'desclassificacao').
 tem('202501950851', marcador, 'fuga_mudanca_direcao').
 resultado_real('202501950851', perde).
+tem('202502049464', turma, 'SEXTA TURMA'). tem('202502049464', relator, 'SEBASTIAO REIS'). tem('202502049464', classe, 'AREsp'). tem('202502049464', objeto, 'outro').
+resultado_real('202502049464', perde).
+tem('202502314245', turma, 'SEXTA TURMA'). tem('202502314245', relator, 'SEBASTIAO REIS'). tem('202502314245', classe, 'AREsp'). tem('202502314245', objeto, 'p4').
+resultado_real('202502314245', perde).
+tem('202502590886', turma, 'SEXTA TURMA'). tem('202502590886', relator, 'SEBASTIAO REIS'). tem('202502590886', classe, 'AREsp'). tem('202502590886', objeto, 'p4').
+resultado_real('202502590886', perde).
 tem('202502864558', turma, 'SEXTA TURMA'). tem('202502864558', relator, 'SEBASTIAO REIS'). tem('202502864558', classe, 'AREsp'). tem('202502864558', objeto, 'nulidade_busca').
 tem('202502864558', marcador, 'denuncia_anonima').
 resultado_real('202502864558', perde).
@@ -3242,8 +11781,72 @@ tem('202602299835', marcador, 'denuncia_anonima').
 resultado_real('202602299835', perde).
 tem('202602385212', turma, 'SEXTA TURMA'). tem('202602385212', relator, 'SEBASTIAO REIS'). tem('202602385212', classe, 'AREsp'). tem('202602385212', objeto, 'outro').
 resultado_real('202602385212', perde).
+tem('202501516173', turma, 'SEXTA TURMA'). tem('202501516173', relator, 'SEBASTIAO REIS'). tem('202501516173', classe, 'HC'). tem('202501516173', objeto, 'nulidade_busca').
+tem('202501516173', marcador, 'nervosismo').
+resultado_real('202501516173', perde).
+tem('202501577389', turma, 'SEXTA TURMA'). tem('202501577389', relator, 'SEBASTIAO REIS'). tem('202501577389', classe, 'HC'). tem('202501577389', objeto, 'nulidade_busca').
+tem('202501577389', marcador, 'nervosismo').
+tem('202501577389', marcador, 'denuncia_anonima').
+resultado_real('202501577389', perde).
+tem('202501587160', turma, 'SEXTA TURMA'). tem('202501587160', relator, 'SEBASTIAO REIS'). tem('202501587160', classe, 'HC'). tem('202501587160', objeto, 'p4').
+resultado_real('202501587160', perde).
+tem('202501619441', turma, 'SEXTA TURMA'). tem('202501619441', relator, 'SEBASTIAO REIS'). tem('202501619441', classe, 'HC'). tem('202501619441', objeto, 'nulidade_busca').
+tem('202501619441', marcador, 'denuncia_anonima').
+resultado_real('202501619441', perde).
+tem('202501638562', turma, 'SEXTA TURMA'). tem('202501638562', relator, 'SEBASTIAO REIS'). tem('202501638562', classe, 'HC'). tem('202501638562', objeto, 'outro').
+resultado_real('202501638562', perde).
+tem('202501764520', turma, 'SEXTA TURMA'). tem('202501764520', relator, 'SEBASTIAO REIS'). tem('202501764520', classe, 'HC'). tem('202501764520', objeto, 'p4').
+tem('202501764520', marcador, 'faccao').
+resultado_real('202501764520', perde).
+tem('202501793309', turma, 'SEXTA TURMA'). tem('202501793309', relator, 'SEBASTIAO REIS'). tem('202501793309', classe, 'HC'). tem('202501793309', objeto, 'dosimetria').
+resultado_real('202501793309', perde).
+tem('202501837834', turma, 'SEXTA TURMA'). tem('202501837834', relator, 'SEBASTIAO REIS'). tem('202501837834', classe, 'HC'). tem('202501837834', objeto, 'dosimetria').
+resultado_real('202501837834', perde).
+tem('202501858696', turma, 'SEXTA TURMA'). tem('202501858696', relator, 'SEBASTIAO REIS'). tem('202501858696', classe, 'HC'). tem('202501858696', objeto, 'outro').
+resultado_real('202501858696', perde).
+tem('202501940109', turma, 'SEXTA TURMA'). tem('202501940109', relator, 'SEBASTIAO REIS'). tem('202501940109', classe, 'HC'). tem('202501940109', objeto, 'p4').
+resultado_real('202501940109', perde).
+tem('202502136267', turma, 'SEXTA TURMA'). tem('202502136267', relator, 'SEBASTIAO REIS'). tem('202502136267', classe, 'HC'). tem('202502136267', objeto, 'outro').
+tem('202502136267', marcador, 'denuncia_anonima').
+resultado_real('202502136267', perde).
+tem('202502161244', turma, 'SEXTA TURMA'). tem('202502161244', relator, 'SEBASTIAO REIS'). tem('202502161244', classe, 'HC'). tem('202502161244', objeto, 'nulidade_busca').
+resultado_real('202502161244', perde).
+tem('202502163592', turma, 'SEXTA TURMA'). tem('202502163592', relator, 'SEBASTIAO REIS'). tem('202502163592', classe, 'HC'). tem('202502163592', objeto, 'desclassificacao').
+resultado_real('202502163592', perde).
+tem('202502283593', turma, 'SEXTA TURMA'). tem('202502283593', relator, 'SEBASTIAO REIS'). tem('202502283593', classe, 'HC'). tem('202502283593', objeto, 'p4').
+resultado_real('202502283593', perde).
+tem('202502416831', turma, 'SEXTA TURMA'). tem('202502416831', relator, 'SEBASTIAO REIS'). tem('202502416831', classe, 'HC'). tem('202502416831', objeto, 'dosimetria').
+resultado_real('202502416831', perde).
+tem('202502418410', turma, 'SEXTA TURMA'). tem('202502418410', relator, 'SEBASTIAO REIS'). tem('202502418410', classe, 'HC'). tem('202502418410', objeto, 'nulidade_busca').
+tem('202502418410', marcador, 'fuga_mudanca_direcao').
+resultado_real('202502418410', perde).
+tem('202502424743', turma, 'SEXTA TURMA'). tem('202502424743', relator, 'SEBASTIAO REIS'). tem('202502424743', classe, 'HC'). tem('202502424743', objeto, 'nulidade_busca').
+resultado_real('202502424743', perde).
+tem('202502453885', turma, 'SEXTA TURMA'). tem('202502453885', relator, 'SEBASTIAO REIS'). tem('202502453885', classe, 'HC'). tem('202502453885', objeto, 'p4').
+resultado_real('202502453885', perde).
 tem('202502468442', turma, 'SEXTA TURMA'). tem('202502468442', relator, 'SEBASTIAO REIS'). tem('202502468442', classe, 'HC'). tem('202502468442', objeto, 'p4').
 resultado_real('202502468442', vence).
+tem('202502468555', turma, 'SEXTA TURMA'). tem('202502468555', relator, 'SEBASTIAO REIS'). tem('202502468555', classe, 'HC'). tem('202502468555', objeto, 'desclassificacao').
+resultado_real('202502468555', perde).
+tem('202502517130', turma, 'SEXTA TURMA'). tem('202502517130', relator, 'SEBASTIAO REIS'). tem('202502517130', classe, 'HC'). tem('202502517130', objeto, 'desclassificacao').
+resultado_real('202502517130', perde).
+tem('202502519314', turma, 'SEXTA TURMA'). tem('202502519314', relator, 'SEBASTIAO REIS'). tem('202502519314', classe, 'HC'). tem('202502519314', objeto, 'dosimetria').
+resultado_real('202502519314', perde).
+tem('202502525700', turma, 'SEXTA TURMA'). tem('202502525700', relator, 'SEBASTIAO REIS'). tem('202502525700', classe, 'HC'). tem('202502525700', objeto, 'p4').
+resultado_real('202502525700', perde).
+tem('202502531576', turma, 'SEXTA TURMA'). tem('202502531576', relator, 'SEBASTIAO REIS'). tem('202502531576', classe, 'HC'). tem('202502531576', objeto, 'desclassificacao').
+resultado_real('202502531576', perde).
+tem('202502719694', turma, 'SEXTA TURMA'). tem('202502719694', relator, 'SEBASTIAO REIS'). tem('202502719694', classe, 'HC'). tem('202502719694', objeto, 'nulidade_busca').
+resultado_real('202502719694', perde).
+tem('202502724920', turma, 'SEXTA TURMA'). tem('202502724920', relator, 'SEBASTIAO REIS'). tem('202502724920', classe, 'HC'). tem('202502724920', objeto, 'outro').
+resultado_real('202502724920', perde).
+tem('202503083661', turma, 'SEXTA TURMA'). tem('202503083661', relator, 'SEBASTIAO REIS'). tem('202503083661', classe, 'HC'). tem('202503083661', objeto, 'outro').
+tem('202503083661', marcador, 'faccao').
+resultado_real('202503083661', perde).
+tem('202503162630', turma, 'SEXTA TURMA'). tem('202503162630', relator, 'SEBASTIAO REIS'). tem('202503162630', classe, 'HC'). tem('202503162630', objeto, 'p4').
+resultado_real('202503162630', perde).
+tem('202503213497', turma, 'SEXTA TURMA'). tem('202503213497', relator, 'SEBASTIAO REIS'). tem('202503213497', classe, 'HC'). tem('202503213497', objeto, 'p4').
+resultado_real('202503213497', perde).
 tem('202503503325', turma, 'SEXTA TURMA'). tem('202503503325', relator, 'SEBASTIAO REIS'). tem('202503503325', classe, 'HC'). tem('202503503325', objeto, 'nulidade_busca').
 resultado_real('202503503325', perde).
 tem('202504151172', turma, 'SEXTA TURMA'). tem('202504151172', relator, 'SEBASTIAO REIS'). tem('202504151172', classe, 'HC'). tem('202504151172', objeto, 'nulidade_busca').
@@ -3420,12 +12023,583 @@ tem('202601919695', turma, 'SEXTA TURMA'). tem('202601919695', relator, 'SEBASTI
 resultado_real('202601919695', perde).
 tem('202601995236', turma, 'SEXTA TURMA'). tem('202601995236', relator, 'SEBASTIAO REIS'). tem('202601995236', classe, 'HC'). tem('202601995236', objeto, 'outro').
 resultado_real('202601995236', perde).
+tem('202100736776', turma, 'SEXTA TURMA'). tem('202100736776', relator, 'SEBASTIAO REIS'). tem('202100736776', classe, 'HC'). tem('202100736776', objeto, 'nulidade_busca').
+resultado_real('202100736776', perde).
+tem('202101746553', turma, 'SEXTA TURMA'). tem('202101746553', relator, 'SEBASTIAO REIS'). tem('202101746553', classe, 'HC'). tem('202101746553', objeto, 'autoria').
+tem('202101746553', marcador, 'faccao').
+resultado_real('202101746553', perde).
+tem('202201923436', turma, 'SEXTA TURMA'). tem('202201923436', relator, 'SEBASTIAO REIS'). tem('202201923436', classe, 'HC'). tem('202201923436', objeto, 'dosimetria').
+resultado_real('202201923436', perde).
+tem('202202922089', turma, 'SEXTA TURMA'). tem('202202922089', relator, 'SEBASTIAO REIS'). tem('202202922089', classe, 'HC'). tem('202202922089', objeto, 'nulidade_busca').
+resultado_real('202202922089', perde).
+tem('202203250643', turma, 'SEXTA TURMA'). tem('202203250643', relator, 'SEBASTIAO REIS'). tem('202203250643', classe, 'HC'). tem('202203250643', objeto, 'outro').
+resultado_real('202203250643', perde).
+tem('202203320939', turma, 'SEXTA TURMA'). tem('202203320939', relator, 'SEBASTIAO REIS'). tem('202203320939', classe, 'HC'). tem('202203320939', objeto, 'p4').
+resultado_real('202203320939', perde).
+tem('202203725592', turma, 'SEXTA TURMA'). tem('202203725592', relator, 'SEBASTIAO REIS'). tem('202203725592', classe, 'HC'). tem('202203725592', objeto, 'p4').
+resultado_real('202203725592', perde).
+tem('202301430227', turma, 'SEXTA TURMA'). tem('202301430227', relator, 'SEBASTIAO REIS'). tem('202301430227', classe, 'HC'). tem('202301430227', objeto, 'dosimetria').
+resultado_real('202301430227', perde).
+tem('202301634703', turma, 'SEXTA TURMA'). tem('202301634703', relator, 'SEBASTIAO REIS'). tem('202301634703', classe, 'HC'). tem('202301634703', objeto, 'p4').
+resultado_real('202301634703', perde).
+tem('202302038525', turma, 'SEXTA TURMA'). tem('202302038525', relator, 'SEBASTIAO REIS'). tem('202302038525', classe, 'HC'). tem('202302038525', objeto, 'dosimetria').
+resultado_real('202302038525', perde).
+tem('202302110582', turma, 'SEXTA TURMA'). tem('202302110582', relator, 'SEBASTIAO REIS'). tem('202302110582', classe, 'HC'). tem('202302110582', objeto, 'outro').
+resultado_real('202302110582', perde).
+tem('202302127247', turma, 'SEXTA TURMA'). tem('202302127247', relator, 'SEBASTIAO REIS'). tem('202302127247', classe, 'HC'). tem('202302127247', objeto, 'dosimetria').
+resultado_real('202302127247', perde).
+tem('202302133455', turma, 'SEXTA TURMA'). tem('202302133455', relator, 'SEBASTIAO REIS'). tem('202302133455', classe, 'HC'). tem('202302133455', objeto, 'outro').
+resultado_real('202302133455', perde).
+tem('202302226423', turma, 'SEXTA TURMA'). tem('202302226423', relator, 'SEBASTIAO REIS'). tem('202302226423', classe, 'HC'). tem('202302226423', objeto, 'autoria').
+resultado_real('202302226423', perde).
+tem('202302297460', turma, 'SEXTA TURMA'). tem('202302297460', relator, 'SEBASTIAO REIS'). tem('202302297460', classe, 'HC'). tem('202302297460', objeto, 'nulidade_busca').
+tem('202302297460', marcador, 'fuga_mudanca_direcao').
+resultado_real('202302297460', perde).
+tem('202302375048', turma, 'SEXTA TURMA'). tem('202302375048', relator, 'SEBASTIAO REIS'). tem('202302375048', classe, 'HC'). tem('202302375048', objeto, 'dosimetria').
+resultado_real('202302375048', perde).
+tem('202302412729', turma, 'SEXTA TURMA'). tem('202302412729', relator, 'SEBASTIAO REIS'). tem('202302412729', classe, 'HC'). tem('202302412729', objeto, 'outro').
+resultado_real('202302412729', perde).
+tem('202302437105', turma, 'SEXTA TURMA'). tem('202302437105', relator, 'SEBASTIAO REIS'). tem('202302437105', classe, 'HC'). tem('202302437105', objeto, 'nulidade_busca').
+resultado_real('202302437105', perde).
+tem('202302518902', turma, 'SEXTA TURMA'). tem('202302518902', relator, 'SEBASTIAO REIS'). tem('202302518902', classe, 'HC'). tem('202302518902', objeto, 'outro').
+resultado_real('202302518902', perde).
+tem('202302542056', turma, 'SEXTA TURMA'). tem('202302542056', relator, 'SEBASTIAO REIS'). tem('202302542056', classe, 'HC'). tem('202302542056', objeto, 'nulidade_busca').
+resultado_real('202302542056', perde).
+tem('202302652125', turma, 'SEXTA TURMA'). tem('202302652125', relator, 'SEBASTIAO REIS'). tem('202302652125', classe, 'HC'). tem('202302652125', objeto, 'outro').
+resultado_real('202302652125', perde).
+tem('202302779653', turma, 'SEXTA TURMA'). tem('202302779653', relator, 'SEBASTIAO REIS'). tem('202302779653', classe, 'HC'). tem('202302779653', objeto, 'dosimetria').
+resultado_real('202302779653', perde).
+tem('202302998449', turma, 'SEXTA TURMA'). tem('202302998449', relator, 'SEBASTIAO REIS'). tem('202302998449', classe, 'HC'). tem('202302998449', objeto, 'p4').
+tem('202302998449', marcador, 'faccao').
+resultado_real('202302998449', perde).
+tem('202303055230', turma, 'SEXTA TURMA'). tem('202303055230', relator, 'SEBASTIAO REIS'). tem('202303055230', classe, 'HC'). tem('202303055230', objeto, 'p4').
+resultado_real('202303055230', vence).
+tem('202303089258', turma, 'SEXTA TURMA'). tem('202303089258', relator, 'SEBASTIAO REIS'). tem('202303089258', classe, 'HC'). tem('202303089258', objeto, 'outro').
+tem('202303089258', marcador, 'atos_infracionais').
+resultado_real('202303089258', perde).
 tem('202303117953', turma, 'SEXTA TURMA'). tem('202303117953', relator, 'SEBASTIAO REIS'). tem('202303117953', classe, 'HC'). tem('202303117953', objeto, 'nulidade_busca').
 tem('202303117953', marcador, 'nervosismo').
 tem('202303117953', marcador, 'fuga_mudanca_direcao').
 resultado_real('202303117953', perde).
+tem('202303295600', turma, 'SEXTA TURMA'). tem('202303295600', relator, 'SEBASTIAO REIS'). tem('202303295600', classe, 'HC'). tem('202303295600', objeto, 'p4').
+tem('202303295600', marcador, 'atos_infracionais').
+resultado_real('202303295600', perde).
+tem('202303299448', turma, 'SEXTA TURMA'). tem('202303299448', relator, 'SEBASTIAO REIS'). tem('202303299448', classe, 'HC'). tem('202303299448', objeto, 'dosimetria').
+resultado_real('202303299448', perde).
+tem('202303475265', turma, 'SEXTA TURMA'). tem('202303475265', relator, 'SEBASTIAO REIS'). tem('202303475265', classe, 'HC'). tem('202303475265', objeto, 'p4').
+resultado_real('202303475265', perde).
+tem('202303626727', turma, 'SEXTA TURMA'). tem('202303626727', relator, 'SEBASTIAO REIS'). tem('202303626727', classe, 'HC'). tem('202303626727', objeto, 'p4').
+resultado_real('202303626727', perde).
+tem('202303806118', turma, 'SEXTA TURMA'). tem('202303806118', relator, 'SEBASTIAO REIS'). tem('202303806118', classe, 'HC'). tem('202303806118', objeto, 'p4').
+resultado_real('202303806118', perde).
+tem('202303833985', turma, 'SEXTA TURMA'). tem('202303833985', relator, 'SEBASTIAO REIS'). tem('202303833985', classe, 'HC'). tem('202303833985', objeto, 'p4').
+resultado_real('202303833985', perde).
+tem('202303985199', turma, 'SEXTA TURMA'). tem('202303985199', relator, 'SEBASTIAO REIS'). tem('202303985199', classe, 'HC'). tem('202303985199', objeto, 'outro').
+resultado_real('202303985199', perde).
+tem('202304019996', turma, 'SEXTA TURMA'). tem('202304019996', relator, 'SEBASTIAO REIS'). tem('202304019996', classe, 'HC'). tem('202304019996', objeto, 'outro').
+resultado_real('202304019996', perde).
+tem('202304065701', turma, 'SEXTA TURMA'). tem('202304065701', relator, 'SEBASTIAO REIS'). tem('202304065701', classe, 'HC'). tem('202304065701', objeto, 'nulidade_busca').
+tem('202304065701', marcador, 'nervosismo').
+resultado_real('202304065701', perde).
+tem('202304151098', turma, 'SEXTA TURMA'). tem('202304151098', relator, 'SEBASTIAO REIS'). tem('202304151098', classe, 'HC'). tem('202304151098', objeto, 'outro').
+resultado_real('202304151098', perde).
+tem('202304323362', turma, 'SEXTA TURMA'). tem('202304323362', relator, 'SEBASTIAO REIS'). tem('202304323362', classe, 'HC'). tem('202304323362', objeto, 'dosimetria').
+tem('202304323362', marcador, 'faccao').
+resultado_real('202304323362', perde).
+tem('202304404248', turma, 'SEXTA TURMA'). tem('202304404248', relator, 'SEBASTIAO REIS'). tem('202304404248', classe, 'HC'). tem('202304404248', objeto, 'p4').
+resultado_real('202304404248', perde).
+tem('202304483778', turma, 'SEXTA TURMA'). tem('202304483778', relator, 'SEBASTIAO REIS'). tem('202304483778', classe, 'HC'). tem('202304483778', objeto, 'outro').
+resultado_real('202304483778', perde).
+tem('202304632550', turma, 'SEXTA TURMA'). tem('202304632550', relator, 'SEBASTIAO REIS'). tem('202304632550', classe, 'HC'). tem('202304632550', objeto, 'p4').
+resultado_real('202304632550', perde).
+tem('202400002475', turma, 'SEXTA TURMA'). tem('202400002475', relator, 'SEBASTIAO REIS'). tem('202400002475', classe, 'HC'). tem('202400002475', objeto, 'outro').
+tem('202400002475', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400002475', vence).
+tem('202400004636', turma, 'SEXTA TURMA'). tem('202400004636', relator, 'SEBASTIAO REIS'). tem('202400004636', classe, 'HC'). tem('202400004636', objeto, 'nulidade_busca').
+resultado_real('202400004636', perde).
+tem('202400022470', turma, 'SEXTA TURMA'). tem('202400022470', relator, 'SEBASTIAO REIS'). tem('202400022470', classe, 'HC'). tem('202400022470', objeto, 'p4').
+resultado_real('202400022470', perde).
+tem('202400031633', turma, 'SEXTA TURMA'). tem('202400031633', relator, 'SEBASTIAO REIS'). tem('202400031633', classe, 'HC'). tem('202400031633', objeto, 'p4').
+resultado_real('202400031633', perde).
+tem('202400042486', turma, 'SEXTA TURMA'). tem('202400042486', relator, 'SEBASTIAO REIS'). tem('202400042486', classe, 'HC'). tem('202400042486', objeto, 'outro').
+resultado_real('202400042486', perde).
+tem('202400084772', turma, 'SEXTA TURMA'). tem('202400084772', relator, 'SEBASTIAO REIS'). tem('202400084772', classe, 'HC'). tem('202400084772', objeto, 'dosimetria').
+resultado_real('202400084772', perde).
+tem('202400137195', turma, 'SEXTA TURMA'). tem('202400137195', relator, 'SEBASTIAO REIS'). tem('202400137195', classe, 'HC'). tem('202400137195', objeto, 'nulidade_busca').
+tem('202400137195', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400137195', perde).
+tem('202400213110', turma, 'SEXTA TURMA'). tem('202400213110', relator, 'SEBASTIAO REIS'). tem('202400213110', classe, 'HC'). tem('202400213110', objeto, 'nulidade_busca').
+tem('202400213110', marcador, 'denuncia_anonima').
+resultado_real('202400213110', perde).
+tem('202400216681', turma, 'SEXTA TURMA'). tem('202400216681', relator, 'SEBASTIAO REIS'). tem('202400216681', classe, 'HC'). tem('202400216681', objeto, 'nulidade_busca').
+resultado_real('202400216681', perde).
+tem('202400277165', turma, 'SEXTA TURMA'). tem('202400277165', relator, 'SEBASTIAO REIS'). tem('202400277165', classe, 'HC'). tem('202400277165', objeto, 'p4').
+resultado_real('202400277165', vence).
+tem('202400740310', turma, 'SEXTA TURMA'). tem('202400740310', relator, 'SEBASTIAO REIS'). tem('202400740310', classe, 'HC'). tem('202400740310', objeto, 'dosimetria').
+resultado_real('202400740310', perde).
+tem('202400760186', turma, 'SEXTA TURMA'). tem('202400760186', relator, 'SEBASTIAO REIS'). tem('202400760186', classe, 'HC'). tem('202400760186', objeto, 'nulidade_busca').
+resultado_real('202400760186', perde).
+tem('202400777737', turma, 'SEXTA TURMA'). tem('202400777737', relator, 'SEBASTIAO REIS'). tem('202400777737', classe, 'HC'). tem('202400777737', objeto, 'outro').
+resultado_real('202400777737', perde).
+tem('202400890426', turma, 'SEXTA TURMA'). tem('202400890426', relator, 'SEBASTIAO REIS'). tem('202400890426', classe, 'HC'). tem('202400890426', objeto, 'nulidade_busca').
+tem('202400890426', marcador, 'fuga_mudanca_direcao').
+resultado_real('202400890426', perde).
+tem('202400961834', turma, 'SEXTA TURMA'). tem('202400961834', relator, 'SEBASTIAO REIS'). tem('202400961834', classe, 'HC'). tem('202400961834', objeto, 'nulidade_busca').
+resultado_real('202400961834', perde).
+tem('202401000146', turma, 'SEXTA TURMA'). tem('202401000146', relator, 'SEBASTIAO REIS'). tem('202401000146', classe, 'HC'). tem('202401000146', objeto, 'p4').
+resultado_real('202401000146', perde).
+tem('202401066012', turma, 'SEXTA TURMA'). tem('202401066012', relator, 'SEBASTIAO REIS'). tem('202401066012', classe, 'HC'). tem('202401066012', objeto, 'autoria').
+tem('202401066012', marcador, 'atos_infracionais').
+resultado_real('202401066012', perde).
+tem('202401084677', turma, 'SEXTA TURMA'). tem('202401084677', relator, 'SEBASTIAO REIS'). tem('202401084677', classe, 'HC'). tem('202401084677', objeto, 'outro').
+resultado_real('202401084677', perde).
+tem('202401176469', turma, 'SEXTA TURMA'). tem('202401176469', relator, 'SEBASTIAO REIS'). tem('202401176469', classe, 'HC'). tem('202401176469', objeto, 'nulidade_busca').
+tem('202401176469', marcador, 'atos_infracionais').
+resultado_real('202401176469', perde).
+tem('202401191300', turma, 'SEXTA TURMA'). tem('202401191300', relator, 'SEBASTIAO REIS'). tem('202401191300', classe, 'HC'). tem('202401191300', objeto, 'nulidade_busca').
+resultado_real('202401191300', perde).
+tem('202401235937', turma, 'SEXTA TURMA'). tem('202401235937', relator, 'SEBASTIAO REIS'). tem('202401235937', classe, 'HC'). tem('202401235937', objeto, 'autoria').
+resultado_real('202401235937', perde).
+tem('202401361892', turma, 'SEXTA TURMA'). tem('202401361892', relator, 'SEBASTIAO REIS'). tem('202401361892', classe, 'HC'). tem('202401361892', objeto, 'nulidade_busca').
+resultado_real('202401361892', perde).
+tem('202401572626', turma, 'SEXTA TURMA'). tem('202401572626', relator, 'SEBASTIAO REIS'). tem('202401572626', classe, 'HC'). tem('202401572626', objeto, 'nulidade_busca').
+resultado_real('202401572626', perde).
+tem('202401723858', turma, 'SEXTA TURMA'). tem('202401723858', relator, 'SEBASTIAO REIS'). tem('202401723858', classe, 'HC'). tem('202401723858', objeto, 'dosimetria').
+resultado_real('202401723858', perde).
+tem('202401794214', turma, 'SEXTA TURMA'). tem('202401794214', relator, 'SEBASTIAO REIS'). tem('202401794214', classe, 'HC'). tem('202401794214', objeto, 'desclassificacao').
+tem('202401794214', marcador, 'faccao').
+resultado_real('202401794214', perde).
+tem('202401900636', turma, 'SEXTA TURMA'). tem('202401900636', relator, 'SEBASTIAO REIS'). tem('202401900636', classe, 'HC'). tem('202401900636', objeto, 'nulidade_busca').
+tem('202401900636', marcador, 'fuga_mudanca_direcao').
+resultado_real('202401900636', perde).
+tem('202401958384', turma, 'SEXTA TURMA'). tem('202401958384', relator, 'SEBASTIAO REIS'). tem('202401958384', classe, 'HC'). tem('202401958384', objeto, 'nulidade_busca').
+tem('202401958384', marcador, 'faccao').
+resultado_real('202401958384', perde).
+tem('202402018763', turma, 'SEXTA TURMA'). tem('202402018763', relator, 'SEBASTIAO REIS'). tem('202402018763', classe, 'HC'). tem('202402018763', objeto, 'outro').
+resultado_real('202402018763', perde).
+tem('202402008313', turma, 'SEXTA TURMA'). tem('202402008313', relator, 'SEBASTIAO REIS'). tem('202402008313', classe, 'HC'). tem('202402008313', objeto, 'p4').
+resultado_real('202402008313', perde).
+tem('202402035787', turma, 'SEXTA TURMA'). tem('202402035787', relator, 'SEBASTIAO REIS'). tem('202402035787', classe, 'HC'). tem('202402035787', objeto, 'nulidade_busca').
+tem('202402035787', marcador, 'nervosismo').
+resultado_real('202402035787', perde).
+tem('202402031784', turma, 'SEXTA TURMA'). tem('202402031784', relator, 'SEBASTIAO REIS'). tem('202402031784', classe, 'HC'). tem('202402031784', objeto, 'p4').
+tem('202402031784', marcador, 'atos_infracionais').
+resultado_real('202402031784', perde).
+tem('202402035763', turma, 'SEXTA TURMA'). tem('202402035763', relator, 'SEBASTIAO REIS'). tem('202402035763', classe, 'HC'). tem('202402035763', objeto, 'outro').
+resultado_real('202402035763', perde).
+tem('202402114780', turma, 'SEXTA TURMA'). tem('202402114780', relator, 'SEBASTIAO REIS'). tem('202402114780', classe, 'HC'). tem('202402114780', objeto, 'outro').
+tem('202402114780', marcador, 'faccao').
+resultado_real('202402114780', vence).
+tem('202402118099', turma, 'SEXTA TURMA'). tem('202402118099', relator, 'SEBASTIAO REIS'). tem('202402118099', classe, 'HC'). tem('202402118099', objeto, 'desclassificacao').
+tem('202402118099', marcador, 'comunidade_bairro').
+resultado_real('202402118099', perde).
+tem('202402178698', turma, 'SEXTA TURMA'). tem('202402178698', relator, 'SEBASTIAO REIS'). tem('202402178698', classe, 'HC'). tem('202402178698', objeto, 'dosimetria').
+resultado_real('202402178698', perde).
+tem('202402189151', turma, 'SEXTA TURMA'). tem('202402189151', relator, 'SEBASTIAO REIS'). tem('202402189151', classe, 'HC'). tem('202402189151', objeto, 'p4').
+resultado_real('202402189151', perde).
+tem('202402234097', turma, 'SEXTA TURMA'). tem('202402234097', relator, 'SEBASTIAO REIS'). tem('202402234097', classe, 'HC'). tem('202402234097', objeto, 'p4').
+resultado_real('202402234097', perde).
+tem('202402352786', turma, 'SEXTA TURMA'). tem('202402352786', relator, 'SEBASTIAO REIS'). tem('202402352786', classe, 'HC'). tem('202402352786', objeto, 'dosimetria').
+resultado_real('202402352786', perde).
+tem('202402384116', turma, 'SEXTA TURMA'). tem('202402384116', relator, 'SEBASTIAO REIS'). tem('202402384116', classe, 'HC'). tem('202402384116', objeto, 'nulidade_busca').
+resultado_real('202402384116', perde).
+tem('202402406449', turma, 'SEXTA TURMA'). tem('202402406449', relator, 'SEBASTIAO REIS'). tem('202402406449', classe, 'HC'). tem('202402406449', objeto, 'outro').
+tem('202402406449', marcador, 'local_conhecido').
+tem('202402406449', marcador, 'nervosismo').
+resultado_real('202402406449', perde).
+tem('202402416434', turma, 'SEXTA TURMA'). tem('202402416434', relator, 'SEBASTIAO REIS'). tem('202402416434', classe, 'HC'). tem('202402416434', objeto, 'nulidade_busca').
+resultado_real('202402416434', perde).
+tem('202402446424', turma, 'SEXTA TURMA'). tem('202402446424', relator, 'SEBASTIAO REIS'). tem('202402446424', classe, 'HC'). tem('202402446424', objeto, 'p4').
+resultado_real('202402446424', perde).
+tem('202402460734', turma, 'SEXTA TURMA'). tem('202402460734', relator, 'SEBASTIAO REIS'). tem('202402460734', classe, 'HC'). tem('202402460734', objeto, 'desclassificacao').
+resultado_real('202402460734', perde).
+tem('202402577723', turma, 'SEXTA TURMA'). tem('202402577723', relator, 'SEBASTIAO REIS'). tem('202402577723', classe, 'HC'). tem('202402577723', objeto, 'dosimetria').
+resultado_real('202402577723', perde).
+tem('202402616109', turma, 'SEXTA TURMA'). tem('202402616109', relator, 'SEBASTIAO REIS'). tem('202402616109', classe, 'HC'). tem('202402616109', objeto, 'nulidade_busca').
+tem('202402616109', marcador, 'atos_infracionais').
+tem('202402616109', marcador, 'fuga_mudanca_direcao').
+resultado_real('202402616109', perde).
+tem('202402617120', turma, 'SEXTA TURMA'). tem('202402617120', relator, 'SEBASTIAO REIS'). tem('202402617120', classe, 'HC'). tem('202402617120', objeto, 'nulidade_busca').
+resultado_real('202402617120', perde).
+tem('202402629820', turma, 'SEXTA TURMA'). tem('202402629820', relator, 'SEBASTIAO REIS'). tem('202402629820', classe, 'HC'). tem('202402629820', objeto, 'p4').
+resultado_real('202402629820', perde).
+tem('202402623631', turma, 'SEXTA TURMA'). tem('202402623631', relator, 'SEBASTIAO REIS'). tem('202402623631', classe, 'HC'). tem('202402623631', objeto, 'p4').
+resultado_real('202402623631', perde).
+tem('202402691410', turma, 'SEXTA TURMA'). tem('202402691410', relator, 'SEBASTIAO REIS'). tem('202402691410', classe, 'HC'). tem('202402691410', objeto, 'dosimetria').
+resultado_real('202402691410', perde).
+tem('202402727286', turma, 'SEXTA TURMA'). tem('202402727286', relator, 'SEBASTIAO REIS'). tem('202402727286', classe, 'HC'). tem('202402727286', objeto, 'dosimetria').
+resultado_real('202402727286', perde).
+tem('202402733292', turma, 'SEXTA TURMA'). tem('202402733292', relator, 'SEBASTIAO REIS'). tem('202402733292', classe, 'HC'). tem('202402733292', objeto, 'dosimetria').
+tem('202402733292', marcador, 'faccao').
+resultado_real('202402733292', perde).
+tem('202402760972', turma, 'SEXTA TURMA'). tem('202402760972', relator, 'SEBASTIAO REIS'). tem('202402760972', classe, 'HC'). tem('202402760972', objeto, 'dosimetria').
+tem('202402760972', marcador, 'faccao').
+resultado_real('202402760972', perde).
+tem('202402784539', turma, 'SEXTA TURMA'). tem('202402784539', relator, 'SEBASTIAO REIS'). tem('202402784539', classe, 'HC'). tem('202402784539', objeto, 'outro').
+resultado_real('202402784539', perde).
+tem('202402796342', turma, 'SEXTA TURMA'). tem('202402796342', relator, 'SEBASTIAO REIS'). tem('202402796342', classe, 'HC'). tem('202402796342', objeto, 'dosimetria').
+resultado_real('202402796342', perde).
+tem('202402808439', turma, 'SEXTA TURMA'). tem('202402808439', relator, 'SEBASTIAO REIS'). tem('202402808439', classe, 'HC'). tem('202402808439', objeto, 'p4').
+resultado_real('202402808439', perde).
+tem('202402866450', turma, 'SEXTA TURMA'). tem('202402866450', relator, 'SEBASTIAO REIS'). tem('202402866450', classe, 'HC'). tem('202402866450', objeto, 'outro').
+tem('202402866450', marcador, 'faccao').
+resultado_real('202402866450', perde).
+tem('202402915200', turma, 'SEXTA TURMA'). tem('202402915200', relator, 'SEBASTIAO REIS'). tem('202402915200', classe, 'HC'). tem('202402915200', objeto, 'p4').
+resultado_real('202402915200', perde).
+tem('202402953670', turma, 'SEXTA TURMA'). tem('202402953670', relator, 'SEBASTIAO REIS'). tem('202402953670', classe, 'HC'). tem('202402953670', objeto, 'outro').
+resultado_real('202402953670', perde).
+tem('202403074139', turma, 'SEXTA TURMA'). tem('202403074139', relator, 'SEBASTIAO REIS'). tem('202403074139', classe, 'HC'). tem('202403074139', objeto, 'p4').
+resultado_real('202403074139', perde).
+tem('202403130007', turma, 'SEXTA TURMA'). tem('202403130007', relator, 'SEBASTIAO REIS'). tem('202403130007', classe, 'HC'). tem('202403130007', objeto, 'p4').
+resultado_real('202403130007', perde).
+tem('202403135878', turma, 'SEXTA TURMA'). tem('202403135878', relator, 'SEBASTIAO REIS'). tem('202403135878', classe, 'HC'). tem('202403135878', objeto, 'dosimetria').
+resultado_real('202403135878', perde).
+tem('202403160630', turma, 'SEXTA TURMA'). tem('202403160630', relator, 'SEBASTIAO REIS'). tem('202403160630', classe, 'HC'). tem('202403160630', objeto, 'p4').
+resultado_real('202403160630', perde).
+tem('202403223655', turma, 'SEXTA TURMA'). tem('202403223655', relator, 'SEBASTIAO REIS'). tem('202403223655', classe, 'HC'). tem('202403223655', objeto, 'dosimetria').
+resultado_real('202403223655', perde).
+tem('202403223364', turma, 'SEXTA TURMA'). tem('202403223364', relator, 'SEBASTIAO REIS'). tem('202403223364', classe, 'HC'). tem('202403223364', objeto, 'dosimetria').
+resultado_real('202403223364', perde).
+tem('202403263779', turma, 'SEXTA TURMA'). tem('202403263779', relator, 'SEBASTIAO REIS'). tem('202403263779', classe, 'HC'). tem('202403263779', objeto, 'nulidade_busca').
+resultado_real('202403263779', perde).
+tem('202403285137', turma, 'SEXTA TURMA'). tem('202403285137', relator, 'SEBASTIAO REIS'). tem('202403285137', classe, 'HC'). tem('202403285137', objeto, 'outro').
+resultado_real('202403285137', perde).
+tem('202403286159', turma, 'SEXTA TURMA'). tem('202403286159', relator, 'SEBASTIAO REIS'). tem('202403286159', classe, 'HC'). tem('202403286159', objeto, 'nulidade_busca').
+tem('202403286159', marcador, 'denuncia_anonima').
+resultado_real('202403286159', perde).
+tem('202403400837', turma, 'SEXTA TURMA'). tem('202403400837', relator, 'SEBASTIAO REIS'). tem('202403400837', classe, 'HC'). tem('202403400837', objeto, 'nulidade_busca').
+tem('202403400837', marcador, 'denuncia_anonima').
+resultado_real('202403400837', perde).
+tem('202403452602', turma, 'SEXTA TURMA'). tem('202403452602', relator, 'SEBASTIAO REIS'). tem('202403452602', classe, 'HC'). tem('202403452602', objeto, 'dosimetria').
+resultado_real('202403452602', perde).
+tem('202403488183', turma, 'SEXTA TURMA'). tem('202403488183', relator, 'SEBASTIAO REIS'). tem('202403488183', classe, 'HC'). tem('202403488183', objeto, 'autoria').
+resultado_real('202403488183', perde).
+tem('202403544492', turma, 'SEXTA TURMA'). tem('202403544492', relator, 'SEBASTIAO REIS'). tem('202403544492', classe, 'HC'). tem('202403544492', objeto, 'dosimetria').
+resultado_real('202403544492', perde).
+tem('202403558330', turma, 'SEXTA TURMA'). tem('202403558330', relator, 'SEBASTIAO REIS'). tem('202403558330', classe, 'HC'). tem('202403558330', objeto, 'desclassificacao').
+resultado_real('202403558330', perde).
+tem('202403581258', turma, 'SEXTA TURMA'). tem('202403581258', relator, 'SEBASTIAO REIS'). tem('202403581258', classe, 'HC'). tem('202403581258', objeto, 'nulidade_busca').
+tem('202403581258', marcador, 'fuga_mudanca_direcao').
+resultado_real('202403581258', perde).
+tem('202403590156', turma, 'SEXTA TURMA'). tem('202403590156', relator, 'SEBASTIAO REIS'). tem('202403590156', classe, 'HC'). tem('202403590156', objeto, 'nulidade_busca').
+tem('202403590156', marcador, 'nervosismo').
+resultado_real('202403590156', perde).
+tem('202403596066', turma, 'SEXTA TURMA'). tem('202403596066', relator, 'SEBASTIAO REIS'). tem('202403596066', classe, 'HC'). tem('202403596066', objeto, 'p4').
+resultado_real('202403596066', perde).
+tem('202403624030', turma, 'SEXTA TURMA'). tem('202403624030', relator, 'SEBASTIAO REIS'). tem('202403624030', classe, 'HC'). tem('202403624030', objeto, 'p4').
+resultado_real('202403624030', perde).
+tem('202403638837', turma, 'SEXTA TURMA'). tem('202403638837', relator, 'SEBASTIAO REIS'). tem('202403638837', classe, 'HC'). tem('202403638837', objeto, 'outro').
+resultado_real('202403638837', perde).
+tem('202403693133', turma, 'SEXTA TURMA'). tem('202403693133', relator, 'SEBASTIAO REIS'). tem('202403693133', classe, 'HC'). tem('202403693133', objeto, 'p4').
+resultado_real('202403693133', perde).
+tem('202403729810', turma, 'SEXTA TURMA'). tem('202403729810', relator, 'SEBASTIAO REIS'). tem('202403729810', classe, 'HC'). tem('202403729810', objeto, 'nulidade_busca').
+resultado_real('202403729810', perde).
+tem('202403805692', turma, 'SEXTA TURMA'). tem('202403805692', relator, 'SEBASTIAO REIS'). tem('202403805692', classe, 'HC'). tem('202403805692', objeto, 'p4').
+tem('202403805692', marcador, 'faccao').
+resultado_real('202403805692', perde).
+tem('202403862577', turma, 'SEXTA TURMA'). tem('202403862577', relator, 'SEBASTIAO REIS'). tem('202403862577', classe, 'HC'). tem('202403862577', objeto, 'outro').
+resultado_real('202403862577', perde).
+tem('202404004626', turma, 'SEXTA TURMA'). tem('202404004626', relator, 'SEBASTIAO REIS'). tem('202404004626', classe, 'HC'). tem('202404004626', objeto, 'dosimetria').
+resultado_real('202404004626', perde).
+tem('202404017261', turma, 'SEXTA TURMA'). tem('202404017261', relator, 'SEBASTIAO REIS'). tem('202404017261', classe, 'HC'). tem('202404017261', objeto, 'p4').
+resultado_real('202404017261', perde).
+tem('202404037873', turma, 'SEXTA TURMA'). tem('202404037873', relator, 'SEBASTIAO REIS'). tem('202404037873', classe, 'HC'). tem('202404037873', objeto, 'p4').
+resultado_real('202404037873', perde).
+tem('202404089257', turma, 'SEXTA TURMA'). tem('202404089257', relator, 'SEBASTIAO REIS'). tem('202404089257', classe, 'HC'). tem('202404089257', objeto, 'p4').
+resultado_real('202404089257', perde).
+tem('202404103762', turma, 'SEXTA TURMA'). tem('202404103762', relator, 'SEBASTIAO REIS'). tem('202404103762', classe, 'HC'). tem('202404103762', objeto, 'nulidade_busca').
+resultado_real('202404103762', perde).
+tem('202404125738', turma, 'SEXTA TURMA'). tem('202404125738', relator, 'SEBASTIAO REIS'). tem('202404125738', classe, 'HC'). tem('202404125738', objeto, 'outro').
+resultado_real('202404125738', perde).
+tem('202404171161', turma, 'SEXTA TURMA'). tem('202404171161', relator, 'SEBASTIAO REIS'). tem('202404171161', classe, 'HC'). tem('202404171161', objeto, 'p4').
+resultado_real('202404171161', perde).
+tem('202404160659', turma, 'SEXTA TURMA'). tem('202404160659', relator, 'SEBASTIAO REIS'). tem('202404160659', classe, 'HC'). tem('202404160659', objeto, 'outro').
+tem('202404160659', marcador, 'faccao').
+resultado_real('202404160659', perde).
+tem('202404198579', turma, 'SEXTA TURMA'). tem('202404198579', relator, 'SEBASTIAO REIS'). tem('202404198579', classe, 'HC'). tem('202404198579', objeto, 'nulidade_busca').
+resultado_real('202404198579', perde).
+tem('202404223650', turma, 'SEXTA TURMA'). tem('202404223650', relator, 'SEBASTIAO REIS'). tem('202404223650', classe, 'HC'). tem('202404223650', objeto, 'p4').
+resultado_real('202404223650', perde).
+tem('202404217721', turma, 'SEXTA TURMA'). tem('202404217721', relator, 'SEBASTIAO REIS'). tem('202404217721', classe, 'HC'). tem('202404217721', objeto, 'p4').
+resultado_real('202404217721', perde).
+tem('202404239443', turma, 'SEXTA TURMA'). tem('202404239443', relator, 'SEBASTIAO REIS'). tem('202404239443', classe, 'HC'). tem('202404239443', objeto, 'nulidade_busca').
+resultado_real('202404239443', perde).
+tem('202404282822', turma, 'SEXTA TURMA'). tem('202404282822', relator, 'SEBASTIAO REIS'). tem('202404282822', classe, 'HC'). tem('202404282822', objeto, 'outro').
+resultado_real('202404282822', perde).
+tem('202404289463', turma, 'SEXTA TURMA'). tem('202404289463', relator, 'SEBASTIAO REIS'). tem('202404289463', classe, 'HC'). tem('202404289463', objeto, 'outro').
+resultado_real('202404289463', perde).
+tem('202404306912', turma, 'SEXTA TURMA'). tem('202404306912', relator, 'SEBASTIAO REIS'). tem('202404306912', classe, 'HC'). tem('202404306912', objeto, 'nulidade_busca').
+resultado_real('202404306912', perde).
+tem('202404369606', turma, 'SEXTA TURMA'). tem('202404369606', relator, 'SEBASTIAO REIS'). tem('202404369606', classe, 'HC'). tem('202404369606', objeto, 'desclassificacao').
+resultado_real('202404369606', perde).
+tem('202404379425', turma, 'SEXTA TURMA'). tem('202404379425', relator, 'SEBASTIAO REIS'). tem('202404379425', classe, 'HC'). tem('202404379425', objeto, 'nulidade_busca').
+resultado_real('202404379425', perde).
+tem('202404428201', turma, 'SEXTA TURMA'). tem('202404428201', relator, 'SEBASTIAO REIS'). tem('202404428201', classe, 'HC'). tem('202404428201', objeto, 'p4').
+resultado_real('202404428201', perde).
+tem('202404574908', turma, 'SEXTA TURMA'). tem('202404574908', relator, 'SEBASTIAO REIS'). tem('202404574908', classe, 'HC'). tem('202404574908', objeto, 'dosimetria').
+resultado_real('202404574908', perde).
+tem('202404572130', turma, 'SEXTA TURMA'). tem('202404572130', relator, 'SEBASTIAO REIS'). tem('202404572130', classe, 'HC'). tem('202404572130', objeto, 'dosimetria').
+resultado_real('202404572130', perde).
+tem('202404601768', turma, 'SEXTA TURMA'). tem('202404601768', relator, 'SEBASTIAO REIS'). tem('202404601768', classe, 'HC'). tem('202404601768', objeto, 'desclassificacao').
+resultado_real('202404601768', perde).
+tem('202404620980', turma, 'SEXTA TURMA'). tem('202404620980', relator, 'SEBASTIAO REIS'). tem('202404620980', classe, 'HC'). tem('202404620980', objeto, 'dosimetria').
+resultado_real('202404620980', perde).
+tem('202404643990', turma, 'SEXTA TURMA'). tem('202404643990', relator, 'SEBASTIAO REIS'). tem('202404643990', classe, 'HC'). tem('202404643990', objeto, 'autoria').
+resultado_real('202404643990', perde).
+tem('202404668518', turma, 'SEXTA TURMA'). tem('202404668518', relator, 'SEBASTIAO REIS'). tem('202404668518', classe, 'HC'). tem('202404668518', objeto, 'p4').
+resultado_real('202404668518', perde).
+tem('202404725600', turma, 'SEXTA TURMA'). tem('202404725600', relator, 'SEBASTIAO REIS'). tem('202404725600', classe, 'HC'). tem('202404725600', objeto, 'p4').
+resultado_real('202404725600', perde).
+tem('202404736767', turma, 'SEXTA TURMA'). tem('202404736767', relator, 'SEBASTIAO REIS'). tem('202404736767', classe, 'HC'). tem('202404736767', objeto, 'p4').
+resultado_real('202404736767', perde).
+tem('202404747394', turma, 'SEXTA TURMA'). tem('202404747394', relator, 'SEBASTIAO REIS'). tem('202404747394', classe, 'HC'). tem('202404747394', objeto, 'p4').
+resultado_real('202404747394', perde).
+tem('202404763007', turma, 'SEXTA TURMA'). tem('202404763007', relator, 'SEBASTIAO REIS'). tem('202404763007', classe, 'HC'). tem('202404763007', objeto, 'nulidade_busca').
+tem('202404763007', marcador, 'fuga_mudanca_direcao').
+resultado_real('202404763007', perde).
+tem('202404773558', turma, 'SEXTA TURMA'). tem('202404773558', relator, 'SEBASTIAO REIS'). tem('202404773558', classe, 'HC'). tem('202404773558', objeto, 'p4').
+resultado_real('202404773558', perde).
+tem('202404794841', turma, 'SEXTA TURMA'). tem('202404794841', relator, 'SEBASTIAO REIS'). tem('202404794841', classe, 'HC'). tem('202404794841', objeto, 'dosimetria').
+tem('202404794841', marcador, 'faccao').
+resultado_real('202404794841', perde).
+tem('202404866094', turma, 'SEXTA TURMA'). tem('202404866094', relator, 'SEBASTIAO REIS'). tem('202404866094', classe, 'HC'). tem('202404866094', objeto, 'dosimetria').
+resultado_real('202404866094', perde).
+tem('202404881632', turma, 'SEXTA TURMA'). tem('202404881632', relator, 'SEBASTIAO REIS'). tem('202404881632', classe, 'HC'). tem('202404881632', objeto, 'p4').
+resultado_real('202404881632', perde).
+tem('202404883008', turma, 'SEXTA TURMA'). tem('202404883008', relator, 'SEBASTIAO REIS'). tem('202404883008', classe, 'HC'). tem('202404883008', objeto, 'desclassificacao').
+resultado_real('202404883008', perde).
+tem('202404895215', turma, 'SEXTA TURMA'). tem('202404895215', relator, 'SEBASTIAO REIS'). tem('202404895215', classe, 'HC'). tem('202404895215', objeto, 'nulidade_busca').
+resultado_real('202404895215', perde).
+tem('202404904393', turma, 'SEXTA TURMA'). tem('202404904393', relator, 'SEBASTIAO REIS'). tem('202404904393', classe, 'HC'). tem('202404904393', objeto, 'p4').
+resultado_real('202404904393', perde).
+tem('202500006460', turma, 'SEXTA TURMA'). tem('202500006460', relator, 'SEBASTIAO REIS'). tem('202500006460', classe, 'HC'). tem('202500006460', objeto, 'outro').
+resultado_real('202500006460', perde).
+tem('202500020340', turma, 'SEXTA TURMA'). tem('202500020340', relator, 'SEBASTIAO REIS'). tem('202500020340', classe, 'HC'). tem('202500020340', objeto, 'outro').
+resultado_real('202500020340', vence).
+tem('202500026807', turma, 'SEXTA TURMA'). tem('202500026807', relator, 'SEBASTIAO REIS'). tem('202500026807', classe, 'HC'). tem('202500026807', objeto, 'p4').
+resultado_real('202500026807', perde).
+tem('202500032206', turma, 'SEXTA TURMA'). tem('202500032206', relator, 'SEBASTIAO REIS'). tem('202500032206', classe, 'HC'). tem('202500032206', objeto, 'p4').
+resultado_real('202500032206', perde).
+tem('202500052440', turma, 'SEXTA TURMA'). tem('202500052440', relator, 'SEBASTIAO REIS'). tem('202500052440', classe, 'HC'). tem('202500052440', objeto, 'dosimetria').
+resultado_real('202500052440', perde).
+tem('202500057792', turma, 'SEXTA TURMA'). tem('202500057792', relator, 'SEBASTIAO REIS'). tem('202500057792', classe, 'HC'). tem('202500057792', objeto, 'p4').
+resultado_real('202500057792', perde).
+tem('202500067816', turma, 'SEXTA TURMA'). tem('202500067816', relator, 'SEBASTIAO REIS'). tem('202500067816', classe, 'HC'). tem('202500067816', objeto, 'nulidade_busca').
+resultado_real('202500067816', perde).
+tem('202500074755', turma, 'SEXTA TURMA'). tem('202500074755', relator, 'SEBASTIAO REIS'). tem('202500074755', classe, 'HC'). tem('202500074755', objeto, 'nulidade_busca').
+resultado_real('202500074755', perde).
+tem('202500107326', turma, 'SEXTA TURMA'). tem('202500107326', relator, 'SEBASTIAO REIS'). tem('202500107326', classe, 'HC'). tem('202500107326', objeto, 'dosimetria').
+resultado_real('202500107326', perde).
+tem('202500107363', turma, 'SEXTA TURMA'). tem('202500107363', relator, 'SEBASTIAO REIS'). tem('202500107363', classe, 'HC'). tem('202500107363', objeto, 'outro').
+resultado_real('202500107363', perde).
+tem('202500109067', turma, 'SEXTA TURMA'). tem('202500109067', relator, 'SEBASTIAO REIS'). tem('202500109067', classe, 'HC'). tem('202500109067', objeto, 'nulidade_busca').
+resultado_real('202500109067', perde).
+tem('202500123972', turma, 'SEXTA TURMA'). tem('202500123972', relator, 'SEBASTIAO REIS'). tem('202500123972', classe, 'HC'). tem('202500123972', objeto, 'p4').
+resultado_real('202500123972', perde).
+tem('202500128860', turma, 'SEXTA TURMA'). tem('202500128860', relator, 'SEBASTIAO REIS'). tem('202500128860', classe, 'HC'). tem('202500128860', objeto, 'p4').
+resultado_real('202500128860', perde).
+tem('202500146618', turma, 'SEXTA TURMA'). tem('202500146618', relator, 'SEBASTIAO REIS'). tem('202500146618', classe, 'HC'). tem('202500146618', objeto, 'p4').
+resultado_real('202500146618', perde).
+tem('202500146416', turma, 'SEXTA TURMA'). tem('202500146416', relator, 'SEBASTIAO REIS'). tem('202500146416', classe, 'HC'). tem('202500146416', objeto, 'dosimetria').
+resultado_real('202500146416', perde).
+tem('202500147160', turma, 'SEXTA TURMA'). tem('202500147160', relator, 'SEBASTIAO REIS'). tem('202500147160', classe, 'HC'). tem('202500147160', objeto, 'autoria').
+resultado_real('202500147160', perde).
+tem('202500147590', turma, 'SEXTA TURMA'). tem('202500147590', relator, 'SEBASTIAO REIS'). tem('202500147590', classe, 'HC'). tem('202500147590', objeto, 'p4').
+resultado_real('202500147590', perde).
+tem('202500172706', turma, 'SEXTA TURMA'). tem('202500172706', relator, 'SEBASTIAO REIS'). tem('202500172706', classe, 'HC'). tem('202500172706', objeto, 'outro').
+resultado_real('202500172706', perde).
+tem('202500175987', turma, 'SEXTA TURMA'). tem('202500175987', relator, 'SEBASTIAO REIS'). tem('202500175987', classe, 'HC'). tem('202500175987', objeto, 'p4').
+tem('202500175987', marcador, 'faccao').
+resultado_real('202500175987', perde).
+tem('202500185328', turma, 'SEXTA TURMA'). tem('202500185328', relator, 'SEBASTIAO REIS'). tem('202500185328', classe, 'HC'). tem('202500185328', objeto, 'p4').
+tem('202500185328', marcador, 'faccao').
+resultado_real('202500185328', perde).
+tem('202500186213', turma, 'SEXTA TURMA'). tem('202500186213', relator, 'SEBASTIAO REIS'). tem('202500186213', classe, 'HC'). tem('202500186213', objeto, 'p4').
+tem('202500186213', marcador, 'faccao').
+tem('202500186213', marcador, 'atos_infracionais').
+resultado_real('202500186213', perde).
+tem('202500175393', turma, 'SEXTA TURMA'). tem('202500175393', relator, 'SEBASTIAO REIS'). tem('202500175393', classe, 'HC'). tem('202500175393', objeto, 'p4').
+tem('202500175393', marcador, 'faccao').
+resultado_real('202500175393', perde).
+tem('202500186910', turma, 'SEXTA TURMA'). tem('202500186910', relator, 'SEBASTIAO REIS'). tem('202500186910', classe, 'HC'). tem('202500186910', objeto, 'p4').
+resultado_real('202500186910', perde).
+tem('202500188168', turma, 'SEXTA TURMA'). tem('202500188168', relator, 'SEBASTIAO REIS'). tem('202500188168', classe, 'HC'). tem('202500188168', objeto, 'dosimetria').
+tem('202500188168', marcador, 'faccao').
+resultado_real('202500188168', perde).
+tem('202500192595', turma, 'SEXTA TURMA'). tem('202500192595', relator, 'SEBASTIAO REIS'). tem('202500192595', classe, 'HC'). tem('202500192595', objeto, 'p4').
+resultado_real('202500192595', perde).
+tem('202500202268', turma, 'SEXTA TURMA'). tem('202500202268', relator, 'SEBASTIAO REIS'). tem('202500202268', classe, 'HC'). tem('202500202268', objeto, 'dosimetria').
+resultado_real('202500202268', perde).
+tem('202500216927', turma, 'SEXTA TURMA'). tem('202500216927', relator, 'SEBASTIAO REIS'). tem('202500216927', classe, 'HC'). tem('202500216927', objeto, 'outro').
+resultado_real('202500216927', perde).
+tem('202500234229', turma, 'SEXTA TURMA'). tem('202500234229', relator, 'SEBASTIAO REIS'). tem('202500234229', classe, 'HC'). tem('202500234229', objeto, 'outro').
+resultado_real('202500234229', perde).
+tem('202500284084', turma, 'SEXTA TURMA'). tem('202500284084', relator, 'SEBASTIAO REIS'). tem('202500284084', classe, 'HC'). tem('202500284084', objeto, 'desclassificacao').
+resultado_real('202500284084', perde).
+tem('202500284185', turma, 'SEXTA TURMA'). tem('202500284185', relator, 'SEBASTIAO REIS'). tem('202500284185', classe, 'HC'). tem('202500284185', objeto, 'outro').
+resultado_real('202500284185', perde).
+tem('202500261946', turma, 'SEXTA TURMA'). tem('202500261946', relator, 'SEBASTIAO REIS'). tem('202500261946', classe, 'HC'). tem('202500261946', objeto, 'nulidade_busca').
+resultado_real('202500261946', perde).
+tem('202500284820', turma, 'SEXTA TURMA'). tem('202500284820', relator, 'SEBASTIAO REIS'). tem('202500284820', classe, 'HC'). tem('202500284820', objeto, 'dosimetria').
+resultado_real('202500284820', perde).
+tem('202500290166', turma, 'SEXTA TURMA'). tem('202500290166', relator, 'SEBASTIAO REIS'). tem('202500290166', classe, 'HC'). tem('202500290166', objeto, 'p4').
+tem('202500290166', marcador, 'faccao').
+resultado_real('202500290166', perde).
+tem('202500307040', turma, 'SEXTA TURMA'). tem('202500307040', relator, 'SEBASTIAO REIS'). tem('202500307040', classe, 'HC'). tem('202500307040', objeto, 'dosimetria').
+resultado_real('202500307040', perde).
+tem('202500317706', turma, 'SEXTA TURMA'). tem('202500317706', relator, 'SEBASTIAO REIS'). tem('202500317706', classe, 'HC'). tem('202500317706', objeto, 'p4').
+resultado_real('202500317706', perde).
+tem('202500355621', turma, 'SEXTA TURMA'). tem('202500355621', relator, 'SEBASTIAO REIS'). tem('202500355621', classe, 'HC'). tem('202500355621', objeto, 'p4').
+resultado_real('202500355621', perde).
+tem('202500356226', turma, 'SEXTA TURMA'). tem('202500356226', relator, 'SEBASTIAO REIS'). tem('202500356226', classe, 'HC'). tem('202500356226', objeto, 'p4').
+resultado_real('202500356226', perde).
+tem('202500357515', turma, 'SEXTA TURMA'). tem('202500357515', relator, 'SEBASTIAO REIS'). tem('202500357515', classe, 'HC'). tem('202500357515', objeto, 'nulidade_busca').
+resultado_real('202500357515', perde).
+tem('202500346367', turma, 'SEXTA TURMA'). tem('202500346367', relator, 'SEBASTIAO REIS'). tem('202500346367', classe, 'HC'). tem('202500346367', objeto, 'p4').
+tem('202500346367', marcador, 'faccao').
+resultado_real('202500346367', perde).
+tem('202500376523', turma, 'SEXTA TURMA'). tem('202500376523', relator, 'SEBASTIAO REIS'). tem('202500376523', classe, 'HC'). tem('202500376523', objeto, 'p4').
+resultado_real('202500376523', perde).
+tem('202500413796', turma, 'SEXTA TURMA'). tem('202500413796', relator, 'SEBASTIAO REIS'). tem('202500413796', classe, 'HC'). tem('202500413796', objeto, 'nulidade_busca').
+tem('202500413796', marcador, 'denuncia_anonima').
+resultado_real('202500413796', perde).
+tem('202500441402', turma, 'SEXTA TURMA'). tem('202500441402', relator, 'SEBASTIAO REIS'). tem('202500441402', classe, 'HC'). tem('202500441402', objeto, 'dosimetria').
+resultado_real('202500441402', perde).
+tem('202500448815', turma, 'SEXTA TURMA'). tem('202500448815', relator, 'SEBASTIAO REIS'). tem('202500448815', classe, 'HC'). tem('202500448815', objeto, 'autoria').
+tem('202500448815', marcador, 'faccao').
+resultado_real('202500448815', perde).
+tem('202500460256', turma, 'SEXTA TURMA'). tem('202500460256', relator, 'SEBASTIAO REIS'). tem('202500460256', classe, 'HC'). tem('202500460256', objeto, 'nulidade_busca').
+resultado_real('202500460256', perde).
+tem('202500460523', turma, 'SEXTA TURMA'). tem('202500460523', relator, 'SEBASTIAO REIS'). tem('202500460523', classe, 'HC'). tem('202500460523', objeto, 'nulidade_busca').
+resultado_real('202500460523', perde).
+tem('202500493871', turma, 'SEXTA TURMA'). tem('202500493871', relator, 'SEBASTIAO REIS'). tem('202500493871', classe, 'HC'). tem('202500493871', objeto, 'nulidade_busca').
+resultado_real('202500493871', perde).
+tem('202500562931', turma, 'SEXTA TURMA'). tem('202500562931', relator, 'SEBASTIAO REIS'). tem('202500562931', classe, 'HC'). tem('202500562931', objeto, 'nulidade_busca').
+tem('202500562931', marcador, 'denuncia_anonima').
+resultado_real('202500562931', perde).
+tem('202500563928', turma, 'SEXTA TURMA'). tem('202500563928', relator, 'SEBASTIAO REIS'). tem('202500563928', classe, 'HC'). tem('202500563928', objeto, 'p4').
+resultado_real('202500563928', perde).
+tem('202500568727', turma, 'SEXTA TURMA'). tem('202500568727', relator, 'SEBASTIAO REIS'). tem('202500568727', classe, 'HC'). tem('202500568727', objeto, 'p4').
+tem('202500568727', marcador, 'local_conhecido').
+tem('202500568727', marcador, 'ocupacao').
+tem('202500568727', marcador, 'atos_infracionais').
+resultado_real('202500568727', perde).
+tem('202500616416', turma, 'SEXTA TURMA'). tem('202500616416', relator, 'SEBASTIAO REIS'). tem('202500616416', classe, 'HC'). tem('202500616416', objeto, 'outro').
+resultado_real('202500616416', perde).
+tem('202500681404', turma, 'SEXTA TURMA'). tem('202500681404', relator, 'SEBASTIAO REIS'). tem('202500681404', classe, 'HC'). tem('202500681404', objeto, 'p4').
+resultado_real('202500681404', perde).
+tem('202500716359', turma, 'SEXTA TURMA'). tem('202500716359', relator, 'SEBASTIAO REIS'). tem('202500716359', classe, 'HC'). tem('202500716359', objeto, 'p4').
+resultado_real('202500716359', perde).
+tem('202500726987', turma, 'SEXTA TURMA'). tem('202500726987', relator, 'SEBASTIAO REIS'). tem('202500726987', classe, 'HC'). tem('202500726987', objeto, 'p4').
+resultado_real('202500726987', perde).
+tem('202500806977', turma, 'SEXTA TURMA'). tem('202500806977', relator, 'SEBASTIAO REIS'). tem('202500806977', classe, 'HC'). tem('202500806977', objeto, 'p4').
+tem('202500806977', marcador, 'atos_infracionais').
+resultado_real('202500806977', perde).
+tem('202500928570', turma, 'SEXTA TURMA'). tem('202500928570', relator, 'SEBASTIAO REIS'). tem('202500928570', classe, 'HC'). tem('202500928570', objeto, 'nulidade_busca').
+resultado_real('202500928570', perde).
+tem('202500933881', turma, 'SEXTA TURMA'). tem('202500933881', relator, 'SEBASTIAO REIS'). tem('202500933881', classe, 'HC'). tem('202500933881', objeto, 'p4').
+resultado_real('202500933881', vence).
+tem('202500969578', turma, 'SEXTA TURMA'). tem('202500969578', relator, 'SEBASTIAO REIS'). tem('202500969578', classe, 'HC'). tem('202500969578', objeto, 'p4').
+tem('202500969578', marcador, 'fuga_mudanca_direcao').
+resultado_real('202500969578', perde).
+tem('202500979805', turma, 'SEXTA TURMA'). tem('202500979805', relator, 'SEBASTIAO REIS'). tem('202500979805', classe, 'HC'). tem('202500979805', objeto, 'desclassificacao').
+tem('202500979805', marcador, 'faccao').
+resultado_real('202500979805', perde).
+tem('202501005329', turma, 'SEXTA TURMA'). tem('202501005329', relator, 'SEBASTIAO REIS'). tem('202501005329', classe, 'HC'). tem('202501005329', objeto, 'p4').
+resultado_real('202501005329', perde).
+tem('202501020930', turma, 'SEXTA TURMA'). tem('202501020930', relator, 'SEBASTIAO REIS'). tem('202501020930', classe, 'HC'). tem('202501020930', objeto, 'desclassificacao').
+resultado_real('202501020930', perde).
+tem('202501023692', turma, 'SEXTA TURMA'). tem('202501023692', relator, 'SEBASTIAO REIS'). tem('202501023692', classe, 'HC'). tem('202501023692', objeto, 'p4').
+resultado_real('202501023692', perde).
+tem('202501023845', turma, 'SEXTA TURMA'). tem('202501023845', relator, 'SEBASTIAO REIS'). tem('202501023845', classe, 'HC'). tem('202501023845', objeto, 'p4').
+resultado_real('202501023845', perde).
+tem('202501065395', turma, 'SEXTA TURMA'). tem('202501065395', relator, 'SEBASTIAO REIS'). tem('202501065395', classe, 'HC'). tem('202501065395', objeto, 'outro').
+resultado_real('202501065395', perde).
+tem('202501110762', turma, 'SEXTA TURMA'). tem('202501110762', relator, 'SEBASTIAO REIS'). tem('202501110762', classe, 'HC'). tem('202501110762', objeto, 'p4').
+resultado_real('202501110762', perde).
+tem('202501113590', turma, 'SEXTA TURMA'). tem('202501113590', relator, 'SEBASTIAO REIS'). tem('202501113590', classe, 'HC'). tem('202501113590', objeto, 'outro').
+resultado_real('202501113590', perde).
+tem('202501195408', turma, 'SEXTA TURMA'). tem('202501195408', relator, 'SEBASTIAO REIS'). tem('202501195408', classe, 'HC'). tem('202501195408', objeto, 'nulidade_busca').
+resultado_real('202501195408', perde).
+tem('202501210580', turma, 'SEXTA TURMA'). tem('202501210580', relator, 'SEBASTIAO REIS'). tem('202501210580', classe, 'HC'). tem('202501210580', objeto, 'p4').
+resultado_real('202501210580', perde).
+tem('202501311120', turma, 'SEXTA TURMA'). tem('202501311120', relator, 'SEBASTIAO REIS'). tem('202501311120', classe, 'HC'). tem('202501311120', objeto, 'p4').
+resultado_real('202501311120', perde).
+tem('202501324563', turma, 'SEXTA TURMA'). tem('202501324563', relator, 'SEBASTIAO REIS'). tem('202501324563', classe, 'HC'). tem('202501324563', objeto, 'nulidade_busca').
+resultado_real('202501324563', perde).
+tem('202501342079', turma, 'SEXTA TURMA'). tem('202501342079', relator, 'SEBASTIAO REIS'). tem('202501342079', classe, 'HC'). tem('202501342079', objeto, 'desclassificacao').
+resultado_real('202501342079', perde).
+tem('202501391659', turma, 'SEXTA TURMA'). tem('202501391659', relator, 'SEBASTIAO REIS'). tem('202501391659', classe, 'HC'). tem('202501391659', objeto, 'p4').
+tem('202501391659', marcador, 'atos_infracionais').
+resultado_real('202501391659', perde).
+tem('202501408241', turma, 'SEXTA TURMA'). tem('202501408241', relator, 'SEBASTIAO REIS'). tem('202501408241', classe, 'HC'). tem('202501408241', objeto, 'nulidade_busca').
+resultado_real('202501408241', perde).
+tem('202501416266', turma, 'SEXTA TURMA'). tem('202501416266', relator, 'SEBASTIAO REIS'). tem('202501416266', classe, 'HC'). tem('202501416266', objeto, 'desclassificacao').
+resultado_real('202501416266', perde).
+tem('202501472886', turma, 'SEXTA TURMA'). tem('202501472886', relator, 'SEBASTIAO REIS'). tem('202501472886', classe, 'HC'). tem('202501472886', objeto, 'p4').
+resultado_real('202501472886', perde).
+tem('202501473164', turma, 'SEXTA TURMA'). tem('202501473164', relator, 'SEBASTIAO REIS'). tem('202501473164', classe, 'HC'). tem('202501473164', objeto, 'p4').
+resultado_real('202501473164', perde).
+tem('202501491655', turma, 'SEXTA TURMA'). tem('202501491655', relator, 'SEBASTIAO REIS'). tem('202501491655', classe, 'HC'). tem('202501491655', objeto, 'desclassificacao').
+resultado_real('202501491655', perde).
 tem('202102977599', turma, 'SEXTA TURMA'). tem('202102977599', relator, 'SEBASTIAO REIS'). tem('202102977599', classe, 'REsp'). tem('202102977599', objeto, 'p4').
 resultado_real('202102977599', perde).
+tem('202201174416', turma, 'SEXTA TURMA'). tem('202201174416', relator, 'SEBASTIAO REIS'). tem('202201174416', classe, 'REsp'). tem('202201174416', objeto, 'p4').
+resultado_real('202201174416', vence).
+tem('202201493282', turma, 'SEXTA TURMA'). tem('202201493282', relator, 'SEBASTIAO REIS'). tem('202201493282', classe, 'REsp'). tem('202201493282', objeto, 'p4').
+resultado_real('202201493282', perde).
+tem('202201936034', turma, 'SEXTA TURMA'). tem('202201936034', relator, 'SEBASTIAO REIS'). tem('202201936034', classe, 'REsp'). tem('202201936034', objeto, 'p4').
+resultado_real('202201936034', vence).
+tem('202202059965', turma, 'SEXTA TURMA'). tem('202202059965', relator, 'SEBASTIAO REIS'). tem('202202059965', classe, 'REsp'). tem('202202059965', objeto, 'p4').
+resultado_real('202202059965', perde).
+tem('202202111336', turma, 'SEXTA TURMA'). tem('202202111336', relator, 'SEBASTIAO REIS'). tem('202202111336', classe, 'REsp'). tem('202202111336', objeto, 'p4').
+resultado_real('202202111336', vence).
+tem('202202153355', turma, 'SEXTA TURMA'). tem('202202153355', relator, 'SEBASTIAO REIS'). tem('202202153355', classe, 'REsp'). tem('202202153355', objeto, 'p4').
+resultado_real('202202153355', vence).
+tem('202202531010', turma, 'SEXTA TURMA'). tem('202202531010', relator, 'SEBASTIAO REIS'). tem('202202531010', classe, 'REsp'). tem('202202531010', objeto, 'autoria').
+resultado_real('202202531010', perde).
+tem('202202721974', turma, 'SEXTA TURMA'). tem('202202721974', relator, 'SEBASTIAO REIS'). tem('202202721974', classe, 'REsp'). tem('202202721974', objeto, 'p4').
+tem('202202721974', marcador, 'atos_infracionais').
+resultado_real('202202721974', vence).
+tem('202202791797', turma, 'SEXTA TURMA'). tem('202202791797', relator, 'SEBASTIAO REIS'). tem('202202791797', classe, 'REsp'). tem('202202791797', objeto, 'nulidade_busca').
+resultado_real('202202791797', perde).
+tem('202203029427', turma, 'SEXTA TURMA'). tem('202203029427', relator, 'SEBASTIAO REIS'). tem('202203029427', classe, 'REsp'). tem('202203029427', objeto, 'p4').
+resultado_real('202203029427', perde).
+tem('202203217780', turma, 'SEXTA TURMA'). tem('202203217780', relator, 'SEBASTIAO REIS'). tem('202203217780', classe, 'REsp'). tem('202203217780', objeto, 'p4').
+resultado_real('202203217780', vence).
+tem('202203514306', turma, 'SEXTA TURMA'). tem('202203514306', relator, 'SEBASTIAO REIS'). tem('202203514306', classe, 'REsp'). tem('202203514306', objeto, 'nulidade_busca').
+resultado_real('202203514306', perde).
+tem('202203775920', turma, 'SEXTA TURMA'). tem('202203775920', relator, 'SEBASTIAO REIS'). tem('202203775920', classe, 'REsp'). tem('202203775920', objeto, 'p4').
+resultado_real('202203775920', perde).
+tem('202203842955', turma, 'SEXTA TURMA'). tem('202203842955', relator, 'SEBASTIAO REIS'). tem('202203842955', classe, 'REsp'). tem('202203842955', objeto, 'desclassificacao').
+tem('202203842955', marcador, 'denuncia_anonima').
+resultado_real('202203842955', vence).
+tem('202203932222', turma, 'SEXTA TURMA'). tem('202203932222', relator, 'SEBASTIAO REIS'). tem('202203932222', classe, 'REsp'). tem('202203932222', objeto, 'nulidade_busca').
+resultado_real('202203932222', perde).
+tem('202300177254', turma, 'SEXTA TURMA'). tem('202300177254', relator, 'SEBASTIAO REIS'). tem('202300177254', classe, 'REsp'). tem('202300177254', objeto, 'outro').
+resultado_real('202300177254', vence).
+tem('202300231846', turma, 'SEXTA TURMA'). tem('202300231846', relator, 'SEBASTIAO REIS'). tem('202300231846', classe, 'REsp'). tem('202300231846', objeto, 'nulidade_busca').
+tem('202300231846', marcador, 'denuncia_anonima').
+resultado_real('202300231846', vence).
+tem('202300944563', turma, 'SEXTA TURMA'). tem('202300944563', relator, 'SEBASTIAO REIS'). tem('202300944563', classe, 'REsp'). tem('202300944563', objeto, 'p4').
+resultado_real('202300944563', perde).
+tem('202301629251', turma, 'SEXTA TURMA'). tem('202301629251', relator, 'SEBASTIAO REIS'). tem('202301629251', classe, 'REsp'). tem('202301629251', objeto, 'p4').
+resultado_real('202301629251', perde).
+tem('202301689987', turma, 'SEXTA TURMA'). tem('202301689987', relator, 'SEBASTIAO REIS'). tem('202301689987', classe, 'REsp'). tem('202301689987', objeto, 'nulidade_busca').
+tem('202301689987', marcador, 'local_conhecido').
+tem('202301689987', marcador, 'fuga_mudanca_direcao').
+resultado_real('202301689987', perde).
+tem('202302002637', turma, 'SEXTA TURMA'). tem('202302002637', relator, 'SEBASTIAO REIS'). tem('202302002637', classe, 'REsp'). tem('202302002637', objeto, 'p4').
+resultado_real('202302002637', perde).
+tem('202302655988', turma, 'SEXTA TURMA'). tem('202302655988', relator, 'SEBASTIAO REIS'). tem('202302655988', classe, 'REsp'). tem('202302655988', objeto, 'nulidade_busca').
+tem('202302655988', marcador, 'nervosismo').
+resultado_real('202302655988', vence).
+tem('202303468970', turma, 'SEXTA TURMA'). tem('202303468970', relator, 'SEBASTIAO REIS'). tem('202303468970', classe, 'REsp'). tem('202303468970', objeto, 'p4').
+resultado_real('202303468970', perde).
+tem('202304413462', turma, 'SEXTA TURMA'). tem('202304413462', relator, 'SEBASTIAO REIS'). tem('202304413462', classe, 'REsp'). tem('202304413462', objeto, 'dosimetria').
+resultado_real('202304413462', perde).
+tem('202304507415', turma, 'SEXTA TURMA'). tem('202304507415', relator, 'SEBASTIAO REIS'). tem('202304507415', classe, 'REsp'). tem('202304507415', objeto, 'dosimetria').
+resultado_real('202304507415', vence).
 tem('202400047349', turma, 'SEXTA TURMA'). tem('202400047349', relator, 'SEBASTIAO REIS'). tem('202400047349', classe, 'REsp'). tem('202400047349', objeto, 'p4').
 resultado_real('202400047349', vence).
 tem('202400096400', turma, 'SEXTA TURMA'). tem('202400096400', relator, 'SEBASTIAO REIS'). tem('202400096400', classe, 'REsp'). tem('202400096400', objeto, 'nulidade_busca').
@@ -3438,6 +12612,8 @@ tem('202400384204', turma, 'SEXTA TURMA'). tem('202400384204', relator, 'SEBASTI
 resultado_real('202400384204', perde).
 tem('202400419159', turma, 'SEXTA TURMA'). tem('202400419159', relator, 'SEBASTIAO REIS'). tem('202400419159', classe, 'REsp'). tem('202400419159', objeto, 'autoria').
 resultado_real('202400419159', perde).
+tem('202400651939', turma, 'SEXTA TURMA'). tem('202400651939', relator, 'SEBASTIAO REIS'). tem('202400651939', classe, 'REsp'). tem('202400651939', objeto, 'dosimetria').
+resultado_real('202400651939', perde).
 tem('202400733772', turma, 'SEXTA TURMA'). tem('202400733772', relator, 'SEBASTIAO REIS'). tem('202400733772', classe, 'REsp'). tem('202400733772', objeto, 'outro').
 resultado_real('202400733772', perde).
 tem('202401943717', turma, 'SEXTA TURMA'). tem('202401943717', relator, 'SEBASTIAO REIS'). tem('202401943717', classe, 'REsp'). tem('202401943717', objeto, 'nulidade_busca').
@@ -3448,8 +12624,13 @@ tem('202402218009', turma, 'SEXTA TURMA'). tem('202402218009', relator, 'SEBASTI
 resultado_real('202402218009', perde).
 tem('202402261296', turma, 'SEXTA TURMA'). tem('202402261296', relator, 'SEBASTIAO REIS'). tem('202402261296', classe, 'REsp'). tem('202402261296', objeto, 'p4').
 resultado_real('202402261296', perde).
+tem('202402564203', turma, 'SEXTA TURMA'). tem('202402564203', relator, 'SEBASTIAO REIS'). tem('202402564203', classe, 'REsp'). tem('202402564203', objeto, 'p4').
+resultado_real('202402564203', vence).
 tem('202402568600', turma, 'SEXTA TURMA'). tem('202402568600', relator, 'SEBASTIAO REIS'). tem('202402568600', classe, 'REsp'). tem('202402568600', objeto, 'p4').
 resultado_real('202402568600', vence).
+tem('202402693794', turma, 'SEXTA TURMA'). tem('202402693794', relator, 'SEBASTIAO REIS'). tem('202402693794', classe, 'REsp'). tem('202402693794', objeto, 'p4').
+tem('202402693794', marcador, 'faccao').
+resultado_real('202402693794', perde).
 tem('202402816428', turma, 'SEXTA TURMA'). tem('202402816428', relator, 'SEBASTIAO REIS'). tem('202402816428', classe, 'REsp'). tem('202402816428', objeto, 'p4').
 resultado_real('202402816428', perde).
 tem('202402950978', turma, 'SEXTA TURMA'). tem('202402950978', relator, 'SEBASTIAO REIS'). tem('202402950978', classe, 'REsp'). tem('202402950978', objeto, 'nulidade_busca').
@@ -3466,6 +12647,12 @@ tem('202403366720', turma, 'SEXTA TURMA'). tem('202403366720', relator, 'SEBASTI
 resultado_real('202403366720', perde).
 tem('202403477265', turma, 'SEXTA TURMA'). tem('202403477265', relator, 'SEBASTIAO REIS'). tem('202403477265', classe, 'REsp'). tem('202403477265', objeto, 'nulidade_busca').
 resultado_real('202403477265', perde).
+tem('202403531845', turma, 'SEXTA TURMA'). tem('202403531845', relator, 'SEBASTIAO REIS'). tem('202403531845', classe, 'REsp'). tem('202403531845', objeto, 'outro').
+resultado_real('202403531845', vence).
+tem('202403607635', turma, 'SEXTA TURMA'). tem('202403607635', relator, 'SEBASTIAO REIS'). tem('202403607635', classe, 'REsp'). tem('202403607635', objeto, 'dosimetria').
+tem('202403607635', marcador, 'faccao').
+tem('202403607635', marcador, 'ocupacao').
+resultado_real('202403607635', vence).
 tem('202403639896', turma, 'SEXTA TURMA'). tem('202403639896', relator, 'SEBASTIAO REIS'). tem('202403639896', classe, 'REsp'). tem('202403639896', objeto, 'nulidade_busca').
 resultado_real('202403639896', vence).
 tem('202403707214', turma, 'SEXTA TURMA'). tem('202403707214', relator, 'SEBASTIAO REIS'). tem('202403707214', classe, 'REsp'). tem('202403707214', objeto, 'outro').
@@ -3480,6 +12667,10 @@ tem('202404079440', turma, 'SEXTA TURMA'). tem('202404079440', relator, 'SEBASTI
 tem('202404079440', marcador, 'local_conhecido').
 tem('202404079440', marcador, 'fuga_mudanca_direcao').
 resultado_real('202404079440', perde).
+tem('202404233128', turma, 'SEXTA TURMA'). tem('202404233128', relator, 'SEBASTIAO REIS'). tem('202404233128', classe, 'REsp'). tem('202404233128', objeto, 'outro').
+resultado_real('202404233128', perde).
+tem('202404245740', turma, 'SEXTA TURMA'). tem('202404245740', relator, 'SEBASTIAO REIS'). tem('202404245740', classe, 'REsp'). tem('202404245740', objeto, 'nulidade_busca').
+resultado_real('202404245740', perde).
 tem('202404276133', turma, 'SEXTA TURMA'). tem('202404276133', relator, 'SEBASTIAO REIS'). tem('202404276133', classe, 'REsp'). tem('202404276133', objeto, 'p4').
 resultado_real('202404276133', vence).
 tem('202404359456', turma, 'SEXTA TURMA'). tem('202404359456', relator, 'SEBASTIAO REIS'). tem('202404359456', classe, 'REsp'). tem('202404359456', objeto, 'dosimetria').
@@ -3506,6 +12697,8 @@ resultado_real('202500309095', vence).
 tem('202500413076', turma, 'SEXTA TURMA'). tem('202500413076', relator, 'SEBASTIAO REIS'). tem('202500413076', classe, 'REsp'). tem('202500413076', objeto, 'p4').
 tem('202500413076', marcador, 'faccao').
 resultado_real('202500413076', perde).
+tem('202500442068', turma, 'SEXTA TURMA'). tem('202500442068', relator, 'SEBASTIAO REIS'). tem('202500442068', classe, 'REsp'). tem('202500442068', objeto, 'p4').
+resultado_real('202500442068', perde).
 tem('202500497773', turma, 'SEXTA TURMA'). tem('202500497773', relator, 'SEBASTIAO REIS'). tem('202500497773', classe, 'REsp'). tem('202500497773', objeto, 'nulidade_busca').
 tem('202500497773', marcador, 'conhecido_policia').
 tem('202500497773', marcador, 'nervosismo').
@@ -3514,13 +12707,44 @@ resultado_real('202500497773', perde).
 tem('202500553224', turma, 'SEXTA TURMA'). tem('202500553224', relator, 'SEBASTIAO REIS'). tem('202500553224', classe, 'REsp'). tem('202500553224', objeto, 'desclassificacao').
 tem('202500553224', marcador, 'denuncia_anonima').
 resultado_real('202500553224', perde).
+tem('202500594597', turma, 'SEXTA TURMA'). tem('202500594597', relator, 'SEBASTIAO REIS'). tem('202500594597', classe, 'REsp'). tem('202500594597', objeto, 'nulidade_busca').
+tem('202500594597', marcador, 'fuga_mudanca_direcao').
+tem('202500594597', marcador, 'denuncia_anonima').
+resultado_real('202500594597', perde).
+tem('202500644383', turma, 'SEXTA TURMA'). tem('202500644383', relator, 'SEBASTIAO REIS'). tem('202500644383', classe, 'REsp'). tem('202500644383', objeto, 'p4').
+resultado_real('202500644383', perde).
+tem('202500684120', turma, 'SEXTA TURMA'). tem('202500684120', relator, 'SEBASTIAO REIS'). tem('202500684120', classe, 'REsp'). tem('202500684120', objeto, 'p4').
+resultado_real('202500684120', perde).
 tem('202500860453', turma, 'SEXTA TURMA'). tem('202500860453', relator, 'SEBASTIAO REIS'). tem('202500860453', classe, 'REsp'). tem('202500860453', objeto, 'nulidade_busca').
 tem('202500860453', marcador, 'local_conhecido').
 tem('202500860453', marcador, 'nervosismo').
 resultado_real('202500860453', vence).
+tem('202302449348', turma, 'SEXTA TURMA'). tem('202302449348', relator, 'SEBASTIAO REIS'). tem('202302449348', classe, 'REsp'). tem('202302449348', objeto, 'dosimetria').
+resultado_real('202302449348', vence).
+tem('202500981945', turma, 'SEXTA TURMA'). tem('202500981945', relator, 'SEBASTIAO REIS'). tem('202500981945', classe, 'REsp'). tem('202500981945', objeto, 'p4').
+resultado_real('202500981945', perde).
+tem('202501067950', turma, 'SEXTA TURMA'). tem('202501067950', relator, 'SEBASTIAO REIS'). tem('202501067950', classe, 'REsp'). tem('202501067950', objeto, 'outro').
+resultado_real('202501067950', perde).
 tem('202501148204', turma, 'SEXTA TURMA'). tem('202501148204', relator, 'SEBASTIAO REIS'). tem('202501148204', classe, 'REsp'). tem('202501148204', objeto, 'nulidade_busca').
 tem('202501148204', marcador, 'comunidade_bairro').
 resultado_real('202501148204', vence).
+tem('202501174506', turma, 'SEXTA TURMA'). tem('202501174506', relator, 'SEBASTIAO REIS'). tem('202501174506', classe, 'REsp'). tem('202501174506', objeto, 'nulidade_busca').
+tem('202501174506', marcador, 'local_conhecido').
+tem('202501174506', marcador, 'fuga_mudanca_direcao').
+resultado_real('202501174506', perde).
+tem('202501273399', turma, 'SEXTA TURMA'). tem('202501273399', relator, 'SEBASTIAO REIS'). tem('202501273399', classe, 'REsp'). tem('202501273399', objeto, 'outro').
+tem('202501273399', marcador, 'faccao').
+resultado_real('202501273399', vence).
+tem('202501805242', turma, 'SEXTA TURMA'). tem('202501805242', relator, 'SEBASTIAO REIS'). tem('202501805242', classe, 'REsp'). tem('202501805242', objeto, 'dosimetria').
+resultado_real('202501805242', vence).
+tem('202501866281', turma, 'SEXTA TURMA'). tem('202501866281', relator, 'SEBASTIAO REIS'). tem('202501866281', classe, 'REsp'). tem('202501866281', objeto, 'dosimetria').
+resultado_real('202501866281', perde).
+tem('202502043101', turma, 'SEXTA TURMA'). tem('202502043101', relator, 'SEBASTIAO REIS'). tem('202502043101', classe, 'REsp'). tem('202502043101', objeto, 'p4').
+resultado_real('202502043101', vence).
+tem('202502123479', turma, 'SEXTA TURMA'). tem('202502123479', relator, 'SEBASTIAO REIS'). tem('202502123479', classe, 'REsp'). tem('202502123479', objeto, 'desclassificacao').
+resultado_real('202502123479', perde).
+tem('202502627121', turma, 'SEXTA TURMA'). tem('202502627121', relator, 'SEBASTIAO REIS'). tem('202502627121', classe, 'REsp'). tem('202502627121', objeto, 'dosimetria').
+resultado_real('202502627121', perde).
 tem('202503172686', turma, 'SEXTA TURMA'). tem('202503172686', relator, 'SEBASTIAO REIS'). tem('202503172686', classe, 'REsp'). tem('202503172686', objeto, 'p4').
 resultado_real('202503172686', vence).
 tem('202504339253', turma, 'SEXTA TURMA'). tem('202504339253', relator, 'SEBASTIAO REIS'). tem('202504339253', classe, 'REsp'). tem('202504339253', objeto, 'desclassificacao').
@@ -3535,6 +12759,34 @@ tem('202600439821', turma, 'SEXTA TURMA'). tem('202600439821', relator, 'SEBASTI
 resultado_real('202600439821', perde).
 tem('202600840415', turma, 'SEXTA TURMA'). tem('202600840415', relator, 'SEBASTIAO REIS'). tem('202600840415', classe, 'REsp'). tem('202600840415', objeto, 'desclassificacao').
 resultado_real('202600840415', perde).
+tem('202302710417', turma, 'SEXTA TURMA'). tem('202302710417', relator, 'SEBASTIAO REIS'). tem('202302710417', classe, 'RHC'). tem('202302710417', objeto, 'nulidade_busca').
+resultado_real('202302710417', perde).
+tem('202400010286', turma, 'SEXTA TURMA'). tem('202400010286', relator, 'SEBASTIAO REIS'). tem('202400010286', classe, 'RHC'). tem('202400010286', objeto, 'nulidade_busca').
+resultado_real('202400010286', perde).
+tem('202403176422', turma, 'SEXTA TURMA'). tem('202403176422', relator, 'SEBASTIAO REIS'). tem('202403176422', classe, 'RHC'). tem('202403176422', objeto, 'outro').
+resultado_real('202403176422', perde).
+tem('202403456452', turma, 'SEXTA TURMA'). tem('202403456452', relator, 'SEBASTIAO REIS'). tem('202403456452', classe, 'RHC'). tem('202403456452', objeto, 'p4').
+resultado_real('202403456452', perde).
+tem('202403748980', turma, 'SEXTA TURMA'). tem('202403748980', relator, 'SEBASTIAO REIS'). tem('202403748980', classe, 'RHC'). tem('202403748980', objeto, 'outro').
+resultado_real('202403748980', perde).
+tem('202404628479', turma, 'SEXTA TURMA'). tem('202404628479', relator, 'SEBASTIAO REIS'). tem('202404628479', classe, 'RHC'). tem('202404628479', objeto, 'outro').
+resultado_real('202404628479', perde).
+tem('202500110399', turma, 'SEXTA TURMA'). tem('202500110399', relator, 'SEBASTIAO REIS'). tem('202500110399', classe, 'RHC'). tem('202500110399', objeto, 'outro').
+tem('202500110399', marcador, 'denuncia_anonima').
+resultado_real('202500110399', perde).
+tem('202500111805', turma, 'SEXTA TURMA'). tem('202500111805', relator, 'SEBASTIAO REIS'). tem('202500111805', classe, 'RHC'). tem('202500111805', objeto, 'autoria').
+resultado_real('202500111805', perde).
+tem('202500219893', turma, 'SEXTA TURMA'). tem('202500219893', relator, 'SEBASTIAO REIS'). tem('202500219893', classe, 'RHC'). tem('202500219893', objeto, 'nulidade_busca').
+resultado_real('202500219893', perde).
+tem('202500248671', turma, 'SEXTA TURMA'). tem('202500248671', relator, 'SEBASTIAO REIS'). tem('202500248671', classe, 'RHC'). tem('202500248671', objeto, 'outro').
+resultado_real('202500248671', perde).
+tem('202500875920', turma, 'SEXTA TURMA'). tem('202500875920', relator, 'SEBASTIAO REIS'). tem('202500875920', classe, 'RHC'). tem('202500875920', objeto, 'outro').
+resultado_real('202500875920', perde).
+tem('202501461111', turma, 'SEXTA TURMA'). tem('202501461111', relator, 'SEBASTIAO REIS'). tem('202501461111', classe, 'RHC'). tem('202501461111', objeto, 'outro').
+resultado_real('202501461111', perde).
+tem('202501769671', turma, 'SEXTA TURMA'). tem('202501769671', relator, 'SEBASTIAO REIS'). tem('202501769671', classe, 'RHC'). tem('202501769671', objeto, 'nulidade_busca').
+tem('202501769671', marcador, 'faccao').
+resultado_real('202501769671', perde).
 tem('202601145668', turma, 'SEXTA TURMA'). tem('202601145668', relator, 'SEBASTIAO REIS'). tem('202601145668', classe, 'RHC'). tem('202601145668', objeto, 'outro').
 resultado_real('202601145668', perde).
 tem('202601238802', turma, 'SEXTA TURMA'). tem('202601238802', relator, 'SEBASTIAO REIS'). tem('202601238802', classe, 'RHC'). tem('202601238802', objeto, 'outro').

@@ -4,32 +4,37 @@
 :- discontiguous arvore_b/3.
 
 arvore_b(com_relator, C, Classe) :-
-    (   tem(C, classe, 'REsp')
+    (   tem(C, relator, 'DANIELA TEIXEIRA')
     ->
-        (   tem(C, relator, 'SEBASTIAO REIS')
+        (   tem(C, classe, 'REsp')
         ->
             Classe = vence
         ;
-            (   tem(C, relator, 'MARIA MARLUCE')
+            (   tem(C, objeto, 'outro')
             ->
-                Classe = vence
+                (   tem(C, classe, 'HC')
+                ->
+                    Classe = perde
+                ;
+                    Classe = vence
+                )
             ;
-                (   tem(C, relator, 'OG FERNANDES')
+                Classe = vence
+            )
+        )
+    ;
+        (   tem(C, classe, 'REsp')
+        ->
+            (   tem(C, turma, 'QUINTA TURMA')
+            ->
+                (   tem(C, objeto, 'autoria')
                 ->
                     Classe = vence
                 ;
                     Classe = perde
                 )
-            )
-        )
-    ;
-        (   tem(C, relator, 'OG FERNANDES')
-        ->
-            (   tem(C, objeto, 'nulidade_busca')
-            ->
-                Classe = vence
             ;
-                Classe = perde
+                Classe = vence
             )
         ;
             Classe = perde
@@ -41,24 +46,44 @@ arvore_b(sem_relator, C, Classe) :-
     ->
         (   tem(C, marcador, 'fuga_mudanca_direcao')
         ->
-            Classe = perde
+            (   tem(C, marcador, 'denuncia_anonima')
+            ->
+                Classe = perde
+            ;
+                (   tem(C, marcador, 'local_conhecido')
+                ->
+                    Classe = perde
+                ;
+                    Classe = vence
+                )
+            )
         ;
             Classe = vence
         )
     ;
-        (   tem(C, objeto, 'outro')
+        (   tem(C, classe, 'HC')
         ->
-            Classe = perde
-        ;
-            (   tem(C, marcador, 'denuncia_anonima')
+            (   tem(C, marcador, 'fuga_mudanca_direcao')
             ->
-                Classe = vence
-            ;
-                (   tem(C, marcador, 'local_conhecido')
+                (   tem(C, marcador, 'denuncia_anonima')
                 ->
                     Classe = vence
                 ;
                     Classe = perde
+                )
+            ;
+                Classe = perde
+            )
+        ;
+            (   tem(C, objeto, 'outro')
+            ->
+                Classe = perde
+            ;
+                (   tem(C, objeto, 'autoria')
+                ->
+                    Classe = perde
+                ;
+                    Classe = vence
                 )
             )
         )

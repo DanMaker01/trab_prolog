@@ -443,83 +443,88 @@ referencia('p4_202400047349_0', tj_p4, negado).
 referencia('p4_202400047349_0', stj_p4, negado).
 referencia('p4_202400047349_0', resultado, 'parcial').
 
-caso('p4_202402568600_1', p4, 'SEBASTIAO REIS').
-droga('p4_202402568600_1', cocaina).
-qtd_g('p4_202402568600_1', 13.4).
-maus_antecedentes('p4_202402568600_1', nao).
-referencia('p4_202402568600_1', sent_p4, concedido(1/6)).
-referencia('p4_202402568600_1', tj_p4, concedido(1/6)).
-referencia('p4_202402568600_1', stj_p4, concedido(2/3)).
-referencia('p4_202402568600_1', resultado, 'parcial').
+caso('p4_202401923773_1', p4, 'MARIA MARLUCE').
+droga('p4_202401923773_1', cocaina).
+qtd_g('p4_202401923773_1', 30500.0).
+reincidente('p4_202401923773_1', nao).
+indicio('p4_202401923773_1', petrechos).
+indicio('p4_202401923773_1', celular).
+indicio('p4_202401923773_1', investigacao_previa).
+indicio('p4_202401923773_1', faccao).
+indicio('p4_202401923773_1', logistica).
+referencia('p4_202401923773_1', sent_p4, negado).
+referencia('p4_202401923773_1', tj_p4, negado).
+referencia('p4_202401923773_1', stj_p4, negado).
+referencia('p4_202401923773_1', resultado, 'parcial').
 
-caso('p4_202402816428_2', p4, 'SEBASTIAO REIS').
-data_fato('p4_202402816428_2', date(2020,9,8)).
-droga('p4_202402816428_2', cocaina).
-qtd_g('p4_202402816428_2', 972.7).
-primario('p4_202402816428_2', nao).
-maus_antecedentes('p4_202402816428_2', sim).
-antecedente_ano('p4_202402816428_2', 2019).
-indicio('p4_202402816428_2', petrechos).
-indicio('p4_202402816428_2', celular).
-referencia('p4_202402816428_2', sent_p4, negado).
-referencia('p4_202402816428_2', tj_p4, negado).
-referencia('p4_202402816428_2', stj_p4, negado).
-referencia('p4_202402816428_2', resultado, 'parcial').
+caso('p4_202402568600_2', p4, 'SEBASTIAO REIS').
+droga('p4_202402568600_2', cocaina).
+qtd_g('p4_202402568600_2', 13.4).
+maus_antecedentes('p4_202402568600_2', nao).
+referencia('p4_202402568600_2', sent_p4, concedido(1/6)).
+referencia('p4_202402568600_2', tj_p4, concedido(1/6)).
+referencia('p4_202402568600_2', stj_p4, concedido(2/3)).
+referencia('p4_202402568600_2', resultado, 'parcial').
 
 caso('p4_202402816428_3', p4, 'SEBASTIAO REIS').
 data_fato('p4_202402816428_3', date(2020,9,8)).
 droga('p4_202402816428_3', cocaina).
 qtd_g('p4_202402816428_3', 972.7).
+primario('p4_202402816428_3', nao).
+maus_antecedentes('p4_202402816428_3', sim).
+antecedente_ano('p4_202402816428_3', 2019).
 indicio('p4_202402816428_3', petrechos).
 indicio('p4_202402816428_3', celular).
-referencia('p4_202402816428_3', sent_p4, concedido(1/3)).
-referencia('p4_202402816428_3', tj_p4, concedido(1/3)).
+referencia('p4_202402816428_3', sent_p4, negado).
+referencia('p4_202402816428_3', tj_p4, negado).
+referencia('p4_202402816428_3', stj_p4, negado).
 referencia('p4_202402816428_3', resultado, 'parcial').
 
-caso('p4_202403049693_4', p4, 'SEBASTIAO REIS').
-droga('p4_202403049693_4', maconha).
-droga('p4_202403049693_4', cocaina).
-droga('p4_202403049693_4', crack).
-associacao('p4_202403049693_4', condenado).
-indicio('p4_202403049693_4', celular).
-indicio('p4_202403049693_4', investigacao_previa).
-indicio('p4_202403049693_4', logistica).
-indicio('p4_202403049693_4', variedade).
-referencia('p4_202403049693_4', sent_p4, negado).
-referencia('p4_202403049693_4', tj_p4, negado).
-referencia('p4_202403049693_4', stj_p4, negado).
-referencia('p4_202403049693_4', resultado, 'parcial').
+caso('p4_202402816428_4', p4, 'SEBASTIAO REIS').
+data_fato('p4_202402816428_4', date(2020,9,8)).
+droga('p4_202402816428_4', cocaina).
+qtd_g('p4_202402816428_4', 972.7).
+indicio('p4_202402816428_4', petrechos).
+indicio('p4_202402816428_4', celular).
+referencia('p4_202402816428_4', sent_p4, concedido(1/3)).
+referencia('p4_202402816428_4', tj_p4, concedido(1/3)).
+referencia('p4_202402816428_4', resultado, 'parcial').
 
 caso('p4_202403049693_5', p4, 'SEBASTIAO REIS').
+droga('p4_202403049693_5', maconha).
+droga('p4_202403049693_5', cocaina).
+droga('p4_202403049693_5', crack).
 associacao('p4_202403049693_5', condenado).
 indicio('p4_202403049693_5', celular).
 indicio('p4_202403049693_5', investigacao_previa).
-majorante('p4_202403049693_5', v).
+indicio('p4_202403049693_5', logistica).
+indicio('p4_202403049693_5', variedade).
 referencia('p4_202403049693_5', sent_p4, negado).
 referencia('p4_202403049693_5', tj_p4, negado).
 referencia('p4_202403049693_5', stj_p4, negado).
-referencia('p4_202403049693_5', resultado, 'desfavoravel').
+referencia('p4_202403049693_5', resultado, 'parcial').
 
-caso('p4_202404276133_6', p4, 'SEBASTIAO REIS').
-droga('p4_202404276133_6', crack).
-qtd_g('p4_202404276133_6', 19.24).
-indicio('p4_202404276133_6', celular).
-indicio('p4_202404276133_6', investigacao_previa).
-indicio('p4_202404276133_6', local_conhecido).
-indicio('p4_202404276133_6', faccao).
-referencia('p4_202404276133_6', sent_p4, negado).
-referencia('p4_202404276133_6', tj_p4, negado).
-referencia('p4_202404276133_6', stj_p4, negado).
-referencia('p4_202404276133_6', resultado, 'parcial').
+caso('p4_202403049693_6', p4, 'SEBASTIAO REIS').
+associacao('p4_202403049693_6', condenado).
+indicio('p4_202403049693_6', celular).
+indicio('p4_202403049693_6', investigacao_previa).
+majorante('p4_202403049693_6', v).
+referencia('p4_202403049693_6', sent_p4, negado).
+referencia('p4_202403049693_6', tj_p4, negado).
+referencia('p4_202403049693_6', stj_p4, negado).
+referencia('p4_202403049693_6', resultado, 'desfavoravel').
 
-caso('p4_202404432728_7', p4, 'SEBASTIAO REIS').
-droga('p4_202404432728_7', cocaina).
-qtd_g('p4_202404432728_7', 530.0).
-indicio('p4_202404432728_7', arma).
-indicio('p4_202404432728_7', investigacao_previa).
-referencia('p4_202404432728_7', tj_p4, negado).
-referencia('p4_202404432728_7', stj_p4, negado).
-referencia('p4_202404432728_7', resultado, 'parcial').
+caso('p4_202404276133_7', p4, 'SEBASTIAO REIS').
+droga('p4_202404276133_7', crack).
+qtd_g('p4_202404276133_7', 19.24).
+indicio('p4_202404276133_7', celular).
+indicio('p4_202404276133_7', investigacao_previa).
+indicio('p4_202404276133_7', local_conhecido).
+indicio('p4_202404276133_7', faccao).
+referencia('p4_202404276133_7', sent_p4, negado).
+referencia('p4_202404276133_7', tj_p4, negado).
+referencia('p4_202404276133_7', stj_p4, negado).
+referencia('p4_202404276133_7', resultado, 'parcial').
 
 caso('p4_202404432728_8', p4, 'SEBASTIAO REIS').
 droga('p4_202404432728_8', cocaina).
@@ -530,144 +535,230 @@ referencia('p4_202404432728_8', tj_p4, negado).
 referencia('p4_202404432728_8', stj_p4, negado).
 referencia('p4_202404432728_8', resultado, 'parcial').
 
-caso('p4_202501700751_9', p4, 'SEBASTIAO REIS').
-data_fato('p4_202501700751_9', date(2017,4,22)).
-reincidente('p4_202501700751_9', nao).
-maus_antecedentes('p4_202501700751_9', sim).
-antecedente_ano('p4_202501700751_9', 2015).
-referencia('p4_202501700751_9', tj_p4, negado).
-referencia('p4_202501700751_9', stj_p4, negado).
-referencia('p4_202501700751_9', resultado, 'desfavoravel').
+caso('p4_202404432728_9', p4, 'SEBASTIAO REIS').
+droga('p4_202404432728_9', cocaina).
+qtd_g('p4_202404432728_9', 530.0).
+indicio('p4_202404432728_9', arma).
+indicio('p4_202404432728_9', investigacao_previa).
+referencia('p4_202404432728_9', tj_p4, negado).
+referencia('p4_202404432728_9', stj_p4, negado).
+referencia('p4_202404432728_9', resultado, 'parcial').
 
-caso('p4_202501891953_10', p4, 'SEBASTIAO REIS').
-droga('p4_202501891953_10', maconha).
-qtd_g('p4_202501891953_10', 432000.0).
-primario('p4_202501891953_10', sim).
-maus_antecedentes('p4_202501891953_10', nao).
-indicio('p4_202501891953_10', faccao).
-indicio('p4_202501891953_10', logistica).
-referencia('p4_202501891953_10', tj_p4, negado).
-referencia('p4_202501891953_10', stj_p4, negado).
-referencia('p4_202501891953_10', resultado, 'desfavoravel').
+caso('p4_202501700751_10', p4, 'SEBASTIAO REIS').
+data_fato('p4_202501700751_10', date(2017,4,22)).
+reincidente('p4_202501700751_10', nao).
+maus_antecedentes('p4_202501700751_10', sim).
+antecedente_ano('p4_202501700751_10', 2015).
+referencia('p4_202501700751_10', tj_p4, negado).
+referencia('p4_202501700751_10', stj_p4, negado).
+referencia('p4_202501700751_10', resultado, 'desfavoravel').
 
-caso('p4_202502468442_11', p4, 'SEBASTIAO REIS').
-droga('p4_202502468442_11', cocaina).
-qtd_g('p4_202502468442_11', 2065.0).
-primario('p4_202502468442_11', sim).
-reincidente('p4_202502468442_11', nao).
-maus_antecedentes('p4_202502468442_11', nao).
-indicio('p4_202502468442_11', logistica).
-referencia('p4_202502468442_11', sent_p4, concedido(1/6)).
-referencia('p4_202502468442_11', tj_p4, concedido(1/6)).
-referencia('p4_202502468442_11', stj_p4, concedido(1/6)).
-referencia('p4_202502468442_11', resultado, 'desfavoravel').
+caso('p4_202501891953_11', p4, 'SEBASTIAO REIS').
+droga('p4_202501891953_11', maconha).
+qtd_g('p4_202501891953_11', 432000.0).
+primario('p4_202501891953_11', sim).
+maus_antecedentes('p4_202501891953_11', nao).
+indicio('p4_202501891953_11', faccao).
+indicio('p4_202501891953_11', logistica).
+referencia('p4_202501891953_11', tj_p4, negado).
+referencia('p4_202501891953_11', stj_p4, negado).
+referencia('p4_202501891953_11', resultado, 'desfavoravel').
 
-caso('p4_202502487449_12', p4, 'SEBASTIAO REIS').
-droga('p4_202502487449_12', maconha).
-droga('p4_202502487449_12', cocaina).
-droga('p4_202502487449_12', crack).
-qtd_g('p4_202502487449_12', 16955.0).
-primario('p4_202502487449_12', sim).
-reincidente('p4_202502487449_12', nao).
-indicio('p4_202502487449_12', petrechos).
-indicio('p4_202502487449_12', denuncias).
-indicio('p4_202502487449_12', variedade).
-referencia('p4_202502487449_12', sent_p4, negado).
-referencia('p4_202502487449_12', tj_p4, negado).
-referencia('p4_202502487449_12', stj_p4, negado).
-referencia('p4_202502487449_12', resultado, 'desfavoravel').
+caso('p4_202502390543_12', p4, 'MARIA MARLUCE').
+droga('p4_202502390543_12', maconha).
+droga('p4_202502390543_12', cocaina).
+droga('p4_202502390543_12', crack).
+qtd_g('p4_202502390543_12', 450.1).
+primario('p4_202502390543_12', nao).
+reincidente('p4_202502390543_12', sim).
+indicio('p4_202502390543_12', petrechos).
+indicio('p4_202502390543_12', variedade).
+referencia('p4_202502390543_12', sent_p4, negado).
+referencia('p4_202502390543_12', tj_p4, negado).
+referencia('p4_202502390543_12', stj_p4, negado).
+referencia('p4_202502390543_12', resultado, 'parcial').
 
-caso('p4_202503172686_13', p4, 'SEBASTIAO REIS').
-data_fato('p4_202503172686_13', date(2020,11,11)).
-droga('p4_202503172686_13', cocaina).
-qtd_g('p4_202503172686_13', 6.9).
-indicio('p4_202503172686_13', investigacao_previa).
-indicio('p4_202503172686_13', local_conhecido).
-referencia('p4_202503172686_13', sent_p4, negado).
-referencia('p4_202503172686_13', tj_p4, concedido(1/2)).
-referencia('p4_202503172686_13', stj_p4, concedido(2/3)).
-referencia('p4_202503172686_13', resultado, 'parcial').
+caso('p4_202502468442_13', p4, 'SEBASTIAO REIS').
+droga('p4_202502468442_13', cocaina).
+qtd_g('p4_202502468442_13', 2065.0).
+primario('p4_202502468442_13', sim).
+reincidente('p4_202502468442_13', nao).
+maus_antecedentes('p4_202502468442_13', nao).
+indicio('p4_202502468442_13', logistica).
+referencia('p4_202502468442_13', sent_p4, concedido(1/6)).
+referencia('p4_202502468442_13', tj_p4, concedido(1/6)).
+referencia('p4_202502468442_13', stj_p4, concedido(1/6)).
+referencia('p4_202502468442_13', resultado, 'desfavoravel').
 
-caso('p4_202504574280_14', p4, 'SEBASTIAO REIS').
-droga('p4_202504574280_14', cocaina).
-primario('p4_202504574280_14', sim).
-reincidente('p4_202504574280_14', nao).
-maus_antecedentes('p4_202504574280_14', nao).
-indicio('p4_202504574280_14', petrechos).
-indicio('p4_202504574280_14', arma).
-majorante('p4_202504574280_14', iv).
-referencia('p4_202504574280_14', sent_p4, negado).
-referencia('p4_202504574280_14', tj_p4, negado).
-referencia('p4_202504574280_14', stj_p4, negado).
-referencia('p4_202504574280_14', resultado, 'parcial').
+caso('p4_202502487449_14', p4, 'SEBASTIAO REIS').
+droga('p4_202502487449_14', maconha).
+droga('p4_202502487449_14', cocaina).
+droga('p4_202502487449_14', crack).
+qtd_g('p4_202502487449_14', 16955.0).
+primario('p4_202502487449_14', sim).
+reincidente('p4_202502487449_14', nao).
+indicio('p4_202502487449_14', petrechos).
+indicio('p4_202502487449_14', denuncias).
+indicio('p4_202502487449_14', variedade).
+referencia('p4_202502487449_14', sent_p4, negado).
+referencia('p4_202502487449_14', tj_p4, negado).
+referencia('p4_202502487449_14', stj_p4, negado).
+referencia('p4_202502487449_14', resultado, 'desfavoravel').
 
-caso('p4_202504610772_15', p4, 'SEBASTIAO REIS').
-droga('p4_202504610772_15', maconha).
-droga('p4_202504610772_15', crack).
-qtd_g('p4_202504610772_15', 556.0).
-referencia('p4_202504610772_15', sent_p4, concedido(1/6)).
-referencia('p4_202504610772_15', tj_p4, concedido(1/6)).
-referencia('p4_202504610772_15', stj_p4, negado).
-referencia('p4_202504610772_15', resultado, 'desfavoravel').
+caso('p4_202503172686_15', p4, 'SEBASTIAO REIS').
+data_fato('p4_202503172686_15', date(2020,11,11)).
+droga('p4_202503172686_15', cocaina).
+qtd_g('p4_202503172686_15', 6.9).
+indicio('p4_202503172686_15', investigacao_previa).
+indicio('p4_202503172686_15', local_conhecido).
+referencia('p4_202503172686_15', sent_p4, negado).
+referencia('p4_202503172686_15', tj_p4, concedido(1/2)).
+referencia('p4_202503172686_15', stj_p4, concedido(2/3)).
+referencia('p4_202503172686_15', resultado, 'parcial').
 
-caso('p4_202504939960_16', p4, 'SEBASTIAO REIS').
-droga('p4_202504939960_16', maconha).
-qtd_g('p4_202504939960_16', 308406.0).
-primario('p4_202504939960_16', sim).
-indicio('p4_202504939960_16', petrechos).
-indicio('p4_202504939960_16', logistica).
-referencia('p4_202504939960_16', sent_p4, negado).
-referencia('p4_202504939960_16', tj_p4, negado).
-referencia('p4_202504939960_16', stj_p4, negado).
-referencia('p4_202504939960_16', resultado, 'desfavoravel').
+caso('p4_202503387283_16', p4, 'MARIA MARLUCE').
+droga('p4_202503387283_16', cocaina).
+qtd_g('p4_202503387283_16', 410.7).
+indicio('p4_202503387283_16', local_conhecido).
+referencia('p4_202503387283_16', sent_p4, concedido(1/2)).
+referencia('p4_202503387283_16', tj_p4, negado).
+referencia('p4_202503387283_16', stj_p4, negado).
+referencia('p4_202503387283_16', resultado, 'parcial').
 
-caso('p4_202600439821_17', p4, 'SEBASTIAO REIS').
-indicio('p4_202600439821_17', petrechos).
-indicio('p4_202600439821_17', arma).
-referencia('p4_202600439821_17', tj_p4, concedido(1/6)).
-referencia('p4_202600439821_17', stj_p4, negado).
-referencia('p4_202600439821_17', resultado, 'desfavoravel').
+caso('p4_202504574280_17', p4, 'SEBASTIAO REIS').
+droga('p4_202504574280_17', cocaina).
+primario('p4_202504574280_17', sim).
+reincidente('p4_202504574280_17', nao).
+maus_antecedentes('p4_202504574280_17', nao).
+indicio('p4_202504574280_17', petrechos).
+indicio('p4_202504574280_17', arma).
+majorante('p4_202504574280_17', iv).
+referencia('p4_202504574280_17', sent_p4, negado).
+referencia('p4_202504574280_17', tj_p4, negado).
+referencia('p4_202504574280_17', stj_p4, negado).
+referencia('p4_202504574280_17', resultado, 'parcial').
 
-caso('p4_202601211861_18', p4, 'SEBASTIAO REIS').
-droga('p4_202601211861_18', maconha).
-qtd_g('p4_202601211861_18', 1108.0).
-primario('p4_202601211861_18', sim).
-reincidente('p4_202601211861_18', nao).
-maus_antecedentes('p4_202601211861_18', nao).
-referencia('p4_202601211861_18', tj_p4, negado).
-referencia('p4_202601211861_18', stj_p4, concedido(1/2)).
-referencia('p4_202601211861_18', resultado, 'parcial').
+caso('p4_202504610772_18', p4, 'SEBASTIAO REIS').
+droga('p4_202504610772_18', maconha).
+droga('p4_202504610772_18', crack).
+qtd_g('p4_202504610772_18', 556.0).
+referencia('p4_202504610772_18', sent_p4, concedido(1/6)).
+referencia('p4_202504610772_18', tj_p4, concedido(1/6)).
+referencia('p4_202504610772_18', stj_p4, negado).
+referencia('p4_202504610772_18', resultado, 'desfavoravel').
 
-caso('p4_202601353207_19', p4, 'SEBASTIAO REIS').
-droga('p4_202601353207_19', cocaina).
-primario('p4_202601353207_19', sim).
-reincidente('p4_202601353207_19', nao).
-acoes_em_curso('p4_202601353207_19', sim).
-indicio('p4_202601353207_19', investigacao_previa).
-indicio('p4_202601353207_19', faccao).
-referencia('p4_202601353207_19', tj_p4, negado).
-referencia('p4_202601353207_19', stj_p4, negado).
-referencia('p4_202601353207_19', resultado, 'desfavoravel').
+caso('p4_202504939960_19', p4, 'SEBASTIAO REIS').
+droga('p4_202504939960_19', maconha).
+qtd_g('p4_202504939960_19', 308406.0).
+primario('p4_202504939960_19', sim).
+indicio('p4_202504939960_19', petrechos).
+indicio('p4_202504939960_19', logistica).
+referencia('p4_202504939960_19', sent_p4, negado).
+referencia('p4_202504939960_19', tj_p4, negado).
+referencia('p4_202504939960_19', stj_p4, negado).
+referencia('p4_202504939960_19', resultado, 'desfavoravel').
 
-caso('p4_202601412926_20', p4, 'SEBASTIAO REIS').
-droga('p4_202601412926_20', haxixe).
-droga('p4_202601412926_20', sintetica).
-primario('p4_202601412926_20', sim).
-reincidente('p4_202601412926_20', nao).
-indicio('p4_202601412926_20', petrechos).
-indicio('p4_202601412926_20', celular).
-indicio('p4_202601412926_20', investigacao_previa).
-indicio('p4_202601412926_20', denuncias).
-referencia('p4_202601412926_20', sent_p4, negado).
-referencia('p4_202601412926_20', tj_p4, negado).
-referencia('p4_202601412926_20', stj_p4, negado).
-referencia('p4_202601412926_20', resultado, 'desfavoravel').
+caso('p4_202600439821_20', p4, 'SEBASTIAO REIS').
+indicio('p4_202600439821_20', petrechos).
+indicio('p4_202600439821_20', arma).
+referencia('p4_202600439821_20', tj_p4, concedido(1/6)).
+referencia('p4_202600439821_20', stj_p4, negado).
+referencia('p4_202600439821_20', resultado, 'desfavoravel').
 
-caso('p4_202601674889_21', p4, 'SEBASTIAO REIS').
-indicio('p4_202601674889_21', celular).
-indicio('p4_202601674889_21', investigacao_previa).
-referencia('p4_202601674889_21', sent_p4, negado).
-referencia('p4_202601674889_21', tj_p4, negado).
-referencia('p4_202601674889_21', stj_p4, negado).
-referencia('p4_202601674889_21', resultado, 'desfavoravel').
+caso('p4_202600815944_21', p4, 'ROGERIO SCHIETTI').
+droga('p4_202600815944_21', cocaina).
+qtd_g('p4_202600815944_21', 50.17).
+primario('p4_202600815944_21', sim).
+reincidente('p4_202600815944_21', nao).
+maus_antecedentes('p4_202600815944_21', sim).
+referencia('p4_202600815944_21', sent_p4, negado).
+referencia('p4_202600815944_21', tj_p4, negado).
+referencia('p4_202600815944_21', stj_p4, negado).
+referencia('p4_202600815944_21', resultado, 'parcial').
+
+caso('p4_202601211861_22', p4, 'SEBASTIAO REIS').
+droga('p4_202601211861_22', maconha).
+qtd_g('p4_202601211861_22', 1108.0).
+primario('p4_202601211861_22', sim).
+reincidente('p4_202601211861_22', nao).
+maus_antecedentes('p4_202601211861_22', nao).
+referencia('p4_202601211861_22', tj_p4, negado).
+referencia('p4_202601211861_22', stj_p4, concedido(1/2)).
+referencia('p4_202601211861_22', resultado, 'parcial').
+
+caso('p4_202601353207_23', p4, 'SEBASTIAO REIS').
+droga('p4_202601353207_23', cocaina).
+primario('p4_202601353207_23', sim).
+reincidente('p4_202601353207_23', nao).
+acoes_em_curso('p4_202601353207_23', sim).
+indicio('p4_202601353207_23', investigacao_previa).
+indicio('p4_202601353207_23', faccao).
+referencia('p4_202601353207_23', tj_p4, negado).
+referencia('p4_202601353207_23', stj_p4, negado).
+referencia('p4_202601353207_23', resultado, 'desfavoravel').
+
+caso('p4_202601412926_24', p4, 'SEBASTIAO REIS').
+droga('p4_202601412926_24', haxixe).
+droga('p4_202601412926_24', sintetica).
+primario('p4_202601412926_24', sim).
+reincidente('p4_202601412926_24', nao).
+indicio('p4_202601412926_24', petrechos).
+indicio('p4_202601412926_24', celular).
+indicio('p4_202601412926_24', investigacao_previa).
+indicio('p4_202601412926_24', denuncias).
+referencia('p4_202601412926_24', sent_p4, negado).
+referencia('p4_202601412926_24', tj_p4, negado).
+referencia('p4_202601412926_24', stj_p4, negado).
+referencia('p4_202601412926_24', resultado, 'desfavoravel').
+
+caso('p4_202601535035_25', p4, 'RIBEIRO DANTAS').
+droga('p4_202601535035_25', cocaina).
+qtd_g('p4_202601535035_25', 6327.6).
+primario('p4_202601535035_25', sim).
+reincidente('p4_202601535035_25', nao).
+maus_antecedentes('p4_202601535035_25', nao).
+indicio('p4_202601535035_25', celular).
+indicio('p4_202601535035_25', logistica).
+referencia('p4_202601535035_25', sent_p4, negado).
+referencia('p4_202601535035_25', tj_p4, negado).
+referencia('p4_202601535035_25', stj_p4, negado).
+referencia('p4_202601535035_25', resultado, 'parcial').
+
+caso('p4_202601547533_26', p4, 'RIBEIRO DANTAS').
+referencia('p4_202601547533_26', stj_p4, negado).
+referencia('p4_202601547533_26', resultado, 'desfavoravel').
+
+caso('p4_202601572319_27', p4, 'RIBEIRO DANTAS').
+droga('p4_202601572319_27', maconha).
+qtd_g('p4_202601572319_27', 11.2).
+primario('p4_202601572319_27', sim).
+reincidente('p4_202601572319_27', nao).
+maus_antecedentes('p4_202601572319_27', nao).
+indicio('p4_202601572319_27', celular).
+indicio('p4_202601572319_27', denuncias).
+indicio('p4_202601572319_27', local_conhecido).
+referencia('p4_202601572319_27', tj_p4, negado).
+referencia('p4_202601572319_27', stj_p4, negado).
+referencia('p4_202601572319_27', resultado, 'parcial').
+
+caso('p4_202601674889_28', p4, 'SEBASTIAO REIS').
+indicio('p4_202601674889_28', celular).
+indicio('p4_202601674889_28', investigacao_previa).
+referencia('p4_202601674889_28', sent_p4, negado).
+referencia('p4_202601674889_28', tj_p4, negado).
+referencia('p4_202601674889_28', stj_p4, negado).
+referencia('p4_202601674889_28', resultado, 'desfavoravel').
+
+caso('p4_202602194131_29', p4, 'ROGERIO SCHIETTI').
+droga('p4_202602194131_29', maconha).
+droga('p4_202602194131_29', cocaina).
+droga('p4_202602194131_29', crack).
+qtd_g('p4_202602194131_29', 286.94).
+primario('p4_202602194131_29', sim).
+reincidente('p4_202602194131_29', nao).
+maus_antecedentes('p4_202602194131_29', nao).
+indicio('p4_202602194131_29', variedade).
+referencia('p4_202602194131_29', tj_p4, negado).
+referencia('p4_202602194131_29', stj_p4, concedido(1/2)).
+referencia('p4_202602194131_29', resultado, 'favoravel').
 

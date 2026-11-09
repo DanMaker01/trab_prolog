@@ -1,0 +1,158 @@
+\documentclass[
+	% -- opções da classe memoir --
+	11pt,				% tamanho da fonte
+	oneside,			% impressão só-frente
+	a4paper,			% tamanho do papel
+	% -- opções da classe abntex2 --
+	chapter=TITLE,		% títulos de capítulos em maiúsculas
+	% -- opções do pacote babel --
+	english,			% idioma adicional para hifenização
+	brazil,				% o último idioma é o principal
+	]{abntex2}
+
+% ------------------------------------
+% PACOTES
+% ------------------------------------
+
+% Pacotes fundamentais
+\usepackage{times}			% Times New Roman
+\usepackage[T1]{fontenc}		% Seleção de códigos de fonte
+\usepackage[utf8]{inputenc}		% Codificação do documento
+\usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção
+\usepackage{xcolor}				% Controle de cores
+\usepackage{graphicx}			% Inclusão de gráficos
+\usepackage{microtype} 			% Melhorias de justificação
+\usepackage{booktabs}			% \toprule, \midrule, \bottomrule
+\usepackage{adjustbox}			% Ajuste de tabelas largas
+\usepackage{array}				% Colunas formatadas (>{\ttfamily}, etc.)
+\usepackage{tabularx}			% Colunas X
+\usepackage{enumitem}			% Controle de listas
+
+% Formato específico IFSULDEMINAS.
+% ATENÇÃO: se você NÃO tem o arquivo IFSULDEMINAS.sty no projeto,
+% comente a linha abaixo; caso contrário, a compilação falhará.
+\usepackage{IFSULDEMINAS}
+
+% Pacotes adicionais (anexo do modelo de folha de identificação)
+\usepackage{multicol}
+\usepackage{multirow}
+
+% Pacotes adicionais do Modelo Canônico do abnTeX2
+\usepackage{lipsum}
+
+% Pacotes de citações
+\usepackage[brazilian,hyperpageref]{backref}
+\usepackage[alf]{abntex2cite}
+
+% Configuração de listas
+\setlist{itemsep=2pt}
+
+% ------------------------------------
+% CONFIGURAÇÕES DE PACOTES
+% ------------------------------------
+
+% --- backref ---
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+\renewcommand{\backref}{}
+\renewcommand*{\backrefalt}[4]{%
+	\ifcase #1 %
+		Nenhuma citação no texto.%
+	\or
+		Citado na página #2.%
+	\else
+		Citado #1 vezes nas páginas #2.%
+	\fi}%
+
+% --- Comando \todo ---
+\newcommand{\todo}[1]{\textcolor{red}{[\textbf{A FAZER:} #1]}}
+
+% --- Comando \ficha ---
+\newcommand{\ficha}[4]{%
+\begin{center}\small
+\begin{tabularx}{\textwidth}{>{\bfseries}p{3.2cm}X}
+\toprule
+Tabela & #1 \\
+Cada linha é & #2 \\
+Quantas linhas & #3 \\
+De onde vem & #4 \\
+\bottomrule
+\end{tabularx}
+\end{center}}
+
+% ------------------------------------
+% DADOS DO DOCUMENTO
+% ------------------------------------
+
+\titulo{Tema do artigo\\}
+\autor{Eric Rodrigues das Chagas - 12623971\\ Danillo Mendes Santiago - 10414592}
+\local{São Carlos}
+\data{2026}
+
+% ------------------------------------
+% APARÊNCIA DO PDF
+% ------------------------------------
+
+\definecolor{blue}{RGB}{41,5,195}
+
+\makeatletter
+\hypersetup{
+		pdftitle={\@title},
+		pdfauthor={\@author},
+		pdfsubject={},
+		pdfcreator={LaTeX with abnTeX2},
+		pdfkeywords={abnt}{latex}{abntex}{abntex2}{relatório técnico},
+		colorlinks=true,
+		linkcolor=black,
+		citecolor=blue,
+		filecolor=magenta,
+		urlcolor=blue,
+		bookmarksdepth=4
+}
+\makeatother
+
+% ------------------------------------
+% ESPAÇAMENTOS
+% ------------------------------------
+
+\setlength{\parindent}{1.4cm}
+\setlength{\parskip}{0.3cm}
+
+\makeindex
+
+% ====================================
+% INÍCIO DO DOCUMENTO
+% ====================================
+\begin{document}
+
+\selectlanguage{brazil}
+\frenchspacing
+
+% ------------------------------------
+% ELEMENTOS PRÉ-TEXTUAIS
+% ------------------------------------
+\imprimircapa
+
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+
+% ------------------------------------
+% ELEMENTOS TEXTUAIS
+% ------------------------------------
+\textual
+
+\input{textos/Capitulo 01.tex}
+\input{textos/Capitulo 02.tex}
+
+% ------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ------------------------------------
+\postextual
+
+\end{document}
+% ------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ------------------------------------
+\postextual
+
+\end{document}

@@ -1,0 +1,15 @@
+{"casos":[{
+"processo":"HC 1090839","relator":"Ribeiro Dantas","uf":"SP","reu":"Wendrykis Fernando do Amaral Rocha","sexo":"M","data_fato":"",
+"drogas":"cocaina","qtd_g_total":6327.6,"qtd_por_droga":"cocaina (pasta-base) 6327.6","porcoes":"","petrechos":"","dinheiro":"","arma":"",
+"primario":"sim","reincidente":"nao","maus_antecedentes":"nao","antecedentes_desc":"TJ: primario e sem antecedentes desabonadores",
+"atos_infracionais":"","ultimo_ato_infracional_ano":"","acoes_penais_em_curso":"","associacao_art35":"",
+"outros_indicios_dedicacao":"veiculo com insulfilm escuro (modus operandi); fuga de 35 km a ate 180 km/h na contramao; relato policial de que retirou a droga em Osasco para entregar a caminhoneiro no km 40 da Rod. Ayrton Senna; ausencia de celular (protocolo de seguranca de organizacao)",
+"majorante_art40":"nao",
+"sent_p4":"nao","tj_p4":"nao",
+"tj_fundamentos_negar":"quantidade;natureza;outro:modus operandi (insulfilm, fuga);outro:relato policial de logistica/estrutura organizada;outro:ausencia de celular",
+"stj_mono_p4":"nao_conheceu","stj_final_p4":"negado","stj_obice":"HC substitutivo","stj_analisou_merito":"sim",
+"stj_precedentes":"REsp 1.887.511;HC 725.534;Tema 1139;EDcl nos EREsp 1.916.596;AgRg no HC 1.020.268",
+"stj_fundamento":"Quantidade expressiva somada ao modus operandi e aos relatos policiais sobre logistica indicam dedicacao habitual e atuacao com grupo organizado, sem bis in idem.",
+"quem_recorreu_ultimo":"defesa","resultado_final_reu":"parcial","pena_final_m":90,"regime_final":"fechado","votacao":"unanime",
+"obs":"Peso divergente no texto: 6.300 g (pena-base) e 6.327,6 g (ementa e trecho do TJ sobre o §4º). A Turma reduziu a pena-base de 10 anos para 7a6m, mas manteve o afastamento do §4º e o regime fechado."
+}]}

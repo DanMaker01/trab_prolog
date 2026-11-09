@@ -1,48 +1,48 @@
 {
  "E1": {
-  "n": 63,
-  "discordam": 50,
-  "amplitude_pena_media_meses": 26.1,
+  "n": 71,
+  "discordam": 55,
+  "amplitude_pena_media_meses": 25.4,
   "amplitude_pena_max_meses": 46.7,
   "concede": {
-   "garantista|pro_reo": 57,
-   "garantista|onus_defesa": 13,
-   "intermediario|pro_reo": 26,
-   "intermediario|onus_defesa": 4,
-   "restritivo|pro_reo": 7,
+   "garantista|pro_reo": 63,
+   "garantista|onus_defesa": 16,
+   "intermediario|pro_reo": 30,
+   "intermediario|onus_defesa": 6,
+   "restritivo|pro_reo": 8,
    "restritivo|onus_defesa": 0
   },
-  "onus_so_por_faltante": 44,
+  "onus_so_por_faltante": 47,
   "ablacao": [
    {
     "variante": "indicios_restritos",
     "origem": "garantista",
     "parametro": "indicios_aceitos",
-    "mudam_decisao": 24,
+    "mudam_decisao": 25,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 50,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 55,
+    "n": 71
    },
    {
     "variante": "minimo_1_indicador",
     "origem": "restritivo",
     "parametro": "minimo_indicadores",
-    "mudam_decisao": 13,
+    "mudam_decisao": 14,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 13,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 16,
+    "n": 71
    },
    {
     "variante": "indicios_amplos",
     "origem": "restritivo",
     "parametro": "indicios_aceitos",
-    "mudam_decisao": 10,
+    "mudam_decisao": 11,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 16,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 19,
+    "n": 71
    },
    {
     "variante": "quantidade_nao_indica",
@@ -50,9 +50,9 @@
     "parametro": "quantidade_indica_dedicacao",
     "mudam_decisao": 9,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 35,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 39,
+    "n": 71
    },
    {
     "variante": "limites_menores",
@@ -60,9 +60,9 @@
     "parametro": "limite_qtd",
     "mudam_decisao": 3,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 23,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 27,
+    "n": 71
    },
    {
     "variante": "quantidade_isolada_basta",
@@ -70,9 +70,9 @@
     "parametro": "quantidade_isolada_basta",
     "mudam_decisao": 2,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 24,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 28,
+    "n": 71
    },
    {
     "variante": "esquecimento_5_anos",
@@ -80,9 +80,9 @@
     "parametro": "esquecimento_anos",
     "mudam_decisao": 2,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 28,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 32,
+    "n": 71
    },
    {
     "variante": "janela_atos_5_anos",
@@ -90,9 +90,9 @@
     "parametro": "janela_ato_infracional",
     "mudam_decisao": 1,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 25,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 29,
+    "n": 71
    },
    {
     "variante": "ato_sem_data_conta",
@@ -100,9 +100,9 @@
     "parametro": "ato_sem_data_conta",
     "mudam_decisao": 1,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 25,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 29,
+    "n": 71
    },
    {
     "variante": "acoes_em_curso_contam",
@@ -110,19 +110,19 @@
     "parametro": "acoes_em_curso_contam",
     "mudam_decisao": 1,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 25,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 29,
+    "n": 71
    },
    {
     "variante": "fracao_restritiva",
     "origem": "restritivo",
     "parametro": "fracao_por_qtd",
     "mudam_decisao": 0,
-    "mudam_fracao": 10,
-    "concede_base": 26,
-    "concede_variante": 26,
-    "n": 63
+    "mudam_fracao": 13,
+    "concede_base": 30,
+    "concede_variante": 30,
+    "n": 71
    },
    {
     "variante": "fracao_garantista",
@@ -130,9 +130,9 @@
     "parametro": "fracao_por_qtd",
     "mudam_decisao": 0,
     "mudam_fracao": 3,
-    "concede_base": 26,
-    "concede_variante": 26,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 30,
+    "n": 71
    },
    {
     "variante": "atos_nao_contam",
@@ -140,9 +140,9 @@
     "parametro": "janela_ato_infracional",
     "mudam_decisao": 0,
     "mudam_fracao": 0,
-    "concede_base": 26,
-    "concede_variante": 26,
-    "n": 63
+    "concede_base": 30,
+    "concede_variante": 30,
+    "n": 71
    }
   ]
  },
@@ -196,146 +196,157 @@
   "metricas": {
    "com_relator": {
     "validacao_cruzada_5": {
-     "acuracia_balanceada": 0.779,
-     "recall_vitorias": 0.675,
-     "precisao_vitorias": 0.136,
-     "vp": 27,
-     "fp": 171,
-     "fn": 13,
-     "vn": 1283
+     "acuracia_balanceada": 0.748,
+     "recall_vitorias": 0.649,
+     "precisao_vitorias": 0.207,
+     "vp": 200,
+     "fp": 765,
+     "fn": 108,
+     "vn": 4250
+    },
+    "variaveis_usadas": [
+     "classe=AREsp",
+     "classe=HC",
+     "classe=REsp",
+     "marcador=fuga_mudanca_direcao",
+     "objeto=autoria",
+     "objeto=nulidade_busca",
+     "objeto=outro",
+     "relator=CARLOS PIRES",
+     "relator=DANIELA TEIXEIRA",
+     "relator=SEBASTIAO REIS",
+     "turma=QUINTA TURMA",
+     "turma=SEXTA TURMA"
+    ],
+    "importancia": {
+     "relator=DANIELA TEIXEIRA": 0.526,
+     "classe=REsp": 0.272,
+     "turma=QUINTA TURMA": 0.076,
+     "turma=SEXTA TURMA": 0.029,
+     "relator=SEBASTIAO REIS": 0.022,
+     "relator=CARLOS PIRES": 0.02,
+     "objeto=nulidade_busca": 0.016,
+     "objeto=autoria": 0.012,
+     "objeto=outro": 0.01,
+     "classe=HC": 0.01,
+     "classe=AREsp": 0.003,
+     "marcador=fuga_mudanca_direcao": 0.003
+    },
+    "raiz": "relator=DANIELA TEIXEIRA"
+   },
+   "sem_relator": {
+    "validacao_cruzada_5": {
+     "acuracia_balanceada": 0.67,
+     "recall_vitorias": 0.708,
+     "precisao_vitorias": 0.106,
+     "vp": 218,
+     "fp": 1840,
+     "fn": 90,
+     "vn": 3175
     },
     "variaveis_usadas": [
      "classe=HC",
      "classe=REsp",
-     "objeto=nulidade_busca",
-     "objeto=p4",
-     "relator=MARIA MARLUCE",
-     "relator=MESSOD AZULAY",
-     "relator=OG FERNANDES",
-     "relator=SEBASTIAO REIS"
-    ],
-    "importancia": {
-     "classe=REsp": 0.458,
-     "relator=OG FERNANDES": 0.157,
-     "relator=SEBASTIAO REIS": 0.141,
-     "objeto=p4": 0.098,
-     "objeto=nulidade_busca": 0.076,
-     "relator=MESSOD AZULAY": 0.042,
-     "relator=MARIA MARLUCE": 0.027,
-     "classe=HC": 0.001
-    },
-    "raiz": "classe=REsp"
-   },
-   "sem_relator": {
-    "validacao_cruzada_5": {
-     "acuracia_balanceada": 0.749,
-     "recall_vitorias": 0.65,
-     "precisao_vitorias": 0.105,
-     "vp": 26,
-     "fp": 222,
-     "fn": 14,
-     "vn": 1232
-    },
-    "variaveis_usadas": [
-     "classe=AREsp",
-     "classe=REsp",
+     "classe=RHC",
      "marcador=denuncia_anonima",
+     "marcador=faccao",
      "marcador=fuga_mudanca_direcao",
      "marcador=local_conhecido",
-     "objeto=dosimetria",
+     "objeto=autoria",
      "objeto=outro"
     ],
     "importancia": {
-     "classe=REsp": 0.652,
-     "objeto=outro": 0.119,
-     "marcador=local_conhecido": 0.086,
-     "marcador=denuncia_anonima": 0.08,
-     "marcador=fuga_mudanca_direcao": 0.052,
-     "classe=AREsp": 0.006,
-     "objeto=dosimetria": 0.004
+     "classe=REsp": 0.635,
+     "classe=HC": 0.101,
+     "objeto=outro": 0.096,
+     "objeto=autoria": 0.061,
+     "marcador=fuga_mudanca_direcao": 0.051,
+     "marcador=denuncia_anonima": 0.037,
+     "marcador=local_conhecido": 0.014,
+     "classe=RHC": 0.003,
+     "marcador=faccao": 0.002
     },
     "raiz": "classe=REsp",
     "deixa_um_relator_fora": {
-     "acuracia_balanceada": 0.676,
-     "recall_vitorias": 0.55,
-     "precisao_vitorias": 0.071,
-     "vp": 22,
-     "fp": 287,
-     "fn": 18,
-     "vn": 1167
+     "acuracia_balanceada": 0.591,
+     "recall_vitorias": 0.516,
+     "precisao_vitorias": 0.087,
+     "vp": 159,
+     "fp": 1674,
+     "fn": 149,
+     "vn": 3341
     }
    }
   },
-  "n": 1494,
-  "vitorias": 40,
-  "contrafactual_mudam": 292,
+  "n": 5323,
+  "vitorias": 308,
+  "contrafactual_mudam": 2892,
   "contrafactual_por_turma": {
-   "QUINTA TURMA": 88,
-   "SEXTA TURMA": 204
+   "QUINTA TURMA": 2892
   },
   "regras": [
-   "## com_relator\n|--- classe=REsp <= 0.50\n|   |--- relator=OG FERNANDES <= 0.50\n|   |   |--- objeto=p4 <= 0.50\n|   |   |   |--- relator=SEBASTIAO REIS <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- relator=SEBASTIAO REIS >  0.50\n|   |   |   |   |--- class: 0\n|   |   |--- objeto=p4 >  0.50\n|   |   |   |--- relator=MESSOD AZULAY <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- relator=MESSOD AZULAY >  0.50\n|   |   |   |   |--- class: 0\n|   |--- relator=OG FERNANDES >  0.50\n|   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |--- objeto=p4 <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- objeto=p4 >  0.50\n|   |   |   |   |--- class: 0\n|   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |--- classe=HC <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- classe=HC >  0.50\n|   |   |   |   |--- class: 1\n|--- classe=REsp >  0.50\n|   |--- relator=SEBASTIAO REIS <= 0.50\n|   |   |--- relator=MARIA MARLUCE <= 0.50\n|   |   |   |--- relator=OG FERNANDES <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- relator=OG FERNANDES >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- relator=MARIA MARLUCE >  0.50\n|   |   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |   |--- class: 1\n|   |--- relator=SEBASTIAO REIS >  0.50\n|   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |--- objeto=p4 <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=p4 >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |--- class: 1\n",
-   "## sem_relator\n|--- classe=REsp <= 0.50\n|   |--- objeto=outro <= 0.50\n|   |   |--- marcador=denuncia_anonima <= 0.50\n|   |   |   |--- marcador=local_conhecido <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- marcador=local_conhecido >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- marcador=denuncia_anonima >  0.50\n|   |   |   |--- classe=AREsp <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- classe=AREsp >  0.50\n|   |   |   |   |--- class: 1\n|   |--- objeto=outro >  0.50\n|   |   |--- class: 0\n|--- classe=REsp >  0.50\n|   |--- marcador=fuga_mudanca_direcao <= 0.50\n|   |   |--- objeto=dosimetria <= 0.50\n|   |   |   |--- objeto=outro <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=outro >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- objeto=dosimetria >  0.50\n|   |   |   |--- class: 1\n|   |--- marcador=fuga_mudanca_direcao >  0.50\n|   |   |--- class: 0\n"
+   "## com_relator\n|--- relator=DANIELA TEIXEIRA <= 0.50\n|   |--- classe=REsp <= 0.50\n|   |   |--- turma=SEXTA TURMA <= 0.50\n|   |   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |   |--- class: 0\n|   |   |--- turma=SEXTA TURMA >  0.50\n|   |   |   |--- relator=CARLOS PIRES <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- relator=CARLOS PIRES >  0.50\n|   |   |   |   |--- class: 0\n|   |--- classe=REsp >  0.50\n|   |   |--- turma=QUINTA TURMA <= 0.50\n|   |   |   |--- relator=SEBASTIAO REIS <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- relator=SEBASTIAO REIS >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- turma=QUINTA TURMA >  0.50\n|   |   |   |--- objeto=autoria <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- objeto=autoria >  0.50\n|   |   |   |   |--- class: 1\n|--- relator=DANIELA TEIXEIRA >  0.50\n|   |--- classe=REsp <= 0.50\n|   |   |--- objeto=outro <= 0.50\n|   |   |   |--- classe=AREsp <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- classe=AREsp >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- objeto=outro >  0.50\n|   |   |   |--- classe=HC <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- classe=HC >  0.50\n|   |   |   |   |--- class: 0\n|   |--- classe=REsp >  0.50\n|   |   |--- marcador=fuga_mudanca_direcao <= 0.50\n|   |   |   |--- objeto=nulidade_busca <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=nulidade_busca >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- marcador=fuga_mudanca_direcao >  0.50\n|   |   |   |--- class: 1\n",
+   "## sem_relator\n|--- classe=REsp <= 0.50\n|   |--- classe=HC <= 0.50\n|   |   |--- objeto=outro <= 0.50\n|   |   |   |--- objeto=autoria <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- objeto=autoria >  0.50\n|   |   |   |   |--- class: 0\n|   |   |--- objeto=outro >  0.50\n|   |   |   |--- classe=RHC <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- classe=RHC >  0.50\n|   |   |   |   |--- class: 0\n|   |--- classe=HC >  0.50\n|   |   |--- marcador=fuga_mudanca_direcao <= 0.50\n|   |   |   |--- objeto=outro <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- objeto=outro >  0.50\n|   |   |   |   |--- class: 0\n|   |   |--- marcador=fuga_mudanca_direcao >  0.50\n|   |   |   |--- marcador=denuncia_anonima <= 0.50\n|   |   |   |   |--- class: 0\n|   |   |   |--- marcador=denuncia_anonima >  0.50\n|   |   |   |   |--- class: 1\n|--- classe=REsp >  0.50\n|   |--- marcador=fuga_mudanca_direcao <= 0.50\n|   |   |--- objeto=outro <= 0.50\n|   |   |   |--- marcador=faccao <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- marcador=faccao >  0.50\n|   |   |   |   |--- class: 1\n|   |   |--- objeto=outro >  0.50\n|   |   |   |--- class: 1\n|   |--- marcador=fuga_mudanca_direcao >  0.50\n|   |   |--- marcador=denuncia_anonima <= 0.50\n|   |   |   |--- marcador=local_conhecido <= 0.50\n|   |   |   |   |--- class: 1\n|   |   |   |--- marcador=local_conhecido >  0.50\n|   |   |   |   |--- class: 0\n|   |   |--- marcador=denuncia_anonima >  0.50\n|   |   |   |--- class: 0\n"
   ]
  },
  "E4": {
   "concordancia": {
    "garantista|pro_reo|tj_p4": [
-    17,
-    61
+    19,
+    68
    ],
    "garantista|pro_reo|stj_p4": [
-    16,
-    52
+    19,
+    60
    ],
    "intermediario|pro_reo|tj_p4": [
-    36,
-    61
+    40,
+    68
    ],
    "intermediario|pro_reo|stj_p4": [
-    34,
-    52
+    39,
+    60
    ],
    "restritivo|pro_reo|tj_p4": [
-    50,
-    61
+    57,
+    68
    ],
    "restritivo|pro_reo|stj_p4": [
-    41,
-    52
+    47,
+    60
    ],
    "garantista|onus_defesa|tj_p4": [
-    41,
-    61
+    45,
+    68
    ],
    "garantista|onus_defesa|stj_p4": [
-    38,
-    52
+    44,
+    60
    ],
    "intermediario|onus_defesa|tj_p4": [
-    46,
-    61
+    51,
+    68
    ],
    "intermediario|onus_defesa|stj_p4": [
-    43,
-    52
+    50,
+    60
    ],
    "restritivo|onus_defesa|tj_p4": [
-    50,
-    61
+    57,
+    68
    ],
    "restritivo|onus_defesa|stj_p4": [
-    42,
-    52
+    49,
+    60
    ]
   },
   "stj_concede": [
-   10,
-   52
+   11,
+   60
   ],
   "tj_concede": [
    11,
-   61
+   68
   ]
  }
 }

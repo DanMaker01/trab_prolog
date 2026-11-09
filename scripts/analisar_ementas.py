@@ -1,8 +1,7 @@
 """Classifica, só pelo texto do JSON (ementa + dispositivo), todos os acórdãos de tráfico de uma ou mais turmas.
 
-Uso (na raiz do projeto):
-  python scripts/analisar_ementas.py fontes/json/*.json --saida dados/ementas_t5.csv
-  python scripts/analisar_ementas.py fontes/json/sexta_turma/*.json --saida dados/ementas_t6.csv
+Uso (na raiz do projeto): normalmente via scripts/montar_base.py, que escolhe os meses.
+  Avulso: python scripts/analisar_ementas.py fontes/json/2026*.json --saida saida.csv
 
 Para cada processo (o acórdão mais recente, sem EDcl e sem cautelar/execução/pré-condenação), gera:
   objeto            assunto principal (mesma regra de sortear_amostra.py)
@@ -91,14 +90,15 @@ def resultado(rec, disp):
     # recurso do MP: perder o recurso é bom para o réu
     return "desfavoravel" if disp == "provido" else "parcial" if disp == "parcial" else "favoravel"
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("jsons", nargs="+")
-    ap.add_argument("--saida", required=True)
-    a = ap.parse_args()
+def classificar(arquivos, turmas=("QUINTA TURMA", "SEXTA TURMA")):
+    """Classifica os acórdãos de tráfico dos arquivos JSON. Devolve uma linha por processo
+    (a decisão mais recente). A coluna mes_publicacao vem do nome do arquivo (AAAAMMDD.json)."""
     por_proc = {}
-    for f in a.jsons:
+    for f in arquivos:
+        mes = os.path.basename(f)[:6]
         for x in json.load(open(f, encoding="utf-8")):
+            if x.get("nomeOrgaoJulgador") not in turmas:
+                continue
             classe = x.get("siglaClasse") or ""
             if classe.startswith("EDcl"):
                 continue
@@ -118,6 +118,7 @@ def main():
                 "turma": x.get("nomeOrgaoJulgador", ""),
                 "relator": relator_norm(x.get("ministroRelator", "")),
                 "data_decisao": x.get("dataDecisao", ""),
+                "mes_publicacao": mes,
                 "objeto": obj,
                 "recorrente": rec,
                 "dispositivo": disp,
@@ -130,17 +131,24 @@ def main():
             num = x["numeroProcesso"]
             if num not in por_proc or reg["data_decisao"] > por_proc[num]["data_decisao"]:
                 por_proc[num] = reg
-    linhas = sorted(por_proc.values(), key=lambda r: (r["relator"], r["processo"]))
-    os.makedirs(os.path.dirname(a.saida) or ".", exist_ok=True)
-    with open(a.saida, "w", newline="", encoding="utf-8") as f:
+    return sorted(por_proc.values(), key=lambda r: (r["relator"], r["processo"]))
+
+def gravar(linhas, saida):
+    os.makedirs(os.path.dirname(saida) or ".", exist_ok=True)
+    with open(saida, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=list(linhas[0].keys()))
         w.writeheader(); w.writerows(linhas)
-    n = len(linhas)
-    print(f"{n} processos -> {a.saida}")
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("jsons", nargs="+")
+    ap.add_argument("--saida", required=True)
+    a = ap.parse_args()
+    linhas = classificar(a.jsons)
+    gravar(linhas, a.saida)
+    print(f"{len(linhas)} processos -> {a.saida}")
     for campo in ("resultado_reu", "recorrente", "dispositivo", "objeto", "votacao"):
         print(f"  {campo}:", dict(Counter(r[campo] for r in linhas).most_common()))
-    print("  barreiras:", dict(Counter(b for r in linhas for b in r["barreiras"].split()).most_common()))
-    print("  marcadores:", dict(Counter(m for r in linhas for m in r["marcadores"].split()).most_common()))
 
 if __name__ == "__main__":
     main()

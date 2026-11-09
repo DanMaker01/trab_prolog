@@ -41,24 +41,32 @@ contraste_c12_11,contraste,"Joel Ilan Paciornik",concede 1/3,concede 1/6,nega,"[
 contraste_c13_12,contraste,"Joel Ilan Paciornik",concede 1/2,nega,nega,"[nao_dedica]",concedido(1/6),,favoravel
 contraste_c14_13,contraste,"Maria Marluce Caldas",concede 2/3,concede 2/3,concede 1/2,"[]",negado,negado,desfavoravel
 p4_202400047349_0,p4,"SEBASTIAO REIS",concede 1/3,nega,nega,"[nao_dedica]",negado,negado,parcial
-p4_202402568600_1,p4,"SEBASTIAO REIS",concede 2/3,concede 2/3,concede 1/2,"[]",concedido(1/6),concedido(2/3),parcial
-p4_202402816428_2,p4,"SEBASTIAO REIS",nega,nega,nega,"[primario,bons_antecedentes,nao_dedica]",negado,negado,parcial
-p4_202402816428_3,p4,"SEBASTIAO REIS",concede 1/2,nega,nega,"[nao_dedica]",concedido(1/3),,parcial
-p4_202403049693_4,p4,"SEBASTIAO REIS",nega,nega,nega,"[nao_dedica,nao_integra_orcrim]",negado,negado,parcial
-p4_202403049693_5,p4,"SEBASTIAO REIS",nega,nega,nega,"[nao_dedica,nao_integra_orcrim]",negado,negado,desfavoravel
-p4_202404276133_6,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,parcial
-p4_202404432728_7,p4,"SEBASTIAO REIS",concede 1/2,nega,nega,"[nao_dedica]",negado,negado,parcial
+p4_202401923773_1,p4,"MARIA MARLUCE",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,parcial
+p4_202402568600_2,p4,"SEBASTIAO REIS",concede 2/3,concede 2/3,concede 1/2,"[]",concedido(1/6),concedido(2/3),parcial
+p4_202402816428_3,p4,"SEBASTIAO REIS",nega,nega,nega,"[primario,bons_antecedentes,nao_dedica]",negado,negado,parcial
+p4_202402816428_4,p4,"SEBASTIAO REIS",concede 1/2,nega,nega,"[nao_dedica]",concedido(1/3),,parcial
+p4_202403049693_5,p4,"SEBASTIAO REIS",nega,nega,nega,"[nao_dedica,nao_integra_orcrim]",negado,negado,parcial
+p4_202403049693_6,p4,"SEBASTIAO REIS",nega,nega,nega,"[nao_dedica,nao_integra_orcrim]",negado,negado,desfavoravel
+p4_202404276133_7,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,parcial
 p4_202404432728_8,p4,"SEBASTIAO REIS",concede 1/2,nega,nega,"[nao_dedica]",negado,negado,parcial
-p4_202501700751_9,p4,"SEBASTIAO REIS",nega,nega,nega,"[bons_antecedentes]",negado,negado,desfavoravel
-p4_202501891953_10,p4,"SEBASTIAO REIS",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
-p4_202502468442_11,p4,"SEBASTIAO REIS",concede 1/3,nega,nega,"[nao_dedica]",concedido(1/6),concedido(1/6),desfavoravel
-p4_202502487449_12,p4,"SEBASTIAO REIS",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
-p4_202503172686_13,p4,"SEBASTIAO REIS",concede 2/3,concede 2/3,nega,"[nao_dedica]",concedido(1/2),concedido(2/3),parcial
-p4_202504574280_14,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,parcial
-p4_202504610772_15,p4,"SEBASTIAO REIS",concede 1/2,concede 1/2,nega,"[nao_dedica]",concedido(1/6),negado,desfavoravel
-p4_202504939960_16,p4,"SEBASTIAO REIS",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
-p4_202600439821_17,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",concedido(1/6),negado,desfavoravel
-p4_202601211861_18,p4,"SEBASTIAO REIS",concede 1/3,concede 1/6,nega,"[nao_dedica]",negado,concedido(1/2),parcial
-p4_202601353207_19,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
-p4_202601412926_20,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
-p4_202601674889_21,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202404432728_9,p4,"SEBASTIAO REIS",concede 1/2,nega,nega,"[nao_dedica]",negado,negado,parcial
+p4_202501700751_10,p4,"SEBASTIAO REIS",nega,nega,nega,"[bons_antecedentes]",negado,negado,desfavoravel
+p4_202501891953_11,p4,"SEBASTIAO REIS",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202502390543_12,p4,"MARIA MARLUCE",nega,nega,nega,"[primario,nao_dedica]",negado,negado,parcial
+p4_202502468442_13,p4,"SEBASTIAO REIS",concede 1/3,nega,nega,"[nao_dedica]",concedido(1/6),concedido(1/6),desfavoravel
+p4_202502487449_14,p4,"SEBASTIAO REIS",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202503172686_15,p4,"SEBASTIAO REIS",concede 2/3,concede 2/3,nega,"[nao_dedica]",concedido(1/2),concedido(2/3),parcial
+p4_202503387283_16,p4,"MARIA MARLUCE",concede 1/2,concede 1/2,nega,"[nao_dedica]",negado,negado,parcial
+p4_202504574280_17,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,parcial
+p4_202504610772_18,p4,"SEBASTIAO REIS",concede 1/2,concede 1/2,nega,"[nao_dedica]",concedido(1/6),negado,desfavoravel
+p4_202504939960_19,p4,"SEBASTIAO REIS",concede 1/6,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202600439821_20,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",concedido(1/6),negado,desfavoravel
+p4_202600815944_21,p4,"ROGERIO SCHIETTI",nega,nega,nega,"[bons_antecedentes]",negado,negado,parcial
+p4_202601211861_22,p4,"SEBASTIAO REIS",concede 1/3,concede 1/6,nega,"[nao_dedica]",negado,concedido(1/2),parcial
+p4_202601353207_23,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202601412926_24,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202601535035_25,p4,"RIBEIRO DANTAS",concede 1/3,nega,nega,"[nao_dedica]",negado,negado,parcial
+p4_202601547533_26,p4,"RIBEIRO DANTAS",concede 2/3,concede 2/3,concede 1/6,"[]",,negado,desfavoravel
+p4_202601572319_27,p4,"RIBEIRO DANTAS",concede 2/3,concede 2/3,nega,"[nao_dedica]",negado,negado,parcial
+p4_202601674889_28,p4,"SEBASTIAO REIS",concede 2/3,nega,nega,"[nao_dedica]",negado,negado,desfavoravel
+p4_202602194131_29,p4,"ROGERIO SCHIETTI",concede 1/2,concede 1/2,nega,"[nao_dedica]",negado,concedido(1/2),favoravel

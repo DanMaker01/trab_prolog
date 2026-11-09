@@ -268,3 +268,23 @@ Saídas em `resultados/` (CSVs, `experimentos.json` e as tabelas `tab_*.tex`, in
 - **E4 (juiz virtual x tribunais):** a leitura restritiva é a que mais coincide com o STJ (41/52), mas o STJ
   negou em 42/52: concordar com ele é, sobretudo, negar.
 - `tex/trabalho.tex` reescrito em linguagem comum, com "fichas" de cada tabela (o que é a linha, quantas, colunas).
+
+## 11. Base ampliada: 2025 inteiro + 8 vitórias do § 4º (09/11)
+
+- **JSONs:** entraram janeiro–outubro/2025 das duas turmas (em `fontes/json/` e `fontes/json/sexta_turma/`).
+  Novembro/2025 a maio/2026 ficam FORA: volume de 8% a 30% do normal e vitória da defesa de 12% a 75%
+  (seleção, não o conjunto). Jan–fev/2026 eram da 1ª Turma. Regra e contagem: `scripts/montar_base.py` e `dados/meses.csv`.
+- **Base:** 5.778 processos (13 meses), 5.323 recursos da defesa, 308 vitórias (5,8%).
+- **O que muda:** a "diferença entre turmas" não é fixa. 5ª Turma: 8,2% em 2025 e 0,8% em 2026; 6ª: 5,3% e 5,0%.
+  Em 2025, Daniela Teixeira (5ª) deu vitória em 150 de 681 (22%), contra 34 de 1.566 (2,2%) dos colegas
+  no mesmo período; 145 dessas 150 foram por unanimidade. Ela sai em 2026 e a taxa da turma cai dez vezes.
+  A árvore B (com relator) agora começa por "a relatora é Daniela Teixeira?".
+- **Base do § 4º:** + 8 processos (Maria Marluce, Ribeiro Dantas, Schietti) → 30 réus, 27 processos, 4 relatores.
+  Das 21 "vitórias" pela ementa, só 4 tiveram a redução concedida/aumentada no STJ; o resto foi vitória
+  em outro ponto (pena-base, regime) ou desfeita depois.
+- **Código:** `analisar_ementas.py` ganhou `classificar()` e a coluna `mes_publicacao`; novo `montar_base.py`.
+  Validação: 32/33, 29/30, 23/27.
+- **Testes:** `python scripts/testes_dados.py` (classificação e base), `prolog/testes_casos_reais.pl`
+  (E2 e exemplos com réus reais), além de `testes_arvore_a.pl` e `testes_arvore_b.pl`.
+- **Ordem para refazer tudo:** `montar_base.py` → `gerar_fatos.py` → `arvore_b.py` → `swipl -g main -t halt prolog/experimentos.pl`
+  → `swipl -g main -t halt prolog/experimento_a.pl` → `experimentos.py` → `contagens.py` → testes.
